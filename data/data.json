@@ -1,0 +1,39 @@
+{
+  "generated_at": "2026-08-12T12:00:00+00:00",
+  "item_count": 3,
+  "items": [
+    {
+      "id": "sample001",
+      "title": "Sample: Federal Court Strikes Down NFA Registration Requirements",
+      "link": "https://www.nraila.org/",
+      "published": "2026-08-05T18:22:39+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "This is placeholder sample data. Once the GitHub Action runs for the first time, real items will replace this."
+    },
+    {
+      "id": "sample002",
+      "title": "Sample: New Federal Bill Introduced on Suppressor Regulation",
+      "link": "https://www.congress.gov/",
+      "published": "2026-08-10T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "This is placeholder sample data. Once the GitHub Action runs for the first time, real items will replace this."
+    },
+    {
+      "id": "sample003",
+      "title": "Sample: Weekly 2A News Roundup",
+      "link": "https://www.youtube.com/@GunsGadgets",
+      "published": "2026-08-11T00:00:00+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "This is placeholder sample data. Once the GitHub Action runs for the first time, real items will replace this."
+    }
+  ]
+}

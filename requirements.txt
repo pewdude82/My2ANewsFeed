@@ -1,0 +1,6 @@
+# No external dependencies right now — aggregate.py only uses Python's
+# standard library (urllib, xml.etree, json, hashlib) so it runs on a
+# bare python:3.12 image with no pip install step needed.
+#
+# If you add a source that needs a library later, list it here, e.g.:
+# feedparser==6.0.11

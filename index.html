@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>2A Briefing — Second Amendment News, Court Cases &amp; Legislation</title>
+<meta name="description" content="A daily briefing on Second Amendment news, federal court cases, and gun legislation.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="ruler" aria-hidden="true"></div>
+
+<header class="masthead">
+  <div class="masthead-inner">
+    <p class="eyebrow">FIELD BRIEFING · SECOND AMENDMENT TRACKER</p>
+    <h1>2A BRIEFING</h1>
+    <p class="subhead">Court filings, bills, and reporting on gun rights — aggregated, plain language, straight to the point.</p>
+    <p class="updated" id="updated-line">Loading briefing…</p>
+  </div>
+</header>
+
+<main>
+  <div class="controls">
+    <div class="filter-row" id="filter-row" role="tablist" aria-label="Filter by category">
+      <!-- populated by JS -->
+    </div>
+    <div class="search-row">
+      <input type="search" id="search-input" placeholder="Search the briefing…" aria-label="Search items">
+    </div>
+  </div>
+
+  <section id="feed" class="feed" aria-live="polite">
+    <p class="loading-msg" id="loading-msg">Pulling the latest reports…</p>
+  </section>
+
+  <p class="empty-msg" id="empty-msg" hidden>No items match that filter. Try clearing the search or picking another category.</p>
+</main>
+
+<footer class="site-footer">
+  <p>Sources: org press releases, primary court filings via CourtListener, federal bill tracking via Congress.gov, and creator channels. Each item links back to its original source — always verify anything important there.</p>
+  <p class="footer-meta">Auto-refreshed on a schedule via GitHub Actions.</p>
+</footer>
+
+<template id="card-template">
+  <article class="card">
+    <div class="card-stripe" data-stripe></div>
+    <div class="card-body">
+      <div class="card-eyebrow">
+        <span class="tag" data-tag></span>
+        <span class="source" data-source></span>
+        <span class="dot">·</span>
+        <span class="date" data-date></span>
+      </div>
+      <h2 class="card-title" data-title></h2>
+      <details class="card-details">
+        <summary>Read summary</summary>
+        <p class="card-tldr" data-tldr></p>
+        <a class="card-link" data-link target="_blank" rel="noopener noreferrer">View original source →</a>
+      </details>
+      <p class="ref" data-ref></p>
+    </div>
+  </article>
+</template>
+
+<script src="app.js"></script>
+</body>
+</html>
