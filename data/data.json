@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-08-14T12:34:48.600651+00:00",
+  "generated_at": "2026-08-14T16:37:55.106897+00:00",
   "item_count": 96,
   "items": [
+    {
+      "id": "e080e09b5a79693e",
+      "title": "DOJ Just Made a MASSIVE Move to Protect Gun Owners",
+      "link": "https://www.youtube.com/watch?v=gHJ8CTzYgkg",
+      "published": "2026-08-14T14:04:13+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "DOJ Just Made a MASSIVE Move to Protect Gun Owners"
+    },
+    {
+      "id": "e118e43f5dfaa67a",
+      "title": "SAF FILES LAWSUIT CHALLENGING NEW YORK GLOCK BAN",
+      "link": "https://saf.org/saf-files-lawsuit-challenging-new-york-glock-ban/",
+      "published": "2026-08-14T13:24:17+00:00",
+      "source_id": "saf",
+      "source_name": "Second Amendment Foundation",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "BELLEVUE, Wash. — Aug. 14, 2026 — The Second Amendment Foundation (SAF) and its partners have filed a lawsuit in U.S. District Court for the Western District of New York challenging New York law that…"
+    },
+    {
+      "id": "294541352d19098f",
+      "title": "NRA Files Lawsuit Challenging New York’s Glock Ban",
+      "link": "https://www.nraila.org/articles/20260814/nra-files-lawsuit-challenging-new-york-s-glock-ban",
+      "published": "2026-08-14T12:38:07+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "The National Rifle Association, Second Amendment Foundation, Firearms Policy Coalition, the Firing Pin, LLC, and NRA members Lucas Nelson and Daniel Geary filed a lawsuit today challenging New York’s…"
+    },
     {
       "id": "3b564e02509f0135",
       "title": "Huge Ruling Now In Effect After Finding NFA Unconstitutional & Permanently Blocking Restrictions!",
@@ -12,6 +45,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Huge Ruling Now In Effect After Finding NFA Unconstitutional & Permanently Blocking Restrictions!"
+    },
+    {
+      "id": "739c3488fd1f179f",
+      "title": "United Kansas v. Schwab (Court of Appeals of Kansas)",
+      "link": "https://www.courtlistener.com/opinion/10948526/united-kansas-v-schwab/",
+      "published": "2026-08-14T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "d14d0086f2852784",
@@ -454,17 +498,6 @@
       "tldr": "Huge Decision Declares NFA Unconstitutional & Blocks Suppressor & SBR Restrictions! What Now?"
     },
     {
-      "id": "41305f4137e27f32",
-      "title": "Democrats Suddenly Admit ATF CAN’T Rewrite Gun Laws?!",
-      "link": "https://www.youtube.com/watch?v=8y2eKWBbA20",
-      "published": "2026-08-07T20:23:51+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Democrats Suddenly Admit ATF CAN’T Rewrite Gun Laws?!"
-    },
-    {
       "id": "d416fe71da573539",
       "title": "How to prevent ATF from targeting innocent Americans … again",
       "link": "https://saf.org/how-to-prevent-atf-from-targeting-innocent-americans-again/",
@@ -619,17 +652,6 @@
       "tldr": "Today, the Court of Appeals for the Third Circuit granted the state's request for a stay pending its appeal to the US Supreme Court."
     },
     {
-      "id": "2b11c4abb70f0e69",
-      "title": "How to avoid ATF’s homemade silencer entanglements",
-      "link": "https://saf.org/how-to-avoid-atfs-homemade-silencer-entanglements/",
-      "published": "2026-08-04T17:44:53+00:00",
-      "source_id": "saf",
-      "source_name": "Second Amendment Foundation",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "by Lee Williams A former ATF official reached out to me recently with a strong warning: The ATF is asking for information that could very easily be used against anyone who tries to make a homemade…"
-    },
-    {
       "id": "d35d5628544021aa",
       "title": "Unanimous Suppressor & NFA Decision Drops Immediately After Bad Precedent Trap!",
       "link": "https://www.youtube.com/watch?v=xLD454jfY0Q",
@@ -672,17 +694,6 @@
       "source_type": "org",
       "category": "News",
       "tldr": "As the calendar turns to August, many parents are starting the annual check of school supply lists, bus routes, and lunch packing routines."
-    },
-    {
-      "id": "8c4afda4cc06e42e",
-      "title": "M14s Added to CMP Roster",
-      "link": "https://www.nraila.org/articles/20260803/m14s-added-to-cmp-roster",
-      "published": "2026-08-03T16:51:34+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "News",
-      "tldr": "Since 1903, the Civilian Marksmanship Program (CMP) has served a critical role in promoting America’s continued excellence in marksmanship and firearms safety by providing firearms education…"
     },
     {
       "id": "cd004666df2b14dd",
@@ -809,17 +820,6 @@
       "id": "efd11769dae6707b",
       "title": "United States v. Hunter (Court of Appeals for the Fifth Circuit)",
       "link": "https://www.courtlistener.com/opinion/10936443/united-states-v-hunter/",
-      "published": "2026-07-29T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "dfe0bbdf5fa87924",
-      "title": "United States v. Yates (Court of Appeals for the Ninth Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10936156/united-states-v-yates/",
       "published": "2026-07-29T00:00:00+00:00",
       "source_id": "courtlistener",
       "source_name": "CourtListener (Free Law Project)",
