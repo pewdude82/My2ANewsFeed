@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-08-14T16:37:55.106897+00:00",
+  "generated_at": "2026-08-14T20:18:58.977788+00:00",
   "item_count": 96,
   "items": [
+    {
+      "id": "45ce4dee3711d7a2",
+      "title": "‘What about Tate?’",
+      "link": "https://saf.org/what-about-tate/",
+      "published": "2026-08-14T20:01:39+00:00",
+      "source_id": "saf",
+      "source_name": "Second Amendment Foundation",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "by Lee Williams Dave Adamiak, whose son Patrick “Tate” Adamiak has 17 more years left to serve in federal prison, is confused, perplexed and nearing his wit’s end. While he appreciates all the…"
+    },
+    {
+      "id": "92a6229ae873e5b6",
+      "title": "AAG Dhillon Confirmed To Speak At GRPC 2026",
+      "link": "https://saf.org/aag-dhillon-confirmed-to-speak-at-grpc-2026/",
+      "published": "2026-08-14T18:20:15+00:00",
+      "source_id": "saf",
+      "source_name": "Second Amendment Foundation",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "BELLEVUE, Wash. — Aug. 14, 2026 — The Gun Rights Policy Conference (GRPC) planning committee is pleased to announce that Assistant Attorney Generalfor Civil Rights at the U.S. Department of Justice…"
+    },
+    {
+      "id": "e29d83109aafef76",
+      "title": "California: Anti-Second Amendment Bills Advance from Appropriations Committees",
+      "link": "https://www.nraila.org/articles/20260814/california-anti-second-amendment-bills-advance-from-appropriations-committees",
+      "published": "2026-08-14T18:18:55+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "Yesterday, August 13th, both the Assembly and Senate Appropriations Committees advanced several anti-Second Amendment measures."
+    },
+    {
+      "id": "aab0525fab6a1b34",
+      "title": "NFA UPDATE: Can You Replace Your Brace Now?",
+      "link": "https://www.youtube.com/watch?v=XCsax06-Y64",
+      "published": "2026-08-14T18:04:46+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "NFA UPDATE: Can You Replace Your Brace Now?"
+    },
     {
       "id": "e080e09b5a79693e",
       "title": "DOJ Just Made a MASSIVE Move to Protect Gun Owners",
@@ -476,17 +520,6 @@
       "tldr": "ATF PUT ON NOTICE: Congress Demands BILLION Gun Records Be DESTROYED"
     },
     {
-      "id": "72eaf75506d2b41b",
-      "title": "ATTENTION: Call The White House And Tell Them NOT To Appeal The NFA Decision",
-      "link": "https://www.youtube.com/shorts/8y4OyvnVdME",
-      "published": "2026-08-08T15:56:58+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "ATTENTION: Call The White House And Tell Them NOT To Appeal The NFA Decision"
-    },
-    {
       "id": "6b143a93f3ddff6c",
       "title": "Huge Decision Declares NFA Unconstitutional & Blocks Suppressor & SBR Restrictions! What Now?",
       "link": "https://www.youtube.com/watch?v=atkurtwcppI",
@@ -586,17 +619,6 @@
       "tldr": "Huge Decision Declares NFA Unconstitutional & Permanently Blocks Suppressor & SBR Restrictions!"
     },
     {
-      "id": "91e88b57dfb9de85",
-      "title": "SAF FILES MOTION FOR PRELIMINARY INJUNCTION IN CA GLOCK BAN LAWSUIT",
-      "link": "https://saf.org/saf-files-motion-for-preliminary-injunction-in-ca-glock-ban-lawsuit/",
-      "published": "2026-08-05T20:26:31+00:00",
-      "source_id": "saf",
-      "source_name": "Second Amendment Foundation",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "BELLEVUE, Wash. — Aug. 5, 2026 — The Second Amendment Foundation (SAF) and its partners have filed a motion for preliminary injunction in Renna v. Bonta, its case now challenging California’s Glock…"
-    },
-    {
       "id": "8c28baf9497a6bcf",
       "title": "Federal Court Rules Key National Firearms Act Restrictions Are Unconstitutional in GOA Lawsuit",
       "link": "https://www.gunowners.org/federal-court-rules-key-national-firearms-act-restrictions-are-unconstitutional-in-goa-lawsuit/",
@@ -617,17 +639,6 @@
       "source_type": "org",
       "category": "Court Case",
       "tldr": "In another major victory for the National Rifle Association and law-abiding gun owners, the U.S. District Court for the Northern District of Texas today held that the National Firearms Act’s…"
-    },
-    {
-      "id": "696b7c804b57173a",
-      "title": "JUDGE: SHORT-BARRELED RIFLE, SUPPRESSOR NFA REGISTRATION SCHEME UNCONSTITUTIONAL",
-      "link": "https://saf.org/judge-short-barreled-rifle-suppressor-nfa-registration-scheme-unconstitutional/",
-      "published": "2026-08-05T18:10:39+00:00",
-      "source_id": "saf",
-      "source_name": "Second Amendment Foundation",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "BELLEVUE, Wash. — Aug. 5, 2026 — A judge for the U.S. District Court for the Northern District of Texas has ruled that the remaining registration scheme for short-barreled rifles and suppressors in…"
     },
     {
       "id": "d4b0f9ed9d7f2dc1",
@@ -683,17 +694,6 @@
       "source_type": "org",
       "category": "Legislation",
       "tldr": "Recently, we alerted our members about an extreme ballot initiative in Oregon, which had the potential to put an end to not just hunting, fishing, and trapping, but traditional ranching and farming…"
-    },
-    {
-      "id": "4acc5862985e6b62",
-      "title": "Punishing Imagination and Childish Impulses Won’t Keep Schools Safe",
-      "link": "https://www.nraila.org/articles/20260803/punishing-imagination-and-childish-impulses-won-t-keep-schools-safe",
-      "published": "2026-08-03T17:08:40+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "News",
-      "tldr": "As the calendar turns to August, many parents are starting the annual check of school supply lists, bus routes, and lunch packing routines."
     },
     {
       "id": "cd004666df2b14dd",
