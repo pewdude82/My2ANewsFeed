@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-08-14T20:18:58.977788+00:00",
+  "generated_at": "2026-08-15T00:28:16.902856+00:00",
   "item_count": 96,
   "items": [
+    {
+      "id": "094dc53723609040",
+      "title": "Supreme Court NFA & Suppressor Review Now Teed Up After Major Decisions Drop!",
+      "link": "https://www.youtube.com/watch?v=swDQvcdmmds",
+      "published": "2026-08-15T00:00:01+00:00",
+      "source_id": "armed-scholar",
+      "source_name": "Armed Scholar",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Supreme Court NFA & Suppressor Review Now Teed Up After Major Decisions Drop!"
+    },
+    {
+      "id": "775b6a78ba9489d3",
+      "title": "ATF Just Got SHUT DOWN in Federal Court AGAIN",
+      "link": "https://www.youtube.com/watch?v=eyE2RD_UeLw",
+      "published": "2026-08-14T21:24:07+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "ATF Just Got SHUT DOWN in Federal Court AGAIN"
+    },
     {
       "id": "45ce4dee3711d7a2",
       "title": "‘What about Tate?’",
@@ -89,6 +111,28 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Huge Ruling Now In Effect After Finding NFA Unconstitutional & Permanently Blocking Restrictions!"
+    },
+    {
+      "id": "f7789b7ff894878f",
+      "title": "Guerra Vasquez v. United States (Court of Appeals for the Fifth Circuit)",
+      "link": "https://www.courtlistener.com/opinion/10948821/guerra-vasquez-v-united-states/",
+      "published": "2026-08-14T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
+      "id": "e28103be13746dd8",
+      "title": "United States v. Thompson (District Court, District of Columbia)",
+      "link": "https://www.courtlistener.com/opinion/10948763/united-states-v-thompson/",
+      "published": "2026-08-14T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "739c3488fd1f179f",
@@ -509,17 +553,6 @@
       "tldr": "Supreme Court Delivers Emergency Election Ruling With Major Nationwide Implications!"
     },
     {
-      "id": "c4be77e7cbd02428",
-      "title": "ATF PUT ON NOTICE: Congress Demands BILLION Gun Records Be DESTROYED",
-      "link": "https://www.youtube.com/watch?v=2lLq0Dp9WVM",
-      "published": "2026-08-08T17:02:19+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "ATF PUT ON NOTICE: Congress Demands BILLION Gun Records Be DESTROYED"
-    },
-    {
       "id": "6b143a93f3ddff6c",
       "title": "Huge Decision Declares NFA Unconstitutional & Blocks Suppressor & SBR Restrictions! What Now?",
       "link": "https://www.youtube.com/watch?v=atkurtwcppI",
@@ -795,17 +828,6 @@
       "tldr": "Supreme Court 9-0 Unanimous Decision Creates Major Constitutional Challenge With Nationwide Impacts!"
     },
     {
-      "id": "1a9ba6678736ca33",
-      "title": "Thompson v. Super. Ct. (California Court of Appeal)",
-      "link": "https://www.courtlistener.com/opinion/10936784/thompson-v-super-ct/",
-      "published": "2026-07-30T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "cc04100bb0433cd8",
       "title": "Supreme Court Issues 6-3 Decision With Serious Nationwide Immigration & Border Implications!",
       "link": "https://www.youtube.com/watch?v=5plLvbFHTDo",
@@ -815,28 +837,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Issues 6-3 Decision With Serious Nationwide Immigration & Border Implications!"
-    },
-    {
-      "id": "efd11769dae6707b",
-      "title": "United States v. Hunter (Court of Appeals for the Fifth Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10936443/united-states-v-hunter/",
-      "published": "2026-07-29T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "e8db532187c48a3e",
-      "title": "Permanent Nationwide Block of Short Barreled Rifle & Suppressor Rules Gets Pushback By DOJ!",
-      "link": "https://www.youtube.com/watch?v=U7_tYLlIKCU",
-      "published": "2026-07-28T00:00:01+00:00",
-      "source_id": "armed-scholar",
-      "source_name": "Armed Scholar",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Permanent Nationwide Block of Short Barreled Rifle & Suppressor Rules Gets Pushback By DOJ!"
     },
     {
       "id": "b2790d7370acbe9e",
