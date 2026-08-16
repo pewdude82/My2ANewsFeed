@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-08-16T08:14:11.200773+00:00",
+  "generated_at": "2026-08-16T12:13:01.174473+00:00",
   "item_count": 151,
   "items": [
+    {
+      "id": "9fb494fad8eb6b9d",
+      "title": "NFA BOMBSHELL: New ATF Changes & What They Mean for Connecticut Gun Owners | Gun Guru Live",
+      "link": "https://www.youtube.com/watch?v=VI3ZdfQiTUA",
+      "published": "2026-08-16T12:11:25+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "NFA BOMBSHELL: New ATF Changes & What They Mean for Connecticut Gun Owners | Gun Guru Live"
+    },
+    {
+      "id": "12262bd066bad951",
+      "title": "Analysis: A Big, Brittle Win Against the NFA [Member Exclusive]",
+      "link": "https://thereload.com/analysis-a-big-brittle-win-against-the-nfa-member-exclusive/",
+      "published": "2026-08-16T09:04:41+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "News",
+      "tldr": "The first lawful sale of an unregistered silencer happened this week as the result of a legal victory. Gun-rights activists across the country were excited about the win, and reasonably so, but it's…"
+    },
+    {
+      "id": "ef496fb8fc6b3f6f",
+      "title": "Podcast: How Far Does the Injunction Against the National Firearms Act Extend? (Ft. SAF’s Kostas Moros) [Member Early Access]",
+      "link": "https://thereload.com/podcast-how-far-does-the-injunction-against-the-national-firearms-act-extend-ft-safs-kostas-moros/",
+      "published": "2026-08-16T09:02:29+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Court Case",
+      "tldr": "This week, we’re diving back into the injunction against enforcement of wide swaths of the National Firearms Act (NFA). That’s because, in a bit of a surprise move, the Department of Justice (DOJ)…"
+    },
+    {
+      "id": "6d50eee3b20a403d",
+      "title": "Members’ Newsletter: Will the NFA Stay Blocked?",
+      "link": "https://thereload.com/members-newsletter-will-the-nfa-stay-blocked/",
+      "published": "2026-08-16T09:00:55+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Court Case",
+      "tldr": "Plus, SAF's Kostas Moros joins the podcast to discuss strengths and weaknesses of the NFA injunction."
+    },
     {
       "id": "726932d68f2a7569",
       "title": "Supreme Court Delivers Emergency Election Denial Order With Major Nationwide Implications!",
@@ -12,17 +56,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Delivers Emergency Election Denial Order With Major Nationwide Implications!"
-    },
-    {
-      "id": "9fb494fad8eb6b9d",
-      "title": "NFA BOMBSHELL: New ATF Changes & What They Mean for Connecticut Gun Owners | Gun Guru Live",
-      "link": "https://www.youtube.com/watch?v=VI3ZdfQiTUA",
-      "published": "2026-08-15T22:14:49+00:00",
-      "source_id": "gun-guru",
-      "source_name": "Gun Guru",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "NFA BOMBSHELL: New ATF Changes & What They Mean for Connecticut Gun Owners | Gun Guru Live"
     },
     {
       "id": "a9c091a6b892ad42",
@@ -762,17 +795,6 @@
       "tldr": "Plus, I detail the latest on gun sales spiking in Colorado ahead of the state's new permit-to-purchase law going into effect on The News Update Podcast."
     },
     {
-      "id": "45ddd6c1ca4ea980",
-      "title": "Members’ Newsletter: The History of Traveling with Guns",
-      "link": "https://thereload.com/members-newsletter-the-history-of-traveling-with-guns/",
-      "published": "2026-08-09T09:00:10+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "Court Case",
-      "tldr": "Plus, FRAC President Travis White joins the podcast to explain how his group convinced the judge the NFA is invalid."
-    },
-    {
       "id": "8d1e24652911e885",
       "title": "Supreme Court Delivers Emergency Election Ruling With Major Nationwide Implications!",
       "link": "https://www.youtube.com/watch?v=brvqS9ylGJ0",
@@ -859,28 +881,6 @@
       "source_type": "org",
       "category": "Court Case",
       "tldr": "The Petitioners in Duncan v. Bonta, an NRA-supported challenge to California’s ban on magazines capable of holding more than ten rounds, have filed a Supplemental Brief urging the U.S. Supreme Court…"
-    },
-    {
-      "id": "a9773162e4fe9ded",
-      "title": "Colorado Gun Sales Spike 250 Percent Ahead of AR-15 Restrictions as Virginia’s Surge Fades",
-      "link": "https://thereload.com/colorado-gun-sales-spike-250-percent-ahead-of-ar-15-restrictions-as-virginias-surge-fades/",
-      "published": "2026-08-07T09:04:41+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "News",
-      "tldr": "Background checks on gun sales continued climbing nationwide in July, but as always, it’s a different tale depending on where you live."
-    },
-    {
-      "id": "fee99f2f874fbd49",
-      "title": "Courts Issue Dueling Decisions on Foster Parents and Guns",
-      "link": "https://thereload.com/courts-issue-dueling-decisions-on-foster-parents-and-guns/",
-      "published": "2026-08-07T09:02:46+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "Court Case",
-      "tldr": "Two judges considering cases on firearm restrictions for foster parents reached conflicting conclusions this week, underscoring ongoing legal disagreements on how the 2nd Amendment applies to those…"
     },
     {
       "id": "0e9e4cf910e8b006",
