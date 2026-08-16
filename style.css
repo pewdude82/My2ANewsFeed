@@ -1,12 +1,13 @@
 :root {
-  --bg: #16181A;
-  --surface: #1F2225;
-  --surface-hover: #262A2D;
-  --border: #33383C;
-  --text: #ECE8DE;
-  --text-muted: #93989D;
-  --brass: #C6A356;
-  --steel: #6E93A6;
+  --bg: #FFFFFF;
+  --surface: #FCFBF7;
+  --surface-hover: #F2EFE6;
+  --border: #DAD5C7;
+  --text: #17181A;
+  --text-muted: #5B5F63;
+  --brass: #8C6D2A;
+  --steel: #3F6E85;
+  --ink: #17181A;
 
   --cat-court: #C1502E;
   --cat-legislation: #7E9A4A;
@@ -105,10 +106,117 @@ body {
   margin-right: 6px;
 }
 
-main {
+/* Stat ticker: a thin data strip that turns the masthead into a live instrument */
+.stat-ticker {
+  border-top: 1px solid var(--border);
+  background: rgba(0, 0, 0, 0.15);
+}
+
+.stat-ticker-inner {
   max-width: 880px;
   margin: 0 auto;
+  padding: 10px 24px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+.stat-item strong {
+  color: var(--brass);
+  font-weight: 600;
+}
+
+main {
+  max-width: 960px;
+  margin: 0 auto;
   padding: 32px 24px 80px;
+}
+
+/* Lead story: the day's most substantive filing or bill, given room to breathe */
+.lead {
+  margin-bottom: 32px;
+}
+
+.lead-card {
+  display: grid;
+  grid-template-columns: 1.1fr 1fr;
+  gap: 0;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  overflow: hidden;
+  position: relative;
+}
+
+.lead-card::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 auto 0;
+  height: 3px;
+  background: linear-gradient(90deg, var(--brass), transparent 70%);
+}
+
+.lead-thumb {
+  position: relative;
+  display: block;
+  background: #0d0e10;
+  min-height: 200px;
+  order: 2;
+}
+
+.lead-thumb[hidden], .card-thumb[hidden] {
+  display: none;
+}
+
+.lead-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.lead-body {
+  padding: 28px 30px;
+  order: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.lead-eyebrow {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  color: var(--brass);
+  margin: 0 0 10px;
+}
+
+.lead-title {
+  font-family: var(--font-display);
+  font-size: clamp(22px, 2.6vw, 30px);
+  line-height: 1.25;
+  margin: 8px 0 12px;
+  color: var(--text);
+}
+
+.lead-tldr {
+  color: var(--text-muted);
+  font-size: 15px;
+  line-height: 1.6;
+  margin: 0 0 16px;
+}
+
+.lead-card.no-thumb {
+  grid-template-columns: 1fr;
+}
+
+@media (max-width: 720px) {
+  .lead-card { grid-template-columns: 1fr; }
+  .lead-thumb { order: 1; min-height: 180px; }
+  .lead-body { order: 2; padding: 22px 20px; }
 }
 
 .controls {
@@ -148,7 +256,7 @@ main {
 }
 
 .filter-btn.active {
-  color: var(--bg);
+  color: var(--ink);
   background: var(--brass);
   border-color: var(--brass);
   font-weight: 500;
@@ -171,29 +279,86 @@ main {
 }
 
 .feed {
-  display: flex;
-  flex-direction: column;
-  gap: 14px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+  align-items: start;
 }
 
-.loading-msg, .empty-msg {
+@media (max-width: 720px) {
+  .feed { grid-template-columns: 1fr; }
+}
+
+.empty-msg {
   font-family: var(--font-mono);
   color: var(--text-muted);
   font-size: 13px;
   text-align: center;
   padding: 40px 0;
+  grid-column: 1 / -1;
 }
 
 .card {
   display: flex;
+  flex-direction: column;
   background: var(--surface);
   border: 1px solid var(--border);
-  border-radius: 4px;
+  border-radius: 5px;
   overflow: hidden;
+  transition: transform 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  border-color: var(--brass);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
 }
 
 .card-stripe {
-  width: 4px;
+  height: 3px;
+  width: 100%;
+  flex-shrink: 0;
+}
+
+.card-thumb {
+  position: relative;
+  display: block;
+  background: #0d0e10;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+}
+
+.card-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.25s ease;
+}
+
+.card:hover .card-thumb img {
+  transform: scale(1.04);
+}
+
+.play-badge {
+  position: absolute;
+  bottom: 8px;
+  right: 8px;
+  background: rgba(15, 16, 18, 0.85);
+  color: var(--text);
+  font-size: 11px;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-left: 2px;
+}
+
+.favicon {
+  border-radius: 2px;
+  opacity: 0.85;
   flex-shrink: 0;
 }
 
@@ -201,6 +366,8 @@ main {
   padding: 16px 20px;
   flex: 1;
   min-width: 0;
+  display: flex;
+  flex-direction: column;
 }
 
 .card-eyebrow {
@@ -220,7 +387,7 @@ main {
   padding: 2px 7px;
   border-radius: 2px;
   font-weight: 500;
-  color: var(--bg);
+  color: #FFFFFF;
 }
 
 .tag[data-cat="Court Case"] { background: var(--cat-court); }
@@ -296,6 +463,46 @@ main {
   font-family: var(--font-mono);
   font-size: 11px;
   opacity: 0.7;
+}
+
+/* Skeleton loading state — replaces the flat "loading" text */
+@keyframes shimmer {
+  0% { background-position: -300px 0; }
+  100% { background-position: 300px 0; }
+}
+
+.skeleton-pill, .skeleton-card {
+  background: linear-gradient(90deg, var(--surface) 0%, var(--surface-hover) 50%, var(--surface) 100%);
+  background-size: 600px 100%;
+  animation: shimmer 1.4s infinite linear;
+  border: 1px solid var(--border);
+}
+
+.skeleton-pill {
+  display: inline-block;
+  width: 140px;
+  height: 14px;
+  border-radius: 3px;
+}
+
+.skeleton-grid {
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+}
+
+.skeleton-card {
+  height: 220px;
+  border-radius: 5px;
+}
+
+@media (max-width: 720px) {
+  .skeleton-grid { grid-template-columns: 1fr; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .skeleton-pill, .skeleton-card { animation: none; }
 }
 
 @media (max-width: 560px) {

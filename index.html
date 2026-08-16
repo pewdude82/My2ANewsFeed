@@ -21,9 +21,18 @@
     <p class="subhead">Court filings, bills, and reporting on gun rights — aggregated, plain language, straight to the point.</p>
     <p class="updated" id="updated-line">Loading briefing…</p>
   </div>
+  <div class="stat-ticker" id="stat-ticker" aria-hidden="false">
+    <div class="stat-ticker-inner" id="stat-ticker-inner">
+      <span class="stat-item skeleton-pill"></span>
+      <span class="stat-item skeleton-pill"></span>
+      <span class="stat-item skeleton-pill"></span>
+    </div>
+  </div>
 </header>
 
 <main>
+  <section id="lead" class="lead" hidden></section>
+
   <div class="controls">
     <div class="filter-row" id="filter-row" role="tablist" aria-label="Filter by category">
       <!-- populated by JS -->
@@ -34,7 +43,12 @@
   </div>
 
   <section id="feed" class="feed" aria-live="polite">
-    <p class="loading-msg" id="loading-msg">Pulling the latest reports…</p>
+    <div class="skeleton-grid" id="skeleton-grid">
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
+    </div>
   </section>
 
   <p class="empty-msg" id="empty-msg" hidden>No items match that filter. Try clearing the search or picking another category.</p>
@@ -48,9 +62,14 @@
 <template id="card-template">
   <article class="card">
     <div class="card-stripe" data-stripe></div>
+    <a class="card-thumb" data-thumb-link target="_blank" rel="noopener noreferrer" hidden>
+      <img data-thumb loading="lazy" alt="">
+      <span class="play-badge" data-play-badge hidden>▶</span>
+    </a>
     <div class="card-body">
       <div class="card-eyebrow">
         <span class="tag" data-tag></span>
+        <img class="favicon" data-favicon loading="lazy" alt="" width="14" height="14">
         <span class="source" data-source></span>
         <span class="dot">·</span>
         <span class="date" data-date></span>
@@ -62,6 +81,28 @@
         <a class="card-link" data-link target="_blank" rel="noopener noreferrer">View original source →</a>
       </details>
       <p class="ref" data-ref></p>
+    </div>
+  </article>
+</template>
+
+<template id="lead-template">
+  <article class="lead-card">
+    <a class="lead-thumb" data-thumb-link target="_blank" rel="noopener noreferrer" hidden>
+      <img data-thumb loading="lazy" alt="">
+      <span class="play-badge" data-play-badge hidden>▶</span>
+    </a>
+    <div class="lead-body">
+      <p class="lead-eyebrow">TOP OF THE DOCKET</p>
+      <div class="card-eyebrow">
+        <span class="tag" data-tag></span>
+        <img class="favicon" data-favicon loading="lazy" alt="" width="14" height="14">
+        <span class="source" data-source></span>
+        <span class="dot">·</span>
+        <span class="date" data-date></span>
+      </div>
+      <h2 class="lead-title" data-title></h2>
+      <p class="lead-tldr" data-tldr></p>
+      <a class="card-link" data-link target="_blank" rel="noopener noreferrer">View original source →</a>
     </div>
   </article>
 </template>
