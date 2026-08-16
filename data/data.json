@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T02:50:33.046982+00:00",
-  "item_count": 96,
+  "generated_at": "2026-08-16T03:11:43.596967+00:00",
+  "item_count": 151,
   "items": [
     {
       "id": "726932d68f2a7569",
@@ -14,6 +14,17 @@
       "tldr": "Supreme Court Delivers Emergency Election Denial Order With Major Nationwide Implications!"
     },
     {
+      "id": "9fb494fad8eb6b9d",
+      "title": "NFA BOMBSHELL: New ATF Changes & What They Mean for Connecticut Gun Owners | Gun Guru Live",
+      "link": "https://www.youtube.com/watch?v=VI3ZdfQiTUA",
+      "published": "2026-08-15T22:14:49+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "NFA BOMBSHELL: New ATF Changes & What They Mean for Connecticut Gun Owners | Gun Guru Live"
+    },
+    {
       "id": "a9c091a6b892ad42",
       "title": "You NEED To Know THIS! ATF’s Biggest Problem Isn’t Congress — It’s the Constitution",
       "link": "https://www.youtube.com/watch?v=AKuGMPv9nRo",
@@ -25,6 +36,17 @@
       "tldr": "You NEED To Know THIS! ATF’s Biggest Problem Isn’t Congress — It’s the Constitution"
     },
     {
+      "id": "8db1946393cac31e",
+      "title": "Lawyer: UPDATES! Can I SBR my Gun Now? NFA, Pistol Braces, Short Barreled Shotguns",
+      "link": "https://www.youtube.com/watch?v=x0PkzQ4D4Fw",
+      "published": "2026-08-15T15:01:26+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Lawyer: UPDATES! Can I SBR my Gun Now? NFA, Pistol Braces, Short Barreled Shotguns"
+    },
+    {
       "id": "094dc53723609040",
       "title": "Supreme Court NFA & Suppressor Review Now Teed Up After Major Decisions Drop!",
       "link": "https://www.youtube.com/watch?v=swDQvcdmmds",
@@ -34,6 +56,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court NFA & Suppressor Review Now Teed Up After Major Decisions Drop!"
+    },
+    {
+      "id": "277547a930447805",
+      "title": "First Legal Unregistered Silencer Sale in 100 Years; Unearthed Vids Show Abdul El-Sayed's Gun Views",
+      "link": "https://www.youtube.com/watch?v=74fwy1QsBAM",
+      "published": "2026-08-14T22:08:38+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "First Legal Unregistered Silencer Sale in 100 Years; Unearthed Vids Show Abdul El-Sayed's Gun Views"
     },
     {
       "id": "775b6a78ba9489d3",
@@ -91,6 +124,17 @@
       "tldr": "NFA UPDATE: Can You Replace Your Brace Now?"
     },
     {
+      "id": "1699622a0cb33584",
+      "title": "Big Plot Twist! ATF Counterattack? NFA Madness Continues in Day 2 Updates",
+      "link": "https://www.youtube.com/watch?v=zXZUBoTDwLc",
+      "published": "2026-08-14T15:59:58+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Big Plot Twist! ATF Counterattack? NFA Madness Continues in Day 2 Updates"
+    },
+    {
       "id": "e080e09b5a79693e",
       "title": "DOJ Just Made a MASSIVE Move to Protect Gun Owners",
       "link": "https://www.youtube.com/watch?v=gHJ8CTzYgkg",
@@ -122,6 +166,50 @@
       "source_type": "org",
       "category": "Court Case",
       "tldr": "The National Rifle Association, Second Amendment Foundation, Firearms Policy Coalition, the Firing Pin, LLC, and NRA members Lucas Nelson and Daniel Geary filed a lawsuit today challenging New York’s…"
+    },
+    {
+      "id": "aeb3deadb36e3e15",
+      "title": "Analysis: Who and What is Covered by the NFA Injunction? [Member Exclusive]",
+      "link": "https://thereload.com/analysis-who-and-what-is-covered-by-the-nfa-injunction-member-exclusive/",
+      "published": "2026-08-14T09:04:45+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Court Case",
+      "tldr": "Last week, a federal judge struck down much of the National Firearms Act (NFA). This week, his injunction went into effect. But there's some confusion around what exactly that means."
+    },
+    {
+      "id": "37f1645609cc6d55",
+      "title": "Federal Appeals Court Upholds Pennsylvania Man’s Conviction for Unauthorized Gun Shipment to Haiti",
+      "link": "https://thereload.com/federal-appeals-court-upholds-pennsylvania-mans-conviction-for-unauthorized-gun-shipment-to-haiti/",
+      "published": "2026-08-14T09:02:52+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Court Case",
+      "tldr": "Gun trafficking isn’t protected by the Second Amendment."
+    },
+    {
+      "id": "f2427e0ae4c1978d",
+      "title": "Newsletter: Unregistered Silencer Sold as NFA Injunction Goes Into Effect",
+      "link": "https://thereload.com/newsletter-unregister-silencer-sold-as-nfa-injunction-goes-into-effect/",
+      "published": "2026-08-14T09:00:44+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Court Case",
+      "tldr": "Plus, FRAC president and NFA case plaintiff Travis White explains on the podcast how his group convinced a federal judge to strike down wide swaths of the law."
+    },
+    {
+      "id": "d7742053dc710678",
+      "title": "Michigan’s Democratic Senate Candidate Floated Replacing the Second Amendment",
+      "link": "https://thereload.com/michigans-democratic-senate-candidate-floated-replacing-the-second-amendment/",
+      "published": "2026-08-14T01:09:03+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Legislation",
+      "tldr": "Abdul El-Sayed suggested in a now-removed video that the right to keep and bear arms should be swapped out for a right to healthcare."
     },
     {
       "id": "3b564e02509f0135",
@@ -212,6 +300,17 @@
       "tldr": "DOJ JUST STEPPED IN: Massachusetts Handgun Ban Fight EXPLODES This Has National Implications!"
     },
     {
+      "id": "4798f20ad6e28ba5",
+      "title": "LAWYER: NFA Rules Just Changed!",
+      "link": "https://www.youtube.com/watch?v=jf9lx1frIsY",
+      "published": "2026-08-13T17:31:22+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "LAWYER: NFA Rules Just Changed!"
+    },
+    {
       "id": "d2d0bfa540f39688",
       "title": "NO APPEAL IN NFA LAWSUIT, INJUNCTION NOW IN EFFECT",
       "link": "https://saf.org/no-appeal-in-nfa-lawsuit-injunction-now-in-effect/",
@@ -254,6 +353,28 @@
       "source_type": "org",
       "category": "Court Case",
       "tldr": "FOR IMMEDIATE RELEASE August 13, 2026 GOA Members to Make History with First Suppressor Transfers Without NFA Registration Since 1934 Leander, TX — Gun Owners of America (GOA), along with lead…"
+    },
+    {
+      "id": "9a5ba3aa41b374b3",
+      "title": "BREAKING: DOJ Does NOT Appeal! Legal to Purchase + Manufacture NFA Items DIRECT",
+      "link": "https://www.youtube.com/watch?v=T7YawWG-VAw",
+      "published": "2026-08-13T05:18:25+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "BREAKING: DOJ Does NOT Appeal! Legal to Purchase + Manufacture NFA Items DIRECT"
+    },
+    {
+      "id": "ada7aedb7cecd205",
+      "title": "Gun Group, Republican Candidate Transfer Unregistered Silencer as DOJ Misses Appeal Deadline",
+      "link": "https://thereload.com/gun-group-republican-candidate-transfer-unregistered-silencer-as-doj-misses-appeal-deadline/",
+      "published": "2026-08-13T05:04:40+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Court Case",
+      "tldr": "In an act nearly 1oo years in the making, a silencer has been legally transferred between two parties without being registered under the National Firearms Act (NFA)."
     },
     {
       "id": "04fda0d70f31d65f",
@@ -309,6 +430,28 @@
       "source_type": "org",
       "category": "Court Case",
       "tldr": "On August 5, 2026, Judge Wesley Hendrix of the U.S. District Court for the Northern District of Texas held that the National Firearms Act’s registration and approval requirements for suppressors…"
+    },
+    {
+      "id": "202cd09fe5cf68c1",
+      "title": "HOURS LEFT: Will DOJ Kill the Texas NFA Ruling?",
+      "link": "https://www.youtube.com/watch?v=htHuqHnUIN8",
+      "published": "2026-08-12T20:00:26+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "HOURS LEFT: Will DOJ Kill the Texas NFA Ruling?"
+    },
+    {
+      "id": "df61efdd88680d33",
+      "title": "Big Gun Rights Win! New Strategy Crushes Anti Gun State!",
+      "link": "https://www.youtube.com/watch?v=0fqxsQm4C_U",
+      "published": "2026-08-12T19:00:19+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Big Gun Rights Win! New Strategy Crushes Anti Gun State!"
     },
     {
       "id": "1f3563bec626fd5e",
@@ -410,6 +553,17 @@
       "tldr": "BELLEVUE, Wash. — Aug. 11, 2026 — The Second Amendment Foundation (SAF) has filed a petition for writ of certiorari with the U.S. Supreme Court in Defense Distributed v. Attorney General of New…"
     },
     {
+      "id": "06ab00ed631dfa94",
+      "title": "New Supreme Court Decision Takeaways",
+      "link": "https://www.youtube.com/shorts/zy3r9iNccNw",
+      "published": "2026-08-11T19:00:23+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "New Supreme Court Decision Takeaways"
+    },
+    {
       "id": "305ab45d4a41bdd9",
       "title": "BREAKING: Congress Tells DOJ “DO NOT APPEAL” NFA Ruling!",
       "link": "https://www.youtube.com/watch?v=CpoMRQgvMxc",
@@ -463,6 +617,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "DOJ Insider EXPOSED? Fight Erupts Over NFA Gun Registration"
+    },
+    {
+      "id": "b456d116b8b2f68b",
+      "title": "LAWYER: The Supreme Court Just Changed Their Entire Playbook",
+      "link": "https://www.youtube.com/watch?v=FulwVl3dEHg",
+      "published": "2026-08-10T19:00:06+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "LAWYER: The Supreme Court Just Changed Their Entire Playbook"
     },
     {
       "id": "1b2b784177628ad6",
@@ -520,6 +685,17 @@
       "tldr": "TELL THE WHITE HOUSE: DON’T LET DOJ APPEAL OUR WIN! We won our case, but DOJ may appeal. Let’s secure our win and make the “most pro-2A” Department of Justice walk the walk… We just won our “One Big…"
     },
     {
+      "id": "e4434eef3d230a85",
+      "title": "Why a Judge Just Struck Down the National Firearms Act (Ft. FRAC's Travis White)",
+      "link": "https://www.youtube.com/watch?v=-fD71VzKZZA",
+      "published": "2026-08-10T12:00:35+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Why a Judge Just Struck Down the National Firearms Act (Ft. FRAC's Travis White)"
+    },
+    {
       "id": "baf631d9b6ebc5ff",
       "title": "BREAKING: DOJ DIVIDED Over NFA Appeal - The Clock Is TICKING - HUGE Decision Coming!",
       "link": "https://www.youtube.com/watch?v=rWyZQCoEXus",
@@ -553,6 +729,50 @@
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
+      "id": "c0e88a344b58b31d",
+      "title": "2A BREAKING NEWS: The Gun Control Attacks Just Keep Coming! | Gun Guru Live @7PM",
+      "link": "https://www.youtube.com/watch?v=G_AMLY-aP1A",
+      "published": "2026-08-09T12:13:50+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "2A BREAKING NEWS: The Gun Control Attacks Just Keep Coming! | Gun Guru Live @7PM"
+    },
+    {
+      "id": "b79caa05bcd5428a",
+      "title": "Analysis: History Suggests Armed Travelers Enjoyed Expansive Protections [Member Exclusive]",
+      "link": "https://thereload.com/analysis-history-suggests-armed-travelers-enjoyed-expansive-protections-member-exclusive/",
+      "published": "2026-08-09T09:04:26+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Regulatory",
+      "tldr": "The Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF) is currently considering expanding modern protections for traveling across state lines with firearms. A detailed look at the history…"
+    },
+    {
+      "id": "50d9d5061253e018",
+      "title": "Podcast: How Gun-Rights Advocates Convinced a Judge the National Firearms Act is Unconstitutional (Ft. FRAC’s Travis White)",
+      "link": "https://thereload.com/podcast-how-gun-rights-advocates-convinced-a-judge-the-national-firearms-act-is-unconstitutional-ft-fracs-travis-white/",
+      "published": "2026-08-09T09:02:27+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Court Case",
+      "tldr": "Plus, I detail the latest on gun sales spiking in Colorado ahead of the state's new permit-to-purchase law going into effect on The News Update Podcast."
+    },
+    {
+      "id": "45ddd6c1ca4ea980",
+      "title": "Members’ Newsletter: The History of Traveling with Guns",
+      "link": "https://thereload.com/members-newsletter-the-history-of-traveling-with-guns/",
+      "published": "2026-08-09T09:00:10+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Court Case",
+      "tldr": "Plus, FRAC President Travis White joins the podcast to explain how his group convinced the judge the NFA is invalid."
+    },
+    {
       "id": "8d1e24652911e885",
       "title": "Supreme Court Delivers Emergency Election Ruling With Major Nationwide Implications!",
       "link": "https://www.youtube.com/watch?v=brvqS9ylGJ0",
@@ -564,6 +784,17 @@
       "tldr": "Supreme Court Delivers Emergency Election Ruling With Major Nationwide Implications!"
     },
     {
+      "id": "c4765c3729d80067",
+      "title": "Guns Taken Away",
+      "link": "https://www.youtube.com/shorts/Hm-ywS-vaWE",
+      "published": "2026-08-08T18:00:28+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Guns Taken Away"
+    },
+    {
       "id": "6b143a93f3ddff6c",
       "title": "Huge Decision Declares NFA Unconstitutional & Blocks Suppressor & SBR Restrictions! What Now?",
       "link": "https://www.youtube.com/watch?v=atkurtwcppI",
@@ -573,6 +804,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Huge Decision Declares NFA Unconstitutional & Blocks Suppressor & SBR Restrictions! What Now?"
+    },
+    {
+      "id": "74af60362bd8028c",
+      "title": "Colorado Gun Sales Soar as Restrictions Arrive; @TheHumbleMarksman on the Industry's Crossroads",
+      "link": "https://www.youtube.com/watch?v=eEGKMANdQUY",
+      "published": "2026-08-07T23:49:19+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Colorado Gun Sales Soar as Restrictions Arrive; @TheHumbleMarksman on the Industry's Crossroads"
     },
     {
       "id": "d416fe71da573539",
@@ -619,6 +861,39 @@
       "tldr": "The Petitioners in Duncan v. Bonta, an NRA-supported challenge to California’s ban on magazines capable of holding more than ten rounds, have filed a Supplemental Brief urging the U.S. Supreme Court…"
     },
     {
+      "id": "a9773162e4fe9ded",
+      "title": "Colorado Gun Sales Spike 250 Percent Ahead of AR-15 Restrictions as Virginia’s Surge Fades",
+      "link": "https://thereload.com/colorado-gun-sales-spike-250-percent-ahead-of-ar-15-restrictions-as-virginias-surge-fades/",
+      "published": "2026-08-07T09:04:41+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "News",
+      "tldr": "Background checks on gun sales continued climbing nationwide in July, but as always, it’s a different tale depending on where you live."
+    },
+    {
+      "id": "fee99f2f874fbd49",
+      "title": "Courts Issue Dueling Decisions on Foster Parents and Guns",
+      "link": "https://thereload.com/courts-issue-dueling-decisions-on-foster-parents-and-guns/",
+      "published": "2026-08-07T09:02:46+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Court Case",
+      "tldr": "Two judges considering cases on firearm restrictions for foster parents reached conflicting conclusions this week, underscoring ongoing legal disagreements on how the 2nd Amendment applies to those…"
+    },
+    {
+      "id": "0e9e4cf910e8b006",
+      "title": "LAWYER: Federal Judge Rules Most of the NFA Is Unconstitutional",
+      "link": "https://www.youtube.com/watch?v=NJYmdQr5uqs",
+      "published": "2026-08-06T20:47:26+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "LAWYER: Federal Judge Rules Most of the NFA Is Unconstitutional"
+    },
+    {
       "id": "3863247a8e78aef9",
       "title": "SAF ANNOUNCES SETTLEMENT IN MAJOR CALIFORNIA CARRY RIGHTS LAWSUIT",
       "link": "https://saf.org/saf-announces-settlement-in-major-california-carry-rights-lawsuit/",
@@ -628,6 +903,17 @@
       "source_type": "org",
       "category": "Court Case",
       "tldr": "BELLEVUE, Wash. — Aug. 6, 2026 — The Second Amendment Foundation (SAF) and its partners are pleased to announce a settlement resolving the remaining claims in California Rifle and Pistol Association…"
+    },
+    {
+      "id": "b6eaaedcb1f6459c",
+      "title": "Biggest 2A Cases Right Now...",
+      "link": "https://www.youtube.com/shorts/IHgh-x73esU",
+      "published": "2026-08-06T19:00:05+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Biggest 2A Cases Right Now..."
     },
     {
       "id": "4be382d72ffeb38a",
@@ -674,6 +960,17 @@
       "tldr": "Federal Court Rules Key National Firearms Act Restrictions Are Unconstitutional in GOA Lawsuit FOR IMMEDIATE RELEASE August 5, 2026 SAN ANGELO, TX — Gun Owners of America (GOA) and fellow plaintiffs…"
     },
     {
+      "id": "a3f21658e1c4287a",
+      "title": "LAWYER: Two Supreme Court Gun Wins Just Revealed a Bigger Threat (Hmani + Wolford)",
+      "link": "https://www.youtube.com/watch?v=v2so2Eapn-8",
+      "published": "2026-08-05T19:00:10+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "LAWYER: Two Supreme Court Gun Wins Just Revealed a Bigger Threat (Hmani + Wolford)"
+    },
+    {
       "id": "f5c76820e938bc77",
       "title": "Federal Court Strikes Down NFA Registration Requirements for Suppressors, Short-Barreled Rifles, and Short-Barreled Shotguns in NRA Case",
       "link": "https://www.nraila.org/articles/20260805/federal-court-strikes-down-nfa-registration-requirements-for-suppressors-short-barreled-rifles-and-short-barreled-shotguns-in-nra-case",
@@ -694,6 +991,17 @@
       "source_type": "org",
       "category": "Legislation",
       "tldr": "Earlier today, the U.S. Senate Committee on the Judiciary advanced President Donald Trump’s nominee for the Attorney General of the United States, Todd Blanche. His nomination now heads to the full…"
+    },
+    {
+      "id": "7f1c7f6529208328",
+      "title": "Oh Boy...",
+      "link": "https://www.youtube.com/shorts/cUJcu-8CtJI",
+      "published": "2026-08-04T19:00:34+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Oh Boy..."
     },
     {
       "id": "706df7236a6067bb",
@@ -718,6 +1026,17 @@
       "tldr": "Unanimous Suppressor & NFA Decision Drops Immediately After Bad Precedent Trap!"
     },
     {
+      "id": "442f3fbfd373aaca",
+      "title": "LAWYER: This Court Just Changed Gun Rights Forever",
+      "link": "https://www.youtube.com/watch?v=LYu94Opc-SM",
+      "published": "2026-08-03T19:00:34+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "LAWYER: This Court Just Changed Gun Rights Forever"
+    },
+    {
       "id": "922a0b7dba460349",
       "title": "NRA Submits Comments on Several ATF Rulemakings; the Deadline for Your Input is Aug. 4!",
       "link": "https://www.nraila.org/articles/20260803/nra-submits-comments-on-several-atf-rulemakings-the-deadline-for-your-input-is-aug-4",
@@ -738,6 +1057,17 @@
       "source_type": "org",
       "category": "Legislation",
       "tldr": "Recently, we alerted our members about an extreme ballot initiative in Oregon, which had the potential to put an end to not just hunting, fishing, and trapping, but traditional ranching and farming…"
+    },
+    {
+      "id": "29bc66406ca1b37f",
+      "title": "A Pro-Gun Critique of the SCOTUS Second Amendment Test (Ft. GMU Professor Ilya Somin)",
+      "link": "https://www.youtube.com/watch?v=_aajHY5yh-k",
+      "published": "2026-08-03T12:00:34+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "A Pro-Gun Critique of the SCOTUS Second Amendment Test (Ft. GMU Professor Ilya Somin)"
     },
     {
       "id": "cd004666df2b14dd",
@@ -773,6 +1103,28 @@
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
+      "id": "e6e62a5529538f07",
+      "title": "AR-15 New Law Update",
+      "link": "https://www.youtube.com/shorts/OUVLAAOmguU",
+      "published": "2026-08-02T18:00:25+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "AR-15 New Law Update"
+    },
+    {
+      "id": "e20238cb6d3e695e",
+      "title": "NJ Won't Give Up! State Appeals to Save AR-15 Ban | Gun Guru LIVE",
+      "link": "https://www.youtube.com/watch?v=N3wMZuYWdMM",
+      "published": "2026-08-02T12:10:08+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "NJ Won't Give Up! State Appeals to Save AR-15 Ban | Gun Guru LIVE"
+    },
+    {
       "id": "c408e6ca8a67f01e",
       "title": "Permanent Nationwide Block of Short Barreled Rifle & Pistol Brace Rule Gets Pushback By DOJ!",
       "link": "https://www.youtube.com/watch?v=uZzgxJzr6A0",
@@ -782,6 +1134,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Permanent Nationwide Block of Short Barreled Rifle & Pistol Brace Rule Gets Pushback By DOJ!"
+    },
+    {
+      "id": "95769aa1bc634087",
+      "title": "HUGE Suppressor Update!",
+      "link": "https://www.youtube.com/shorts/m-UrTKbGEg0",
+      "published": "2026-08-01T18:00:34+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "HUGE Suppressor Update!"
     },
     {
       "id": "27c2eb326a2cd122",
@@ -828,6 +1191,28 @@
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
+      "id": "9ad2cfc07eb8cd99",
+      "title": "Connecticut Under-21 Handgun Bans Upheld; Virginia AR-15 Ban to Stay Blocked",
+      "link": "https://www.youtube.com/watch?v=WvSKqDVl8mc",
+      "published": "2026-07-30T17:04:32+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Connecticut Under-21 Handgun Bans Upheld; Virginia AR-15 Ban to Stay Blocked"
+    },
+    {
+      "id": "e205c3c62597a036",
+      "title": "Broken Background Checks, Gun Store Mistakes & Lead Poisoning | The 2A Roundtable",
+      "link": "https://www.youtube.com/watch?v=yinHsV7lhuM",
+      "published": "2026-07-30T14:00:05+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Broken Background Checks, Gun Store Mistakes & Lead Poisoning | The 2A Roundtable"
+    },
+    {
       "id": "8aa35d88708cb266",
       "title": "Supreme Court 9-0 Unanimous Decision Creates Major Constitutional Challenge With Nationwide Impacts!",
       "link": "https://www.youtube.com/watch?v=GDlbe1GBTcA",
@@ -839,6 +1224,39 @@
       "tldr": "Supreme Court 9-0 Unanimous Decision Creates Major Constitutional Challenge With Nationwide Impacts!"
     },
     {
+      "id": "331e7f8de2ad7663",
+      "title": "Judge Gets It WRONG! Debunking This Anti-Gun Court Ruling",
+      "link": "https://www.youtube.com/watch?v=Yg8O3k1ZpzA",
+      "published": "2026-07-29T23:00:39+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Judge Gets It WRONG! Debunking This Anti-Gun Court Ruling"
+    },
+    {
+      "id": "8fd3abc6344c82a0",
+      "title": "AR-15s Return to Virginia Shelves. What's Next? (Ft. VCDL's Phil Van Cleave)",
+      "link": "https://www.youtube.com/watch?v=9-Rofo70LZ4",
+      "published": "2026-07-27T12:00:27+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "AR-15s Return to Virginia Shelves. What's Next? (Ft. VCDL's Phil Van Cleave)"
+    },
+    {
+      "id": "d9ceb18c4f60a678",
+      "title": "Meriden Cop Fires 18+ ROUNDS! Tong Targets Gun Industry | DSA Wants to ABOLISH the 2A | Gun Guru Liv",
+      "link": "https://www.youtube.com/watch?v=QrStyfDu7WU",
+      "published": "2026-07-26T12:08:40+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Meriden Cop Fires 18+ ROUNDS! Tong Targets Gun Industry | DSA Wants to ABOLISH the 2A | Gun Guru Liv"
+    },
+    {
       "id": "b2790d7370acbe9e",
       "title": "WY: GOA Endorses 30+ Pro-Gun Candidates Across Wyoming",
       "link": "https://www.gunowners.org/wy07242026/",
@@ -848,6 +1266,28 @@
       "source_type": "org",
       "category": "News",
       "tldr": "See GOA’s list of pro-2A candidates before the upcoming August 18 primary Gun Owners of America is proud to endorse the following candidates in Wyoming’s Republican primary on Tuesday, August 18…"
+    },
+    {
+      "id": "b071d8b1339b8432",
+      "title": "Massachusetts AR-15 Ban Upheld; Maine's New Senate Candidate Moves Democrats Left on Guns",
+      "link": "https://www.youtube.com/watch?v=MA_hnPGpra8",
+      "published": "2026-07-24T17:05:39+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Massachusetts AR-15 Ban Upheld; Maine's New Senate Candidate Moves Democrats Left on Guns"
+    },
+    {
+      "id": "49cff20b7b42ff1c",
+      "title": "Meriden Cop Fired 18 Rounds... So Why Are YOU Limited to 10? | Connecticut's Magazine Ban EXPOSED",
+      "link": "https://www.youtube.com/watch?v=j92DScy47x4",
+      "published": "2026-07-23T19:00:36+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Meriden Cop Fired 18 Rounds... So Why Are YOU Limited to 10? | Connecticut's Magazine Ban EXPOSED"
     },
     {
       "id": "69ecefed6aca2971",
@@ -894,6 +1334,50 @@
       "tldr": "Gun Owners of America Sues U.S. Virgin Islands Over Unconstitutional Ban on Nonresident Right to Bear Arms FOR IMMEDIATE RELEASE July 20, 2026 CHARLOTTE AMALIE, USVI — Gun Owners of America (GOA) and…"
     },
     {
+      "id": "558381daa7fb715c",
+      "title": "Confronting the Flawed Story Behind the First SCOTUS Second Amendment Case (Ft. Brian Frye)",
+      "link": "https://www.youtube.com/watch?v=cbiGAVLRPVw",
+      "published": "2026-07-20T12:00:35+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Confronting the Flawed Story Behind the First SCOTUS Second Amendment Case (Ft. Brian Frye)"
+    },
+    {
+      "id": "66d573f2f2ede43b",
+      "title": "🚨 LIVE: HUGE 2A Victory! 3rd Circuit STRIKES DOWN NJ AR-15 Ban | SCOTUS, CT & More Gun News",
+      "link": "https://www.youtube.com/watch?v=rbKLzfJvLD0",
+      "published": "2026-07-19T12:06:48+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "🚨 LIVE: HUGE 2A Victory! 3rd Circuit STRIKES DOWN NJ AR-15 Ban | SCOTUS, CT & More Gun News"
+    },
+    {
+      "id": "c669fed22b6566ae",
+      "title": "California Glock Ban Block Denied; Appeals Court Upholds Gun Ban for Weed Smoker",
+      "link": "https://www.youtube.com/watch?v=d_3iPe1bHD4",
+      "published": "2026-07-17T21:57:01+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "California Glock Ban Block Denied; Appeals Court Upholds Gun Ban for Weed Smoker"
+    },
+    {
+      "id": "f154d54a510bf1c9",
+      "title": "Kore Essentials Leather EDC Belt Review | The BEST Concealed Carry Gun Belt?",
+      "link": "https://www.youtube.com/watch?v=VC_sKtpekT8",
+      "published": "2026-07-16T20:00:27+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Kore Essentials Leather EDC Belt Review | The BEST Concealed Carry Gun Belt?"
+    },
+    {
       "id": "0e226ef6ba092600",
       "title": "WY: Which Candidates Will Defend Your Gun Rights?",
       "link": "https://www.gunowners.org/wy07162026/",
@@ -903,6 +1387,17 @@
       "source_type": "org",
       "category": "News",
       "tldr": "The Wyoming Primary Election is quickly approaching, and your vote will help determine who will defend your Second Amendment rights in the years ahead. Gun Owners of America has completed our…"
+    },
+    {
+      "id": "a2ed21361bc8b271",
+      "title": "Why Lower Courts Agree on AR-15 Bans and Why it May Not Matter (Ft. Andrew Willinger)",
+      "link": "https://www.youtube.com/watch?v=aYcD4MqfD1s",
+      "published": "2026-07-13T12:00:17+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Why Lower Courts Agree on AR-15 Bans and Why it May Not Matter (Ft. Andrew Willinger)"
     },
     {
       "id": "c5813e182d4e02c9",
@@ -916,6 +1411,17 @@
       "tldr": "From the ATF issuing a new rule, strengthening the definition of “willfully” to protect FFLs and gun owners, to the Department of Justice fighting us on our lawsuit against the NFA’s registration…"
     },
     {
+      "id": "42bf6074589b74a7",
+      "title": "Virginia AR-15 Ban Set to be Blocked Statewide; Texas's Talarico Backed 'Assault Weapons' Ban",
+      "link": "https://www.youtube.com/watch?v=7g0ekPmybf8",
+      "published": "2026-07-10T17:14:36+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Virginia AR-15 Ban Set to be Blocked Statewide; Texas's Talarico Backed 'Assault Weapons' Ban"
+    },
+    {
       "id": "7666618dc989d39a",
       "title": "Gun Owners of America & Fuerza 2A Endorse Blaise Ingoglia for Florida Chief Financial Officer",
       "link": "https://www.gunowners.org/gun-owners-of-america-fuerza-2a-endorse-blaise-ingoglia-for-florida-chief-financial-officer/",
@@ -925,6 +1431,105 @@
       "source_type": "org",
       "category": "Legislation",
       "tldr": "Gun Owners of America & Fuerza 2A Endorse Blaise Ingoglia for Florida Chief Financial Officer FOR IMMEDIATE RELEASE July 9, 2026 TALLAHASSEE, FL — Gun Owners of America (GOA) and Fuerza 2A proudly…"
+    },
+    {
+      "id": "54b2cf3fc95df431",
+      "title": "CT Basic Pistol Course | Introduction to Grip Basics, Gear & Gadgets (2026 Guide) Mod 3",
+      "link": "https://www.youtube.com/watch?v=Rh6bQDdYTrQ",
+      "published": "2026-07-08T20:00:04+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "CT Basic Pistol Course | Introduction to Grip Basics, Gear & Gadgets (2026 Guide) Mod 3"
+    },
+    {
+      "id": "072b7cb4e1308cdc",
+      "title": "CT Basic Pistol Course | Introduction CT Gun Laws (2026 Guide) Mod 2",
+      "link": "https://www.youtube.com/watch?v=l65fqcpqC_Q",
+      "published": "2026-07-07T20:00:34+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "CT Basic Pistol Course | Introduction CT Gun Laws (2026 Guide) Mod 2"
+    },
+    {
+      "id": "841ecdd5a0e8261f",
+      "title": "CT Basic Pistol Course | Introduction & Firearm Safety Fundamentals (2026 Guide) Mod 1",
+      "link": "https://www.youtube.com/watch?v=dflpkloFqDw",
+      "published": "2026-07-06T23:00:39+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "CT Basic Pistol Course | Introduction & Firearm Safety Fundamentals (2026 Guide) Mod 1"
+    },
+    {
+      "id": "5b1c5785f8c64e7c",
+      "title": "Where SCOTUS Has Come on Guns and Where It's Going (Ft. Stephen Halbrook)",
+      "link": "https://www.youtube.com/watch?v=Cm4Qb1EnEtk",
+      "published": "2026-07-06T12:00:28+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Where SCOTUS Has Come on Guns and Where It's Going (Ft. Stephen Halbrook)"
+    },
+    {
+      "id": "828eeff1bfee5302",
+      "title": "🇺🇸 Fourth of July 2A Special LIVE | America's Freedom, Gun Rights & Breaking Second Amendment News",
+      "link": "https://www.youtube.com/watch?v=e61xbv2X2VU",
+      "published": "2026-07-05T12:11:22+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "🇺🇸 Fourth of July 2A Special LIVE | America's Freedom, Gun Rights & Breaking Second Amendment News"
+    },
+    {
+      "id": "76f3794c9055ccf5",
+      "title": "SCOTUS Grants Cert in Grant v. Higgins | What It Means for CT Gun Owners",
+      "link": "https://www.youtube.com/watch?v=x5MHC9pUGZM",
+      "published": "2026-07-04T00:00:21+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "SCOTUS Grants Cert in Grant v. Higgins | What It Means for CT Gun Owners"
+    },
+    {
+      "id": "2bece495dc5bdd23",
+      "title": "SCOTUS Takes AR-15 Ban Challenge as Virginia Ban Goes Into Effect",
+      "link": "https://www.youtube.com/watch?v=knYIpxfG0R0",
+      "published": "2026-07-03T16:36:49+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "SCOTUS Takes AR-15 Ban Challenge as Virginia Ban Goes Into Effect"
+    },
+    {
+      "id": "168a617750f68db9",
+      "title": "Lawyer Who Slayed the 'Vampire Rule' Explains SCOTUS Gun Ruling (Ft. Alan Beck)",
+      "link": "https://www.youtube.com/watch?v=Qum81sPYTEE",
+      "published": "2026-06-29T12:00:16+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Lawyer Who Slayed the 'Vampire Rule' Explains SCOTUS Gun Ruling (Ft. Alan Beck)"
+    },
+    {
+      "id": "4fbb242fb06cebd7",
+      "title": "SCOTUS Stakes Hawaii ‘Vampire Rule,’ Judge Blocks Virginia AR-15 Ban",
+      "link": "https://www.youtube.com/watch?v=D06q22YwnUQ",
+      "published": "2026-06-26T18:02:24+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "SCOTUS Stakes Hawaii ‘Vampire Rule,’ Judge Blocks Virginia AR-15 Ban"
     },
     {
       "id": "331bdbf081cdd3eb",

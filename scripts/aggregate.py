@@ -73,8 +73,17 @@ SOURCES = [
         "id": "the-reload",
         "name": "The Reload",
         "kind": "rss",
-        "url": "https://thereload.substack.com/feed",
+        # They moved off Substack to their own WordPress site — the old
+        # thereload.substack.com/feed URL now 403s.
+        "url": "https://thereload.com/feed/",
         "source_type": "journalism",
+    },
+    {
+        "id": "the-reload-youtube",
+        "name": "The Reload (YouTube)",
+        "kind": "rss",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeELv8EXoLjf0721lEF4fcg",
+        "source_type": "youtube",
     },
     {
         "id": "fpc-youtube",
@@ -97,8 +106,8 @@ SOURCES = [
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNVX5X6vn0DzlqWNZnHFwKw",
         "source_type": "youtube",
     },
-    {
-        "id": "atty-tom-grieve",
+      {
+      "id": "atty-tom-grieve",
         "name": "Atty Tom Grieve",
         "kind": "rss",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4M5RxIcp5H9lRiVC33TwFA",
