@@ -97,6 +97,20 @@ SOURCES = [
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNVX5X6vn0DzlqWNZnHFwKw",
         "source_type": "youtube",
     },
+  {
+        "id": "atty-tom-grieve",
+        "name": "Atty Tom Grieve",
+        "kind": "rss",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4M5RxIcp5H9lRiVC33TwFA",
+        "source_type": "youtube",
+    },
+    {
+        "id": "gun-guru",
+        "name": "Gun Guru",
+        "kind": "rss",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCX8mPveReJ2A_95PGuaA0Dw",
+        "source_type": "youtube",
+    },
 ]
 
 # Keyword buckets used to editorially categorize every item, regardless of
