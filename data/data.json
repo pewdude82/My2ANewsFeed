@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-17T08:27:47.009232+00:00",
-  "item_count": 151,
+  "generated_at": "2026-08-17T12:16:24.105156+00:00",
+  "item_count": 136,
   "items": [
+    {
+      "id": "fb507200f6facb81",
+      "title": "How Far Does the Injunction Against the National Firearms Act Extend? (Ft. SAF's Kostas Moros)",
+      "link": "https://www.youtube.com/watch?v=YCU1AGK3UmM",
+      "published": "2026-08-17T12:00:15+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "How Far Does the Injunction Against the National Firearms Act Extend? (Ft. SAF's Kostas Moros)"
+    },
     {
       "id": "9b7234b3722fa75f",
       "title": "Lawyer: FELONY NFA UPDATE! Plaintiffs Deep Dive Edition Who Is Covered?",
@@ -168,17 +179,6 @@
       "tldr": "BELLEVUE, Wash. — Aug. 14, 2026 — The Gun Rights Policy Conference (GRPC) planning committee is pleased to announce that Assistant Attorney Generalfor Civil Rights at the U.S. Department of Justice…"
     },
     {
-      "id": "e29d83109aafef76",
-      "title": "California: Anti-Second Amendment Bills Advance from Appropriations Committees",
-      "link": "https://www.nraila.org/articles/20260814/california-anti-second-amendment-bills-advance-from-appropriations-committees",
-      "published": "2026-08-14T18:18:55+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "Legislation",
-      "tldr": "Yesterday, August 13th, both the Assembly and Senate Appropriations Committees advanced several anti-Second Amendment measures."
-    },
-    {
       "id": "aab0525fab6a1b34",
       "title": "NFA UPDATE: Can You Replace Your Brace Now?",
       "link": "https://www.youtube.com/watch?v=XCsax06-Y64",
@@ -221,17 +221,6 @@
       "source_type": "org",
       "category": "Court Case",
       "tldr": "BELLEVUE, Wash. — Aug. 14, 2026 — The Second Amendment Foundation (SAF) and its partners have filed a lawsuit in U.S. District Court for the Western District of New York challenging New York law that…"
-    },
-    {
-      "id": "294541352d19098f",
-      "title": "NRA Files Lawsuit Challenging New York’s Glock Ban",
-      "link": "https://www.nraila.org/articles/20260814/nra-files-lawsuit-challenging-new-york-s-glock-ban",
-      "published": "2026-08-14T12:38:07+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "The National Rifle Association, Second Amendment Foundation, Firearms Policy Coalition, the Firing Pin, LLC, and NRA members Lucas Nelson and Daniel Geary filed a lawsuit today challenging New York’s…"
     },
     {
       "id": "aeb3deadb36e3e15",
@@ -487,17 +476,6 @@
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
-      "id": "faa0ea8fc986e282",
-      "title": "What Does the Texas NFA Decision Mean for You?",
-      "link": "https://www.nraila.org/articles/20260812/what-does-the-texas-nfa-decision-mean-for-you",
-      "published": "2026-08-12T23:26:19+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "On August 5, 2026, Judge Wesley Hendrix of the U.S. District Court for the Northern District of Texas held that the National Firearms Act’s registration and approval requirements for suppressors…"
-    },
-    {
       "id": "202cd09fe5cf68c1",
       "title": "HOURS LEFT: Will DOJ Kill the Texas NFA Ruling?",
       "link": "https://www.youtube.com/watch?v=htHuqHnUIN8",
@@ -529,17 +507,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "NFA SHOWDOWN: GOA and Silencer Shop Just Put ATF on the Clock"
-    },
-    {
-      "id": "7c9d86f1edfd677f",
-      "title": "NRA Joins Legal Fight Against Colorado’s Permit-to-Purchase Law for Semiautomatic Firearms",
-      "link": "https://www.nraila.org/articles/20260812/nra-joins-legal-fight-against-colorado-s-permit-to-purchase-law-for-semiautomatic-firearms",
-      "published": "2026-08-12T13:35:22+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "The National Rifle Association has joined the legal fight against SB25-003, Colorado’s permit-to-purchase scheme for certain semiautomatic firearms."
     },
     {
       "id": "1135892d10f0ea64",
@@ -696,50 +663,6 @@
       "tldr": "LAWYER: The Supreme Court Just Changed Their Entire Playbook"
     },
     {
-      "id": "1b2b784177628ad6",
-      "title": "NRA Experts Hard at Work on ATF Rules—Protecting Your Rights Every Step of the Way",
-      "link": "https://www.nraila.org/articles/20260810/nra-experts-hard-at-work-on-atf-rules-protecting-your-rights-every-step-of-the-way",
-      "published": "2026-08-10T16:18:46+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "When big news hits the Nation’s Capital, everyone notices. But a lot of the real work that keeps your Second Amendment rights strong happens quietly, deep in the federal rule-making process."
-    },
-    {
-      "id": "35157350a1855b56",
-      "title": "Want a Violence-Free Transit System? Disarm the Law-Abiding and Post Signs!",
-      "link": "https://www.nraila.org/articles/20260810/want-a-violence-free-transit-system-disarm-the-law-abiding-and-post-signs",
-      "published": "2026-08-10T15:58:03+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "News",
-      "tldr": "The Chicago Transit Authority’s (CTA) public transit system has long been chancy for ordinary commuters, as documented by the excellent local crime reporting website, CWB Chicago."
-    },
-    {
-      "id": "6bdf4773b4cb145d",
-      "title": "DOJ Challenges Maryland County for Violating Constitutional Rights",
-      "link": "https://www.nraila.org/articles/20260810/doj-challenges-maryland-county-for-violating-constitutional-rights",
-      "published": "2026-08-10T15:33:19+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "When the federal government no longer sits on the sidelines and files its own lawsuit to protect the Second Amendment, pay attention. When the federal government is not just offering another amicus…"
-    },
-    {
-      "id": "d7e60ba0f69e4324",
-      "title": "California: Appropriations Committees Set to Consider Multiple Anti-Gun Bills, Take Action Now!",
-      "link": "https://www.nraila.org/articles/20260810/california-appropriations-committees-set-to-consider-multiple-anti-gun-bills-take-action-now",
-      "published": "2026-08-10T14:40:13+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "Legislation",
-      "tldr": "On Thursday, August 13, both the Senate and Assembly Appropriation Committees will hear multiple anti-Second Amendment bills as they work through their respective \"suspense files\". Please use the…"
-    },
-    {
       "id": "abda1bf4980da738",
       "title": "Tell The White House: Do Not Appeal GOA’s NFA Win!",
       "link": "https://www.gunowners.org/081026/",
@@ -883,28 +806,6 @@
       "tldr": "TELL YOUR SENATORS, DON’T LET DOJ APPEAL OUR WIN! We won our case, but DOJ may appeal. Let’s secure our win and tell the “most pro-2A” Department of Justice to walk the walk… We just won our “One Big…"
     },
     {
-      "id": "5b3c0b110f33a71d",
-      "title": "Massachusetts: Formal Session Ends",
-      "link": "https://www.nraila.org/articles/20260807/massachusetts-formal-session-ends",
-      "published": "2026-08-07T13:48:46+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "Legislation",
-      "tldr": "On July 31st, the gavel fell on the formal session of the state legislature in Boston."
-    },
-    {
-      "id": "d1deb197ab0aeeb6",
-      "title": "Supplemental Brief Filed in NRA-Supported Duncan v. Bonta Highlights Circuit Split Created by NRA’s Victory in ANJRPC v. Attorney General of New Jersey",
-      "link": "https://www.nraila.org/articles/20260807/supplemental-brief-filed-in-nra-supported-duncan-v-bonta-highlights-circuit-split-created-by-nra-s-victory-in-anjrpc-v-attorney-general-of-new-jersey",
-      "published": "2026-08-07T13:23:04+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "The Petitioners in Duncan v. Bonta, an NRA-supported challenge to California’s ban on magazines capable of holding more than ten rounds, have filed a Supplemental Brief urging the U.S. Supreme Court…"
-    },
-    {
       "id": "0e9e4cf910e8b006",
       "title": "LAWYER: Federal Judge Rules Most of the NFA Is Unconstitutional",
       "link": "https://www.youtube.com/watch?v=NJYmdQr5uqs",
@@ -993,28 +894,6 @@
       "tldr": "LAWYER: Two Supreme Court Gun Wins Just Revealed a Bigger Threat (Hmani + Wolford)"
     },
     {
-      "id": "f5c76820e938bc77",
-      "title": "Federal Court Strikes Down NFA Registration Requirements for Suppressors, Short-Barreled Rifles, and Short-Barreled Shotguns in NRA Case",
-      "link": "https://www.nraila.org/articles/20260805/federal-court-strikes-down-nfa-registration-requirements-for-suppressors-short-barreled-rifles-and-short-barreled-shotguns-in-nra-case",
-      "published": "2026-08-05T18:22:39+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "In another major victory for the National Rifle Association and law-abiding gun owners, the U.S. District Court for the Northern District of Texas today held that the National Firearms Act’s…"
-    },
-    {
-      "id": "d4b0f9ed9d7f2dc1",
-      "title": "Urge Your Senators to Confirm Todd Blanche!",
-      "link": "https://www.nraila.org/articles/20260804/urge-your-senators-to-confirm-todd-blanche",
-      "published": "2026-08-05T03:52:04+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "Legislation",
-      "tldr": "Earlier today, the U.S. Senate Committee on the Judiciary advanced President Donald Trump’s nominee for the Attorney General of the United States, Todd Blanche. His nomination now heads to the full…"
-    },
-    {
       "id": "7f1c7f6529208328",
       "title": "Oh Boy...",
       "link": "https://www.youtube.com/shorts/cUJcu-8CtJI",
@@ -1024,17 +903,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Oh Boy..."
-    },
-    {
-      "id": "706df7236a6067bb",
-      "title": "New Jersey: Third Circuit Grants Stay in AWB/Mag Ban Case",
-      "link": "https://www.nraila.org/articles/20260804/new-jersey-third-circuit-grants-stay-in-awbmag-ban-case",
-      "published": "2026-08-04T18:03:57+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "Today, the Court of Appeals for the Third Circuit granted the state's request for a stay pending its appeal to the US Supreme Court."
     },
     {
       "id": "d35d5628544021aa",
@@ -1057,28 +925,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "LAWYER: This Court Just Changed Gun Rights Forever"
-    },
-    {
-      "id": "922a0b7dba460349",
-      "title": "NRA Submits Comments on Several ATF Rulemakings; the Deadline for Your Input is Aug. 4!",
-      "link": "https://www.nraila.org/articles/20260803/nra-submits-comments-on-several-atf-rulemakings-the-deadline-for-your-input-is-aug-4",
-      "published": "2026-08-03T17:47:32+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "Regulatory",
-      "tldr": "This week, NRA submitted comments on several important ATF rulemakings."
-    },
-    {
-      "id": "9e56643b41325d92",
-      "title": "Oregon’s Anti-Hunting Initiative Fails to Meet Signature Threshold",
-      "link": "https://www.nraila.org/articles/20260803/oregon-s-anti-hunting-initiative-fails-to-meet-signature-threshold",
-      "published": "2026-08-03T17:39:05+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "Legislation",
-      "tldr": "Recently, we alerted our members about an extreme ballot initiative in Oregon, which had the potential to put an end to not just hunting, fishing, and trapping, but traditional ranching and farming…"
     },
     {
       "id": "29bc66406ca1b37f",
@@ -1519,17 +1365,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Lawyer Who Slayed the 'Vampire Rule' Explains SCOTUS Gun Ruling (Ft. Alan Beck)"
-    },
-    {
-      "id": "4fbb242fb06cebd7",
-      "title": "SCOTUS Stakes Hawaii ‘Vampire Rule,’ Judge Blocks Virginia AR-15 Ban",
-      "link": "https://www.youtube.com/watch?v=D06q22YwnUQ",
-      "published": "2026-06-26T18:02:24+00:00",
-      "source_id": "the-reload-youtube",
-      "source_name": "The Reload (YouTube)",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "SCOTUS Stakes Hawaii ‘Vampire Rule,’ Judge Blocks Virginia AR-15 Ban"
     },
     {
       "id": "331bdbf081cdd3eb",
