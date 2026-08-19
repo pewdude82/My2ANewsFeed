@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-18T20:10:01.686470+00:00",
-  "item_count": 135,
+  "generated_at": "2026-08-19T00:28:15.932229+00:00",
+  "item_count": 140,
   "items": [
+    {
+      "id": "6a0d8bec79f3a76e",
+      "title": "Huge Decision Finds ATF Frames/Receivers Rule Unconstitutional & Permanently Blocks Restrictions!",
+      "link": "https://www.youtube.com/watch?v=iLeGZvWNk0Y",
+      "published": "2026-08-19T00:00:01+00:00",
+      "source_id": "armed-scholar",
+      "source_name": "Armed Scholar",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Huge Decision Finds ATF Frames/Receivers Rule Unconstitutional & Permanently Blocks Restrictions!"
+    },
     {
       "id": "3c542d0c9a6ece51",
       "title": "SAF WIN: JUDGE RULES BIDEN ERA ATF FRAME AND RECEIVER RULE UNCONSTITUTIONAL",
@@ -36,17 +47,6 @@
       "tldr": "BREAKING: Another HUGE 2A WIN - Federal Judge STRIKES AT ATF’s “Ghost Gun” Rule"
     },
     {
-      "id": "bc0757d3d088572a",
-      "title": "Florida: Vote GOA on August 18",
-      "link": "https://www.gunowners.org/fl08182026/",
-      "published": "2026-08-18T11:00:55+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
-      "source_type": "org",
-      "category": "News",
-      "tldr": "Florida gun owners, Election Day is TODAY, Tuesday, August 18 — and it’s time to VOTE. The future of our Second Amendment rights in Florida will be shaped by who shows up to the polls in this primary…"
-    },
-    {
       "id": "647a5ea07b1c14e4",
       "title": "GOA's Best Work Never Makes the Headlines: Stopping Bad Gun Laws Before They Pass",
       "link": "https://www.youtube.com/shorts/nOoKxgi6HWs",
@@ -67,6 +67,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court 9-0 Unanimous Decision Creates Major Constitutional Challenge With Nationwide Impacts!"
+    },
+    {
+      "id": "d91e439d771a64f4",
+      "title": "United States v. Enclade (Court of Appeals for the Fifth Circuit)",
+      "link": "https://www.courtlistener.com/opinion/10953376/united-states-v-enclade/",
+      "published": "2026-08-18T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "cd6fba7c17df7600",
@@ -111,6 +122,83 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "LAWYER: NFA Update. If You Think You’re Covered, THINK AGAIN!"
+    },
+    {
+      "id": "9e05f47d1044b37e",
+      "title": "Celebrations and Questions Follow DOJ's NFA Decision",
+      "link": "https://www.youtube.com/watch?v=hS5QBQXbtS8",
+      "published": "2026-08-17T15:55:19+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "The DOJ did not ask for a stay in a federal lawsuit challenging the NFA's registration scheme on items that no longer have a transfer or making tax imposed, and the judge's decision is now in effect…"
+    },
+    {
+      "id": "a8888cf70dfc1de7",
+      "title": "What This Huge NFA Ruling Means for Gun Owners",
+      "link": "https://www.youtube.com/watch?v=hvWax1vJs88",
+      "published": "2026-08-17T15:51:34+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "When Judge Wesley Hendrix of the U.S. District Court for the Northern District of Texas held on August 5, 2026, that the National Firearms Act’s (NFA) registration and approval requirements for…"
+    },
+    {
+      "id": "e4ca84acf3c1088c",
+      "title": "DOJ’s Post Office Directive Marks Another Second Amendment Milestone",
+      "link": "https://www.nraila.org/articles/20260817/doj-s-post-office-directive-marks-another-second-amendment-milestone",
+      "published": "2026-08-17T15:45:30+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Regulatory",
+      "tldr": "For decades, federal law and United States Postal Service regulations turned one of the most ordinary stops in American life, your local post office, into a federal “gun free zone.” That changed on…"
+    },
+    {
+      "id": "3aad6f3d9ec990a8",
+      "title": "ATF Director Corrects Gun Control Advocates on Regulatory Reform",
+      "link": "https://www.nraila.org/articles/20260817/atf-director-corrects-gun-control-advocates-on-regulatory-reform",
+      "published": "2026-08-17T15:41:23+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Regulatory",
+      "tldr": "In a stark departure from the last administration, the Bureau of Alcohol, Tobacco, Firearms and Explosives is taking gun control advocates to task for their sensationalist rhetoric and questionable…"
+    },
+    {
+      "id": "4815264a8f2e6fe4",
+      "title": "In Memoriam: Second Amendment Champion Allan Cors, 1936-2026",
+      "link": "https://www.nraila.org/articles/20260817/in-memoriam-second-amendment-champion-allan-cors-1936-2026",
+      "published": "2026-08-17T15:34:31+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "The Second Amendment lost one of its most ardent, longest-serving defenders on August 9 when past NRA President Allan D. Cors died. He was a lifelong shooter, a dedicated collector, an avid hunter…"
+    },
+    {
+      "id": "9d1dbf24cd994c92",
+      "title": "Meet the New Far Left; Same as the Establishment Left on Guns",
+      "link": "https://www.nraila.org/articles/20260817/meet-the-new-far-left-same-as-the-establishment-left-on-guns",
+      "published": "2026-08-17T15:32:16+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "Primary election season is winding down, and the final slates of candidates in most states have emerged ahead of the 2026 fall elections. Second Amendment issues may or may not have been front in…"
+    },
+    {
+      "id": "bb60214633da0d27",
+      "title": "Questions and Answers About the Texas NFA Case",
+      "link": "https://www.nraila.org/articles/20260817/questions-and-answers-about-the-texas-nfa-case",
+      "published": "2026-08-17T15:06:05+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "On August 12, we reported on an important development in the ongoing litigation over the National Firearms Act (NFA) filed by multiple plaintiffs in U.S. District Court for the Northern District of…"
     },
     {
       "id": "01fb706a71bebb68",
@@ -300,6 +388,17 @@
       "tldr": "BELLEVUE, Wash. — Aug. 14, 2026 — The Gun Rights Policy Conference (GRPC) planning committee is pleased to announce that Assistant Attorney Generalfor Civil Rights at the U.S. Department of Justice…"
     },
     {
+      "id": "e29d83109aafef76",
+      "title": "California: Anti-Second Amendment Bills Advance from Appropriations Committees",
+      "link": "https://www.nraila.org/articles/20260814/california-anti-second-amendment-bills-advance-from-appropriations-committees",
+      "published": "2026-08-14T18:18:55+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "Yesterday, August 13th, both the Assembly and Senate Appropriations Committees advanced several anti-Second Amendment measures."
+    },
+    {
       "id": "aab0525fab6a1b34",
       "title": "NFA UPDATE: Can You Replace Your Brace Now?",
       "link": "https://www.youtube.com/watch?v=XCsax06-Y64",
@@ -342,6 +441,17 @@
       "source_type": "org",
       "category": "Court Case",
       "tldr": "BELLEVUE, Wash. — Aug. 14, 2026 — The Second Amendment Foundation (SAF) and its partners have filed a lawsuit in U.S. District Court for the Western District of New York challenging New York law that…"
+    },
+    {
+      "id": "294541352d19098f",
+      "title": "NRA Files Lawsuit Challenging New York’s Glock Ban",
+      "link": "https://www.nraila.org/articles/20260814/nra-files-lawsuit-challenging-new-york-s-glock-ban",
+      "published": "2026-08-14T12:38:07+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "The National Rifle Association, Second Amendment Foundation, Firearms Policy Coalition, the Firing Pin, LLC, and NRA members Lucas Nelson and Daniel Geary filed a lawsuit today challenging New York’s…"
     },
     {
       "id": "aeb3deadb36e3e15",
@@ -509,17 +619,6 @@
       "tldr": "NO FORM 1? NO FORM 4? What the NFA Injunction REALLY Means For You"
     },
     {
-      "id": "5576e9bd5c61fda1",
-      "title": "GOA Members Make History With First Suppressor Transfers Without NFA Registration Since 1934",
-      "link": "https://www.gunowners.org/goa-members-make-history-with-first-suppressor-transfers-without-nfa-registration-since-1934/",
-      "published": "2026-08-13T05:40:28+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "FOR IMMEDIATE RELEASE August 13, 2026 GOA Members to Make History with First Suppressor Transfers Without NFA Registration Since 1934 Leander, TX — Gun Owners of America (GOA), along with lead…"
-    },
-    {
       "id": "9a5ba3aa41b374b3",
       "title": "BREAKING: DOJ Does NOT Appeal! Legal to Purchase + Manufacture NFA Items DIRECT",
       "link": "https://www.youtube.com/watch?v=T7YawWG-VAw",
@@ -586,6 +685,17 @@
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
+      "id": "faa0ea8fc986e282",
+      "title": "What Does the Texas NFA Decision Mean for You?",
+      "link": "https://www.nraila.org/articles/20260812/what-does-the-texas-nfa-decision-mean-for-you",
+      "published": "2026-08-12T23:26:19+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "On August 5, 2026, Judge Wesley Hendrix of the U.S. District Court for the Northern District of Texas held that the National Firearms Act’s registration and approval requirements for suppressors…"
+    },
+    {
       "id": "202cd09fe5cf68c1",
       "title": "HOURS LEFT: Will DOJ Kill the Texas NFA Ruling?",
       "link": "https://www.youtube.com/watch?v=htHuqHnUIN8",
@@ -617,6 +727,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "NFA SHOWDOWN: GOA and Silencer Shop Just Put ATF on the Clock"
+    },
+    {
+      "id": "7c9d86f1edfd677f",
+      "title": "NRA Joins Legal Fight Against Colorado’s Permit-to-Purchase Law for Semiautomatic Firearms",
+      "link": "https://www.nraila.org/articles/20260812/nra-joins-legal-fight-against-colorado-s-permit-to-purchase-law-for-semiautomatic-firearms",
+      "published": "2026-08-12T13:35:22+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "The National Rifle Association has joined the legal fight against SB25-003, Colorado’s permit-to-purchase scheme for certain semiautomatic firearms."
     },
     {
       "id": "a84e0302d193422a",
@@ -729,15 +850,48 @@
       "tldr": "LAWYER: The Supreme Court Just Changed Their Entire Playbook"
     },
     {
-      "id": "abda1bf4980da738",
-      "title": "Tell The White House: Do Not Appeal GOA’s NFA Win!",
-      "link": "https://www.gunowners.org/081026/",
-      "published": "2026-08-10T14:17:43+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
+      "id": "1b2b784177628ad6",
+      "title": "NRA Experts Hard at Work on ATF Rules—Protecting Your Rights Every Step of the Way",
+      "link": "https://www.nraila.org/articles/20260810/nra-experts-hard-at-work-on-atf-rules-protecting-your-rights-every-step-of-the-way",
+      "published": "2026-08-10T16:18:46+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
       "source_type": "org",
       "category": "Court Case",
-      "tldr": "TELL THE WHITE HOUSE: DON’T LET DOJ APPEAL OUR WIN! We won our case, but DOJ may appeal. Let’s secure our win and make the “most pro-2A” Department of Justice walk the walk… We just won our “One Big…"
+      "tldr": "When big news hits the Nation’s Capital, everyone notices. But a lot of the real work that keeps your Second Amendment rights strong happens quietly, deep in the federal rule-making process."
+    },
+    {
+      "id": "35157350a1855b56",
+      "title": "Want a Violence-Free Transit System? Disarm the Law-Abiding and Post Signs!",
+      "link": "https://www.nraila.org/articles/20260810/want-a-violence-free-transit-system-disarm-the-law-abiding-and-post-signs",
+      "published": "2026-08-10T15:58:03+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "The Chicago Transit Authority’s (CTA) public transit system has long been chancy for ordinary commuters, as documented by the excellent local crime reporting website, CWB Chicago."
+    },
+    {
+      "id": "6bdf4773b4cb145d",
+      "title": "DOJ Challenges Maryland County for Violating Constitutional Rights",
+      "link": "https://www.nraila.org/articles/20260810/doj-challenges-maryland-county-for-violating-constitutional-rights",
+      "published": "2026-08-10T15:33:19+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "When the federal government no longer sits on the sidelines and files its own lawsuit to protect the Second Amendment, pay attention. When the federal government is not just offering another amicus…"
+    },
+    {
+      "id": "d7e60ba0f69e4324",
+      "title": "California: Appropriations Committees Set to Consider Multiple Anti-Gun Bills, Take Action Now!",
+      "link": "https://www.nraila.org/articles/20260810/california-appropriations-committees-set-to-consider-multiple-anti-gun-bills-take-action-now",
+      "published": "2026-08-10T14:40:13+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "On Thursday, August 13, both the Senate and Assembly Appropriation Committees will hear multiple anti-Second Amendment bills as they work through their respective \"suspense files\". Please use the…"
     },
     {
       "id": "e4434eef3d230a85",
@@ -861,17 +1015,6 @@
       "tldr": "by Lee Williams Deep inside the hills near Martinsburg, West Virginia, on a government base with incredible security, lies what may be one of the most impressive firearm collections in the entire…"
     },
     {
-      "id": "19adfc865fbe9bea",
-      "title": "Don’t Let DOJ Appeal GOA’s NFA Win!",
-      "link": "https://www.gunowners.org/080726/",
-      "published": "2026-08-07T14:32:33+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "TELL YOUR SENATORS, DON’T LET DOJ APPEAL OUR WIN! We won our case, but DOJ may appeal. Let’s secure our win and tell the “most pro-2A” Department of Justice to walk the walk… We just won our “One Big…"
-    },
-    {
       "id": "0e9e4cf910e8b006",
       "title": "LAWYER: Federal Judge Rules Most of the NFA Is Unconstitutional",
       "link": "https://www.youtube.com/watch?v=NJYmdQr5uqs",
@@ -894,17 +1037,6 @@
       "tldr": "Biggest 2A Cases Right Now..."
     },
     {
-      "id": "477dda30021aebcf",
-      "title": "WE WON OUR CASE AGAINST THE NATIONAL FIREARMS ACT!",
-      "link": "https://www.gunowners.org/080626-2/",
-      "published": "2026-08-06T14:59:09+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "WE WON OUR CASE AGAINST THE NATIONAL FIREARMS ACT! Thanks to GOA’s “One Big Beautiful Lawsuit” a federal judge has struck down the registration requirements on certain NFA items… We just won our “One…"
-    },
-    {
       "id": "2d8f190048e0f63e",
       "title": "Huge Decision Declares NFA Unconstitutional & Permanently Blocks Suppressor & SBR Restrictions!",
       "link": "https://www.youtube.com/watch?v=tbGWVCmudPI",
@@ -914,17 +1046,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Huge Decision Declares NFA Unconstitutional & Permanently Blocks Suppressor & SBR Restrictions!"
-    },
-    {
-      "id": "8c28baf9497a6bcf",
-      "title": "Federal Court Rules Key National Firearms Act Restrictions Are Unconstitutional in GOA Lawsuit",
-      "link": "https://www.gunowners.org/federal-court-rules-key-national-firearms-act-restrictions-are-unconstitutional-in-goa-lawsuit/",
-      "published": "2026-08-05T20:02:42+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "Federal Court Rules Key National Firearms Act Restrictions Are Unconstitutional in GOA Lawsuit FOR IMMEDIATE RELEASE August 5, 2026 SAN ANGELO, TX — Gun Owners of America (GOA) and fellow plaintiffs…"
     },
     {
       "id": "a3f21658e1c4287a",
@@ -1015,31 +1136,9 @@
       "tldr": "NJ Won't Give Up! State Appeals to Save AR-15 Ban | Gun Guru LIVE"
     },
     {
-      "id": "c408e6ca8a67f01e",
-      "title": "Permanent Nationwide Block of Short Barreled Rifle & Pistol Brace Rule Gets Pushback By DOJ!",
-      "link": "https://www.youtube.com/watch?v=uZzgxJzr6A0",
-      "published": "2026-08-02T00:00:02+00:00",
-      "source_id": "armed-scholar",
-      "source_name": "Armed Scholar",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Permanent Nationwide Block of Short Barreled Rifle & Pistol Brace Rule Gets Pushback By DOJ!"
-    },
-    {
       "id": "4d9dd6f63ff9abe5",
       "title": "Bay Area Unitarian v. Ogg (Court of Appeals for the Fifth Circuit)",
       "link": "https://www.courtlistener.com/opinion/10937946/bay-area-unitarian-v-ogg/",
-      "published": "2026-07-31T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "739e9eb0605177c1",
-      "title": "United States v. Li (District Court, District of Columbia)",
-      "link": "https://www.courtlistener.com/opinion/10937894/united-states-v-li/",
       "published": "2026-07-31T00:00:00+00:00",
       "source_id": "courtlistener",
       "source_name": "CourtListener (Free Law Project)",
@@ -1103,17 +1202,6 @@
       "tldr": "Meriden Cop Fires 18+ ROUNDS! Tong Targets Gun Industry | DSA Wants to ABOLISH the 2A | Gun Guru Liv"
     },
     {
-      "id": "b2790d7370acbe9e",
-      "title": "WY: GOA Endorses 30+ Pro-Gun Candidates Across Wyoming",
-      "link": "https://www.gunowners.org/wy07242026/",
-      "published": "2026-07-24T18:35:27+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
-      "source_type": "org",
-      "category": "News",
-      "tldr": "See GOA’s list of pro-2A candidates before the upcoming August 18 primary Gun Owners of America is proud to endorse the following candidates in Wyoming’s Republican primary on Tuesday, August 18…"
-    },
-    {
       "id": "b071d8b1339b8432",
       "title": "Massachusetts AR-15 Ban Upheld; Maine's New Senate Candidate Moves Democrats Left on Guns",
       "link": "https://www.youtube.com/watch?v=MA_hnPGpra8",
@@ -1169,17 +1257,6 @@
       "tldr": "We're here to make sure every AWB gets TOSSED"
     },
     {
-      "id": "ed099475197ec676",
-      "title": "Gun Owners of America Sues U.S. Virgin Islands Over Unconstitutional Ban on Nonresident Right to Bear Arms",
-      "link": "https://www.gunowners.org/gun-owners-of-america-sues-u-s-virgin-islands-over-unconstitutional-ban-on-nonresident-right-to-bear-arms/",
-      "published": "2026-07-20T21:27:03+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "Gun Owners of America Sues U.S. Virgin Islands Over Unconstitutional Ban on Nonresident Right to Bear Arms FOR IMMEDIATE RELEASE July 20, 2026 CHARLOTTE AMALIE, USVI — Gun Owners of America (GOA) and…"
-    },
-    {
       "id": "558381daa7fb715c",
       "title": "Confronting the Flawed Story Behind the First SCOTUS Second Amendment Case (Ft. Brian Frye)",
       "link": "https://www.youtube.com/watch?v=cbiGAVLRPVw",
@@ -1224,17 +1301,6 @@
       "tldr": "Kore Essentials Leather EDC Belt Review | The BEST Concealed Carry Gun Belt?"
     },
     {
-      "id": "0e226ef6ba092600",
-      "title": "WY: Which Candidates Will Defend Your Gun Rights?",
-      "link": "https://www.gunowners.org/wy07162026/",
-      "published": "2026-07-16T15:44:26+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
-      "source_type": "org",
-      "category": "News",
-      "tldr": "The Wyoming Primary Election is quickly approaching, and your vote will help determine who will defend your Second Amendment rights in the years ahead. Gun Owners of America has completed our…"
-    },
-    {
       "id": "a2ed21361bc8b271",
       "title": "Why Lower Courts Agree on AR-15 Bans and Why it May Not Matter (Ft. Andrew Willinger)",
       "link": "https://www.youtube.com/watch?v=aYcD4MqfD1s",
@@ -1244,17 +1310,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Why Lower Courts Agree on AR-15 Bans and Why it May Not Matter (Ft. Andrew Willinger)"
-    },
-    {
-      "id": "c5813e182d4e02c9",
-      "title": "DOJ Fights Us on NFA and GOA Files PA Lawsuit",
-      "link": "https://www.gunowners.org/071126/",
-      "published": "2026-07-11T18:04:28+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "From the ATF issuing a new rule, strengthening the definition of “willfully” to protect FFLs and gun owners, to the Department of Justice fighting us on our lawsuit against the NFA’s registration…"
     },
     {
       "id": "42bf6074589b74a7",
