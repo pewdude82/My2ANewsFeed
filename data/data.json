@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-08-20T16:19:09.135746+00:00",
-  "item_count": 151,
+  "generated_at": "2026-08-20T20:14:36.739533+00:00",
+  "item_count": 137,
   "items": [
+    {
+      "id": "f191104d471b43c3",
+      "title": "Tate Adamiak has been in prison longer under President Trump than under Biden",
+      "link": "https://saf.org/tate-adamiak-has-been-in-prison-longer-under-president-trump-than-under-biden/",
+      "published": "2026-08-20T17:22:24+00:00",
+      "source_id": "saf",
+      "source_name": "Second Amendment Foundation",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "by Lee Williams There was initially a lot of talk about releasing Patrick “Tate” Adamiak from federal custody after President Donald Trump won his second term. One senior government official actually…"
+    },
+    {
+      "id": "b0b9d36d4bf2d9e1",
+      "title": "NFA RULING: Suppressor Law Update & The States That May Still Require Form 4s",
+      "link": "https://www.youtube.com/watch?v=-LJIwqsgZsU",
+      "published": "2026-08-20T17:20:43+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "NFA RULING: Suppressor Law Update & The States That May Still Require Form 4s"
+    },
+    {
+      "id": "8f2b2be3baf1f456",
+      "title": "SPEAKERS, TOPICS ANNOUNCED FOR GRPC PRE-CONFERENCE MEDIA EVENT",
+      "link": "https://saf.org/speakers-topics-announced-for-grpc-pre-conference-media-event/",
+      "published": "2026-08-20T17:17:36+00:00",
+      "source_id": "saf",
+      "source_name": "Second Amendment Foundation",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "BELLEVUE, Wash. — Aug. 20, 2026 — The annual Alternative Mass Media Conference (AMM-Con) planning committee has announced speakers and topics for the annual event slated to be held prior to the start…"
+    },
+    {
+      "id": "9aca73a5d14760af",
+      "title": "FBI: Murder Rate Hits All-Time Low",
+      "link": "https://thereload.com/fbi-murder-rate-hits-all-time-low/",
+      "published": "2026-08-20T16:20:06+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "News",
+      "tldr": "Violent crime plunged between 2024 and 2025, with the murder rate reaching record lows."
+    },
     {
       "id": "c149f26a78920ac1",
       "title": "Did Jensen Eliminate NFA Engraving? Here’s the Truth",
@@ -23,6 +67,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Immediate Intervention Pushed After Magazine Ban Struck Down!"
+    },
+    {
+      "id": "727f9657167cee4f",
+      "title": "Providing for consideration of the bill (H.R. 1181) to prohibit payment card networks and covered entities from requiring the use of or assigning merchant category codes that distinguish a firearms retailer from general-merchandise retailer or sporting-goods retailer, and for other purposes; providing for consideration of the bill (H.R. 9022) making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 8595) making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes; and providing for consideration of the bill (H.R. 9237) to amend titles 10 and 38, United States Code, and other Federal laws, to improve benefits for veterans and the administration of the Department of Veterans Affairs.",
+      "link": "https://www.congress.gov/bill/119th-congress/hres/1377",
+      "published": "2026-08-20T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: UNANIMOUS CONSENT REQUEST - Mr. Steil asked unanimous consent that H. Res. 1377 be laid on the table. Agreed to without objection."
     },
     {
       "id": "25968144bd360902",
@@ -91,17 +146,6 @@
       "tldr": "Huge Decision Finds ATF Frames/Receivers Rule Unconstitutional & Permanently Blocks Restrictions!"
     },
     {
-      "id": "ff85ed7c3292ddec",
-      "title": "Gabriel Luis Vasquez v. State of Iowa (Court of Appeals of Iowa)",
-      "link": "https://www.courtlistener.com/opinion/10953663/gabriel-luis-vasquez-v-state-of-iowa/",
-      "published": "2026-08-19T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "3c542d0c9a6ece51",
       "title": "SAF WIN: JUDGE RULES BIDEN ERA ATF FRAME AND RECEIVER RULE UNCONSTITUTIONAL",
       "link": "https://saf.org/saf-win-judge-rules-biden-era-atf-frame-and-receiver-rule-unconstitutional/",
@@ -166,28 +210,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court 9-0 Unanimous Decision Creates Major Constitutional Challenge With Nationwide Impacts!"
-    },
-    {
-      "id": "d91e439d771a64f4",
-      "title": "United States v. Enclade (Court of Appeals for the Fifth Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10953376/united-states-v-enclade/",
-      "published": "2026-08-18T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "cd6fba7c17df7600",
-      "title": "Paul Shafer v. Jason W. Grube (Indiana Court of Appeals)",
-      "link": "https://www.courtlistener.com/opinion/10953174/paul-shafer-v-jason-w-grube/",
-      "published": "2026-08-18T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "006d007f4e5cc1cb",
@@ -608,39 +630,6 @@
       "tldr": "Huge Ruling Now In Effect After Finding NFA Unconstitutional & Permanently Blocking Restrictions!"
     },
     {
-      "id": "f7789b7ff894878f",
-      "title": "Guerra Vasquez v. United States (Court of Appeals for the Fifth Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10948821/guerra-vasquez-v-united-states/",
-      "published": "2026-08-14T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "e28103be13746dd8",
-      "title": "United States v. Thompson (District Court, District of Columbia)",
-      "link": "https://www.courtlistener.com/opinion/10948763/united-states-v-thompson/",
-      "published": "2026-08-14T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "739c3488fd1f179f",
-      "title": "United Kansas v. Schwab (Court of Appeals of Kansas)",
-      "link": "https://www.courtlistener.com/opinion/10948526/united-kansas-v-schwab/",
-      "published": "2026-08-14T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "0348e8ddf9500783",
       "title": "DOJ BREAKS SILENCE on NFA Ruling — Then THIS Letter Drops",
       "link": "https://www.youtube.com/watch?v=nh_jNIffYyM",
@@ -751,28 +740,6 @@
       "tldr": "WHAT NOW? Huge Ruling Finds NFA Unconstitutional & Permanently Blocks Suppressor & SBR Restrictions!"
     },
     {
-      "id": "3721fd8b633d67d3",
-      "title": "Kentucky Downs Management, Inc. v. Kentucky Downs, LLC f/k/a Kentucky Racing Acquisition, LLC (Court of Chancery of Delaware)",
-      "link": "https://www.courtlistener.com/opinion/10947546/kentucky-downs-management-inc-v-kentucky-downs-llc-fka-kentucky/",
-      "published": "2026-08-13T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "ad3972e0abd36c1b",
-      "title": "People v. Brown (Appellate Division of the Supreme Court of the State of New York)",
-      "link": "https://www.courtlistener.com/opinion/10947303/people-v-brown/",
-      "published": "2026-08-13T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "faa0ea8fc986e282",
       "title": "What Does the Texas NFA Decision Mean for You?",
       "link": "https://www.nraila.org/articles/20260812/what-does-the-texas-nfa-decision-mean-for-you",
@@ -839,50 +806,6 @@
       "tldr": "Huge Ruling Finds NFA Unconstitutional & Permanently Blocks Suppressor & SBR Restrictions! What Now?"
     },
     {
-      "id": "326107a5fee1a178",
-      "title": "Application of 18 U.S.C. § 930(a) to Post Offices (Department of Justice Office of Legal Counsel)",
-      "link": "https://www.courtlistener.com/opinion/10947105/application-of-18-usc-930a-to-post-offices/",
-      "published": "2026-08-12T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "aeb52d9e626b2b9b",
-      "title": "United States v. Kyle Wagner (Court of Appeals for the Sixth Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10946076/united-states-v-kyle-wagner/",
-      "published": "2026-08-12T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "f72d759319bec98b",
-      "title": "Com. v. Williams, D. (Superior Court of Pennsylvania)",
-      "link": "https://www.courtlistener.com/opinion/10946050/com-v-williams-d/",
-      "published": "2026-08-12T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "46b4558fd11cdf45",
-      "title": "SAF SEEKS SUPREME COURT REVIEW IN 3D PRINTING LAWSUIT",
-      "link": "https://saf.org/saf-seeks-supreme-court-review-in-3d-printing-lawsuit/",
-      "published": "2026-08-11T19:50:14+00:00",
-      "source_id": "saf",
-      "source_name": "Second Amendment Foundation",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "BELLEVUE, Wash. — Aug. 11, 2026 — The Second Amendment Foundation (SAF) has filed a petition for writ of certiorari with the U.S. Supreme Court in Defense Distributed v. Attorney General of New…"
-    },
-    {
       "id": "06ab00ed631dfa94",
       "title": "New Supreme Court Decision Takeaways",
       "link": "https://www.youtube.com/shorts/zy3r9iNccNw",
@@ -892,17 +815,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "New Supreme Court Decision Takeaways"
-    },
-    {
-      "id": "d1ad3517cfd50858",
-      "title": "Calm v. Taylor (Court of Chancery of Delaware)",
-      "link": "https://www.courtlistener.com/opinion/10945062/calm-v-taylor/",
-      "published": "2026-08-11T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "27723a805ea87c35",
@@ -1004,17 +916,6 @@
       "tldr": "Supreme Court Delivers Emergency Election Denial Order With Major Nationwide Implications!"
     },
     {
-      "id": "6c2e725b65463a64",
-      "title": "United States v. Derby Clerfe (Court of Appeals for the Third Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10945911/united-states-v-derby-clerfe/",
-      "published": "2026-08-10T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "c0e88a344b58b31d",
       "title": "2A BREAKING NEWS: The Gun Control Attacks Just Keep Coming! | Gun Guru Live @7PM",
       "link": "https://www.youtube.com/watch?v=G_AMLY-aP1A",
@@ -1035,17 +936,6 @@
       "source_type": "journalism",
       "category": "Regulatory",
       "tldr": "The Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF) is currently considering expanding modern protections for traveling across state lines with firearms. A detailed look at the history…"
-    },
-    {
-      "id": "50d9d5061253e018",
-      "title": "Podcast: How Gun-Rights Advocates Convinced a Judge the National Firearms Act is Unconstitutional (Ft. FRAC’s Travis White)",
-      "link": "https://thereload.com/podcast-how-gun-rights-advocates-convinced-a-judge-the-national-firearms-act-is-unconstitutional-ft-fracs-travis-white/",
-      "published": "2026-08-09T09:02:27+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "Court Case",
-      "tldr": "Plus, I detail the latest on gun sales spiking in Colorado ahead of the state's new permit-to-purchase law going into effect on The News Update Podcast."
     },
     {
       "id": "8d1e24652911e885",
@@ -1090,17 +980,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Colorado Gun Sales Soar as Restrictions Arrive; @TheHumbleMarksman on the Industry's Crossroads"
-    },
-    {
-      "id": "d416fe71da573539",
-      "title": "How to prevent ATF from targeting innocent Americans … again",
-      "link": "https://saf.org/how-to-prevent-atf-from-targeting-innocent-americans-again/",
-      "published": "2026-08-07T17:44:11+00:00",
-      "source_id": "saf",
-      "source_name": "Second Amendment Foundation",
-      "source_type": "org",
-      "category": "Regulatory",
-      "tldr": "by Lee Williams Deep inside the hills near Martinsburg, West Virginia, on a government base with incredible security, lies what may be one of the most impressive firearm collections in the entire…"
     },
     {
       "id": "19adfc865fbe9bea",
@@ -1169,17 +1048,6 @@
       "tldr": "Federal Court Rules Key National Firearms Act Restrictions Are Unconstitutional in GOA Lawsuit FOR IMMEDIATE RELEASE August 5, 2026 SAN ANGELO, TX — Gun Owners of America (GOA) and fellow plaintiffs…"
     },
     {
-      "id": "a3f21658e1c4287a",
-      "title": "LAWYER: Two Supreme Court Gun Wins Just Revealed a Bigger Threat (Hmani + Wolford)",
-      "link": "https://www.youtube.com/watch?v=v2so2Eapn-8",
-      "published": "2026-08-05T19:00:10+00:00",
-      "source_id": "atty-tom-grieve",
-      "source_name": "Atty Tom Grieve",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "LAWYER: Two Supreme Court Gun Wins Just Revealed a Bigger Threat (Hmani + Wolford)"
-    },
-    {
       "id": "d35d5628544021aa",
       "title": "Unanimous Suppressor & NFA Decision Drops Immediately After Bad Precedent Trap!",
       "link": "https://www.youtube.com/watch?v=xLD454jfY0Q",
@@ -1200,28 +1068,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "A Pro-Gun Critique of the SCOTUS Second Amendment Test (Ft. GMU Professor Ilya Somin)"
-    },
-    {
-      "id": "00db333c65d39781",
-      "title": "United States v. Joshua Starling (Court of Appeals for the Sixth Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10938725/united-states-v-joshua-starling/",
-      "published": "2026-08-03T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "6ce2abd003146bf8",
-      "title": "United States v. Doe (Court of Appeals for the Tenth Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10938701/united-states-v-doe/",
-      "published": "2026-08-03T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "e20238cb6d3e695e",
