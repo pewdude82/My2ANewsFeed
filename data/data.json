@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-08-21T16:17:05.186128+00:00",
+  "generated_at": "2026-08-21T20:11:05.387436+00:00",
   "item_count": 150,
   "items": [
+    {
+      "id": "3f517a6ba66afa11",
+      "title": "Startup Says Its Developed 3D Printer Gun Part Filter; DOJ Rights Restoration Process Drops",
+      "link": "https://www.youtube.com/watch?v=k5-QYEKnvzw",
+      "published": "2026-08-21T18:53:29+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Startup Says Its Developed 3D Printer Gun Part Filter; DOJ Rights Restoration Process Drops"
+    },
+    {
+      "id": "994aaffdd45bf8d6",
+      "title": "THIS WEEK: Here’s Where Things Stand!",
+      "link": "https://www.gunowners.org/082126/",
+      "published": "2026-08-21T17:17:43+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "THIS WEEK IN GUN RIGHTS! At GOA, we’ve been hard at work fighting for your Second Amendment rights, here’s a recap of the things you should know… A federal judge ruled the registration requirements…"
+    },
     {
       "id": "b8ae0d623f12a8c4",
       "title": "Exclusive: New Company Says It’s Developed Gun-Part Blocker for 3D Printers",
@@ -45,6 +67,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Delivers 9-0 Unanimous Ruling With Major Nationwide & Constitutional Implications!"
+    },
+    {
+      "id": "4bdc7d7e91a39098",
+      "title": "United States v. Garrick Richardson (Court of Appeals for the D.C. Circuit)",
+      "link": "https://www.courtlistener.com/opinion/10954582/united-states-v-garrick-richardson/",
+      "published": "2026-08-21T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "e5b37b350bb7d515",
@@ -1224,17 +1257,6 @@
       "tldr": "A Pro-Gun Critique of the SCOTUS Second Amendment Test (Ft. GMU Professor Ilya Somin)"
     },
     {
-      "id": "00db333c65d39781",
-      "title": "United States v. Joshua Starling (Court of Appeals for the Sixth Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10938725/united-states-v-joshua-starling/",
-      "published": "2026-08-03T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "e20238cb6d3e695e",
       "title": "NJ Won't Give Up! State Appeals to Save AR-15 Ban | Gun Guru LIVE",
       "link": "https://www.youtube.com/watch?v=N3wMZuYWdMM",
@@ -1367,17 +1389,6 @@
       "tldr": "We're here to make sure every AWB gets TOSSED"
     },
     {
-      "id": "ed099475197ec676",
-      "title": "Gun Owners of America Sues U.S. Virgin Islands Over Unconstitutional Ban on Nonresident Right to Bear Arms",
-      "link": "https://www.gunowners.org/gun-owners-of-america-sues-u-s-virgin-islands-over-unconstitutional-ban-on-nonresident-right-to-bear-arms/",
-      "published": "2026-07-20T21:27:03+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "Gun Owners of America Sues U.S. Virgin Islands Over Unconstitutional Ban on Nonresident Right to Bear Arms FOR IMMEDIATE RELEASE July 20, 2026 CHARLOTTE AMALIE, USVI — Gun Owners of America (GOA) and…"
-    },
-    {
       "id": "558381daa7fb715c",
       "title": "Confronting the Flawed Story Behind the First SCOTUS Second Amendment Case (Ft. Brian Frye)",
       "link": "https://www.youtube.com/watch?v=cbiGAVLRPVw",
@@ -1508,17 +1519,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "SCOTUS Takes AR-15 Ban Challenge as Virginia Ban Goes Into Effect"
-    },
-    {
-      "id": "168a617750f68db9",
-      "title": "Lawyer Who Slayed the 'Vampire Rule' Explains SCOTUS Gun Ruling (Ft. Alan Beck)",
-      "link": "https://www.youtube.com/watch?v=Qum81sPYTEE",
-      "published": "2026-06-29T12:00:16+00:00",
-      "source_id": "the-reload-youtube",
-      "source_name": "The Reload (YouTube)",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Lawyer Who Slayed the 'Vampire Rule' Explains SCOTUS Gun Ruling (Ft. Alan Beck)"
     },
     {
       "id": "331bdbf081cdd3eb",
