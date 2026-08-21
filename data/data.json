@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-08-21T08:23:11.783786+00:00",
+  "generated_at": "2026-08-21T12:20:02.377384+00:00",
   "item_count": 151,
   "items": [
+    {
+      "id": "b8ae0d623f12a8c4",
+      "title": "Exclusive: New Company Says It’s Developed Gun-Part Blocker for 3D Printers",
+      "link": "https://thereload.com/exclusive-new-company-says-its-developed-gun-part-blocker-for-3d-printers/",
+      "published": "2026-08-21T09:04:18+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "News",
+      "tldr": "American lawmakers are looking for ways to stop 3D printers from making gun parts. A new startup in India believes it has developed a solution."
+    },
+    {
+      "id": "76bb98092bbe4b09",
+      "title": "Startup Founder Describes How His Gun Filter for 3D Printers Works. Enthusiasts Explain Why It Might Not. [Member Exclusive]",
+      "link": "https://thereload.com/startup-founder-describes-how-his-gun-filter-for-3d-printers-works-enthusiasts-explain-why-it-might-not-member-exclusive/",
+      "published": "2026-08-21T09:02:30+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "News",
+      "tldr": "A recent college graduate and Indian 3D-printer-farm owner claims his new software company can block printers from processing gun files, but not everyone is convinced."
+    },
+    {
+      "id": "5b513ede8268e7cf",
+      "title": "Newsletter: Have 3D-Printed-Gun Filters Arrived?",
+      "link": "https://thereload.com/newsletter-have-3d-printed-gun-filters-arrived/",
+      "published": "2026-08-21T09:00:40+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Court Case",
+      "tldr": "Plus, SAF's Kostas Moros joins the podcast to detail how the NFA injunction works."
+    },
     {
       "id": "0bded7849eb01f5e",
       "title": "Supreme Court Delivers 9-0 Unanimous Ruling With Major Nationwide & Constitutional Implications!",
@@ -12,6 +45,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Delivers 9-0 Unanimous Ruling With Major Nationwide & Constitutional Implications!"
+    },
+    {
+      "id": "b11d7a9090f2aa9e",
+      "title": "Stop Unfair Electricity Prices Act",
+      "link": "https://www.congress.gov/bill/119th-congress/hr/7926",
+      "published": "2026-08-21T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Referred to the House Committee on Energy and Commerce."
     },
     {
       "id": "e5b37b350bb7d515",
@@ -111,17 +155,6 @@
       "source_type": "primary_legal",
       "category": "Court Case",
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "25968144bd360902",
-      "title": "Providing for consideration of the bill (H.R. 139) to make daylight savings time permanent, and for other purposes; providing for consideration of the bill (H.R. 8595) making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 9237) to amend titles 10 and 38, United States Code, and other Federal laws, to improve benefits for veterans and the administration of the Department of Veterans Affairs; providing for consideration of the bill (H.R. 1181) to prohibit payment card networks and covered entities from requiring the use of or assigning merchant category codes that distinguish a firearms retailer from general-merchandise retailer or sporting-goods retailer, and for other purposes; and for other purposes.",
-      "link": "https://www.congress.gov/bill/119th-congress/hres/1423",
-      "published": "2026-08-20T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Motion to reconsider laid on the table Agreed to without objection."
     },
     {
       "id": "0ea7a6d47691f2ab",
@@ -663,28 +696,6 @@
       "tldr": "Gun trafficking isn’t protected by the Second Amendment."
     },
     {
-      "id": "f2427e0ae4c1978d",
-      "title": "Newsletter: Unregistered Silencer Sold as NFA Injunction Goes Into Effect",
-      "link": "https://thereload.com/newsletter-unregister-silencer-sold-as-nfa-injunction-goes-into-effect/",
-      "published": "2026-08-14T09:00:44+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "Court Case",
-      "tldr": "Plus, FRAC president and NFA case plaintiff Travis White explains on the podcast how his group convinced a federal judge to strike down wide swaths of the law."
-    },
-    {
-      "id": "d7742053dc710678",
-      "title": "Michigan’s Democratic Senate Candidate Floated Replacing the Second Amendment",
-      "link": "https://thereload.com/michigans-democratic-senate-candidate-floated-replacing-the-second-amendment/",
-      "published": "2026-08-14T01:09:03+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "Legislation",
-      "tldr": "Abdul El-Sayed suggested in a now-removed video that the right to keep and bear arms should be swapped out for a right to healthcare."
-    },
-    {
       "id": "3b564e02509f0135",
       "title": "Huge Ruling Now In Effect After Finding NFA Unconstitutional & Permanently Blocking Restrictions!",
       "link": "https://www.youtube.com/watch?v=jeiHOJOJkHY",
@@ -815,17 +826,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING: DOJ Does NOT Appeal! Legal to Purchase + Manufacture NFA Items DIRECT"
-    },
-    {
-      "id": "ada7aedb7cecd205",
-      "title": "Gun Group, Republican Candidate Transfer Unregistered Silencer as DOJ Misses Appeal Deadline",
-      "link": "https://thereload.com/gun-group-republican-candidate-transfer-unregistered-silencer-as-doj-misses-appeal-deadline/",
-      "published": "2026-08-13T05:04:40+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "Court Case",
-      "tldr": "In an act nearly 1oo years in the making, a silencer has been legally transferred between two parties without being registered under the National Firearms Act (NFA)."
     },
     {
       "id": "5d981335324a2421",
