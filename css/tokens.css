@@ -1,0 +1,47 @@
+:root {
+  /* Colors */
+  --bg: #FFFFFF;
+  --surface: #FCFBF7;
+  --surface-hover: #F2EFE6;
+  --border: #DAD5C7;
+  --text: #17181A;
+  --text-muted: #5B5F63;
+  --brass: #8C6D2A;
+  --steel: #3F6E85;
+  --ink: #17181A;
+
+  --cat-court: #C1502E;
+  --cat-legislation: #7E9A4A;
+  --cat-regulatory: #8D7CB0;
+  --cat-news: #6E93A6;
+  --cat-video: #C6A356;
+
+  /* Typography */
+  --font-display: 'Oswald', sans-serif;
+  --font-body: 'IBM Plex Sans', sans-serif;
+  --font-mono: 'IBM Plex Mono', monospace;
+
+  --text-page-title: clamp(26px, 4vw, 32px);
+  --text-section: 20px;
+  --text-body: 16px;
+  --text-meta: 13px;
+
+  /* Spacing scale */
+  --space-1: 8px;
+  --space-2: 12px;
+  --space-3: 16px;
+  --space-4: 24px;
+  --space-5: 32px;
+  --space-6: 48px;
+
+  /* Cards */
+  --card-radius: 6px;
+  --card-border: 1px solid var(--border);
+  --card-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+  --card-shadow-hover: 0 8px 20px rgba(0, 0, 0, 0.15);
+
+  /* Layout */
+  --max-width: 960px;
+  --max-width-narrow: 880px;
+  --site-nav-height: 53px;
+}

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en" data-base="../" data-page="about">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About — The 2A Ledger</title>
+<meta name="description" content="Sources, update cadence, and disclaimer for The 2A Ledger — a Second Amendment information hub.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../css/tokens.css">
+<link rel="stylesheet" href="../css/base.css">
+<link rel="stylesheet" href="../css/components.css">
+<link rel="stylesheet" href="../css/pages/states.css">
+</head>
+<body>
+
+<div id="site-nav"></div>
+<div class="ruler" aria-hidden="true"></div>
+
+<main class="page-main page-main--narrow">
+  <header class="state-page-header">
+    <p class="eyebrow">About</p>
+    <h1 class="page-title">The 2A Ledger</h1>
+    <p class="lead-text">A personal Second Amendment information hub — daily news aggregation plus plain-language state law reference guides backed by official sources.</p>
+  </header>
+
+  <section class="about-section">
+    <h2>What this site is</h2>
+    <p>The 2A Ledger combines two things: an auto-updating news briefing that pulls from advocacy orgs, court filings, federal bill tracking, and creator channels; and state law reference pages that explain key firearms laws in plain language with inline citations to government sources.</p>
+    <p>It is meant to be a fast-scan starting point — not a substitute for reading the original reporting or consulting a licensed attorney.</p>
+  </section>
+
+  <section class="about-section">
+    <h2>News briefing sources</h2>
+    <ul>
+      <li><strong>Advocacy orgs</strong> — Gun Owners of America, NRA-ILA, Second Amendment Foundation (RSS feeds)</li>
+      <li><strong>Independent journalism</strong> — The Reload (Stephen Gutowski)</li>
+      <li><strong>YouTube channels</strong> — Firearms Policy Coalition, Guns &amp; Gadgets, Armed Scholar</li>
+      <li><strong>Court filings</strong> — CourtListener (Free Law Project), federal cases via REST API</li>
+      <li><strong>Federal legislation</strong> — Congress.gov bill tracking (requires a free API key)</li>
+    </ul>
+    <p>Every news item links back to its original source. Summaries are either trimmed from the source description or generated via Claude Haiku when an API key is configured.</p>
+  </section>
+
+  <section class="about-section">
+    <h2>State law pages</h2>
+    <p>State law content is written from official government sources — state agency pages, General Statutes text, and Office of Legislative Research reports. Each claim on a state page includes an inline source link so you can verify it directly.</p>
+    <p>State law pages are updated manually when laws change. They are not live-tracked like the news feed.</p>
+  </section>
+
+  <section class="about-section">
+    <h2>Update cadence</h2>
+    <p>The news briefing refreshes automatically every four hours via a GitHub Actions workflow. State law reference pages are updated on a best-effort basis when significant legislation passes.</p>
+  </section>
+
+  <section class="about-section">
+    <h2>Disclaimer</h2>
+    <aside class="disclaimer-callout" role="note">
+      <p>This site is for general information only and does not constitute legal advice. Laws change, and how they apply can depend on facts specific to your situation. Verify anything here against the official source linked, or consult a licensed attorney, before acting on it.</p>
+    </aside>
+  </section>
+</main>
+
+<div id="site-footer"></div>
+
+<script src="../js/site.js"></script>
+</body>
+</html>

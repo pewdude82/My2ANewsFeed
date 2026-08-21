@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en" data-base="../" data-page="news">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>News Briefing — The 2A Ledger</title>
+<meta name="description" content="A daily briefing on Second Amendment news, federal court cases, and gun legislation.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../css/tokens.css">
+<link rel="stylesheet" href="../css/base.css">
+<link rel="stylesheet" href="../css/components.css">
+<link rel="stylesheet" href="../css/news.css">
+</head>
+<body>
+
+<div id="site-nav"></div>
+<div class="ruler" aria-hidden="true"></div>
+
+<section class="news-hero">
+  <div class="news-hero-inner">
+    <p class="eyebrow">Field Briefing · Second Amendment Tracker</p>
+    <h1 class="page-title" id="page-heading">News Briefing</h1>
+    <p class="lead-text">Court filings, bills, and reporting on gun rights — aggregated, plain language, straight to the point.</p>
+    <p class="updated" id="updated-line">Loading briefing…</p>
+  </div>
+</section>
+
+<main class="page-main news-main">
+  <div class="briefing-toolbar" id="briefing-toolbar">
+    <div class="briefing-context" id="briefing-context" hidden>
+      <a class="briefing-back" href=".">← Full briefing</a>
+    </div>
+    <div class="search-row">
+      <input type="search" id="search-input" placeholder="Search headlines…" aria-label="Search briefing">
+    </div>
+  </div>
+
+  <section id="lead" class="lead" hidden></section>
+
+  <section id="feed" class="briefing-feed" aria-live="polite">
+    <ol class="briefing-list" id="briefing-list">
+      <li class="briefing-skeleton" aria-hidden="true"><span class="skeleton-line"></span></li>
+      <li class="briefing-skeleton" aria-hidden="true"><span class="skeleton-line"></span></li>
+      <li class="briefing-skeleton" aria-hidden="true"><span class="skeleton-line"></span></li>
+      <li class="briefing-skeleton" aria-hidden="true"><span class="skeleton-line"></span></li>
+      <li class="briefing-skeleton" aria-hidden="true"><span class="skeleton-line"></span></li>
+    </ol>
+  </section>
+
+  <p class="empty-msg" id="empty-msg" hidden>No headlines match that search.</p>
+</main>
+
+<div id="site-footer"></div>
+
+<template id="item-template">
+  <li class="briefing-item">
+    <div class="briefing-item-meta">
+      <span class="tag" data-tag></span>
+      <time class="briefing-date" data-date></time>
+      <span class="dot">·</span>
+      <img class="favicon" data-favicon loading="lazy" alt="" width="14" height="14">
+      <span class="source" data-source></span>
+    </div>
+    <h2 class="briefing-item-title">
+      <a data-title-link target="_blank" rel="noopener noreferrer"></a>
+    </h2>
+    <p class="briefing-item-summary" data-tldr></p>
+  </li>
+</template>
+
+<template id="lead-template">
+  <article class="lead-briefing">
+    <p class="lead-eyebrow">Lead story</p>
+    <div class="briefing-item-meta">
+      <span class="tag" data-tag></span>
+      <time class="briefing-date" data-date></time>
+      <span class="dot">·</span>
+      <img class="favicon" data-favicon loading="lazy" alt="" width="14" height="14">
+      <span class="source" data-source></span>
+    </div>
+    <h2 class="lead-title">
+      <a data-title-link target="_blank" rel="noopener noreferrer"></a>
+    </h2>
+    <p class="lead-summary" data-tldr></p>
+    <a class="card-link" data-link target="_blank" rel="noopener noreferrer">Read at source →</a>
+  </article>
+</template>
+
+<script src="../js/site.js"></script>
+<script src="../js/news.js"></script>
+</body>
+</html>

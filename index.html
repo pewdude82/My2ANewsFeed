@@ -1,112 +1,116 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-base="" data-page="home">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>2A Briefing — Second Amendment News, Court Cases &amp; Legislation</title>
-<meta name="description" content="A daily briefing on Second Amendment news, federal court cases, and gun legislation.">
+<title>The 2A Ledger — Second Amendment News &amp; State Law Reference</title>
+<meta name="description" content="A Second Amendment information hub — daily news briefing, court cases, legislation, and state law reference guides.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="css/tokens.css">
+<link rel="stylesheet" href="css/base.css">
+<link rel="stylesheet" href="css/components.css">
+<link rel="stylesheet" href="css/pages/home.css">
 </head>
 <body>
 
+<div id="site-nav"></div>
 <div class="ruler" aria-hidden="true"></div>
 
-<header class="masthead">
-  <div class="masthead-inner">
-    <p class="eyebrow">FIELD BRIEFING · SECOND AMENDMENT TRACKER</p>
-    <h1>2A BRIEFING</h1>
-    <p class="subhead">Court filings, bills, and reporting on gun rights — aggregated, plain language, straight to the point.</p>
-    <p class="updated" id="updated-line">Loading briefing…</p>
-  </div>
-  <div class="stat-ticker" id="stat-ticker" aria-hidden="false">
-    <div class="stat-ticker-inner" id="stat-ticker-inner">
-      <span class="stat-item skeleton-pill"></span>
-      <span class="stat-item skeleton-pill"></span>
-      <span class="stat-item skeleton-pill"></span>
+<section class="hero">
+  <div class="hero-inner">
+    <p class="eyebrow">Second Amendment Information Hub</p>
+    <h1>The 2A Ledger</h1>
+    <p class="subhead">Court filings, bills, and reporting on gun rights — plus plain-language state law reference guides backed by official sources.</p>
+    <div class="btn-row">
+      <a class="btn btn-primary" href="news/">Browse full briefing</a>
+      <a class="btn btn-secondary" href="states/connecticut/">Connecticut law center</a>
     </div>
   </div>
-</header>
+</section>
 
-<main>
-  <section id="lead" class="lead" hidden></section>
+<main class="page-main">
+  <section class="home-section" aria-labelledby="briefing-nav-heading">
+    <p class="eyebrow">Field Briefing</p>
+    <h2 id="briefing-nav-heading" class="section-heading">News by topic</h2>
+    <p class="section-intro">Pick a category to open the full briefing filtered to that topic — court filings, bills, agency rules, reporting, and videos.</p>
 
-  <div class="controls">
-    <div class="filter-row" id="filter-row" role="tablist" aria-label="Filter by category">
-      <!-- populated by JS -->
-    </div>
-    <div class="search-row">
-      <input type="search" id="search-input" placeholder="Search the briefing…" aria-label="Search items">
-    </div>
-  </div>
-
-  <section id="feed" class="feed" aria-live="polite">
-    <div class="skeleton-grid" id="skeleton-grid">
-      <div class="skeleton-card"></div>
-      <div class="skeleton-card"></div>
-      <div class="skeleton-card"></div>
-      <div class="skeleton-card"></div>
+    <div class="news-tiles">
+      <a class="tile tile--cat" href="news/?cat=Court+Case" data-cat="Court Case">
+        <span class="tile-icon">Court Case</span>
+        <h3>Court Cases</h3>
+        <p>Filings, rulings, and docket updates from federal and state courts.</p>
+        <span class="tile-link">Open briefing →</span>
+      </a>
+      <a class="tile tile--cat" href="news/?cat=Legislation" data-cat="Legislation">
+        <span class="tile-icon">Legislation</span>
+        <h3>Legislation</h3>
+        <p>Bills introduced, committee action, votes, and signed laws.</p>
+        <span class="tile-link">Open briefing →</span>
+      </a>
+      <a class="tile tile--cat" href="news/?cat=Regulatory" data-cat="Regulatory">
+        <span class="tile-icon">Regulatory</span>
+        <h3>Regulatory</h3>
+        <p>Agency rules, ATF notices, and administrative actions.</p>
+        <span class="tile-link">Open briefing →</span>
+      </a>
+      <a class="tile tile--cat" href="news/?cat=News" data-cat="News">
+        <span class="tile-icon">News</span>
+        <h3>News</h3>
+        <p>General reporting and analysis from trusted outlets.</p>
+        <span class="tile-link">Open briefing →</span>
+      </a>
+      <a class="tile tile--cat" href="news/?cat=Video" data-cat="Video">
+        <span class="tile-icon">Video</span>
+        <h3>Videos</h3>
+        <p>Hearings, briefings, and explainers from YouTube sources.</p>
+        <span class="tile-link">Open briefing →</span>
+      </a>
+      <a class="tile tile--all" href="news/">
+        <span class="tile-icon">All topics</span>
+        <h3>Full briefing</h3>
+        <p>Everything in one feed — filters, search, and the lead story.</p>
+        <span class="tile-link">Browse all →</span>
+      </a>
     </div>
   </section>
 
-  <p class="empty-msg" id="empty-msg" hidden>No items match that filter. Try clearing the search or picking another category.</p>
+  <section class="home-section home-latest" aria-labelledby="latest-heading">
+    <div class="home-latest-header">
+      <h2 id="latest-heading" class="section-heading">Latest headlines</h2>
+      <a class="home-latest-all" href="news/">View all →</a>
+    </div>
+    <ul class="latest-list" id="latest-list">
+      <li class="latest-skeleton"><span class="skeleton-pill"></span></li>
+      <li class="latest-skeleton"><span class="skeleton-pill"></span></li>
+      <li class="latest-skeleton"><span class="skeleton-pill"></span></li>
+    </ul>
+  </section>
+
+  <section class="home-section" aria-labelledby="explore-heading">
+    <p class="eyebrow">Explore</p>
+    <h2 id="explore-heading" class="section-heading">Reference &amp; about</h2>
+    <div class="section-tiles">
+      <a class="tile" href="states/">
+        <span class="tile-icon">States</span>
+        <h3>State Law Center</h3>
+        <p>Permits, storage rules, magazine limits, carry restrictions, and recent legislative changes — explained in plain language with links to government sources.</p>
+        <span class="tile-link">Browse states →</span>
+      </a>
+      <a class="tile" href="about/">
+        <span class="tile-icon">About</span>
+        <h3>Sources &amp; Disclaimer</h3>
+        <p>Where the data comes from, how often it updates, and what this site is — and isn't — intended to be.</p>
+        <span class="tile-link">Learn more →</span>
+      </a>
+    </div>
+  </section>
 </main>
 
-<footer class="site-footer">
-  <p>Sources: org press releases, primary court filings via CourtListener, federal bill tracking via Congress.gov, and creator channels. Each item links back to its original source — always verify anything important there.</p>
-  <p class="footer-meta">Auto-refreshed on a schedule via GitHub Actions.</p>
-</footer>
+<div id="site-footer"></div>
 
-<template id="card-template">
-  <article class="card">
-    <div class="card-stripe" data-stripe></div>
-    <a class="card-thumb" data-thumb-link target="_blank" rel="noopener noreferrer" hidden>
-      <img data-thumb loading="lazy" alt="">
-      <span class="play-badge" data-play-badge hidden>▶</span>
-    </a>
-    <div class="card-body">
-      <div class="card-eyebrow">
-        <span class="tag" data-tag></span>
-        <img class="favicon" data-favicon loading="lazy" alt="" width="14" height="14">
-        <span class="source" data-source></span>
-        <span class="dot">·</span>
-        <span class="date" data-date></span>
-      </div>
-      <h2 class="card-title" data-title></h2>
-      <details class="card-details">
-        <summary>Read summary</summary>
-        <p class="card-tldr" data-tldr></p>
-        <a class="card-link" data-link target="_blank" rel="noopener noreferrer">View original source →</a>
-      </details>
-      <p class="ref" data-ref></p>
-    </div>
-  </article>
-</template>
-
-<template id="lead-template">
-  <article class="lead-card">
-    <a class="lead-thumb" data-thumb-link target="_blank" rel="noopener noreferrer" hidden>
-      <img data-thumb loading="lazy" alt="">
-      <span class="play-badge" data-play-badge hidden>▶</span>
-    </a>
-    <div class="lead-body">
-      <p class="lead-eyebrow">TOP OF THE DOCKET</p>
-      <div class="card-eyebrow">
-        <span class="tag" data-tag></span>
-        <img class="favicon" data-favicon loading="lazy" alt="" width="14" height="14">
-        <span class="source" data-source></span>
-        <span class="dot">·</span>
-        <span class="date" data-date></span>
-      </div>
-      <h2 class="lead-title" data-title></h2>
-      <p class="lead-tldr" data-tldr></p>
-      <a class="card-link" data-link target="_blank" rel="noopener noreferrer">View original source →</a>
-    </div>
-  </article>
-</template>
-
-<script src="app.js"></script>
+<script src="js/site.js"></script>
+<script src="js/home.js"></script>
 </body>
 </html>

@@ -1,0 +1,245 @@
+.hero {
+  padding: var(--space-6) var(--space-4) var(--space-5);
+  background:
+    radial-gradient(ellipse 900px 300px at 15% -10%, rgba(198, 163, 86, 0.08), transparent);
+  border-bottom: 1px solid var(--border);
+}
+
+.hero-inner {
+  max-width: var(--max-width-narrow);
+  margin: 0 auto;
+}
+
+.hero h1 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: clamp(36px, 7vw, 56px);
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  margin: 0 0 var(--space-3);
+}
+
+.hero .subhead {
+  font-size: var(--text-body);
+  color: var(--text-muted);
+  max-width: 520px;
+  margin: 0;
+  line-height: 1.6;
+}
+
+.home-section {
+  margin-bottom: var(--space-6);
+}
+
+.home-section:last-child {
+  margin-bottom: 0;
+}
+
+.home-section .section-heading {
+  margin: 0 0 var(--space-2);
+}
+
+.section-intro {
+  font-size: var(--text-body);
+  color: var(--text-muted);
+  max-width: 640px;
+  margin: 0 0 var(--space-4);
+  line-height: 1.6;
+}
+
+/* News category tiles */
+.news-tiles {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--space-3);
+}
+
+@media (max-width: 900px) {
+  .news-tiles { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 540px) {
+  .news-tiles { grid-template-columns: 1fr; }
+}
+
+.tile {
+  display: flex;
+  flex-direction: column;
+  background: var(--surface);
+  border: var(--card-border);
+  border-radius: var(--card-radius);
+  padding: var(--space-4);
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.tile:hover {
+  transform: translateY(-2px);
+  border-color: var(--brass);
+  box-shadow: var(--card-shadow-hover);
+  text-decoration: none;
+}
+
+.tile--cat {
+  border-left: 3px solid var(--brass);
+}
+
+.tile--cat[data-cat="Court Case"] { border-left-color: var(--cat-court); }
+.tile--cat[data-cat="Legislation"] { border-left-color: var(--cat-legislation); }
+.tile--cat[data-cat="Regulatory"] { border-left-color: var(--cat-regulatory); }
+.tile--cat[data-cat="News"] { border-left-color: var(--cat-news); }
+.tile--cat[data-cat="Video"] { border-left-color: var(--cat-video); }
+
+.tile--all {
+  background: var(--bg);
+  border-style: dashed;
+}
+
+.tile-icon {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--brass);
+  margin-bottom: var(--space-2);
+}
+
+.tile--cat[data-cat="Court Case"] .tile-icon { color: var(--cat-court); }
+.tile--cat[data-cat="Legislation"] .tile-icon { color: var(--cat-legislation); }
+.tile--cat[data-cat="Regulatory"] .tile-icon { color: var(--cat-regulatory); }
+.tile--cat[data-cat="News"] .tile-icon { color: var(--cat-news); }
+.tile--cat[data-cat="Video"] .tile-icon { color: var(--cat-video); }
+
+.tile h2,
+.tile h3 {
+  font-size: 18px;
+  font-weight: 600;
+  margin: 0 0 var(--space-2);
+}
+
+.tile p {
+  font-size: var(--text-meta);
+  color: var(--text-muted);
+  margin: 0 0 var(--space-3);
+  flex: 1;
+  line-height: 1.5;
+}
+
+.tile-link {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--brass);
+}
+
+.tile:hover .tile-link { text-decoration: underline; }
+
+/* Section tiles (States / About) */
+.section-tiles {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--space-3);
+}
+
+@media (max-width: 720px) {
+  .section-tiles { grid-template-columns: 1fr; }
+}
+
+/* Latest headlines strip */
+.home-latest-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--space-3);
+  margin-bottom: var(--space-3);
+}
+
+.home-latest-header .section-heading {
+  margin: 0;
+}
+
+.home-latest-all {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--brass);
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.home-latest-all:hover { text-decoration: underline; }
+
+.latest-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border: var(--card-border);
+  border-radius: var(--card-radius);
+  background: var(--surface);
+  overflow: hidden;
+}
+
+.latest-list > li {
+  border-bottom: 1px solid var(--border);
+}
+
+.latest-list > li:last-child {
+  border-bottom: none;
+}
+
+.latest-item {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-template-rows: auto auto;
+  gap: 2px var(--space-2);
+  padding: var(--space-3) var(--space-4);
+  text-decoration: none;
+  color: inherit;
+  transition: background 0.15s ease;
+}
+
+.latest-item:hover {
+  background: var(--surface-hover);
+  text-decoration: none;
+}
+
+.latest-item .tag {
+  grid-row: 1 / 3;
+  align-self: center;
+}
+
+.latest-title {
+  font-size: var(--text-body);
+  font-weight: 500;
+  line-height: 1.35;
+}
+
+.latest-meta {
+  font-family: var(--font-mono);
+  font-size: 11.5px;
+  color: var(--text-muted);
+}
+
+.latest-skeleton {
+  padding: var(--space-3) var(--space-4);
+}
+
+.latest-skeleton .skeleton-pill {
+  display: block;
+  height: 14px;
+  width: 70%;
+  border-radius: 3px;
+  background: linear-gradient(90deg, var(--border) 25%, var(--surface-hover) 50%, var(--border) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.2s infinite;
+}
+
+.latest-empty {
+  padding: var(--space-3) var(--space-4);
+  font-size: var(--text-meta);
+  color: var(--text-muted);
+}
+
+@keyframes shimmer {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
