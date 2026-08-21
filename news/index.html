@@ -56,17 +56,23 @@
 
 <template id="item-template">
   <li class="briefing-item">
-    <div class="briefing-item-meta">
-      <span class="tag" data-tag></span>
-      <time class="briefing-date" data-date></time>
-      <span class="dot">·</span>
-      <img class="favicon" data-favicon loading="lazy" alt="" width="14" height="14">
-      <span class="source" data-source></span>
+    <a class="briefing-thumb" data-thumb-link target="_blank" rel="noopener noreferrer" hidden>
+      <img data-thumb loading="lazy" alt="">
+      <span class="briefing-play" aria-hidden="true">▶</span>
+    </a>
+    <div class="briefing-item-body">
+      <div class="briefing-item-meta">
+        <span class="tag" data-tag></span>
+        <time class="briefing-date" data-date></time>
+        <span class="dot">·</span>
+        <img class="favicon" data-favicon loading="lazy" alt="" width="14" height="14">
+        <span class="source" data-source></span>
+      </div>
+      <h2 class="briefing-item-title">
+        <a data-title-link target="_blank" rel="noopener noreferrer"></a>
+      </h2>
+      <p class="briefing-item-summary" data-tldr></p>
     </div>
-    <h2 class="briefing-item-title">
-      <a data-title-link target="_blank" rel="noopener noreferrer"></a>
-    </h2>
-    <p class="briefing-item-summary" data-tldr></p>
   </li>
 </template>
 

@@ -41,6 +41,37 @@
     }
   }
 
+  function youtubeId(url) {
+    if (!url) return null;
+    try {
+      const u = new URL(url);
+      if (u.hostname.includes("youtu.be")) return u.pathname.slice(1);
+      if (u.searchParams.get("v")) return u.searchParams.get("v");
+      return null;
+    } catch (e) {
+      return null;
+    }
+  }
+
+  function applyVideoThumb(node, item) {
+    const thumbLink = node.querySelector("[data-thumb-link]");
+    const thumbImg = node.querySelector("[data-thumb]");
+    const listItem = node.querySelector(".briefing-item");
+    if (!thumbLink || !thumbImg || !listItem) return;
+
+    const vid = item.source_type === "youtube" ? youtubeId(item.link) : null;
+    if (item.category === "Video" && vid) {
+      thumbImg.src = `https://img.youtube.com/vi/${vid}/mqdefault.jpg`;
+      thumbImg.alt = item.title;
+      thumbLink.href = item.link || "#";
+      thumbLink.hidden = false;
+      listItem.classList.add("briefing-item--video");
+    } else {
+      thumbLink.hidden = true;
+      listItem.classList.remove("briefing-item--video");
+    }
+  }
+
   function fmtDate(iso) {
     if (!iso) return "Undated";
     const d = new Date(iso);
@@ -102,6 +133,7 @@
 
     const listItem = node.querySelector(".briefing-item");
     if (listItem) listItem.setAttribute("data-cat", item.category);
+    applyVideoThumb(node, item);
   }
 
   function renderLead(item) {
