@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T12:13:59.278906+00:00",
-  "item_count": 135,
+  "generated_at": "2026-08-23T16:10:05.749006+00:00",
+  "item_count": 150,
   "items": [
     {
       "id": "7b877d01b03d1f8a",
@@ -100,6 +100,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Startup Says It's Developed 3D Printed Gun Part Blocker; DOJ Rights Restoration Process Drops"
+    },
+    {
+      "id": "a55e713523bc1c47",
+      "title": "California: Multiple Anti-Gun Bills Still Alive as Legislature Enters Final Week",
+      "link": "https://www.nraila.org/articles/20260821/california-multiple-anti-gun-bills-still-alive-as-legislature-enters-final-week",
+      "published": "2026-08-21T18:28:59+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "The California Legislature enters its final full week of the 2026 Legislative Session on Monday, with several anti-gun bills eligible for floor votes. The most egregious bills include AB 2047, which…"
     },
     {
       "id": "994aaffdd45bf8d6",
@@ -454,6 +465,83 @@
       "tldr": "LAWYER: NFA Update. If You Think You’re Covered, THINK AGAIN!"
     },
     {
+      "id": "9e05f47d1044b37e",
+      "title": "Celebrations and Questions Follow DOJ's NFA Decision",
+      "link": "https://www.youtube.com/watch?v=hS5QBQXbtS8",
+      "published": "2026-08-17T15:55:19+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "The DOJ did not ask for a stay in a federal lawsuit challenging the NFA's registration scheme on items that no longer have a transfer or making tax imposed, and the judge's decision is now in effect…"
+    },
+    {
+      "id": "a8888cf70dfc1de7",
+      "title": "What This Huge NFA Ruling Means for Gun Owners",
+      "link": "https://www.youtube.com/watch?v=hvWax1vJs88",
+      "published": "2026-08-17T15:51:34+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "When Judge Wesley Hendrix of the U.S. District Court for the Northern District of Texas held on August 5, 2026, that the National Firearms Act’s (NFA) registration and approval requirements for…"
+    },
+    {
+      "id": "e4ca84acf3c1088c",
+      "title": "DOJ’s Post Office Directive Marks Another Second Amendment Milestone",
+      "link": "https://www.nraila.org/articles/20260817/doj-s-post-office-directive-marks-another-second-amendment-milestone",
+      "published": "2026-08-17T15:45:30+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Regulatory",
+      "tldr": "For decades, federal law and United States Postal Service regulations turned one of the most ordinary stops in American life, your local post office, into a federal “gun free zone.” That changed on…"
+    },
+    {
+      "id": "3aad6f3d9ec990a8",
+      "title": "ATF Director Corrects Gun Control Advocates on Regulatory Reform",
+      "link": "https://www.nraila.org/articles/20260817/atf-director-corrects-gun-control-advocates-on-regulatory-reform",
+      "published": "2026-08-17T15:41:23+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Regulatory",
+      "tldr": "In a stark departure from the last administration, the Bureau of Alcohol, Tobacco, Firearms and Explosives is taking gun control advocates to task for their sensationalist rhetoric and questionable…"
+    },
+    {
+      "id": "4815264a8f2e6fe4",
+      "title": "In Memoriam: Second Amendment Champion Allan Cors, 1936-2026",
+      "link": "https://www.nraila.org/articles/20260817/in-memoriam-second-amendment-champion-allan-cors-1936-2026",
+      "published": "2026-08-17T15:34:31+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "The Second Amendment lost one of its most ardent, longest-serving defenders on August 9 when past NRA President Allan D. Cors died. He was a lifelong shooter, a dedicated collector, an avid hunter…"
+    },
+    {
+      "id": "9d1dbf24cd994c92",
+      "title": "Meet the New Far Left; Same as the Establishment Left on Guns",
+      "link": "https://www.nraila.org/articles/20260817/meet-the-new-far-left-same-as-the-establishment-left-on-guns",
+      "published": "2026-08-17T15:32:16+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "Primary election season is winding down, and the final slates of candidates in most states have emerged ahead of the 2026 fall elections. Second Amendment issues may or may not have been front in…"
+    },
+    {
+      "id": "bb60214633da0d27",
+      "title": "Questions and Answers About the Texas NFA Case",
+      "link": "https://www.nraila.org/articles/20260817/questions-and-answers-about-the-texas-nfa-case",
+      "published": "2026-08-17T15:06:05+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "On August 12, we reported on an important development in the ongoing litigation over the National Firearms Act (NFA) filed by multiple plaintiffs in U.S. District Court for the Northern District of…"
+    },
+    {
       "id": "01fb706a71bebb68",
       "title": "SHOTPAY TURNS EVERYDAY FIREARMS COMMERCE INTO SUPPORT FOR SAF",
       "link": "https://saf.org/shotpay-turns-everyday-firearms-commerce-into-support-for-saf/",
@@ -641,6 +729,17 @@
       "tldr": "BELLEVUE, Wash. — Aug. 14, 2026 — The Gun Rights Policy Conference (GRPC) planning committee is pleased to announce that Assistant Attorney Generalfor Civil Rights at the U.S. Department of Justice…"
     },
     {
+      "id": "e29d83109aafef76",
+      "title": "California: Anti-Second Amendment Bills Advance from Appropriations Committees",
+      "link": "https://www.nraila.org/articles/20260814/california-anti-second-amendment-bills-advance-from-appropriations-committees",
+      "published": "2026-08-14T18:18:55+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "Yesterday, August 13th, both the Assembly and Senate Appropriations Committees advanced several anti-Second Amendment measures."
+    },
+    {
       "id": "aab0525fab6a1b34",
       "title": "NFA UPDATE: Can You Replace Your Brace Now?",
       "link": "https://www.youtube.com/watch?v=XCsax06-Y64",
@@ -683,6 +782,17 @@
       "source_type": "org",
       "category": "Court Case",
       "tldr": "BELLEVUE, Wash. — Aug. 14, 2026 — The Second Amendment Foundation (SAF) and its partners have filed a lawsuit in U.S. District Court for the Western District of New York challenging New York law that…"
+    },
+    {
+      "id": "294541352d19098f",
+      "title": "NRA Files Lawsuit Challenging New York’s Glock Ban",
+      "link": "https://www.nraila.org/articles/20260814/nra-files-lawsuit-challenging-new-york-s-glock-ban",
+      "published": "2026-08-14T12:38:07+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "The National Rifle Association, Second Amendment Foundation, Firearms Policy Coalition, the Firing Pin, LLC, and NRA members Lucas Nelson and Daniel Geary filed a lawsuit today challenging New York’s…"
     },
     {
       "id": "3b564e02509f0135",
@@ -839,6 +949,17 @@
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
+      "id": "faa0ea8fc986e282",
+      "title": "What Does the Texas NFA Decision Mean for You?",
+      "link": "https://www.nraila.org/articles/20260812/what-does-the-texas-nfa-decision-mean-for-you",
+      "published": "2026-08-12T23:26:19+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "On August 5, 2026, Judge Wesley Hendrix of the U.S. District Court for the Northern District of Texas held that the National Firearms Act’s registration and approval requirements for suppressors…"
+    },
+    {
       "id": "202cd09fe5cf68c1",
       "title": "HOURS LEFT: Will DOJ Kill the Texas NFA Ruling?",
       "link": "https://www.youtube.com/watch?v=htHuqHnUIN8",
@@ -859,6 +980,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Big Gun Rights Win! New Strategy Crushes Anti Gun State!"
+    },
+    {
+      "id": "7c9d86f1edfd677f",
+      "title": "NRA Joins Legal Fight Against Colorado’s Permit-to-Purchase Law for Semiautomatic Firearms",
+      "link": "https://www.nraila.org/articles/20260812/nra-joins-legal-fight-against-colorado-s-permit-to-purchase-law-for-semiautomatic-firearms",
+      "published": "2026-08-12T13:35:22+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "The National Rifle Association has joined the legal fight against SB25-003, Colorado’s permit-to-purchase scheme for certain semiautomatic firearms."
     },
     {
       "id": "a84e0302d193422a",
@@ -958,6 +1090,39 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "LAWYER: The Supreme Court Just Changed Their Entire Playbook"
+    },
+    {
+      "id": "1b2b784177628ad6",
+      "title": "NRA Experts Hard at Work on ATF Rules—Protecting Your Rights Every Step of the Way",
+      "link": "https://www.nraila.org/articles/20260810/nra-experts-hard-at-work-on-atf-rules-protecting-your-rights-every-step-of-the-way",
+      "published": "2026-08-10T16:18:46+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "When big news hits the Nation’s Capital, everyone notices. But a lot of the real work that keeps your Second Amendment rights strong happens quietly, deep in the federal rule-making process."
+    },
+    {
+      "id": "35157350a1855b56",
+      "title": "Want a Violence-Free Transit System? Disarm the Law-Abiding and Post Signs!",
+      "link": "https://www.nraila.org/articles/20260810/want-a-violence-free-transit-system-disarm-the-law-abiding-and-post-signs",
+      "published": "2026-08-10T15:58:03+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "The Chicago Transit Authority’s (CTA) public transit system has long been chancy for ordinary commuters, as documented by the excellent local crime reporting website, CWB Chicago."
+    },
+    {
+      "id": "6bdf4773b4cb145d",
+      "title": "DOJ Challenges Maryland County for Violating Constitutional Rights",
+      "link": "https://www.nraila.org/articles/20260810/doj-challenges-maryland-county-for-violating-constitutional-rights",
+      "published": "2026-08-10T15:33:19+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "When the federal government no longer sits on the sidelines and files its own lawsuit to protect the Second Amendment, pay attention. When the federal government is not just offering another amicus…"
     },
     {
       "id": "abda1bf4980da738",
