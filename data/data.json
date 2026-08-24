@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-24T12:20:33.507520+00:00",
+  "generated_at": "2026-08-24T16:20:46.935661+00:00",
   "item_count": 150,
   "items": [
+    {
+      "id": "ef47175846669c44",
+      "title": "MAGPUL RENEWS SAF PLATINUM-LEVEL PARTNERSHIP",
+      "link": "https://saf.org/magpul-renews-saf-platinum-level-partnership/",
+      "published": "2026-08-24T14:04:53+00:00",
+      "source_id": "saf",
+      "source_name": "Second Amendment Foundation",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "BELLEVUE, Wash. — Aug. 24, 2026 — The Second Amendment Foundation (SAF) is pleased to announce that Magpul has renewed their corporate partner commitment at the Platinum level. “Magpul is proud to…"
+    },
     {
       "id": "4d6e73894ea2a8c2",
       "title": "Murder Hits All-Time Low (Ft. AH Datalytic's Jeff Asher)",
@@ -23,6 +34,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Delivers Emergency Election Denial Order With Major Nationwide Implications!"
+    },
+    {
+      "id": "725f826a8208421b",
+      "title": "United States v. Venetia Torres (Court of Appeals for the Eighth Circuit)",
+      "link": "https://www.courtlistener.com/opinion/10956634/united-states-v-venetia-torres/",
+      "published": "2026-08-24T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "b5671f4c9ca06d38",
@@ -1026,17 +1048,6 @@
       "tldr": "The National Rifle Association has joined the legal fight against SB25-003, Colorado’s permit-to-purchase scheme for certain semiautomatic firearms."
     },
     {
-      "id": "a84e0302d193422a",
-      "title": "California docs prefer deafness over civil rights",
-      "link": "https://saf.org/california-docs-prefer-deafness-over-civil-rights/",
-      "published": "2026-08-12T01:51:00+00:00",
-      "source_id": "saf",
-      "source_name": "Second Amendment Foundation",
-      "source_type": "org",
-      "category": "News",
-      "tldr": "By Lee Williams Ask any longtime shooter to name a single piece of gear available today that they wished they had when they first started shooting years ago. If they hear you correctly, and you don’t…"
-    },
-    {
       "id": "4e6e847f85992c43",
       "title": "Huge Ruling Finds NFA Unconstitutional & Permanently Blocks Suppressor & SBR Restrictions! What Now?",
       "link": "https://www.youtube.com/watch?v=VImJt99KzTE",
@@ -1189,17 +1200,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Delivers Emergency Election Denial Order With Major Nationwide Implications!"
-    },
-    {
-      "id": "6c2e725b65463a64",
-      "title": "United States v. Derby Clerfe (Court of Appeals for the Third Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10945911/united-states-v-derby-clerfe/",
-      "published": "2026-08-10T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "c0e88a344b58b31d",
