@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-24T08:33:02.554940+00:00",
+  "generated_at": "2026-08-24T12:20:33.507520+00:00",
   "item_count": 150,
   "items": [
+    {
+      "id": "4d6e73894ea2a8c2",
+      "title": "Murder Hits All-Time Low (Ft. AH Datalytic's Jeff Asher)",
+      "link": "https://www.youtube.com/watch?v=aC029iV1vc8",
+      "published": "2026-08-24T12:00:31+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Murder Hits All-Time Low (Ft. AH Datalytic's Jeff Asher)"
+    },
     {
       "id": "b05fabc57b815ce5",
       "title": "Supreme Court Delivers Emergency Election Denial Order With Major Nationwide Implications!",
@@ -1508,17 +1519,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Where SCOTUS Has Come on Guns and Where It's Going (Ft. Stephen Halbrook)"
-    },
-    {
-      "id": "2bece495dc5bdd23",
-      "title": "SCOTUS Takes AR-15 Ban Challenge as Virginia Ban Goes Into Effect",
-      "link": "https://www.youtube.com/watch?v=knYIpxfG0R0",
-      "published": "2026-07-03T16:36:49+00:00",
-      "source_id": "the-reload-youtube",
-      "source_name": "The Reload (YouTube)",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "SCOTUS Takes AR-15 Ban Challenge as Virginia Ban Goes Into Effect"
     },
     {
       "id": "331bdbf081cdd3eb",
