@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-08-25T12:20:52.874035+00:00",
-  "item_count": 142,
+  "generated_at": "2026-08-25T16:21:48.919247+00:00",
+  "item_count": 151,
   "items": [
+    {
+      "id": "b9d919f1341703a2",
+      "title": "New Jersey Just Hired THIS Guy to Go After Gun Companies",
+      "link": "https://www.youtube.com/watch?v=Ma1dFQVQvcQ",
+      "published": "2026-08-25T14:30:50+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "New Jersey Just Hired THIS Guy to Go After Gun Companies"
+    },
+    {
+      "id": "eff0229a1a38b0e3",
+      "title": "Anti-gunners hilariously claim the CDC is wrong, the Gun Violence Archive is right",
+      "link": "https://saf.org/anti-gunners-hilariously-claim-the-cdc-is-wrong-the-gun-violence-archive-is-right/",
+      "published": "2026-08-25T13:18:00+00:00",
+      "source_id": "saf",
+      "source_name": "Second Amendment Foundation",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "by Lee Williams The Trace, the propaganda arm of former New York City mayor Michael Bloomberg’s gun control empire, moved a story Monday that has caused a bit of laughter—actually, a lot of laughter…"
+    },
+    {
+      "id": "c6c383ce10652df4",
+      "title": "NFA GUIDANCE WATCH: ATF Just Told Field Offices THIS",
+      "link": "https://www.youtube.com/shorts/XxZhC1FmV0E",
+      "published": "2026-08-25T12:54:26+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "NFA GUIDANCE WATCH: ATF Just Told Field Offices THIS"
+    },
     {
       "id": "8ab47fac84d53ede",
       "title": "Supreme Court 9-0 Unanimous Decision Creates Major Constitutional Challenge With Nationwide Impacts!",
@@ -23,17 +56,6 @@
       "source_type": "primary_legal",
       "category": "Legislation",
       "tldr": "Latest action: Referred to the House Committee on Energy and Commerce."
-    },
-    {
-      "id": "140de98d8eef1c14",
-      "title": "Firearm Access During Shutdowns Act",
-      "link": "https://www.congress.gov/bill/119th-congress/hr/5874",
-      "published": "2026-08-25T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for…"
     },
     {
       "id": "06aa20fa1c8a3944",
@@ -89,6 +111,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "ATF Appeal and Enforcement Guidance Are Coming"
+    },
+    {
+      "id": "73a219084f8d3039",
+      "title": "NFA Victory FAQ: What Gun Owners Need to Know",
+      "link": "https://www.gunowners.org/082426/",
+      "published": "2026-08-24T18:13:01+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "On August 5, 2026, a federal judge in Texas ruled that the National Firearms Act’s registration requirements are unconstitutional for certain firearms whose NFA tax has been reduced to $0. This…"
     },
     {
       "id": "e1c9dc7bfe621def",
@@ -267,6 +300,17 @@
       "tldr": "The California Legislature enters its final full week of the 2026 Legislative Session on Monday, with several anti-gun bills eligible for floor votes. The most egregious bills include AB 2047, which…"
     },
     {
+      "id": "994aaffdd45bf8d6",
+      "title": "THIS WEEK: Here’s Where Things Stand!",
+      "link": "https://www.gunowners.org/082126/",
+      "published": "2026-08-21T17:17:43+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "THIS WEEK IN GUN RIGHTS! At GOA, we’ve been hard at work fighting for your Second Amendment rights, here’s a recap of the things you should know… A federal judge ruled the registration requirements…"
+    },
+    {
       "id": "b8ae0d623f12a8c4",
       "title": "Exclusive: New Company Says It’s Developed Gun-Part Blocker for 3D Printers",
       "link": "https://thereload.com/exclusive-new-company-says-its-developed-gun-part-blocker-for-3d-printers/",
@@ -432,6 +476,17 @@
       "tldr": "CAN I REPLACE MY BRACE?! NFA Lawyers Finally Answer"
     },
     {
+      "id": "b3bd547653835162",
+      "title": "FL VICTORY: Byron Donalds Wins Primary Election",
+      "link": "https://www.gunowners.org/fl08192026/",
+      "published": "2026-08-19T21:00:30+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "Florida’s gun owners get to celebrate the Second Amendment wins that happened during last night’s primary elections. Why? Because GOA was the only gun rights organization involved in this election…"
+    },
+    {
       "id": "5809dc362b041007",
       "title": "Anti-Gunners Are PANICKING Over This Massive USPS Gun Rule Change",
       "link": "https://www.youtube.com/watch?v=mi4I4CJ26fs",
@@ -507,6 +562,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING: Another HUGE 2A WIN - Federal Judge STRIKES AT ATF’s “Ghost Gun” Rule"
+    },
+    {
+      "id": "bc0757d3d088572a",
+      "title": "Florida: Vote GOA on August 18",
+      "link": "https://www.gunowners.org/fl08182026/",
+      "published": "2026-08-18T11:00:55+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "Florida gun owners, Election Day is TODAY, Tuesday, August 18 — and it’s time to VOTE. The future of our Second Amendment rights in Florida will be shaped by who shows up to the polls in this primary…"
     },
     {
       "id": "647a5ea07b1c14e4",
@@ -784,6 +850,17 @@
       "tldr": "Lawyer: UPDATES! Can I SBR my Gun Now? NFA, Pistol Braces, Short Barreled Shotguns"
     },
     {
+      "id": "45c91bc025fd09c9",
+      "title": "Here’s How Gun Shops Can Transfer NFA Items",
+      "link": "https://www.gunowners.org/081526-2/",
+      "published": "2026-08-15T14:20:41+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "YOU ASKED, WE BUILT IT. Since our “One Big Beautiful Lawsuit” win, people have been joining GOA in numbers we have never seen. So much so, that our payment processor crashed. We understand the…"
+    },
+    {
       "id": "094dc53723609040",
       "title": "Supreme Court NFA & Suppressor Review Now Teed Up After Major Decisions Drop!",
       "link": "https://www.youtube.com/watch?v=swDQvcdmmds",
@@ -850,17 +927,6 @@
       "tldr": "Yesterday, August 13th, both the Assembly and Senate Appropriations Committees advanced several anti-Second Amendment measures."
     },
     {
-      "id": "aab0525fab6a1b34",
-      "title": "NFA UPDATE: Can You Replace Your Brace Now?",
-      "link": "https://www.youtube.com/watch?v=XCsax06-Y64",
-      "published": "2026-08-14T18:04:46+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "NFA UPDATE: Can You Replace Your Brace Now?"
-    },
-    {
       "id": "1699622a0cb33584",
       "title": "Big Plot Twist! ATF Counterattack? NFA Madness Continues in Day 2 Updates",
       "link": "https://www.youtube.com/watch?v=zXZUBoTDwLc",
@@ -870,17 +936,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Big Plot Twist! ATF Counterattack? NFA Madness Continues in Day 2 Updates"
-    },
-    {
-      "id": "e080e09b5a79693e",
-      "title": "DOJ Just Made a MASSIVE Move to Protect Gun Owners",
-      "link": "https://www.youtube.com/watch?v=gHJ8CTzYgkg",
-      "published": "2026-08-14T14:04:13+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "DOJ Just Made a MASSIVE Move to Protect Gun Owners"
     },
     {
       "id": "e118e43f5dfaa67a",
@@ -971,15 +1026,15 @@
       "tldr": "LAWYER: NFA Rules Just Changed!"
     },
     {
-      "id": "d2d0bfa540f39688",
-      "title": "NO APPEAL IN NFA LAWSUIT, INJUNCTION NOW IN EFFECT",
-      "link": "https://saf.org/no-appeal-in-nfa-lawsuit-injunction-now-in-effect/",
-      "published": "2026-08-13T17:19:48+00:00",
-      "source_id": "saf",
-      "source_name": "Second Amendment Foundation",
+      "id": "5576e9bd5c61fda1",
+      "title": "GOA Members Make History With First Suppressor Transfers Without NFA Registration Since 1934",
+      "link": "https://www.gunowners.org/goa-members-make-history-with-first-suppressor-transfers-without-nfa-registration-since-1934/",
+      "published": "2026-08-13T05:40:28+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
       "source_type": "org",
       "category": "Court Case",
-      "tldr": "BELLEVUE, Wash. — Aug. 13, 2026 — The injunction in Jensen v. ATF, a case supported by the Second Amendment Foundation (SAF), is now in effect after the government did not seek to extend the stay of…"
+      "tldr": "FOR IMMEDIATE RELEASE August 13, 2026 GOA Members to Make History with First Suppressor Transfers Without NFA Registration Since 1934 Leander, TX — Gun Owners of America (GOA), along with lead…"
     },
     {
       "id": "9a5ba3aa41b374b3",
@@ -1158,6 +1213,17 @@
       "tldr": "LAWYER: The Supreme Court Just Changed Their Entire Playbook"
     },
     {
+      "id": "abda1bf4980da738",
+      "title": "Tell The White House: Do Not Appeal GOA’s NFA Win!",
+      "link": "https://www.gunowners.org/081026/",
+      "published": "2026-08-10T14:17:43+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "TELL THE WHITE HOUSE: DON’T LET DOJ APPEAL OUR WIN! We won our case, but DOJ may appeal. Let’s secure our win and make the “most pro-2A” Department of Justice walk the walk… We just won our “One Big…"
+    },
+    {
       "id": "e4434eef3d230a85",
       "title": "Why a Judge Just Struck Down the National Firearms Act (Ft. FRAC's Travis White)",
       "link": "https://www.youtube.com/watch?v=-fD71VzKZZA",
@@ -1200,6 +1266,39 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Colorado Gun Sales Soar as Restrictions Arrive; @TheHumbleMarksman on the Industry's Crossroads"
+    },
+    {
+      "id": "19adfc865fbe9bea",
+      "title": "Don’t Let DOJ Appeal GOA’s NFA Win!",
+      "link": "https://www.gunowners.org/080726/",
+      "published": "2026-08-07T14:32:33+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "TELL YOUR SENATORS, DON’T LET DOJ APPEAL OUR WIN! We won our case, but DOJ may appeal. Let’s secure our win and tell the “most pro-2A” Department of Justice to walk the walk… We just won our “One Big…"
+    },
+    {
+      "id": "477dda30021aebcf",
+      "title": "WE WON OUR CASE AGAINST THE NATIONAL FIREARMS ACT!",
+      "link": "https://www.gunowners.org/080626-2/",
+      "published": "2026-08-06T14:59:09+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "WE WON OUR CASE AGAINST THE NATIONAL FIREARMS ACT! Thanks to GOA’s “One Big Beautiful Lawsuit” a federal judge has struck down the registration requirements on certain NFA items… We just won our “One…"
+    },
+    {
+      "id": "8c28baf9497a6bcf",
+      "title": "Federal Court Rules Key National Firearms Act Restrictions Are Unconstitutional in GOA Lawsuit",
+      "link": "https://www.gunowners.org/federal-court-rules-key-national-firearms-act-restrictions-are-unconstitutional-in-goa-lawsuit/",
+      "published": "2026-08-05T20:02:42+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "Federal Court Rules Key National Firearms Act Restrictions Are Unconstitutional in GOA Lawsuit FOR IMMEDIATE RELEASE August 5, 2026 SAN ANGELO, TX — Gun Owners of America (GOA) and fellow plaintiffs…"
     },
     {
       "id": "29bc66406ca1b37f",
