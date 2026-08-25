@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-08-25T16:21:48.919247+00:00",
-  "item_count": 151,
+  "generated_at": "2026-08-25T20:14:00.878676+00:00",
+  "item_count": 150,
   "items": [
+    {
+      "id": "0c91d7dd7c8a7764",
+      "title": "PA: Legalize Suppressors",
+      "link": "https://www.gunowners.org/pa082620226/",
+      "published": "2026-08-25T19:55:01+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "Let’s Eliminate Suppressor and SBS Restrictions in Pennsylvania Pennsylvanians should NEVER be treated like criminals for exercising their constitutionally-protected rights. Yet under Pennsylvania’s…"
+    },
+    {
+      "id": "5d1d12cc4c73fda4",
+      "title": "What insider sources are saying about the ATF?",
+      "link": "https://www.youtube.com/shorts/0EeHY6kZEEo",
+      "published": "2026-08-25T19:00:39+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "What insider sources are saying about the ATF?"
+    },
     {
       "id": "b9d919f1341703a2",
       "title": "New Jersey Just Hired THIS Guy to Go After Gun Companies",
@@ -45,17 +67,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court 9-0 Unanimous Decision Creates Major Constitutional Challenge With Nationwide Impacts!"
-    },
-    {
-      "id": "155d8198f92dafa1",
-      "title": "Infant Formula Safety Modernization Act of 2026",
-      "link": "https://www.congress.gov/bill/119th-congress/hr/7867",
-      "published": "2026-08-25T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Referred to the House Committee on Energy and Commerce."
     },
     {
       "id": "06aa20fa1c8a3944",
@@ -1202,17 +1213,6 @@
       "tldr": "Supreme Court Delivers 9-0 Unanimous Ruling With Major Nationwide & Constitutional Implications!"
     },
     {
-      "id": "b456d116b8b2f68b",
-      "title": "LAWYER: The Supreme Court Just Changed Their Entire Playbook",
-      "link": "https://www.youtube.com/watch?v=FulwVl3dEHg",
-      "published": "2026-08-10T19:00:06+00:00",
-      "source_id": "atty-tom-grieve",
-      "source_name": "Atty Tom Grieve",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "LAWYER: The Supreme Court Just Changed Their Entire Playbook"
-    },
-    {
       "id": "abda1bf4980da738",
       "title": "Tell The White House: Do Not Appeal GOA’s NFA Win!",
       "link": "https://www.gunowners.org/081026/",
@@ -1288,17 +1288,6 @@
       "source_type": "org",
       "category": "Court Case",
       "tldr": "WE WON OUR CASE AGAINST THE NATIONAL FIREARMS ACT! Thanks to GOA’s “One Big Beautiful Lawsuit” a federal judge has struck down the registration requirements on certain NFA items… We just won our “One…"
-    },
-    {
-      "id": "8c28baf9497a6bcf",
-      "title": "Federal Court Rules Key National Firearms Act Restrictions Are Unconstitutional in GOA Lawsuit",
-      "link": "https://www.gunowners.org/federal-court-rules-key-national-firearms-act-restrictions-are-unconstitutional-in-goa-lawsuit/",
-      "published": "2026-08-05T20:02:42+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "Federal Court Rules Key National Firearms Act Restrictions Are Unconstitutional in GOA Lawsuit FOR IMMEDIATE RELEASE August 5, 2026 SAN ANGELO, TX — Gun Owners of America (GOA) and fellow plaintiffs…"
     },
     {
       "id": "29bc66406ca1b37f",
