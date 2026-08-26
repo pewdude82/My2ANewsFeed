@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-08-26T12:22:48.236029+00:00",
-  "item_count": 150,
+  "generated_at": "2026-08-26T16:39:55.422456+00:00",
+  "item_count": 151,
   "items": [
+    {
+      "id": "def99dc65c47449a",
+      "title": "HUGE 2A WIN: You CAN’T Be Forced to Wait for Your Gun Rights",
+      "link": "https://www.youtube.com/watch?v=3rSNsJ-CzqM",
+      "published": "2026-08-26T13:59:05+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "HUGE 2A WIN: You CAN’T Be Forced to Wait for Your Gun Rights"
+    },
+    {
+      "id": "d22035ddcffdb159",
+      "title": "SAF CELEBRATES 52 YEARS AS LEADER IN SECOND AMENDMENT ADVOCACY",
+      "link": "https://saf.org/saf-celebrates-52-years-as-leader-in-second-amendment-advocacy/",
+      "published": "2026-08-26T13:31:21+00:00",
+      "source_id": "saf",
+      "source_name": "Second Amendment Foundation",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "BELLEVUE, Wash. — Aug. 26, 2026 — Today, Wednesday, Aug. 26, marks exactly 52 years of the Second Amendment Foundation (SAF) leading the charge in defending, securing and restoring the constitutional…"
+    },
     {
       "id": "3f4def5797da58ef",
       "title": "Supreme Court Issues Immediate Emergency Election Ruling With Major Nationwide Implications!",
@@ -12,6 +34,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Issues Immediate Emergency Election Ruling With Major Nationwide Implications!"
+    },
+    {
+      "id": "9f603ca82106a0a2",
+      "title": "Stop Unfair Medicaid Recoveries Act",
+      "link": "https://www.congress.gov/bill/119th-congress/hr/6951",
+      "published": "2026-08-26T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Referred to the House Committee on Energy and Commerce."
     },
     {
       "id": "0c91d7dd7c8a7764",
@@ -916,17 +949,6 @@
       "tldr": "First Legal Unregistered Silencer Sale in 100 Years; Unearthed Vids Show Abdul El-Sayed's Gun Views"
     },
     {
-      "id": "775b6a78ba9489d3",
-      "title": "ATF Just Got SHUT DOWN in Federal Court AGAIN",
-      "link": "https://www.youtube.com/watch?v=eyE2RD_UeLw",
-      "published": "2026-08-14T21:24:07+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "ATF Just Got SHUT DOWN in Federal Court AGAIN"
-    },
-    {
       "id": "45ce4dee3711d7a2",
       "title": "‘What about Tate?’",
       "link": "https://saf.org/what-about-tate/",
@@ -1035,17 +1057,6 @@
       "source_type": "primary_legal",
       "category": "Court Case",
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "cda7eced5efd10a9",
-      "title": "PLAINTIFFS SUBMIT LETTER TO DOJ/ATF SEEKING CLARITY IN NFA INJUNCTION RULING",
-      "link": "https://saf.org/plaintiffs-submit-letter-to-doj-atf-seeking-clarity-in-nfa-injunction-ruling/",
-      "published": "2026-08-13T20:22:20+00:00",
-      "source_id": "saf",
-      "source_name": "Second Amendment Foundation",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "BELLEVUE, Wash. — Aug. 13, 2026 — The plaintiffs in Jensen v. ATF, a challenge to the National Firearms Act (NFA) supported by Second Amendment Foundation (SAF), today submitted a letter to the…"
     },
     {
       "id": "4798f20ad6e28ba5",
