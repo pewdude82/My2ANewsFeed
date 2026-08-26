@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-25T20:14:00.878676+00:00",
+  "generated_at": "2026-08-26T00:30:39.947512+00:00",
   "item_count": 150,
   "items": [
+    {
+      "id": "3f4def5797da58ef",
+      "title": "Supreme Court Issues Immediate Emergency Election Ruling With Major Nationwide Implications!",
+      "link": "https://www.youtube.com/watch?v=pLq1mCyVULs",
+      "published": "2026-08-26T00:00:01+00:00",
+      "source_id": "armed-scholar",
+      "source_name": "Armed Scholar",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Supreme Court Issues Immediate Emergency Election Ruling With Major Nationwide Implications!"
+    },
     {
       "id": "0c91d7dd7c8a7764",
       "title": "PA: Legalize Suppressors",
@@ -67,6 +78,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court 9-0 Unanimous Decision Creates Major Constitutional Challenge With Nationwide Impacts!"
+    },
+    {
+      "id": "8fd04730dd5ada25",
+      "title": "United States v. Luna (Court of Appeals for the Fifth Circuit)",
+      "link": "https://www.courtlistener.com/opinion/10957768/united-states-v-luna/",
+      "published": "2026-08-25T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "06aa20fa1c8a3944",
@@ -1191,17 +1213,6 @@
       "tldr": "New Supreme Court Decision Takeaways"
     },
     {
-      "id": "d1ad3517cfd50858",
-      "title": "Calm v. Taylor (Court of Chancery of Delaware)",
-      "link": "https://www.courtlistener.com/opinion/10945062/calm-v-taylor/",
-      "published": "2026-08-11T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "27723a805ea87c35",
       "title": "Supreme Court Delivers 9-0 Unanimous Ruling With Major Nationwide & Constitutional Implications!",
       "link": "https://www.youtube.com/watch?v=FZcAGUZMr50",
@@ -1233,17 +1244,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Why a Judge Just Struck Down the National Firearms Act (Ft. FRAC's Travis White)"
-    },
-    {
-      "id": "209b178aa2b5e712",
-      "title": "Supreme Court Delivers Emergency Election Denial Order With Major Nationwide Implications!",
-      "link": "https://www.youtube.com/watch?v=1GpMby8TsgI",
-      "published": "2026-08-10T00:00:04+00:00",
-      "source_id": "armed-scholar",
-      "source_name": "Armed Scholar",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Supreme Court Delivers Emergency Election Denial Order With Major Nationwide Implications!"
     },
     {
       "id": "c0e88a344b58b31d",
