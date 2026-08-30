@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-08-30T01:55:03.139301+00:00",
+  "generated_at": "2026-08-30T09:30:47.515395+00:00",
   "item_count": 148,
   "items": [
+    {
+      "id": "00ab39f924013e5a",
+      "title": "Analysis: Will NFA Processing Improvements Undermine Challenges to the Law? [Member Exclusive]",
+      "link": "https://thereload.com/analysis-will-nfa-processing-improvements-undermine-challenges-to-the-law-member-exclusive/",
+      "published": "2026-08-30T09:04:07+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "News",
+      "tldr": "It's easier than ever to own an item regulated by the National Firearms Act (NFA), and that might actually become a problem for those trying to overturn it."
+    },
+    {
+      "id": "2982249a9b96ce3d",
+      "title": "Podcast: ATF Hacked in Russian Ransomware Attack (Ft. Cybernews’ Stefanie Schappert) [Member Early Access]",
+      "link": "https://thereload.com/podcast-atf-hacked-in-russian-ransomware-attack-ft-cybernews-stefanie-schappert/",
+      "published": "2026-08-30T09:02:14+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Regulatory",
+      "tldr": "Plus, YouTuber JaredAF talks marksmanship on the news update!"
+    },
+    {
+      "id": "bd8ff3aabd8f23d9",
+      "title": "Members’ Newsletter: Do NFA Improvements Impair Court Challenges?",
+      "link": "https://thereload.com/members-newsletter-do-nfa-improvements-impair-court-challenges/",
+      "published": "2026-08-30T09:00:06+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Court Case",
+      "tldr": "Plus, I investigate the ATF ransomware hack on the podcast with Cybernews' Stephanie Schappert."
+    },
     {
       "id": "6ee0a95c60fbbb6e",
       "title": "BREAKING! Supreme Court Challenge To Permanently End \"Assault Weapon\" Bans Pushes Forward!",
@@ -641,17 +674,6 @@
       "tldr": "Plus, reporter Julie Miller and I cover an exclusive interview with a startup founder who says he's developed software to block 3D printers from producing gun parts."
     },
     {
-      "id": "c97215b4bd0e9510",
-      "title": "Members’ Newsletter: How the ATF ‘Ghost Gun’ Kit Ban Went From Kosher to Over",
-      "link": "https://thereload.com/members-newsletter-how-the-atf-ghost-gun-kit-ban-went-from-kosher-to-over/",
-      "published": "2026-08-23T09:00:20+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "Regulatory",
-      "tldr": "Plus, crime data analyst Jeff Asher joins the podcast to discuss murder falling to an all-time low."
-    },
-    {
       "id": "af0743a8941be34e",
       "title": "BREAKING! Supreme Court Grants Immediate Review In Major Constitutional Rights Challenge!",
       "link": "https://www.youtube.com/watch?v=LrzuRqLH0oY",
@@ -727,28 +749,6 @@
       "source_type": "org",
       "category": "Court Case",
       "tldr": "THIS WEEK IN GUN RIGHTS! At GOA, we’ve been hard at work fighting for your Second Amendment rights, here’s a recap of the things you should know… A federal judge ruled the registration requirements…"
-    },
-    {
-      "id": "b8ae0d623f12a8c4",
-      "title": "Exclusive: New Company Says It’s Developed Gun-Part Blocker for 3D Printers",
-      "link": "https://thereload.com/exclusive-new-company-says-its-developed-gun-part-blocker-for-3d-printers/",
-      "published": "2026-08-21T09:04:18+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "News",
-      "tldr": "American lawmakers are looking for ways to stop 3D printers from making gun parts. A new startup in India believes it has developed a solution."
-    },
-    {
-      "id": "76bb98092bbe4b09",
-      "title": "Startup Founder Describes How His Gun Filter for 3D Printers Works. Enthusiasts Explain Why It Might Not. [Member Exclusive]",
-      "link": "https://thereload.com/startup-founder-describes-how-his-gun-filter-for-3d-printers-works-enthusiasts-explain-why-it-might-not-member-exclusive/",
-      "published": "2026-08-21T09:02:30+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "News",
-      "tldr": "A recent college graduate and Indian 3D-printer-farm owner claims his new software company can block printers from processing gun files, but not everyone is convinced."
     },
     {
       "id": "0bded7849eb01f5e",
