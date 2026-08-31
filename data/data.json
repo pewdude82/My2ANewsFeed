@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-08-31T10:09:02.834047+00:00",
-  "item_count": 148,
+  "generated_at": "2026-08-31T18:16:29.725329+00:00",
+  "item_count": 150,
   "items": [
+    {
+      "id": "0c7359f35b8814d4",
+      "title": "They Tried To Hide It — The Truth About Defensive Gun Use",
+      "link": "https://www.youtube.com/watch?v=jgKv6TQgxGk",
+      "published": "2026-08-31T17:20:20+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "They Tried To Hide It — The Truth About Defensive Gun Use"
+    },
+    {
+      "id": "3a7922d73b8e5eb1",
+      "title": "All Flags, No Fix: Michigan’s Real Public Safety Problem",
+      "link": "https://www.nraila.org/articles/20260831/all-flags-no-fix-michigan-s-real-public-safety-problem",
+      "published": "2026-08-31T15:54:24+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "Sorry, Michiganders, but the state has developed a serious problem with crime and consequences."
+    },
+    {
+      "id": "318ec4918e88f1a7",
+      "title": "Australia Remains Committed to Eliminating Guns from the Law-Abiding",
+      "link": "https://www.nraila.org/articles/20260831/australia-remains-committed-to-eliminating-guns-from-the-law-abiding",
+      "published": "2026-08-31T15:48:44+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Regulatory",
+      "tldr": "It’s been a long time since Australia had relatively sensible gun laws. While national regulations did not really come into play until the 1990s, the states and territories began imposing severe…"
+    },
+    {
+      "id": "b5dc59194261b81c",
+      "title": "Biden-Era “Engaged in the Business” Rule (Again) Ruled Illegal",
+      "link": "https://www.nraila.org/articles/20260831/biden-era-engaged-in-the-business-rule-again-ruled-illegal",
+      "published": "2026-08-31T15:37:21+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "The anti-gun programs and policies of the Biden-Harris administration have been falling like dominoes, lately."
+    },
+    {
+      "id": "efb1a1bbe59c4673",
+      "title": "Commerce Dept. Explains Why Unconstitutional Microstamping is Also Ineffective",
+      "link": "https://www.nraila.org/articles/20260831/commerce-dept-explains-why-unconstitutional-microstamping-is-also-ineffective",
+      "published": "2026-08-31T15:26:37+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "On August 12, the U.S. Department of Commerce’s National Institute of Standards and Technology (NIST) sent a letter to U.S. House Committee on Science, Space and Technology Chairman Brian Babin…"
+    },
+    {
+      "id": "3f166589e0b7d00d",
+      "title": "A New Era of Access for Hunters: Trump DOI Expands Opportunities in Historic Move",
+      "link": "https://www.nraila.org/articles/20260831/a-new-era-of-access-for-hunters-trump-doi-expands-opportunities-in-historic-move",
+      "published": "2026-08-31T15:14:05+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "Heading into hunting season, America's sportsmen and women have another significant development from the Trump administration worth celebrating."
+    },
+    {
+      "id": "7fa1acadbc8cb045",
+      "title": "EXCLUSIVE: NRA Hits The Road For Midterm Battleground State Tour",
+      "link": "https://www.dailywire.com/news/exclusive-nra-hits-the-road-for-midterm-battleground-state-tour?topStoryPosition=undefined&author=Drew+Berkemeyer&category=Exclusive&elementPosition=1&row=1&rowHeadline=Top+Stories&rowType=Top+Stories&title=EXCLUSIVE%3A+NRA+Hits+The+Road+For+Midterm+Battleground+State+Tour",
+      "published": "2026-08-31T15:09:33+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "The National Rifle Association is going on the road for the 2026 midterm elections, launching its first-ever national bus tour Thursday to mobilize gun owners across 13 states where control of…"
+    },
+    {
+      "id": "b8cca7cbf4ef0872",
+      "title": "NRA-ILA Launches First-Ever National “Gun Bus Battleground Tour” to Mobilize Gun Owners for 2026 Midterms",
+      "link": "https://www.nraila.org/articles/20260831/nra-ila-launches-first-ever-national-gun-bus-battleground-tour-to-mobilize-gun-owners-for-2026-midterms",
+      "published": "2026-08-31T14:47:22+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "FAIRFAX, Va. — The National Rifle Association Institute for Legislative Action (NRA-ILA) todaylaunched its first-ever national bus tour, the 2026 NRA’s Gun Bus Battleground Tour, a more than two…"
+    },
+    {
+      "id": "6624246ac00e8399",
+      "title": "Connecticut Glock Ban Update, CCDL Endorsements & NFA Victory | 2A Roundtable",
+      "link": "https://www.youtube.com/watch?v=2bpHGifqZLc",
+      "published": "2026-08-31T14:00:06+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Connecticut Glock Ban Update, CCDL Endorsements & NFA Victory | 2A Roundtable"
+    },
+    {
+      "id": "db86581f88911d6e",
+      "title": "BROWNELLS RENEWS SILVER-LEVEL CORPORATE PARTNERSHIP",
+      "link": "https://saf.org/brownells-renews-silver-level-corporate-partnership/",
+      "published": "2026-08-31T13:19:50+00:00",
+      "source_id": "saf",
+      "source_name": "Second Amendment Foundation",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "BELLEVUE, Wash. — Aug. 31, 2026 — The Second Amendment Foundation is pleased to announce that Brownells, a leading provider in gunsmithing tools, parts, accessories and ammunition, has renewed their…"
+    },
+    {
+      "id": "62fa9021891c8c8d",
+      "title": "Why the NFA Injunction DOESN’T Protect Everyone",
+      "link": "https://www.youtube.com/watch?v=59v8RctmTZ8",
+      "published": "2026-08-31T12:47:33+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Why the NFA Injunction DOESN’T Protect Everyone"
+    },
+    {
+      "id": "9043061bad327f60",
+      "title": "ATF Hacked in Russian Ransomware Attack (Ft. Cybernews' Stefanie Schappert)",
+      "link": "https://www.youtube.com/watch?v=QcfU6ivhkTE",
+      "published": "2026-08-31T12:00:10+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "ATF Hacked in Russian Ransomware Attack (Ft. Cybernews' Stefanie Schappert)"
+    },
+    {
+      "id": "35093fd4fe252b83",
+      "title": "ATF Director Robert Cekada just issued a major update on the historic NFA injunction.",
+      "link": "https://www.youtube.com/shorts/OLS1LUdzjuA",
+      "published": "2026-08-31T11:04:32+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "ATF Director Robert Cekada just issued a major update on the historic NFA injunction."
+    },
     {
       "id": "dedc3c8a2ce85273",
       "title": "Supreme Court Issues 9-0 Unanimous Decision With Major Nationwide & Constitutional Implications!",
@@ -553,17 +696,6 @@
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
-      "id": "06aa20fa1c8a3944",
-      "title": "The 10 Greatest 2A Wins of 2026 (You Won't Believe #1)",
-      "link": "https://www.youtube.com/watch?v=2Vbch42vigs",
-      "published": "2026-08-24T23:11:36+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "The Top 10 Gun Rights Victories of 2026 — RANKED"
-    },
-    {
       "id": "e0fb836740a3d1ba",
       "title": "SCOTUS Statutory Ruling Not the Final Word on Biden-Era “Frame or Receiver” Rule",
       "link": "https://www.nraila.org/articles/20260824/scotus-statutory-ruling-not-the-final-word-on-biden-era-frame-or-receiver-rule",
@@ -617,17 +749,6 @@
       "source_type": "org",
       "category": "Court Case",
       "tldr": "On August 5, 2026, a federal judge in Texas ruled that the National Firearms Act’s registration requirements are unconstitutional for certain firearms whose NFA tax has been reduced to $0. This…"
-    },
-    {
-      "id": "e1c9dc7bfe621def",
-      "title": "NFA GUIDANCE WATCH: ATF Field Offices Told NOT to Answer?!",
-      "link": "https://www.youtube.com/watch?v=PA7jNY6SeI4",
-      "published": "2026-08-24T17:19:29+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "NFA GUIDANCE WATCH: ATF Field Offices Told NOT to Answer?!"
     },
     {
       "id": "ef47175846669c44",
@@ -738,17 +859,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "NFA Ruling Confusion: 9 States Say Residents Are Protected"
-    },
-    {
-      "id": "b5a7a36536221a54",
-      "title": "BREAKING: California & Giffords Just LOST at the Ninth Circuit",
-      "link": "https://www.youtube.com/watch?v=HvXabNY1xSM",
-      "published": "2026-08-22T14:52:17+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "BREAKING: California & Giffords Just LOST at the Ninth Circuit"
     },
     {
       "id": "b553f5aed5361f13",
@@ -1026,61 +1136,6 @@
       "tldr": "When Judge Wesley Hendrix of the U.S. District Court for the Northern District of Texas held on August 5, 2026, that the National Firearms Act’s (NFA) registration and approval requirements for…"
     },
     {
-      "id": "e4ca84acf3c1088c",
-      "title": "DOJ’s Post Office Directive Marks Another Second Amendment Milestone",
-      "link": "https://www.nraila.org/articles/20260817/doj-s-post-office-directive-marks-another-second-amendment-milestone",
-      "published": "2026-08-17T15:45:30+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "Regulatory",
-      "tldr": "For decades, federal law and United States Postal Service regulations turned one of the most ordinary stops in American life, your local post office, into a federal “gun free zone.” That changed on…"
-    },
-    {
-      "id": "3aad6f3d9ec990a8",
-      "title": "ATF Director Corrects Gun Control Advocates on Regulatory Reform",
-      "link": "https://www.nraila.org/articles/20260817/atf-director-corrects-gun-control-advocates-on-regulatory-reform",
-      "published": "2026-08-17T15:41:23+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "Regulatory",
-      "tldr": "In a stark departure from the last administration, the Bureau of Alcohol, Tobacco, Firearms and Explosives is taking gun control advocates to task for their sensationalist rhetoric and questionable…"
-    },
-    {
-      "id": "4815264a8f2e6fe4",
-      "title": "In Memoriam: Second Amendment Champion Allan Cors, 1936-2026",
-      "link": "https://www.nraila.org/articles/20260817/in-memoriam-second-amendment-champion-allan-cors-1936-2026",
-      "published": "2026-08-17T15:34:31+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "News",
-      "tldr": "The Second Amendment lost one of its most ardent, longest-serving defenders on August 9 when past NRA President Allan D. Cors died. He was a lifelong shooter, a dedicated collector, an avid hunter…"
-    },
-    {
-      "id": "9d1dbf24cd994c92",
-      "title": "Meet the New Far Left; Same as the Establishment Left on Guns",
-      "link": "https://www.nraila.org/articles/20260817/meet-the-new-far-left-same-as-the-establishment-left-on-guns",
-      "published": "2026-08-17T15:32:16+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "Primary election season is winding down, and the final slates of candidates in most states have emerged ahead of the 2026 fall elections. Second Amendment issues may or may not have been front in…"
-    },
-    {
-      "id": "bb60214633da0d27",
-      "title": "Questions and Answers About the Texas NFA Case",
-      "link": "https://www.nraila.org/articles/20260817/questions-and-answers-about-the-texas-nfa-case",
-      "published": "2026-08-17T15:06:05+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "On August 12, we reported on an important development in the ongoing litigation over the National Firearms Act (NFA) filed by multiple plaintiffs in U.S. District Court for the Northern District of…"
-    },
-    {
       "id": "01fb706a71bebb68",
       "title": "SHOTPAY TURNS EVERYDAY FIREARMS COMMERCE INTO SUPPORT FOR SAF",
       "link": "https://saf.org/shotpay-turns-everyday-firearms-commerce-into-support-for-saf/",
@@ -1178,17 +1233,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "First Legal Unregistered Silencer Sale in 100 Years; Unearthed Vids Show Abdul El-Sayed's Gun Views"
-    },
-    {
-      "id": "45ce4dee3711d7a2",
-      "title": "‘What about Tate?’",
-      "link": "https://saf.org/what-about-tate/",
-      "published": "2026-08-14T20:01:39+00:00",
-      "source_id": "saf",
-      "source_name": "Second Amendment Foundation",
-      "source_type": "org",
-      "category": "News",
-      "tldr": "by Lee Williams Dave Adamiak, whose son Patrick “Tate” Adamiak has 17 more years left to serve in federal prison, is confused, perplexed and nearing his wit’s end. While he appreciates all the…"
     },
     {
       "id": "1699622a0cb33584",
@@ -1466,17 +1510,6 @@
       "tldr": "California Glock Ban Block Denied; Appeals Court Upholds Gun Ban for Weed Smoker"
     },
     {
-      "id": "f154d54a510bf1c9",
-      "title": "Kore Essentials Leather EDC Belt Review | The BEST Concealed Carry Gun Belt?",
-      "link": "https://www.youtube.com/watch?v=VC_sKtpekT8",
-      "published": "2026-07-16T20:00:27+00:00",
-      "source_id": "gun-guru",
-      "source_name": "Gun Guru",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Kore Essentials Leather EDC Belt Review | The BEST Concealed Carry Gun Belt?"
-    },
-    {
       "id": "a2ed21361bc8b271",
       "title": "Why Lower Courts Agree on AR-15 Bans and Why it May Not Matter (Ft. Andrew Willinger)",
       "link": "https://www.youtube.com/watch?v=aYcD4MqfD1s",
@@ -1486,17 +1519,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Why Lower Courts Agree on AR-15 Bans and Why it May Not Matter (Ft. Andrew Willinger)"
-    },
-    {
-      "id": "42bf6074589b74a7",
-      "title": "Virginia AR-15 Ban Set to be Blocked Statewide; Texas's Talarico Backed 'Assault Weapons' Ban",
-      "link": "https://www.youtube.com/watch?v=7g0ekPmybf8",
-      "published": "2026-07-10T17:14:36+00:00",
-      "source_id": "the-reload-youtube",
-      "source_name": "The Reload (YouTube)",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Virginia AR-15 Ban Set to be Blocked Statewide; Texas's Talarico Backed 'Assault Weapons' Ban"
     },
     {
       "id": "331bdbf081cdd3eb",
