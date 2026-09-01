@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-01T02:13:04.302386+00:00",
-  "item_count": 150,
+  "generated_at": "2026-09-01T08:57:06.110309+00:00",
+  "item_count": 151,
   "items": [
+    {
+      "id": "f74847ee2ee9c2c5",
+      "title": "Please join us at the Gun Rights Policy Conference",
+      "link": "https://saf.org/please-join-us-at-the-gun-rights-policy-conference/",
+      "published": "2026-09-01T05:00:54+00:00",
+      "source_id": "saf",
+      "source_name": "Second Amendment Foundation",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "by Lee Williams Just look at the some of the featured speakers who are coming to Dallas in 25 days for the Second Amendment Foundation’s Gun Rights Policy Conference. In 2021, after reading Judge…"
+    },
     {
       "id": "72e5cf8eee32b754",
       "title": "Supreme Court 9-0 Unanimous Decision Creates Immediate Constitutional Commerce Clause Challenge!",
@@ -12,6 +23,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court 9-0 Unanimous Decision Creates Immediate Constitutional Commerce Clause Challenge!"
+    },
+    {
+      "id": "4320b3f27a8d0140",
+      "title": "Enhanced Background Checks Act of 2025",
+      "link": "https://www.congress.gov/bill/119th-congress/hr/3868",
+      "published": "2026-09-01T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Referred to the House Committee on the Judiciary."
     },
     {
       "id": "4904782b2aa30c7c",
@@ -1090,17 +1112,6 @@
       "source_type": "primary_legal",
       "category": "Court Case",
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "3c542d0c9a6ece51",
-      "title": "SAF WIN: JUDGE RULES BIDEN ERA ATF FRAME AND RECEIVER RULE UNCONSTITUTIONAL",
-      "link": "https://saf.org/saf-win-judge-rules-biden-era-atf-frame-and-receiver-rule-unconstitutional/",
-      "published": "2026-08-18T19:11:20+00:00",
-      "source_id": "saf",
-      "source_name": "Second Amendment Foundation",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "BELLEVUE, Wash. — Aug. 18, 2026 — A judge in the U.S. District Court for the Northern District of Texas has ruled in favor of the Second Amendment Foundation (SAF) and Defense Distributed in Defense…"
     },
     {
       "id": "9e14208653700e4d",
