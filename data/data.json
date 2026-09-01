@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-01T18:54:49.650598+00:00",
+  "generated_at": "2026-09-01T22:08:15.731944+00:00",
   "item_count": 150,
   "items": [
+    {
+      "id": "65807dc7e9f01df0",
+      "title": "Big Win for 2A: Federal Judge Rules on License Delays",
+      "link": "https://www.youtube.com/watch?v=A_u5T7i69-E",
+      "published": "2026-09-01T21:15:38+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Big Win for 2A: Federal Judge Rules on License Delays"
+    },
+    {
+      "id": "d4d52641ec06cbc8",
+      "title": "Frame or Receiver Rule: What is it?",
+      "link": "https://www.youtube.com/shorts/nGxIg_BnpIM",
+      "published": "2026-09-01T19:00:26+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Frame or Receiver Rule: What is it?"
+    },
     {
       "id": "286ab774cb24eecf",
       "title": "NFA Injunction UPDATE: WE HAVE A PROBLEM With The 4473 Suppressor Process",
@@ -56,6 +78,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court 9-0 Unanimous Decision Creates Immediate Constitutional Commerce Clause Challenge!"
+    },
+    {
+      "id": "271f79c017272790",
+      "title": "United States v. Day (District Court, District of Columbia)",
+      "link": "https://www.courtlistener.com/opinion/10963787/united-states-v-day/",
+      "published": "2026-09-01T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "55855290b142c112",
@@ -652,17 +685,6 @@
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
-      "id": "c244da9224b1132b",
-      "title": "Florida’s SBR Law vs. The NFA Injunction: What You Need To Know!",
-      "link": "https://www.youtube.com/watch?v=nwJsyQeAS8A",
-      "published": "2026-08-26T21:07:52+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Florida’s SBR Law Just COLLIDED With the NFA Injunction"
-    },
-    {
       "id": "f28b261c0e81ad1c",
       "title": "CONNECTICUT REPS Want to CLOSE This Gun Loophole?! New Bill Targets Domestic Violence Abusers",
       "link": "https://www.youtube.com/watch?v=oS1umn_wADo",
@@ -1180,17 +1202,6 @@
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
-      "id": "cd6fba7c17df7600",
-      "title": "Paul Shafer v. Jason W. Grube (Indiana Court of Appeals)",
-      "link": "https://www.courtlistener.com/opinion/10953174/paul-shafer-v-jason-w-grube/",
-      "published": "2026-08-18T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "59f61c937896326d",
       "title": "LAWYER: NFA Update. If You Think You’re Covered, THINK AGAIN!",
       "link": "https://www.youtube.com/watch?v=HSSs7Mj_TeA",
@@ -1244,17 +1255,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "NFA BOMBSHELL: New ATF Changes & What They Mean for Connecticut Gun Owners | Gun Guru Live"
-    },
-    {
-      "id": "8db1946393cac31e",
-      "title": "Lawyer: UPDATES! Can I SBR my Gun Now? NFA, Pistol Braces, Short Barreled Shotguns",
-      "link": "https://www.youtube.com/watch?v=x0PkzQ4D4Fw",
-      "published": "2026-08-15T15:01:26+00:00",
-      "source_id": "atty-tom-grieve",
-      "source_name": "Atty Tom Grieve",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Lawyer: UPDATES! Can I SBR my Gun Now? NFA, Pistol Braces, Short Barreled Shotguns"
     },
     {
       "id": "45c91bc025fd09c9",
