@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T15:38:03.589932+00:00",
+  "generated_at": "2026-09-01T18:54:49.650598+00:00",
   "item_count": 150,
   "items": [
     {
@@ -12,6 +12,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "NFA Injunction UPDATE: WE HAVE A PROBLEM With The 4473 Suppressor Process"
+    },
+    {
+      "id": "1dbbc21a98c11a4f",
+      "title": "California: Legislature Adjourns, More Anti-Gun Bills Head to Governor's Desk",
+      "link": "https://www.nraila.org/articles/20260901/california-legislature-adjourns-more-anti-gun-bills-head-to-governors-desk",
+      "published": "2026-09-01T15:12:15+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "The California Legislature adjourned its 2026 legislative session late last night, sending three additional anti-gun measures to Governor Newsom for consideration. Among them is AB 2047, a phantom…"
     },
     {
       "id": "31c870abe255a538",
@@ -45,6 +56,28 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court 9-0 Unanimous Decision Creates Immediate Constitutional Commerce Clause Challenge!"
+    },
+    {
+      "id": "55855290b142c112",
+      "title": "United States v. Diego Aleman-Lozano (Court of Appeals for the Third Circuit)",
+      "link": "https://www.courtlistener.com/opinion/10963704/united-states-v-diego-aleman-lozano/",
+      "published": "2026-09-01T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
+      "id": "f62bba120c31604c",
+      "title": "United States v. Joseph Berger (Court of Appeals for the Third Circuit)",
+      "link": "https://www.courtlistener.com/opinion/10963703/united-states-v-joseph-berger/",
+      "published": "2026-09-01T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "4904782b2aa30c7c",
@@ -960,17 +993,6 @@
       "tldr": "Startup Says It's Developed 3D Printed Gun Part Blocker; DOJ Rights Restoration Process Drops"
     },
     {
-      "id": "a55e713523bc1c47",
-      "title": "California: Multiple Anti-Gun Bills Still Alive as Legislature Enters Final Week",
-      "link": "https://www.nraila.org/articles/20260821/california-multiple-anti-gun-bills-still-alive-as-legislature-enters-final-week",
-      "published": "2026-08-21T18:28:59+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "Legislation",
-      "tldr": "The California Legislature enters its final full week of the 2026 Legislative Session on Monday, with several anti-gun bills eligible for floor votes. The most egregious bills include AB 2047, which…"
-    },
-    {
       "id": "994aaffdd45bf8d6",
       "title": "THIS WEEK: Here’s Where Things Stand!",
       "link": "https://www.gunowners.org/082126/",
@@ -1255,28 +1277,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "First Legal Unregistered Silencer Sale in 100 Years; Unearthed Vids Show Abdul El-Sayed's Gun Views"
-    },
-    {
-      "id": "f7789b7ff894878f",
-      "title": "Guerra Vasquez v. United States (Court of Appeals for the Fifth Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10948821/guerra-vasquez-v-united-states/",
-      "published": "2026-08-14T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "e28103be13746dd8",
-      "title": "United States v. Thompson (District Court, District of Columbia)",
-      "link": "https://www.courtlistener.com/opinion/10948763/united-states-v-thompson/",
-      "published": "2026-08-14T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "5576e9bd5c61fda1",
