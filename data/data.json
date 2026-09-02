@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-02T08:10:23.707669+00:00",
-  "item_count": 135,
+  "generated_at": "2026-09-02T15:25:40.640625+00:00",
+  "item_count": 151,
   "items": [
+    {
+      "id": "47e3c0e3b5389f17",
+      "title": "SAF FILES AMICUS BRIEF IN MASSACHUSETTS CHALLENGING CARRY PERMIT DENIALS",
+      "link": "https://saf.org/saf-files-amicus-brief-in-massachusetts-challenging-carry-permit-denials/",
+      "published": "2026-09-02T13:27:51+00:00",
+      "source_id": "saf",
+      "source_name": "Second Amendment Foundation",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "BELLEVUE, Wash. — Sept. 2, 2026 — The Second Amendment Foundation (SAF) and its partners have filed an amicus brief with the Massachusetts Supreme Judicial Court in Pratt v. Westbrook, a case…"
+    },
+    {
+      "id": "e8b92bcabac12837",
+      "title": "ATF Targets FRTs Again: A New Way They Are Trying To Limit You",
+      "link": "https://www.youtube.com/watch?v=FxNg4332tSc",
+      "published": "2026-09-02T13:26:48+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "ATF Targets FRTs Again: A New Way They Are Trying To Limit You"
+    },
     {
       "id": "4048a9ced1674017",
       "title": "BREAKING TODAY! Supreme Court Immediate Emergency Election Ruling Now Set In Motion!",
@@ -12,6 +34,39 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING TODAY! Supreme Court Immediate Emergency Election Ruling Now Set In Motion!"
+    },
+    {
+      "id": "6d38cff1e2bf11a2",
+      "title": "Sergio Ochoa Pulido v. State of Iowa (Court of Appeals of Iowa)",
+      "link": "https://www.courtlistener.com/opinion/10964838/sergio-ochoa-pulido-v-state-of-iowa/",
+      "published": "2026-09-02T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
+      "id": "632b38db9b6d8aaa",
+      "title": "United States v. DeFelice (Court of Appeals for the Second Circuit)",
+      "link": "https://www.courtlistener.com/opinion/10964725/united-states-v-defelice/",
+      "published": "2026-09-02T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
+      "id": "fcbcbba8bfb8f885",
+      "title": "To prohibit covered platforms from processing personal data with respect to covered minors without obtaining the verifiable consent of a parent of the covered minor, and for other purposes.",
+      "link": "https://www.congress.gov/bill/119th-congress/hr/10207",
+      "published": "2026-09-02T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Referred to the House Committee on Energy and Commerce."
     },
     {
       "id": "65807dc7e9f01df0",
@@ -45,6 +100,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "NFA Injunction UPDATE: WE HAVE A PROBLEM With The 4473 Suppressor Process"
+    },
+    {
+      "id": "1dbbc21a98c11a4f",
+      "title": "California: Legislature Adjourns, More Anti-Gun Bills Head to Governor's Desk",
+      "link": "https://www.nraila.org/articles/20260901/california-legislature-adjourns-more-anti-gun-bills-head-to-governors-desk",
+      "published": "2026-09-01T15:12:15+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "The California Legislature adjourned its 2026 legislative session late last night, sending three additional anti-gun measures to Governor Newsom for consideration. Among them is AB 2047, a phantom…"
     },
     {
       "id": "31c870abe255a538",
@@ -124,6 +190,17 @@
       "tldr": "ATF HACK UPDATE: What Was Actually Stolen?"
     },
     {
+      "id": "46224609f21520f1",
+      "title": "NRA Files Lawsuit Challenging Denver’s Nonresident Handgun Carry Ban",
+      "link": "https://www.nraila.org/articles/20260831/nra-files-lawsuit-challenging-denver-s-nonresident-handgun-carry-ban",
+      "published": "2026-08-31T20:34:40+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "Today, the National Rifle Association (NRA) and the Colorado State Shooting Association (CSSA), together with members Greg Howeth of Hawaii and Zackary Dougherty of South Carolina, announced a…"
+    },
+    {
       "id": "609b8e9dec4aa078",
       "title": "SAF CHALLENGE TO NON-RESIDENT LTC PROCESS IN MASSACHUSETTS ADVANCES",
       "link": "https://saf.org/saf-challenge-to-non-resident-ltc-process-in-massachusetts-advances/",
@@ -146,6 +223,17 @@
       "tldr": "LAWYER: Judge Struck Down Part of the ATF’s Gun Rule (Frames & Receivers)"
     },
     {
+      "id": "8e61928f27e4d4ef",
+      "title": "The NRA Gun Bus Battleground Tour Schedule",
+      "link": "https://www.nraila.org/gunbus",
+      "published": "2026-08-31T18:45:36+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "Come see the NRA Gun Bus at an event near you as we travel the country for our 2026 Battleground Tour leading up to the midterm elections!"
+    },
+    {
       "id": "0c7359f35b8814d4",
       "title": "They Tried To Hide It — The Truth About Defensive Gun Use",
       "link": "https://www.youtube.com/watch?v=jgKv6TQgxGk",
@@ -155,6 +243,83 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "They Tried To Hide It — The Truth About Defensive Gun Use"
+    },
+    {
+      "id": "3a7922d73b8e5eb1",
+      "title": "All Flags, No Fix: Michigan’s Real Public Safety Problem",
+      "link": "https://www.nraila.org/articles/20260831/all-flags-no-fix-michigan-s-real-public-safety-problem",
+      "published": "2026-08-31T15:54:24+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "Sorry, Michiganders, but the state has developed a serious problem with crime and consequences."
+    },
+    {
+      "id": "318ec4918e88f1a7",
+      "title": "Australia Remains Committed to Eliminating Guns from the Law-Abiding",
+      "link": "https://www.nraila.org/articles/20260831/australia-remains-committed-to-eliminating-guns-from-the-law-abiding",
+      "published": "2026-08-31T15:48:44+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Regulatory",
+      "tldr": "It’s been a long time since Australia had relatively sensible gun laws. While national regulations did not really come into play until the 1990s, the states and territories began imposing severe…"
+    },
+    {
+      "id": "b5dc59194261b81c",
+      "title": "Biden-Era “Engaged in the Business” Rule (Again) Ruled Illegal",
+      "link": "https://www.nraila.org/articles/20260831/biden-era-engaged-in-the-business-rule-again-ruled-illegal",
+      "published": "2026-08-31T15:37:21+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "The anti-gun programs and policies of the Biden-Harris administration have been falling like dominoes, lately."
+    },
+    {
+      "id": "efb1a1bbe59c4673",
+      "title": "Commerce Dept. Explains Why Unconstitutional Microstamping is Also Ineffective",
+      "link": "https://www.nraila.org/articles/20260831/commerce-dept-explains-why-unconstitutional-microstamping-is-also-ineffective",
+      "published": "2026-08-31T15:26:37+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "On August 12, the U.S. Department of Commerce’s National Institute of Standards and Technology (NIST) sent a letter to U.S. House Committee on Science, Space and Technology Chairman Brian Babin…"
+    },
+    {
+      "id": "3f166589e0b7d00d",
+      "title": "A New Era of Access for Hunters: Trump DOI Expands Opportunities in Historic Move",
+      "link": "https://www.nraila.org/articles/20260831/a-new-era-of-access-for-hunters-trump-doi-expands-opportunities-in-historic-move",
+      "published": "2026-08-31T15:14:05+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "Heading into hunting season, America's sportsmen and women have another significant development from the Trump administration worth celebrating."
+    },
+    {
+      "id": "7fa1acadbc8cb045",
+      "title": "EXCLUSIVE: NRA Hits The Road For Midterm Battleground State Tour",
+      "link": "https://www.dailywire.com/news/exclusive-nra-hits-the-road-for-midterm-battleground-state-tour?topStoryPosition=undefined&author=Drew+Berkemeyer&category=Exclusive&elementPosition=1&row=1&rowHeadline=Top+Stories&rowType=Top+Stories&title=EXCLUSIVE%3A+NRA+Hits+The+Road+For+Midterm+Battleground+State+Tour",
+      "published": "2026-08-31T15:09:33+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "The National Rifle Association is going on the road for the 2026 midterm elections, launching its first-ever national bus tour Thursday to mobilize gun owners across 13 states where control of…"
+    },
+    {
+      "id": "b8cca7cbf4ef0872",
+      "title": "NRA-ILA Launches First-Ever National “Gun Bus Battleground Tour” to Mobilize Gun Owners for 2026 Midterms",
+      "link": "https://www.nraila.org/articles/20260831/nra-ila-launches-first-ever-national-gun-bus-battleground-tour-to-mobilize-gun-owners-for-2026-midterms",
+      "published": "2026-08-31T14:47:22+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "FAIRFAX, Va. — The National Rifle Association Institute for Legislative Action (NRA-ILA) todaylaunched its first-ever national bus tour, the 2026 NRA’s Gun Bus Battleground Tour, a more than two…"
     },
     {
       "id": "6624246ac00e8399",
@@ -399,6 +564,17 @@
       "tldr": "NFA Guidance: State AG Warns Police About Enforcement Related To The NFA Injunction"
     },
     {
+      "id": "901af5cc0faf45d0",
+      "title": "District Court Enters Final Judgment Striking Down New Mexico’s Waiting Period Law in NRA Victory",
+      "link": "https://www.nraila.org/articles/20260828/district-court-enters-final-judgment-striking-down-new-mexico-s-waiting-period-law-in-nra-victory",
+      "published": "2026-08-28T15:43:39+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "The U.S. District Court for the District of New Mexico granted summary judgment holding New Mexico’s 7-day waiting period law unconstitutional in Ortega v. Grisham—a case brought by the National…"
+    },
+    {
       "id": "9b6be74ab409c4b2",
       "title": "NFA GUIDANCE WATCH: Congress Just Gave ATF a DEADLINE",
       "link": "https://www.youtube.com/watch?v=6c2PzIRajRc",
@@ -498,17 +674,6 @@
       "tldr": "A Massachusetts law barring people under 21 years old from possessing a handgun or semi-automatic firearm is constitutional."
     },
     {
-      "id": "58e9401fdc0aa253",
-      "title": "BREAKING: ATF HACKED — Was the NFA Registry Stolen?",
-      "link": "https://www.youtube.com/watch?v=vBfRmjOz-lw",
-      "published": "2026-08-27T14:07:27+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "BREAKING: ATF HACKED — Was the NFA Registry Stolen?"
-    },
-    {
       "id": "37ca62abf898abfb",
       "title": "Firearm ‘expert’ who testified a toy was a machinegun still working for ATF",
       "link": "https://saf.org/firearm-expert-who-testified-a-toy-was-a-machinegun-still-working-for-atf/",
@@ -595,6 +760,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Lawyer Warning: ATF Is PISSED - They Are Planning To Come After You..."
+    },
+    {
+      "id": "ad8158e81b9fd81a",
+      "title": "California: Anti-Gun Bills Pass the Legislature, Now Heading to the Governor's Desk",
+      "link": "https://www.nraila.org/articles/20260826/california-anti-gun-bills-pass-the-legislature-now-heading-to-the-governors-desk",
+      "published": "2026-08-26T15:20:18+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "This week, three anti-gun bills received final passage from the legislature and will now be transmitted to the Governor's desk for his consideration. The most egregious among these measures is Senate…"
     },
     {
       "id": "d22035ddcffdb159",
@@ -705,6 +881,39 @@
       "source_type": "primary_legal",
       "category": "Court Case",
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
+      "id": "e0fb836740a3d1ba",
+      "title": "SCOTUS Statutory Ruling Not the Final Word on Biden-Era “Frame or Receiver” Rule",
+      "link": "https://www.nraila.org/articles/20260824/scotus-statutory-ruling-not-the-final-word-on-biden-era-frame-or-receiver-rule",
+      "published": "2026-08-24T19:27:31+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "For years, NRA-ILA has closely followed and reported on the legal and regulatory saga surrounding the Biden-Harris administration’s so-called “Frame or Receiver” rule."
+    },
+    {
+      "id": "1e667840d4c8c49a",
+      "title": "FBI Releases Final Crime Report for 2025 to the Dismay of Firearm Prohibitionists",
+      "link": "https://www.nraila.org/articles/20260824/fbi-releases-final-crime-report-for-2025-to-the-dismay-of-firearm-prohibitionists",
+      "published": "2026-08-24T19:25:08+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "There has been a certain amount of anticipation while the Federal Bureau of Investigations (FBI) analyzed the available crime data for last year. The speculation among many was that the report would…"
+    },
+    {
+      "id": "2e7ce833a0b45f53",
+      "title": "DOJ Relaunches Federal Firearms Rights Restoration with New Final Rule",
+      "link": "https://www.nraila.org/articles/20260824/doj-relaunches-federal-firearms-rights-restoration-with-new-final-rule",
+      "published": "2026-08-24T19:19:27+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Regulatory",
+      "tldr": "On August 20, the U.S. Department of Justice (DOJ) published a final rule in the Federal Register that establishes application standards for those seeking relief from federal firearm disabilities…"
     },
     {
       "id": "2948bb51ce9a036e",
@@ -927,17 +1136,6 @@
       "tldr": "NFA RULING: Suppressor Law Update & The States That May Still Require Form 4s"
     },
     {
-      "id": "8f2b2be3baf1f456",
-      "title": "SPEAKERS, TOPICS ANNOUNCED FOR GRPC PRE-CONFERENCE MEDIA EVENT",
-      "link": "https://saf.org/speakers-topics-announced-for-grpc-pre-conference-media-event/",
-      "published": "2026-08-20T17:17:36+00:00",
-      "source_id": "saf",
-      "source_name": "Second Amendment Foundation",
-      "source_type": "org",
-      "category": "Legislation",
-      "tldr": "BELLEVUE, Wash. — Aug. 20, 2026 — The annual Alternative Mass Media Conference (AMM-Con) planning committee has announced speakers and topics for the annual event slated to be held prior to the start…"
-    },
-    {
       "id": "30821f27f06448c5",
       "title": "Supreme Court Immediate Intervention Pushed After Magazine Ban Struck Down!",
       "link": "https://www.youtube.com/watch?v=9rQtAQvPyc4",
@@ -993,17 +1191,6 @@
       "tldr": "Huge Decision Finds ATF Frames/Receivers Rule Unconstitutional & Permanently Blocks Restrictions!"
     },
     {
-      "id": "ff85ed7c3292ddec",
-      "title": "Gabriel Luis Vasquez v. State of Iowa (Court of Appeals of Iowa)",
-      "link": "https://www.courtlistener.com/opinion/10953663/gabriel-luis-vasquez-v-state-of-iowa/",
-      "published": "2026-08-19T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "9e14208653700e4d",
       "title": "NFA Ruling: 15 States May NOT Be Covered",
       "link": "https://www.youtube.com/shorts/1ebz5mxMoAE",
@@ -1035,17 +1222,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court 9-0 Unanimous Decision Creates Major Constitutional Challenge With Nationwide Impacts!"
-    },
-    {
-      "id": "d91e439d771a64f4",
-      "title": "United States v. Enclade (Court of Appeals for the Fifth Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10953376/united-states-v-enclade/",
-      "published": "2026-08-18T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "59f61c937896326d",
