@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-02T15:25:40.640625+00:00",
+  "generated_at": "2026-09-02T19:00:20.616149+00:00",
   "item_count": 151,
   "items": [
+    {
+      "id": "96211335df060eaa",
+      "title": "The NFA Injunction Is Spreading — B&T Just Made Its Move",
+      "link": "https://www.youtube.com/watch?v=ya0ClHpECfw",
+      "published": "2026-09-02T18:11:28+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "The NFA Injunction Is Spreading — B&T Just Made Its Move"
+    },
     {
       "id": "47e3c0e3b5389f17",
       "title": "SAF FILES AMICUS BRIEF IN MASSACHUSETTS CHALLENGING CARRY PERMIT DENIALS",
@@ -34,6 +45,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING TODAY! Supreme Court Immediate Emergency Election Ruling Now Set In Motion!"
+    },
+    {
+      "id": "343108dc01d7f85f",
+      "title": "State v. Reed (Ohio Court of Appeals)",
+      "link": "https://www.courtlistener.com/opinion/10965017/state-v-reed/",
+      "published": "2026-09-02T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "6d38cff1e2bf11a2",
@@ -641,17 +663,6 @@
       "tldr": "Abdul El-Sayed has seemingly doubled down on a past statement that the Second Amendment should be replaced with a right to healthcare."
     },
     {
-      "id": "a4142ca237e1a9b8",
-      "title": "Dealers Sold Suppressors Without Form 4s—Then ATF Showed Up",
-      "link": "https://www.youtube.com/watch?v=a1xozg94Knk",
-      "published": "2026-08-27T20:59:42+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Dealers Sold Suppressors Without Form 4s—Then ATF Showed Up"
-    },
-    {
       "id": "219c6002abbb3c5e",
       "title": "ATF Update?",
       "link": "https://www.youtube.com/shorts/FUWWE8O_RWg",
@@ -1145,17 +1156,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Immediate Intervention Pushed After Magazine Ban Struck Down!"
-    },
-    {
-      "id": "c6a502fcde0f26c6",
-      "title": "People v. Dumbrava (California Court of Appeal)",
-      "link": "https://www.courtlistener.com/opinion/10954248/people-v-dumbrava/",
-      "published": "2026-08-20T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "b3bd547653835162",
