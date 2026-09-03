@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-03T08:20:02.698606+00:00",
-  "item_count": 150,
+  "generated_at": "2026-09-03T15:19:11.311656+00:00",
+  "item_count": 151,
   "items": [
+    {
+      "id": "932cc73ca3f1ee4f",
+      "title": "Federal Court Ruling: Machine Guns ARE Arms—But You Still Can't Have Them",
+      "link": "https://www.youtube.com/watch?v=RNyjpXyKZ7g",
+      "published": "2026-09-03T13:20:18+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Federal Court Ruling: Machine Guns ARE Arms—But You Still Can't Have Them"
+    },
+    {
+      "id": "cbbbf91ecd6e329f",
+      "title": "Why doesn’t Judge Hendrix’s historic NFA injunction protect every gun owner in America?",
+      "link": "https://www.youtube.com/shorts/cV2rkKPcnIc",
+      "published": "2026-09-03T10:46:08+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Why doesn’t Judge Hendrix’s historic NFA injunction protect every gun owner in America?"
+    },
     {
       "id": "c59f6c24fa2ab873",
       "title": "BREAKING TODAY! Supreme Court Immediate Emergency Election Ruling Set In Motion But State Responds!",
@@ -12,6 +34,39 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING TODAY! Supreme Court Immediate Emergency Election Ruling Set In Motion But State Responds!"
+    },
+    {
+      "id": "8ec7da230619d775",
+      "title": "Quarles v. United States (amended opinion) (District of Columbia Court of Appeals)",
+      "link": "https://www.courtlistener.com/opinion/10965871/quarles-v-united-states-amended-opinion/",
+      "published": "2026-09-03T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
+      "id": "072f29d35b6a53a8",
+      "title": "White v. United States (District of Columbia Court of Appeals)",
+      "link": "https://www.courtlistener.com/opinion/10965870/white-v-united-states/",
+      "published": "2026-09-03T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
+      "id": "2b90c0502c4d5041",
+      "title": "Freedom from Unfair Gun Taxes Act of 2025",
+      "link": "https://www.congress.gov/bill/119th-congress/hr/2442",
+      "published": "2026-09-03T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Referred to the House Committee on the Judiciary."
     },
     {
       "id": "b97575e0da475f60",
@@ -575,17 +630,6 @@
       "tldr": "Huge Ruling Finds NFA Unconstitutional & Permanently Blocks Restrictions! ATF Guidance Now Demanded!"
     },
     {
-      "id": "8d99fc4171657e4c",
-      "title": "Supreme Court AR-15 Filing: Why This Is The Most Important 2A Case Yet",
-      "link": "https://www.youtube.com/watch?v=rGhzXDFsMdc",
-      "published": "2026-08-28T22:04:13+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Supreme Court AR-15 Filing: Why This Is The Most Important 2A Case Yet"
-    },
-    {
       "id": "223608b9b56c54b1",
       "title": "SAF FILES OPENING BRIEF WITH SUPREME COURT IN ‘ASSAULT WEAPONS’ BAN LAWSUIT",
       "link": "https://saf.org/saf-files-opening-brief-with-supreme-court-in-assault-weapons-ban-lawsuit/",
@@ -606,17 +650,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "CDC Restores Gun Defense Use Estimates; @JaredAF on Building Marksmanship"
-    },
-    {
-      "id": "6496910a029cb02d",
-      "title": "NFA Guidance: State AG Warns Police About Enforcement Related To The NFA Injunction",
-      "link": "https://www.youtube.com/watch?v=PCzdC9faoo8",
-      "published": "2026-08-28T16:17:44+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "NFA Guidance: State AG Warns Police About Enforcement Related To The NFA Injunction"
     },
     {
       "id": "901af5cc0faf45d0",
@@ -1004,17 +1037,6 @@
       "tldr": "Supreme Court Delivers Emergency Election Denial Order With Major Nationwide Implications!"
     },
     {
-      "id": "725f826a8208421b",
-      "title": "United States v. Venetia Torres (Court of Appeals for the Eighth Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10956634/united-states-v-venetia-torres/",
-      "published": "2026-08-24T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "b5671f4c9ca06d38",
       "title": "NFA Injunction Scope: Who Is Covered?",
       "link": "https://www.youtube.com/shorts/rhQXLzP9sWw",
@@ -1123,17 +1145,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Delivers 9-0 Unanimous Ruling With Major Nationwide & Constitutional Implications!"
-    },
-    {
-      "id": "4bdc7d7e91a39098",
-      "title": "United States v. Garrick Richardson (Court of Appeals for the D.C. Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10954582/united-states-v-garrick-richardson/",
-      "published": "2026-08-21T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "c067fdf6edc6e3b9",
