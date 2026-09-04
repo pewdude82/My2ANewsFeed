@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-04T08:16:07.478088+00:00",
+  "generated_at": "2026-09-04T15:14:10.479296+00:00",
   "item_count": 150,
   "items": [
+    {
+      "id": "df64467115c0accb",
+      "title": "Survey: More Women and Minorities Own Guns Than Ever, 40 Million AR-15s Now in American Hands",
+      "link": "https://thereload.com/survey-more-women-and-minorities-own-guns-than-ever-40-million-ar-15s-now-in-american-hands/",
+      "published": "2026-09-04T09:04:31+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "News",
+      "tldr": "A new survey of nearly 17,000 gun owners has found AR-15 ownership now reaches the 40 million mark, and that women and people of color make up an ever-larger share of gun owners."
+    },
+    {
+      "id": "2cdc60e13ac60683",
+      "title": "Analysis: How Defense Gun Uses Stack Up in the Latest Major Survey [Member Exclusive]",
+      "link": "https://thereload.com/analysis-how-defense-gun-uses-stack-up-in-the-latest-major-survey-member-exclusive/",
+      "published": "2026-09-04T09:02:00+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "News",
+      "tldr": "Just as the Centers for Disease Control (CDC) reinstated its section on Defensive Gun Use (DGU) estimates, we have another one."
+    },
+    {
+      "id": "eecc47badba969f0",
+      "title": "Newsletter: 40 Million AR-15s in Civilian Hands, New Survey Finds",
+      "link": "https://thereload.com/newsletter-40-million-ar-15s-in-civilian-hands-new-survey-finds/",
+      "published": "2026-09-04T09:00:01+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Regulatory",
+      "tldr": "Plus, the reporter who broke news of a ransomware attack on the ATF joins the podcast to discuss the hack."
+    },
     {
       "id": "665b7f1e9b2e0297",
       "title": "BREAKING TODAY! Supreme Court Immediate Emergency Election Ruling Pushed Forward!",
@@ -301,7 +334,7 @@
     },
     {
       "id": "286ab774cb24eecf",
-      "title": "NFA Injunction UPDATE: WE HAVE A PROBLEM With The 4473 Suppressor Process",
+      "title": "Critical NFA Update: The One Thing You Can't Do With Your Suppressor Yet",
       "link": "https://www.youtube.com/watch?v=bW8oE93w2dI",
       "published": "2026-09-01T15:16:56+00:00",
       "source_id": "guns-gadgets",
@@ -597,6 +630,17 @@
       "tldr": "Supreme Court Issues 9-0 Unanimous Decision With Major Nationwide & Constitutional Implications!"
     },
     {
+      "id": "f5b550b8d69725e2",
+      "title": "Jonathan Fourie v. Kirsten Fourie (Texas Court of Appeals, 9th District (Beaumont))",
+      "link": "https://www.courtlistener.com/opinion/10967263/jonathan-fourie-v-kirsten-fourie/",
+      "published": "2026-08-31T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
       "id": "586d4f248313ef90",
       "title": "ATF Guidance Predictions",
       "link": "https://www.youtube.com/shorts/NDtB5nBDjUU",
@@ -773,17 +817,6 @@
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
-      "id": "eedf4a578d95384d",
-      "title": "Michigan Senate Democratic Nominee Declines to Disavow Proposal to Replace Americans’ Gun Rights",
-      "link": "https://thereload.com/michigan-senate-democratic-nominee-declines-to-disavow-proposal-to-replace-gun-rights/",
-      "published": "2026-08-27T22:57:39+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "Legislation",
-      "tldr": "Abdul El-Sayed has seemingly doubled down on a past statement that the Second Amendment should be replaced with a right to healthcare."
-    },
-    {
       "id": "219c6002abbb3c5e",
       "title": "ATF Update?",
       "link": "https://www.youtube.com/shorts/FUWWE8O_RWg",
@@ -795,17 +828,6 @@
       "tldr": "ATF Update?"
     },
     {
-      "id": "a2e645ff7be93ad4",
-      "title": "Federal Judge Upholds Massachusetts Under-21 Semi-Auto Sales Ban",
-      "link": "https://thereload.com/federal-judge-upholds-massachusetts-under-21-semi-auto-sales-ban/",
-      "published": "2026-08-27T16:32:20+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "Court Case",
-      "tldr": "A Massachusetts law barring people under 21 years old from possessing a handgun or semi-automatic firearm is constitutional."
-    },
-    {
       "id": "37ca62abf898abfb",
       "title": "Firearm ‘expert’ who testified a toy was a machinegun still working for ATF",
       "link": "https://saf.org/firearm-expert-who-testified-a-toy-was-a-machinegun-still-working-for-atf/",
@@ -815,17 +837,6 @@
       "source_type": "org",
       "category": "Regulatory",
       "tldr": "by Lee Williams Jeffrey R. Bodell—the ATF Firearms Enforcement Officer responsible for imprisoning Patrick “Tate” Adamiak for 20 years by claiming that a toy and legal semi-automatic pistols were…"
-    },
-    {
-      "id": "bd6f52a5d42131bc",
-      "title": "CDC Restores Gun Defensive Use Estimates to Website Years After Removing Them Under Political Pressure",
-      "link": "https://thereload.com/cdc-restores-gun-defensive-use-estimates-to-website-years-after-removing-them-under-political-pressure/",
-      "published": "2026-08-27T09:00:05+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "News",
-      "tldr": "The Centers for Disease Control (CDC) has reposted a broad estimate of the number of times Americans use firearms to defend themselves, several years after it was removed following private complaints…"
     },
     {
       "id": "1b6e1ea0d06ca6f2",
@@ -930,17 +941,6 @@
       "id": "d694fef7360a4efd",
       "title": "Nebraska Republican Party v. Evnen (Nebraska Supreme Court)",
       "link": "https://www.courtlistener.com/opinion/10958622/nebraska-republican-party-v-evnen/",
-      "published": "2026-08-26T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "7be192fff67a88be",
-      "title": "United States v. Mitchell (Court of Appeals for the Fifth Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10958469/united-states-v-mitchell/",
       "published": "2026-08-26T00:00:00+00:00",
       "source_id": "courtlistener",
       "source_name": "CourtListener (Free Law Project)",
