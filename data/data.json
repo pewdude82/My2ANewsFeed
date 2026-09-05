@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-04T21:53:36.158242+00:00",
+  "generated_at": "2026-09-05T01:34:47.965410+00:00",
   "item_count": 150,
   "items": [
+    {
+      "id": "7f08d6fadfbbd474",
+      "title": "Supreme Court Issues Emergency Election Denial Order With Major Nationwide Implications!",
+      "link": "https://www.youtube.com/watch?v=g0l_TMG4vtY",
+      "published": "2026-09-05T00:00:01+00:00",
+      "source_id": "armed-scholar",
+      "source_name": "Armed Scholar",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Supreme Court Issues Emergency Election Denial Order With Major Nationwide Implications!"
+    },
     {
       "id": "49c3bcd7283cd62b",
       "title": "BREAKING: DOJ Says Police Violated Gun Rights for DECADES",
@@ -111,6 +122,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING TODAY! Supreme Court Immediate Emergency Election Ruling Pushed Forward!"
+    },
+    {
+      "id": "9a8e456dae1c9340",
+      "title": "United States v. Nyandoro (Court of Appeals for the Fifth Circuit)",
+      "link": "https://www.courtlistener.com/opinion/10967525/united-states-v-nyandoro/",
+      "published": "2026-09-04T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "5faff8d01faa6fca",
@@ -960,17 +982,6 @@
       "tldr": "Supreme Court Issues Immediate Emergency Election Ruling With Major Nationwide Implications!"
     },
     {
-      "id": "d694fef7360a4efd",
-      "title": "Nebraska Republican Party v. Evnen (Nebraska Supreme Court)",
-      "link": "https://www.courtlistener.com/opinion/10958622/nebraska-republican-party-v-evnen/",
-      "published": "2026-08-26T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "0c91d7dd7c8a7764",
       "title": "PA: Legalize Suppressors",
       "link": "https://www.gunowners.org/pa082620226/",
@@ -1200,17 +1211,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "NFA RULING: Suppressor Law Update & The States That May Still Require Form 4s"
-    },
-    {
-      "id": "30821f27f06448c5",
-      "title": "Supreme Court Immediate Intervention Pushed After Magazine Ban Struck Down!",
-      "link": "https://www.youtube.com/watch?v=9rQtAQvPyc4",
-      "published": "2026-08-20T00:00:01+00:00",
-      "source_id": "armed-scholar",
-      "source_name": "Armed Scholar",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Supreme Court Immediate Intervention Pushed After Magazine Ban Struck Down!"
     },
     {
       "id": "b3bd547653835162",
