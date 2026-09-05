@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T07:53:15.660711+00:00",
-  "item_count": 150,
+  "generated_at": "2026-09-05T11:25:17.964036+00:00",
+  "item_count": 151,
   "items": [
     {
       "id": "7f08d6fadfbbd474",
@@ -12,6 +12,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Issues Emergency Election Denial Order With Major Nationwide Implications!"
+    },
+    {
+      "id": "2b90c0502c4d5041",
+      "title": "Freedom from Unfair Gun Taxes Act of 2025",
+      "link": "https://www.congress.gov/bill/119th-congress/hr/2442",
+      "published": "2026-09-05T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Referred to the House Committee on the Judiciary."
     },
     {
       "id": "49c3bcd7283cd62b",
