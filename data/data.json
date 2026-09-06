@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-09-06T08:09:30.375894+00:00",
+  "generated_at": "2026-09-06T14:28:48.025681+00:00",
   "item_count": 151,
   "items": [
+    {
+      "id": "247f0658b31d5138",
+      "title": "Your Local Gun Shop Now a Government Surveillance Hub?!?",
+      "link": "https://www.youtube.com/watch?v=vk1RV8Lhl9c",
+      "published": "2026-09-06T12:54:27+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Your Local Gun Shop Now a Government Surveillance Hub?!?"
+    },
+    {
+      "id": "059e87aaceaa82b8",
+      "title": "Analysis: Why DOJ Says SCOTUS Should Strike Down AR-15 Bans, But Not Every Gun Ban [Member Exclusive]",
+      "link": "https://thereload.com/analysis-why-doj-says-scotus-should-strike-down-ar-15-bans-but-not-every-gun-ban-member-exclusive/",
+      "published": "2026-09-06T09:04:15+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Court Case",
+      "tldr": "The federal government's brief in the AR-15 case before the Supreme Court of the United States (SCOTUS) is among the most important and most interesting."
+    },
+    {
+      "id": "90a1929657ed13c7",
+      "title": "Podcast: Teaching a College Course on Guns in America (Ft. Wake Forest’s David Yamane) [Member Early Access]",
+      "link": "https://thereload.com/podcast-teaching-a-college-course-on-guns-in-america-ft-wake-forests-david-yamane/",
+      "published": "2026-09-06T09:02:24+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "News",
+      "tldr": "Plus, Reload Reporter Julie Miller and I discuss the new release of the National Firearms Survey."
+    },
+    {
+      "id": "bd10d2da4ca39d69",
+      "title": "Members’ Newsletter: DOJ Asks SCOTUS to Toss AR-15 Bans",
+      "link": "https://thereload.com/members-newsletter-doj-asks-scotus-to-toss-ar-15-bans/",
+      "published": "2026-09-06T09:00:22+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Court Case",
+      "tldr": "Plus, Wake Forrest Professor David Yamane explained his course about guns in America on the podcast!"
+    },
     {
       "id": "5a6c858108579bba",
       "title": "Supreme Court 9-0 Unanimous Decision Creates Immediate Constitutional Commerce Clause Challenge!",
@@ -509,17 +553,6 @@
       "tldr": "The California Legislature adjourned its 2026 legislative session late last night, sending three additional anti-gun measures to Governor Newsom for consideration. Among them is AB 2047, a phantom…"
     },
     {
-      "id": "31c870abe255a538",
-      "title": "THIS Is Why The Supreme Court Will DESTROY AR Bans! #breakingnews #2ndamendment #secondamendment",
-      "link": "https://www.youtube.com/shorts/R-YVUIAqJkU",
-      "published": "2026-09-01T13:09:07+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "THIS Is Why The Supreme Court Will DESTROY AR Bans! #breakingnews #2ndamendment #secondamendment"
-    },
-    {
       "id": "f74847ee2ee9c2c5",
       "title": "Please join us at the Gun Rights Policy Conference",
       "link": "https://saf.org/please-join-us-at-the-gun-rights-policy-conference/",
@@ -795,17 +828,6 @@
       "tldr": "Plus, YouTuber JaredAF talks marksmanship on the news update!"
     },
     {
-      "id": "bd8ff3aabd8f23d9",
-      "title": "Members’ Newsletter: Do NFA Improvements Impair Court Challenges?",
-      "link": "https://thereload.com/members-newsletter-do-nfa-improvements-impair-court-challenges/",
-      "published": "2026-08-30T09:00:06+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "Court Case",
-      "tldr": "Plus, I investigate the ATF ransomware hack on the podcast with Cybernews' Stephanie Schappert."
-    },
-    {
       "id": "6ee0a95c60fbbb6e",
       "title": "BREAKING! Supreme Court Challenge To Permanently End \"Assault Weapon\" Bans Pushes Forward!",
       "link": "https://www.youtube.com/watch?v=ExVJlvkRVs4",
@@ -881,28 +903,6 @@
       "source_type": "org",
       "category": "Court Case",
       "tldr": "The U.S. District Court for the District of New Mexico granted summary judgment holding New Mexico’s 7-day waiting period law unconstitutional in Ortega v. Grisham—a case brought by the National…"
-    },
-    {
-      "id": "04de44a7bc98d0a7",
-      "title": "Analysis: What Happens if Swing State Democrats Don’t Moderate on Guns and Still Win? [Member Exclusive]",
-      "link": "https://thereload.com/analysis-what-happens-if-swing-state-democrats-dont-moderate-on-guns-and-still-win-member-exclusive/",
-      "published": "2026-08-28T09:02:55+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "News",
-      "tldr": "Democrats in key midterm races aren't rushing to reassure voters they don't want new gun control, and that could change politics if they prevail anyway."
-    },
-    {
-      "id": "bdfb38d3dc45f7ee",
-      "title": "Newsletter: CDC Brings Back Defensive Gun Use Estimates",
-      "link": "https://thereload.com/newsletter-cdc-brings-back-defensive-gun-use-estimates/",
-      "published": "2026-08-28T09:00:55+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "News",
-      "tldr": "Plus, crime data analyst Jeff Asher explains on the podcast how we hit an all-time low in murder."
     },
     {
       "id": "ad1e3cb603bc4288",
