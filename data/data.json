@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-08T08:22:15.929928+00:00",
-  "item_count": 149,
+  "generated_at": "2026-09-08T15:27:12.598251+00:00",
+  "item_count": 148,
   "items": [
+    {
+      "id": "a305d62a6aad630f",
+      "title": "The NRA Strikes Back: Denver's Gun Ban Under Fire",
+      "link": "https://www.youtube.com/watch?v=MZGsG1nhCaA",
+      "published": "2026-09-08T13:26:27+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "The NRA Strikes Back: Denver's Gun Ban Under Fire"
+    },
     {
       "id": "12929994e5929912",
       "title": "BREAKING TODAY! Supreme Court Immediate Emergency Election Ruling Now Set In Motion!",
@@ -199,17 +210,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Issues Emergency Election Denial Order With Major Nationwide Implications!"
-    },
-    {
-      "id": "2b90c0502c4d5041",
-      "title": "Freedom from Unfair Gun Taxes Act of 2025",
-      "link": "https://www.congress.gov/bill/119th-congress/hr/2442",
-      "published": "2026-09-05T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Referred to the House Committee on the Judiciary."
     },
     {
       "id": "49c3bcd7283cd62b",
@@ -518,17 +518,6 @@
       "source_type": "org",
       "category": "Court Case",
       "tldr": "BELLEVUE, Wash. — Sept. 2, 2026 — The Second Amendment Foundation (SAF) and its partners have filed a reply brief with the U.S. Supreme Court in support of Novotny v. Moore, SAF’s challenge to…"
-    },
-    {
-      "id": "96211335df060eaa",
-      "title": "The NFA Injunction Is Spreading — B&T Just Made Its Move",
-      "link": "https://www.youtube.com/watch?v=ya0ClHpECfw",
-      "published": "2026-09-02T18:11:28+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "The NFA Injunction Is Spreading — B&T Just Made Its Move"
     },
     {
       "id": "47e3c0e3b5389f17",
