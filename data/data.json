@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-09T08:25:02.920278+00:00",
-  "item_count": 150,
+  "generated_at": "2026-09-09T15:24:15.231793+00:00",
+  "item_count": 136,
   "items": [
+    {
+      "id": "15f83a93fc305605",
+      "title": "GRABAGUN RENEWS SAF CORPORATE PARTNERSHIP, UPGRADES TO PLATINUM LEVEL",
+      "link": "https://saf.org/grabagun-renews-saf-corporate-partnership-upgrades-to-platinum-level/",
+      "published": "2026-09-09T14:01:25+00:00",
+      "source_id": "saf",
+      "source_name": "Second Amendment Foundation",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "BELLEVUE, Wash. — Sept. 9, 2026 — The Second Amendment Foundation (SAF) is pleased to announce that GrabAGun – a digitally native eCommerce retailer of firearms, ammunition, related accessories and…"
+    },
+    {
+      "id": "1a7876e19e586930",
+      "title": "Oklahoma pastor targeted by ATF thrilled by President Trump’s pardon",
+      "link": "https://saf.org/oklahoma-pastor-targeted-by-atf-thrilled-by-president-trumps-pardon/",
+      "published": "2026-09-09T13:55:00+00:00",
+      "source_id": "saf",
+      "source_name": "Second Amendment Foundation",
+      "source_type": "org",
+      "category": "Regulatory",
+      "tldr": "By Lee Williams The Sunday after he decided to accept a federal plea offer, in which he agreed to plead guilty to one count of selling ammunition to a prohibited person, Pastor Russell Fincher…"
+    },
     {
       "id": "a8539a6e204c8572",
       "title": "AR-15 Common Use - Millions Own This Popular Rifle",
@@ -23,6 +45,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING TODAY! Supreme Court Immediate Emergency Election Ruling Now Set In Motion!"
+    },
+    {
+      "id": "d14d0086f2852784",
+      "title": "Federal Firearms Licensee Protection Act of 2025",
+      "link": "https://www.congress.gov/bill/119th-congress/hr/1773",
+      "published": "2026-09-09T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Referred to the House Committee on the Judiciary."
     },
     {
       "id": "dd303a6c744638c6",
@@ -122,39 +155,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING TODAY! Supreme Court Immediate Emergency Election Ruling Now Set In Motion!"
-    },
-    {
-      "id": "84419ffa8ce56fe0",
-      "title": "Delaware Department of Safety and Homeland Security v. Gavin J. Birney (Supreme Court of Delaware)",
-      "link": "https://www.courtlistener.com/opinion/10969233/delaware-department-of-safety-and-homeland-security-v-gavin-j-birney/",
-      "published": "2026-09-08T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "38386e6b1a47a836",
-      "title": "United States v. Ostertag (Court of Appeals for the Tenth Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10969126/united-states-v-ostertag/",
-      "published": "2026-09-08T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "99fa5d0a8a5a2e43",
-      "title": "National Shooting Sports Foundation v. Attorney General New Jersey (Court of Appeals for the Third Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10969119/national-shooting-sports-foundation-v-attorney-general-new-jersey/",
-      "published": "2026-09-08T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "9773f33a600aea72",
@@ -454,17 +454,6 @@
       "tldr": "BREAKING TODAY! Supreme Court Immediate Emergency Election Ruling Pushed Forward!"
     },
     {
-      "id": "9a8e456dae1c9340",
-      "title": "United States v. Nyandoro (Court of Appeals for the Fifth Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10967525/united-states-v-nyandoro/",
-      "published": "2026-09-04T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "5faff8d01faa6fca",
       "title": "BREAKING NEWS: Congress Just Took a Stand Against AR-15 Bans",
       "link": "https://www.youtube.com/watch?v=VccfFmB5DxU",
@@ -586,39 +575,6 @@
       "tldr": "BREAKING TODAY! Supreme Court Immediate Emergency Election Ruling Set In Motion But State Responds!"
     },
     {
-      "id": "02b75c6261e1f3e5",
-      "title": "Sealed v. Sealed Juvenile (Court of Appeals for the Fifth Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10966065/sealed-v-sealed-juvenile/",
-      "published": "2026-09-03T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "8ec7da230619d775",
-      "title": "Quarles v. United States (amended opinion) (District of Columbia Court of Appeals)",
-      "link": "https://www.courtlistener.com/opinion/10965871/quarles-v-united-states-amended-opinion/",
-      "published": "2026-09-03T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "072f29d35b6a53a8",
-      "title": "White v. United States (District of Columbia Court of Appeals)",
-      "link": "https://www.courtlistener.com/opinion/10965870/white-v-united-states/",
-      "published": "2026-09-03T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "0af86fa6a279fc8f",
       "title": "LAWYER: Ranking All 9 Supreme Court Justices on Gun Rights — From Best to Worst",
       "link": "https://www.youtube.com/watch?v=ilJ5BYH4ngE",
@@ -661,39 +617,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING TODAY! Supreme Court Immediate Emergency Election Ruling Now Set In Motion!"
-    },
-    {
-      "id": "343108dc01d7f85f",
-      "title": "State v. Reed (Ohio Court of Appeals)",
-      "link": "https://www.courtlistener.com/opinion/10965017/state-v-reed/",
-      "published": "2026-09-02T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "6d38cff1e2bf11a2",
-      "title": "Sergio Ochoa Pulido v. State of Iowa (Court of Appeals of Iowa)",
-      "link": "https://www.courtlistener.com/opinion/10964838/sergio-ochoa-pulido-v-state-of-iowa/",
-      "published": "2026-09-02T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "632b38db9b6d8aaa",
-      "title": "United States v. DeFelice (Court of Appeals for the Second Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10964725/united-states-v-defelice/",
-      "published": "2026-09-02T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "d4d52641ec06cbc8",
@@ -740,39 +663,6 @@
       "tldr": "Supreme Court 9-0 Unanimous Decision Creates Immediate Constitutional Commerce Clause Challenge!"
     },
     {
-      "id": "271f79c017272790",
-      "title": "United States v. Day (District Court, District of Columbia)",
-      "link": "https://www.courtlistener.com/opinion/10963787/united-states-v-day/",
-      "published": "2026-09-01T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "55855290b142c112",
-      "title": "United States v. Diego Aleman-Lozano (Court of Appeals for the Third Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10963704/united-states-v-diego-aleman-lozano/",
-      "published": "2026-09-01T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "f62bba120c31604c",
-      "title": "United States v. Joseph Berger (Court of Appeals for the Third Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10963703/united-states-v-joseph-berger/",
-      "published": "2026-09-01T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "46224609f21520f1",
       "title": "NRA Files Lawsuit Challenging Denver’s Nonresident Handgun Carry Ban",
       "link": "https://www.nraila.org/articles/20260831/nra-files-lawsuit-challenging-denver-s-nonresident-handgun-carry-ban",
@@ -782,17 +672,6 @@
       "source_type": "org",
       "category": "Court Case",
       "tldr": "Today, the National Rifle Association (NRA) and the Colorado State Shooting Association (CSSA), together with members Greg Howeth of Hawaii and Zackary Dougherty of South Carolina, announced a…"
-    },
-    {
-      "id": "609b8e9dec4aa078",
-      "title": "SAF CHALLENGE TO NON-RESIDENT LTC PROCESS IN MASSACHUSETTS ADVANCES",
-      "link": "https://saf.org/saf-challenge-to-non-resident-ltc-process-in-massachusetts-advances/",
-      "published": "2026-08-31T19:36:16+00:00",
-      "source_id": "saf",
-      "source_name": "Second Amendment Foundation",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "BELLEVUE, Wash. — Aug. 31, 2026 — In a pivotal procedural win, a federal judge in Massachusetts has denied the government’s attempt to dismiss a Second Amendment Foundation (SAF) lawsuit challenging…"
     },
     {
       "id": "482f310efab4ca01",
@@ -905,17 +784,6 @@
       "tldr": "Connecticut Glock Ban Update, CCDL Endorsements & NFA Victory | 2A Roundtable"
     },
     {
-      "id": "db86581f88911d6e",
-      "title": "BROWNELLS RENEWS SILVER-LEVEL CORPORATE PARTNERSHIP",
-      "link": "https://saf.org/brownells-renews-silver-level-corporate-partnership/",
-      "published": "2026-08-31T13:19:50+00:00",
-      "source_id": "saf",
-      "source_name": "Second Amendment Foundation",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "BELLEVUE, Wash. — Aug. 31, 2026 — The Second Amendment Foundation is pleased to announce that Brownells, a leading provider in gunsmithing tools, parts, accessories and ammunition, has renewed their…"
-    },
-    {
       "id": "9043061bad327f60",
       "title": "ATF Hacked in Russian Ransomware Attack (Ft. Cybernews' Stefanie Schappert)",
       "link": "https://www.youtube.com/watch?v=QcfU6ivhkTE",
@@ -936,17 +804,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Issues 9-0 Unanimous Decision With Major Nationwide & Constitutional Implications!"
-    },
-    {
-      "id": "f5b550b8d69725e2",
-      "title": "Jonathan Fourie v. Kirsten Fourie (Texas Court of Appeals, 9th District (Beaumont))",
-      "link": "https://www.courtlistener.com/opinion/10967263/jonathan-fourie-v-kirsten-fourie/",
-      "published": "2026-08-31T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "586d4f248313ef90",
@@ -1057,17 +914,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING! Supreme Court Grants Immediate Review In Major Constitutional Rights Challenge!"
-    },
-    {
-      "id": "cb4d4b0728a39a39",
-      "title": "United States v. Reginald Smith, Jr. (Court of Appeals for the Eleventh Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10961545/united-states-v-reginald-smith-jr/",
-      "published": "2026-08-28T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "219c6002abbb3c5e",
