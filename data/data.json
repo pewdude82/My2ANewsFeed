@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-10T15:18:29.263412+00:00",
-  "item_count": 151,
+  "generated_at": "2026-09-10T18:44:23.194295+00:00",
+  "item_count": 150,
   "items": [
+    {
+      "id": "1451a18d0a3e4026",
+      "title": "Supreme Court Drama: DOJ Makes Unexpected Move on 2nd Amendment",
+      "link": "https://www.youtube.com/watch?v=nNVk6ObDMys",
+      "published": "2026-09-10T15:43:26+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Supreme Court Drama: DOJ Makes Unexpected Move on 2nd Amendment"
+    },
     {
       "id": "98472c9e6780292e",
       "title": "Supreme Court Issues Emergency Election Denial Order With Major Nationwide Implications!",
@@ -111,17 +122,6 @@
       "source_type": "primary_legal",
       "category": "Court Case",
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "d14d0086f2852784",
-      "title": "Federal Firearms Licensee Protection Act of 2025",
-      "link": "https://www.congress.gov/bill/119th-congress/hr/1773",
-      "published": "2026-09-09T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Referred to the House Committee on the Judiciary."
     },
     {
       "id": "dd303a6c744638c6",
@@ -650,17 +650,6 @@
       "source_type": "journalism",
       "category": "Court Case",
       "tldr": "Hawaii can bar people under 21 from buying and owning firearms, a federal judge has ruled."
-    },
-    {
-      "id": "932cc73ca3f1ee4f",
-      "title": "Federal Court Ruling: Machine Guns ARE Arms—But You Still Can't Have Them",
-      "link": "https://www.youtube.com/watch?v=RNyjpXyKZ7g",
-      "published": "2026-09-03T13:20:18+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Federal Court Ruling: Machine Guns ARE Arms—But You Still Can't Have Them"
     },
     {
       "id": "c59f6c24fa2ab873",
