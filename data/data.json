@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T08:27:03.652130+00:00",
+  "generated_at": "2026-09-10T15:18:29.263412+00:00",
   "item_count": 151,
   "items": [
     {
@@ -12,6 +12,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Issues Emergency Election Denial Order With Major Nationwide Implications!"
+    },
+    {
+      "id": "f161bc5fbe4ea9d9",
+      "title": "Frazier v. United States (District of Columbia Court of Appeals)",
+      "link": "https://www.courtlistener.com/opinion/10970375/frazier-v-united-states/",
+      "published": "2026-09-10T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "d15311c5657b2383",
@@ -991,17 +1002,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Issues 9-0 Unanimous Decision With Major Nationwide & Constitutional Implications!"
-    },
-    {
-      "id": "f5b550b8d69725e2",
-      "title": "Jonathan Fourie v. Kirsten Fourie (Texas Court of Appeals, 9th District (Beaumont))",
-      "link": "https://www.courtlistener.com/opinion/10967263/jonathan-fourie-v-kirsten-fourie/",
-      "published": "2026-08-31T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "586d4f248313ef90",
