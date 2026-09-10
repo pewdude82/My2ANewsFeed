@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-10T18:44:23.194295+00:00",
+  "generated_at": "2026-09-10T22:00:30.816747+00:00",
   "item_count": 150,
   "items": [
+    {
+      "id": "bd9631528fe17888",
+      "title": "“You’re Not Leaving!” — Crazy Biker Detains Teen Driver, Then The Officer Shows Up",
+      "link": "https://www.youtube.com/shorts/JD8vgRmQ2VQ",
+      "published": "2026-09-10T19:00:26+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "“You’re Not Leaving!” — Crazy Biker Detains Teen Driver, Then The Officer Shows Up"
+    },
     {
       "id": "1451a18d0a3e4026",
       "title": "Supreme Court Drama: DOJ Makes Unexpected Move on 2nd Amendment",
@@ -23,6 +34,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Issues Emergency Election Denial Order With Major Nationwide Implications!"
+    },
+    {
+      "id": "a0154406b9f5a412",
+      "title": "Hello Farms Licensing MI, LLC v. GR Vending MI, LLC (Court of Appeals for the Sixth Circuit)",
+      "link": "https://www.courtlistener.com/opinion/10970584/hello-farms-licensing-mi-llc-v-gr-vending-mi-llc/",
+      "published": "2026-09-10T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "f161bc5fbe4ea9d9",
@@ -839,17 +861,6 @@
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
-      "id": "f62bba120c31604c",
-      "title": "United States v. Joseph Berger (Court of Appeals for the Third Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10963703/united-states-v-joseph-berger/",
-      "published": "2026-09-01T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "46224609f21520f1",
       "title": "NRA Files Lawsuit Challenging Denver’s Nonresident Handgun Carry Ban",
       "link": "https://www.nraila.org/articles/20260831/nra-files-lawsuit-challenging-denver-s-nonresident-handgun-carry-ban",
@@ -1167,17 +1178,6 @@
       "source_type": "org",
       "category": "Court Case",
       "tldr": "We won our case, but ATF is stalling, so let’s turn up the heat and make them clear things up for dealers and gun owners nationwide… On August 5th, GOA won our “One Big Beautiful Lawsuit,” against…"
-    },
-    {
-      "id": "2948bb51ce9a036e",
-      "title": "ATF Appeal and Enforcement Guidance Are Coming",
-      "link": "https://www.youtube.com/watch?v=cufw3lPuBCM",
-      "published": "2026-08-24T19:05:11+00:00",
-      "source_id": "atty-tom-grieve",
-      "source_name": "Atty Tom Grieve",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "ATF Appeal and Enforcement Guidance Are Coming"
     },
     {
       "id": "73a219084f8d3039",
