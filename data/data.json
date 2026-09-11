@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-11T15:19:51.816542+00:00",
-  "item_count": 151,
+  "generated_at": "2026-09-11T18:48:07.681515+00:00",
+  "item_count": 150,
   "items": [
+    {
+      "id": "b7367b67a5037460",
+      "title": "On the Ground in Ukraine's Gun-Rights Fight; Third Circuit Revives New Jersey Gun-Industry Suit",
+      "link": "https://www.youtube.com/watch?v=WyCpHqSRsto",
+      "published": "2026-09-11T16:24:07+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "On the Ground in Ukraine's Gun-Rights Fight; Third Circuit Revives New Jersey Gun-Industry Suit"
+    },
+    {
+      "id": "056dbf6473f7f5eb",
+      "title": "Anti-gunners at Everytown now teaching ‘Gun Safety for Hunters’",
+      "link": "https://saf.org/anti-gunners-at-everytown-now-teaching-gun-safety-for-hunters/",
+      "published": "2026-09-11T15:11:07+00:00",
+      "source_id": "saf",
+      "source_name": "Second Amendment Foundation",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "by Lee Williams I can still recall bits and pieces of my first hunter-safety course, and I was in middle school at the time. My dad accompanied me. All of the other students brought a parent too. It…"
+    },
     {
       "id": "a7f243b6826742ff",
       "title": "Second Amendment Foundation Asks Supreme Court to Strike \"Sensitive Place\" Gun Bans",
@@ -56,17 +78,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING! Supreme Court Decision To Permanently End \"Assault Weapon\" Bans Pushes Forward!"
-    },
-    {
-      "id": "0ac10bc7c1897bca",
-      "title": "To prohibit certain platforms from allowing covered users to create or maintain an account or profile on such platforms, and for other purposes.",
-      "link": "https://www.congress.gov/bill/119th-congress/hr/10337",
-      "published": "2026-09-11T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Referred to the House Committee on Energy and Commerce."
     },
     {
       "id": "0e35dff85a1a75e8",
@@ -850,17 +861,6 @@
       "tldr": "The California Legislature adjourned its 2026 legislative session late last night, sending three additional anti-gun measures to Governor Newsom for consideration. Among them is AB 2047, a phantom…"
     },
     {
-      "id": "f74847ee2ee9c2c5",
-      "title": "Please join us at the Gun Rights Policy Conference",
-      "link": "https://saf.org/please-join-us-at-the-gun-rights-policy-conference/",
-      "published": "2026-09-01T05:00:54+00:00",
-      "source_id": "saf",
-      "source_name": "Second Amendment Foundation",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "by Lee Williams Just look at the some of the featured speakers who are coming to Dallas in 25 days for the Second Amendment Foundation’s Gun Rights Policy Conference. In 2021, after reading Judge…"
-    },
-    {
       "id": "72e5cf8eee32b754",
       "title": "Supreme Court 9-0 Unanimous Decision Creates Immediate Constitutional Commerce Clause Challenge!",
       "link": "https://www.youtube.com/watch?v=IFlFxq2TN3M",
@@ -1519,17 +1519,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "We're here to make sure every AWB gets TOSSED"
-    },
-    {
-      "id": "558381daa7fb715c",
-      "title": "Confronting the Flawed Story Behind the First SCOTUS Second Amendment Case (Ft. Brian Frye)",
-      "link": "https://www.youtube.com/watch?v=cbiGAVLRPVw",
-      "published": "2026-07-20T12:00:35+00:00",
-      "source_id": "the-reload-youtube",
-      "source_name": "The Reload (YouTube)",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Confronting the Flawed Story Behind the First SCOTUS Second Amendment Case (Ft. Brian Frye)"
     },
     {
       "id": "331bdbf081cdd3eb",
