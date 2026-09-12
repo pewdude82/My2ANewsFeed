@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-12T08:10:03.810611+00:00",
-  "item_count": 135,
+  "generated_at": "2026-09-12T14:28:09.026364+00:00",
+  "item_count": 150,
   "items": [
+    {
+      "id": "2b74015492b8eb4a",
+      "title": "ATF Just Changed the Rules on Suppressors — Here’s What You Can Do Now",
+      "link": "https://www.youtube.com/watch?v=eHcOCWlhyMc",
+      "published": "2026-09-12T13:37:58+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "ATF Just Changed the Rules on Suppressors — Here’s What You Can Do Now"
+    },
     {
       "id": "0284f77ca37310ef",
       "title": "Supreme Court Issues Emergency Election Order With Major Nationwide Implications!",
@@ -300,6 +311,50 @@
       "tldr": "Top 2026 Gun Cases to know!"
     },
     {
+      "id": "3c3e52147502675e",
+      "title": "Redditors Embarrass Virginia Assembly’s Chief Gun Banner",
+      "link": "https://www.nraila.org/articles/20260908/redditors-embarrass-virginia-assembly-s-chief-gun-banner",
+      "published": "2026-09-08T18:30:13+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "In late August, Virginia State Delegate Dan Helmer (D-10), who represents a portion of the Northern Virginia D.C. suburb of Fairfax County, took to Reddit for an “ask me anything” (AMA) question and…"
+    },
+    {
+      "id": "85a01c3c1b38124f",
+      "title": "Promise to Practice: Federal Firearm Rights Restoration is Now a Reality",
+      "link": "https://www.nraila.org/articles/20260908/promise-to-practice-federal-firearm-rights-restoration-is-now-a-reality",
+      "published": "2026-09-08T18:15:10+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "The federal government’s promise to provide a pathway to restore firearm rights is no longer merely a commitment on paper."
+    },
+    {
+      "id": "6959f01dbe1a4558",
+      "title": "Unhealthy Exposure: Gun Ban Advocates Allergic to Defensive Gun Use",
+      "link": "https://www.nraila.org/articles/20260908/unhealthy-exposure-gun-ban-advocates-allergic-to-defensive-gun-use",
+      "published": "2026-09-08T18:09:37+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "One of the narratives invented by gun control activists and their political allies to try to make their agenda more palatable to the general public has been to recast gun crime as a “public health…"
+    },
+    {
+      "id": "f6516cb726cc8728",
+      "title": "Virginia Case Shows Gun Control is Aimed at Decent Citizens, Not Criminals",
+      "link": "https://www.nraila.org/articles/20260908/virginia-case-shows-gun-control-is-aimed-at-decent-citizens-not-criminals",
+      "published": "2026-09-08T18:00:29+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "Economics has a concept called “revealed preference.” The gist is that a person’s observed actions reveal more about their preferences than what a person might profess to favor."
+    },
+    {
       "id": "a305d62a6aad630f",
       "title": "The NRA Strikes Back: Denver's Gun Ban Under Fire",
       "link": "https://www.youtube.com/watch?v=MZGsG1nhCaA",
@@ -520,6 +575,17 @@
       "tldr": "Not for the 2A? Worst Supreme Court Judge"
     },
     {
+      "id": "fa328f69e08887b2",
+      "title": "NRA Files Amicus Brief in Supreme Court “Assault Weapons” Cases",
+      "link": "https://www.nraila.org/articles/20260905/nra-files-amicus-brief-in-supreme-court-assault-weapons-cases",
+      "published": "2026-09-05T15:58:33+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "The National Rifle Association, alongside the Independence Institute and the American Suppressor Association, filed an amicus brief on Friday in the consolidated cases Viramontes v. Cook County and…"
+    },
+    {
       "id": "7f08d6fadfbbd474",
       "title": "Supreme Court Issues Emergency Election Denial Order With Major Nationwide Implications!",
       "link": "https://www.youtube.com/watch?v=g0l_TMG4vtY",
@@ -661,17 +727,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Ranking the Supreme Court Judges on Gun Rights: WORST to BEST"
-    },
-    {
-      "id": "67642073ce6d2e47",
-      "title": "Congress Demands Answers: Is Your NFA Gear Illegal in Georgia?",
-      "link": "https://www.youtube.com/watch?v=RRpjCGzaY4g",
-      "published": "2026-09-03T18:34:39+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Congress Demands Answers: Is Your NFA Gear Illegal in Georgia?"
     },
     {
       "id": "1d5536c891af6cce",
@@ -828,6 +883,17 @@
       "tldr": "Frame or Receiver Rule: What is it?"
     },
     {
+      "id": "1dbbc21a98c11a4f",
+      "title": "California: Legislature Adjourns, More Anti-Gun Bills Head to Governor's Desk",
+      "link": "https://www.nraila.org/articles/20260901/california-legislature-adjourns-more-anti-gun-bills-head-to-governors-desk",
+      "published": "2026-09-01T15:12:15+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "The California Legislature adjourned its 2026 legislative session late last night, sending three additional anti-gun measures to Governor Newsom for consideration. Among them is AB 2047, a phantom…"
+    },
+    {
       "id": "72e5cf8eee32b754",
       "title": "Supreme Court 9-0 Unanimous Decision Creates Immediate Constitutional Commerce Clause Challenge!",
       "link": "https://www.youtube.com/watch?v=IFlFxq2TN3M",
@@ -839,6 +905,17 @@
       "tldr": "Supreme Court 9-0 Unanimous Decision Creates Immediate Constitutional Commerce Clause Challenge!"
     },
     {
+      "id": "46224609f21520f1",
+      "title": "NRA Files Lawsuit Challenging Denver’s Nonresident Handgun Carry Ban",
+      "link": "https://www.nraila.org/articles/20260831/nra-files-lawsuit-challenging-denver-s-nonresident-handgun-carry-ban",
+      "published": "2026-08-31T20:34:40+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "Today, the National Rifle Association (NRA) and the Colorado State Shooting Association (CSSA), together with members Greg Howeth of Hawaii and Zackary Dougherty of South Carolina, announced a…"
+    },
+    {
       "id": "482f310efab4ca01",
       "title": "LAWYER: Judge Struck Down Part of the ATF’s Gun Rule (Frames & Receivers)",
       "link": "https://www.youtube.com/watch?v=6QJ-H3Ma3eA",
@@ -848,6 +925,94 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "LAWYER: Judge Struck Down Part of the ATF’s Gun Rule (Frames & Receivers)"
+    },
+    {
+      "id": "8e61928f27e4d4ef",
+      "title": "The NRA Gun Bus Battleground Tour Schedule",
+      "link": "https://www.nraila.org/gunbus",
+      "published": "2026-08-31T18:45:36+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "Come see the NRA Gun Bus at an event near you as we travel the country for our 2026 Battleground Tour leading up to the midterm elections!"
+    },
+    {
+      "id": "3a7922d73b8e5eb1",
+      "title": "All Flags, No Fix: Michigan’s Real Public Safety Problem",
+      "link": "https://www.nraila.org/articles/20260831/all-flags-no-fix-michigan-s-real-public-safety-problem",
+      "published": "2026-08-31T15:54:24+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "Sorry, Michiganders, but the state has developed a serious problem with crime and consequences."
+    },
+    {
+      "id": "318ec4918e88f1a7",
+      "title": "Australia Remains Committed to Eliminating Guns from the Law-Abiding",
+      "link": "https://www.nraila.org/articles/20260831/australia-remains-committed-to-eliminating-guns-from-the-law-abiding",
+      "published": "2026-08-31T15:48:44+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Regulatory",
+      "tldr": "It’s been a long time since Australia had relatively sensible gun laws. While national regulations did not really come into play until the 1990s, the states and territories began imposing severe…"
+    },
+    {
+      "id": "b5dc59194261b81c",
+      "title": "Biden-Era “Engaged in the Business” Rule (Again) Ruled Illegal",
+      "link": "https://www.nraila.org/articles/20260831/biden-era-engaged-in-the-business-rule-again-ruled-illegal",
+      "published": "2026-08-31T15:37:21+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "The anti-gun programs and policies of the Biden-Harris administration have been falling like dominoes, lately."
+    },
+    {
+      "id": "efb1a1bbe59c4673",
+      "title": "Commerce Dept. Explains Why Unconstitutional Microstamping is Also Ineffective",
+      "link": "https://www.nraila.org/articles/20260831/commerce-dept-explains-why-unconstitutional-microstamping-is-also-ineffective",
+      "published": "2026-08-31T15:26:37+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "On August 12, the U.S. Department of Commerce’s National Institute of Standards and Technology (NIST) sent a letter to U.S. House Committee on Science, Space and Technology Chairman Brian Babin…"
+    },
+    {
+      "id": "3f166589e0b7d00d",
+      "title": "A New Era of Access for Hunters: Trump DOI Expands Opportunities in Historic Move",
+      "link": "https://www.nraila.org/articles/20260831/a-new-era-of-access-for-hunters-trump-doi-expands-opportunities-in-historic-move",
+      "published": "2026-08-31T15:14:05+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "Heading into hunting season, America's sportsmen and women have another significant development from the Trump administration worth celebrating."
+    },
+    {
+      "id": "7fa1acadbc8cb045",
+      "title": "EXCLUSIVE: NRA Hits The Road For Midterm Battleground State Tour",
+      "link": "https://www.dailywire.com/news/exclusive-nra-hits-the-road-for-midterm-battleground-state-tour?topStoryPosition=undefined&author=Drew+Berkemeyer&category=Exclusive&elementPosition=1&row=1&rowHeadline=Top+Stories&rowType=Top+Stories&title=EXCLUSIVE%3A+NRA+Hits+The+Road+For+Midterm+Battleground+State+Tour",
+      "published": "2026-08-31T15:09:33+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "The National Rifle Association is going on the road for the 2026 midterm elections, launching its first-ever national bus tour Thursday to mobilize gun owners across 13 states where control of…"
+    },
+    {
+      "id": "b8cca7cbf4ef0872",
+      "title": "NRA-ILA Launches First-Ever National “Gun Bus Battleground Tour” to Mobilize Gun Owners for 2026 Midterms",
+      "link": "https://www.nraila.org/articles/20260831/nra-ila-launches-first-ever-national-gun-bus-battleground-tour-to-mobilize-gun-owners-for-2026-midterms",
+      "published": "2026-08-31T14:47:22+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "FAIRFAX, Va. — The National Rifle Association Institute for Legislative Action (NRA-ILA) todaylaunched its first-ever national bus tour, the 2026 NRA’s Gun Bus Battleground Tour, a more than two…"
     },
     {
       "id": "6624246ac00e8399",
