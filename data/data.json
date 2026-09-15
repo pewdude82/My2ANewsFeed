@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-15T09:00:15.067528+00:00",
-  "item_count": 135,
+  "generated_at": "2026-09-15T15:46:19.350326+00:00",
+  "item_count": 137,
   "items": [
+    {
+      "id": "efc96199462ea3c7",
+      "title": "He Stopped a Mass Shooting, Then the Judge Did THIS",
+      "link": "https://www.youtube.com/watch?v=YkDXJeqAftM",
+      "published": "2026-09-15T14:46:24+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "He Stopped a Mass Shooting, Then the Judge Did THIS"
+    },
     {
       "id": "5df5491c6336bed3",
       "title": "Supreme Court Issues Emergency Election Order With Major Nationwide Implications!",
@@ -12,6 +23,28 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Issues Emergency Election Order With Major Nationwide Implications!"
+    },
+    {
+      "id": "57ef9909c4972c87",
+      "title": "Federal Firearms Licensee Protection Act of 2026",
+      "link": "https://www.congress.gov/bill/119th-congress/s/4671",
+      "published": "2026-09-15T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Read twice and referred to the Committee on the Judiciary."
+    },
+    {
+      "id": "384926a95b020aa5",
+      "title": "Parents Over Platforms Act",
+      "link": "https://www.congress.gov/bill/119th-congress/s/4349",
+      "published": "2026-09-15T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Read twice and referred to the Committee on Commerce, Science, and Transportation."
     },
     {
       "id": "19b11fc6e0bc4220",
@@ -650,17 +683,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Why The Government Just Gave Up On Banning AR-15s #2a #supremecourt #breaking"
-    },
-    {
-      "id": "871880c2896e2afa",
-      "title": "The 2A Win We've Been Waiting For? DOJ Supreme Court Brief Breakdown",
-      "link": "https://www.youtube.com/watch?v=4XoW-llsH3Q",
-      "published": "2026-09-05T20:54:54+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "The 2A Win We've Been Waiting For? DOJ Supreme Court Brief Breakdown"
     },
     {
       "id": "2a73a506298d3622",
