@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-15T19:18:39.569683+00:00",
-  "item_count": 147,
+  "generated_at": "2026-09-15T22:29:14.780552+00:00",
+  "item_count": 146,
   "items": [
+    {
+      "id": "cadd859c8747638a",
+      "title": "What Is DOJ Hiding About Trump’s Second Amendment Plan?",
+      "link": "https://www.youtube.com/watch?v=Yzsrft9YCiM",
+      "published": "2026-09-15T21:35:47+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "What Is DOJ Hiding About Trump’s Second Amendment Plan?"
+    },
     {
       "id": "7d4997831715735c",
       "title": "The Media is LYING to you about these gun statistics!",
@@ -80,6 +91,17 @@
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
+      "id": "168bde76c79bd147",
+      "title": "To amend the National Child Protection Act of 1993 to ensure that businesses and organizations that work with vulnerable populations are able to request background checks for their contractors who work with those populations, as well as for individuals that the businesses or organizations license or certify to provide care for those populations.",
+      "link": "https://www.congress.gov/bill/119th-congress/hr/3100",
+      "published": "2026-09-15T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 0."
+    },
+    {
       "id": "57ef9909c4972c87",
       "title": "Federal Firearms Licensee Protection Act of 2026",
       "link": "https://www.congress.gov/bill/119th-congress/s/4671",
@@ -89,28 +111,6 @@
       "source_type": "primary_legal",
       "category": "Legislation",
       "tldr": "Latest action: Read twice and referred to the Committee on the Judiciary."
-    },
-    {
-      "id": "b75765b6ecccb7b4",
-      "title": "Gun Owner Registration Information Protection Act",
-      "link": "https://www.congress.gov/bill/119th-congress/s/3916",
-      "published": "2026-09-15T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
-    },
-    {
-      "id": "384926a95b020aa5",
-      "title": "Parents Over Platforms Act",
-      "link": "https://www.congress.gov/bill/119th-congress/s/4349",
-      "published": "2026-09-15T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Read twice and referred to the Committee on Commerce, Science, and Transportation."
     },
     {
       "id": "19b11fc6e0bc4220",
@@ -804,17 +804,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court 9-0 Unanimous Decision Creates Immediate Constitutional Commerce Clause Challenge!"
-    },
-    {
-      "id": "590d117db4370eb3",
-      "title": "Why The Government Just Gave Up On Banning AR-15s #2a #supremecourt #breaking",
-      "link": "https://www.youtube.com/shorts/A-tn4eC2x_U",
-      "published": "2026-09-05T23:53:04+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Why The Government Just Gave Up On Banning AR-15s #2a #supremecourt #breaking"
     },
     {
       "id": "2a73a506298d3622",
