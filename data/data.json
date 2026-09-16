@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-16T08:52:49.101908+00:00",
-  "item_count": 136,
+  "generated_at": "2026-09-16T15:38:17.535814+00:00",
+  "item_count": 145,
   "items": [
+    {
+      "id": "478253261cda0fcd",
+      "title": "Congress Votes TODAY on 2 Major Gun Bills: Here's What You Must Do",
+      "link": "https://www.youtube.com/watch?v=4pCQ85agy7c",
+      "published": "2026-09-16T12:35:39+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Congress Votes TODAY on 2 Major Gun Bills: Here's What You Must Do"
+    },
     {
       "id": "fd7fc130ca4fe528",
       "title": "DC Asks to Join NRA Foundation Fight on the Side of the Foundation",
@@ -23,6 +34,39 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING! Supreme Court Issues Emergency Election Order With Major Nationwide Implications!"
+    },
+    {
+      "id": "5ca99e2e55cec9b3",
+      "title": "Joshua Spotts, Michelle Rains, and Merrell Conlee v. Carl Merrell, Trustee of the June Edmondson Merrell Revocable Trust (Court of Appeals of Arkansas)",
+      "link": "https://www.courtlistener.com/opinion/10974591/joshua-spotts-michelle-rains-and-merrell-conlee-v-carl-merrell-trustee/",
+      "published": "2026-09-16T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
+      "id": "b55010cfe8c63044",
+      "title": "Firearm Access During Shutdowns Act of 2025",
+      "link": "https://www.congress.gov/bill/119th-congress/s/3085",
+      "published": "2026-09-16T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Read twice and referred to the Committee on the Judiciary."
+    },
+    {
+      "id": "a66abba56208e909",
+      "title": "Freedom from Unfair Gun Taxes Act",
+      "link": "https://www.congress.gov/bill/119th-congress/s/1169",
+      "published": "2026-09-16T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Read twice and referred to the Committee on Finance."
     },
     {
       "id": "cadd859c8747638a",
@@ -56,6 +100,17 @@
       "source_type": "org",
       "category": "Legislation",
       "tldr": "LET’S PASS THESE BILLS! These two bills are marked up tomorrow, we need your help to pass them…. If you’re receiving this email, your Representative in Congress is on the House Judiciary Committee…"
+    },
+    {
+      "id": "6aed8d7adc9cfc62",
+      "title": "NRA Files Amicus Brief Urging SCOTUS to Hear Challenge to Minnesota’s Refusal to Recognize Out-of-State Carry Permits",
+      "link": "https://www.nraila.org/articles/20260915/nra-files-amicus-brief-urging-scotus-to-hear-challenge-to-minnesota-s-refusal-to-recognize-out-of-state-carry-permits",
+      "published": "2026-09-15T17:46:50+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "The National Rifle Association joined the Second Amendment Foundation, California Rifle &amp; Pistol Association, Second Amendment Law Center, Minnesota Gun Owners Caucus, and Citizens Committee for…"
     },
     {
       "id": "6d8e840f3a88174a",
@@ -102,17 +157,6 @@
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
-      "id": "168bde76c79bd147",
-      "title": "To amend the National Child Protection Act of 1993 to ensure that businesses and organizations that work with vulnerable populations are able to request background checks for their contractors who work with those populations, as well as for individuals that the businesses or organizations license or certify to provide care for those populations.",
-      "link": "https://www.congress.gov/bill/119th-congress/hr/3100",
-      "published": "2026-09-15T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 0."
-    },
-    {
       "id": "19b11fc6e0bc4220",
       "title": "Ted Cruz Takes Aim at Assault Weapon Bans in Supreme Court Battle",
       "link": "https://www.youtube.com/watch?v=3wUEI69gMmQ",
@@ -144,6 +188,28 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Mass Shooter Stopped By Armed Civilian… Guess What The Media Focused On Instead"
+    },
+    {
+      "id": "addbb21ab0fb5ac8",
+      "title": "Remembering NRA Benefactor John Mascari II from Indianapolis, Indiana",
+      "link": "https://www.nraila.org/articles/20260914/remembering-nra-benefactor-john-mascari-ii-from-indianapolis-indiana",
+      "published": "2026-09-14T17:57:20+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "John was a dedicated NRA volunteer, recruiter, and FrontLines Activist Leader (FAL) whose commitment to protecting the Second Amendment touched many people throughout central Indiana."
+    },
+    {
+      "id": "5f4468a814d8b937",
+      "title": "“Derivative Disarmament” – A “No Fault” Loss of Gun Rights",
+      "link": "https://www.nraila.org/articles/20260914/derivative-disarmament-a-no-fault-loss-of-gun-rights",
+      "published": "2026-09-14T16:08:25+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "One of the aftereffects of the United States Supreme Court’s landmark ruling in NYSRPA v. Bruen was the ire expressed by antigun lawmakers, executives and judges, which manifested as an outright…"
     },
     {
       "id": "49d15d3e4d24cdd2",
@@ -564,6 +630,50 @@
       "tldr": "Top 2026 Gun Cases to know!"
     },
     {
+      "id": "3c3e52147502675e",
+      "title": "Redditors Embarrass Virginia Assembly’s Chief Gun Banner",
+      "link": "https://www.nraila.org/articles/20260908/redditors-embarrass-virginia-assembly-s-chief-gun-banner",
+      "published": "2026-09-08T18:30:13+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "In late August, Virginia State Delegate Dan Helmer (D-10), who represents a portion of the Northern Virginia D.C. suburb of Fairfax County, took to Reddit for an “ask me anything” (AMA) question and…"
+    },
+    {
+      "id": "85a01c3c1b38124f",
+      "title": "Promise to Practice: Federal Firearm Rights Restoration is Now a Reality",
+      "link": "https://www.nraila.org/articles/20260908/promise-to-practice-federal-firearm-rights-restoration-is-now-a-reality",
+      "published": "2026-09-08T18:15:10+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "The federal government’s promise to provide a pathway to restore firearm rights is no longer merely a commitment on paper."
+    },
+    {
+      "id": "6959f01dbe1a4558",
+      "title": "Unhealthy Exposure: Gun Ban Advocates Allergic to Defensive Gun Use",
+      "link": "https://www.nraila.org/articles/20260908/unhealthy-exposure-gun-ban-advocates-allergic-to-defensive-gun-use",
+      "published": "2026-09-08T18:09:37+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "One of the narratives invented by gun control activists and their political allies to try to make their agenda more palatable to the general public has been to recast gun crime as a “public health…"
+    },
+    {
+      "id": "f6516cb726cc8728",
+      "title": "Virginia Case Shows Gun Control is Aimed at Decent Citizens, Not Criminals",
+      "link": "https://www.nraila.org/articles/20260908/virginia-case-shows-gun-control-is-aimed-at-decent-citizens-not-criminals",
+      "published": "2026-09-08T18:00:29+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "Economics has a concept called “revealed preference.” The gist is that a person’s observed actions reveal more about their preferences than what a person might profess to favor."
+    },
+    {
       "id": "a305d62a6aad630f",
       "title": "The NRA Strikes Back: Denver's Gun Ban Under Fire",
       "link": "https://www.youtube.com/watch?v=MZGsG1nhCaA",
@@ -696,17 +806,6 @@
       "tldr": "Trump Pardons 4 Gun Owners — The ATF Question Isn’t Over"
     },
     {
-      "id": "247f0658b31d5138",
-      "title": "Your Local Gun Shop Now a Government Surveillance Hub?!?",
-      "link": "https://www.youtube.com/watch?v=vk1RV8Lhl9c",
-      "published": "2026-09-06T12:54:27+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Your Local Gun Shop Now a Government Surveillance Hub?!?"
-    },
-    {
       "id": "059e87aaceaa82b8",
       "title": "Analysis: Why DOJ Says SCOTUS Should Strike Down AR-15 Bans, But Not Every Gun Ban [Member Exclusive]",
       "link": "https://thereload.com/analysis-why-doj-says-scotus-should-strike-down-ar-15-bans-but-not-every-gun-ban-member-exclusive/",
@@ -738,6 +837,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Not for the 2A? Worst Supreme Court Judge"
+    },
+    {
+      "id": "fa328f69e08887b2",
+      "title": "NRA Files Amicus Brief in Supreme Court “Assault Weapons” Cases",
+      "link": "https://www.nraila.org/articles/20260905/nra-files-amicus-brief-in-supreme-court-assault-weapons-cases",
+      "published": "2026-09-05T15:58:33+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "The National Rifle Association, alongside the Independence Institute and the American Suppressor Association, filed an amicus brief on Friday in the consolidated cases Viramontes v. Cook County and…"
     },
     {
       "id": "7f08d6fadfbbd474",
@@ -919,17 +1029,6 @@
       "id": "343108dc01d7f85f",
       "title": "State v. Reed (Ohio Court of Appeals)",
       "link": "https://www.courtlistener.com/opinion/10965017/state-v-reed/",
-      "published": "2026-09-02T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "6d38cff1e2bf11a2",
-      "title": "Sergio Ochoa Pulido v. State of Iowa (Court of Appeals of Iowa)",
-      "link": "https://www.courtlistener.com/opinion/10964838/sergio-ochoa-pulido-v-state-of-iowa/",
       "published": "2026-09-02T00:00:00+00:00",
       "source_id": "courtlistener",
       "source_name": "CourtListener (Free Law Project)",
