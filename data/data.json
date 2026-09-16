@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-16T15:38:17.535814+00:00",
-  "item_count": 145,
+  "generated_at": "2026-09-16T19:09:14.736648+00:00",
+  "item_count": 128,
   "items": [
+    {
+      "id": "b5014bf7175bcfd4",
+      "title": "Attorneys On Retainer Challenges the Feds’ Biggest Gun Law Argument",
+      "link": "https://www.youtube.com/watch?v=XDFRWPiHzW4",
+      "published": "2026-09-16T17:38:34+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Attorneys On Retainer Challenges the Feds’ Biggest Gun Law Argument"
+    },
     {
       "id": "478253261cda0fcd",
       "title": "Congress Votes TODAY on 2 Major Gun Bills: Here's What You Must Do",
@@ -34,39 +45,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING! Supreme Court Issues Emergency Election Order With Major Nationwide Implications!"
-    },
-    {
-      "id": "5ca99e2e55cec9b3",
-      "title": "Joshua Spotts, Michelle Rains, and Merrell Conlee v. Carl Merrell, Trustee of the June Edmondson Merrell Revocable Trust (Court of Appeals of Arkansas)",
-      "link": "https://www.courtlistener.com/opinion/10974591/joshua-spotts-michelle-rains-and-merrell-conlee-v-carl-merrell-trustee/",
-      "published": "2026-09-16T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "b55010cfe8c63044",
-      "title": "Firearm Access During Shutdowns Act of 2025",
-      "link": "https://www.congress.gov/bill/119th-congress/s/3085",
-      "published": "2026-09-16T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Read twice and referred to the Committee on the Judiciary."
-    },
-    {
-      "id": "a66abba56208e909",
-      "title": "Freedom from Unfair Gun Taxes Act",
-      "link": "https://www.congress.gov/bill/119th-congress/s/1169",
-      "published": "2026-09-16T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Read twice and referred to the Committee on Finance."
     },
     {
       "id": "cadd859c8747638a",
@@ -144,17 +122,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Issues Emergency Election Order With Major Nationwide Implications!"
-    },
-    {
-      "id": "3cc8e2701657715e",
-      "title": "Nada v. United Arab Emirates (District Court, District of Columbia)",
-      "link": "https://www.courtlistener.com/opinion/10974360/nada-v-united-arab-emirates/",
-      "published": "2026-09-15T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "19b11fc6e0bc4220",
@@ -421,17 +388,6 @@
       "tldr": "BREAKING! Supreme Court Decision To Permanently End \"Assault Weapon\" Bans Pushes Forward!"
     },
     {
-      "id": "de60b7f0bfc312c7",
-      "title": "Craig W. Thomas v. American Midstream GP, LLC n/k/a Third Coast Midstream Holdings, LLC (Court of Chancery of Delaware)",
-      "link": "https://www.courtlistener.com/opinion/10972096/craig-w-thomas-v-american-midstream-gp-llc-nka-third-coast-midstream/",
-      "published": "2026-09-11T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "0e35dff85a1a75e8",
       "title": "Exclusive: Ukrainian Right to Bear Arms Policy Push Proceeds at a Snail’s Pace",
       "link": "https://thereload.com/exclusive-ukrainian-right-to-bear-arms-policy-proceeds-at-snails-pace/",
@@ -474,28 +430,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Issues Emergency Election Denial Order With Major Nationwide Implications!"
-    },
-    {
-      "id": "a0154406b9f5a412",
-      "title": "Hello Farms Licensing MI, LLC v. GR Vending MI, LLC (Court of Appeals for the Sixth Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10970584/hello-farms-licensing-mi-llc-v-gr-vending-mi-llc/",
-      "published": "2026-09-10T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "f161bc5fbe4ea9d9",
-      "title": "Frazier v. United States (District of Columbia Court of Appeals)",
-      "link": "https://www.courtlistener.com/opinion/10970375/frazier-v-united-states/",
-      "published": "2026-09-10T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "d15311c5657b2383",
@@ -573,28 +507,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING TODAY! Supreme Court Immediate Emergency Election Ruling Now Set In Motion!"
-    },
-    {
-      "id": "aa863c1b8f346092",
-      "title": "In Re: Aprobación De La Actualización Del Libro De Instrucciones Al Jurado (Supreme Court of Puerto Rico)",
-      "link": "https://www.courtlistener.com/opinion/10972082/in-re-aprobacion-de-la-actualizacion-del-libro-de-instrucciones-al-jurado/",
-      "published": "2026-09-09T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "a18f08a9c0430a53",
-      "title": "United States v. Joseph Olson (Court of Appeals for the Eleventh Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10970153/united-states-v-joseph-olson/",
-      "published": "2026-09-09T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "dd303a6c744638c6",
@@ -696,39 +608,6 @@
       "tldr": "BREAKING TODAY! Supreme Court Immediate Emergency Election Ruling Now Set In Motion!"
     },
     {
-      "id": "84419ffa8ce56fe0",
-      "title": "Delaware Department of Safety and Homeland Security v. Gavin J. Birney (Supreme Court of Delaware)",
-      "link": "https://www.courtlistener.com/opinion/10969233/delaware-department-of-safety-and-homeland-security-v-gavin-j-birney/",
-      "published": "2026-09-08T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "38386e6b1a47a836",
-      "title": "United States v. Ostertag (Court of Appeals for the Tenth Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10969126/united-states-v-ostertag/",
-      "published": "2026-09-08T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "99fa5d0a8a5a2e43",
-      "title": "National Shooting Sports Foundation v. Attorney General New Jersey (Court of Appeals for the Third Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10969119/national-shooting-sports-foundation-v-attorney-general-new-jersey/",
-      "published": "2026-09-08T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "9773f33a600aea72",
       "title": "LAWYER: The 2026 Gun Law Recap Every Gun Owner Needs",
       "link": "https://www.youtube.com/watch?v=xX0VOGRVDaw",
@@ -793,17 +672,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "The Most Pro 2A Supreme Court Judge!"
-    },
-    {
-      "id": "00e34515b2e38df3",
-      "title": "Trump Pardons 4 Gun Owners — The ATF Question Isn’t Over",
-      "link": "https://www.youtube.com/watch?v=2sCamJuoZnI",
-      "published": "2026-09-06T17:06:10+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Trump Pardons 4 Gun Owners — The ATF Question Isn’t Over"
     },
     {
       "id": "059e87aaceaa82b8",
@@ -916,17 +784,6 @@
       "tldr": "BREAKING TODAY! Supreme Court Immediate Emergency Election Ruling Pushed Forward!"
     },
     {
-      "id": "9a8e456dae1c9340",
-      "title": "United States v. Nyandoro (Court of Appeals for the Fifth Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10967525/united-states-v-nyandoro/",
-      "published": "2026-09-04T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "36e982b372f46d67",
       "title": "Ranking the Supreme Court Judges on Gun Rights: WORST to BEST",
       "link": "https://www.youtube.com/shorts/8zTizV2916I",
@@ -971,39 +828,6 @@
       "tldr": "BREAKING TODAY! Supreme Court Immediate Emergency Election Ruling Set In Motion But State Responds!"
     },
     {
-      "id": "02b75c6261e1f3e5",
-      "title": "Sealed v. Sealed Juvenile (Court of Appeals for the Fifth Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10966065/sealed-v-sealed-juvenile/",
-      "published": "2026-09-03T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "8ec7da230619d775",
-      "title": "Quarles v. United States (amended opinion) (District of Columbia Court of Appeals)",
-      "link": "https://www.courtlistener.com/opinion/10965871/quarles-v-united-states-amended-opinion/",
-      "published": "2026-09-03T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "072f29d35b6a53a8",
-      "title": "White v. United States (District of Columbia Court of Appeals)",
-      "link": "https://www.courtlistener.com/opinion/10965870/white-v-united-states/",
-      "published": "2026-09-03T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "0af86fa6a279fc8f",
       "title": "LAWYER: Ranking All 9 Supreme Court Justices on Gun Rights — From Best to Worst",
       "link": "https://www.youtube.com/watch?v=ilJ5BYH4ngE",
@@ -1024,17 +848,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING TODAY! Supreme Court Immediate Emergency Election Ruling Now Set In Motion!"
-    },
-    {
-      "id": "343108dc01d7f85f",
-      "title": "State v. Reed (Ohio Court of Appeals)",
-      "link": "https://www.courtlistener.com/opinion/10965017/state-v-reed/",
-      "published": "2026-09-02T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "d4d52641ec06cbc8",
