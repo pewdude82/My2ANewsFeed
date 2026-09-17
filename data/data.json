@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-17T15:44:12.140094+00:00",
+  "generated_at": "2026-09-17T19:20:40.456696+00:00",
   "item_count": 144,
   "items": [
+    {
+      "id": "6096431b7bf7732c",
+      "title": "The Supreme Court Is About to Decide If AR-15s Can Be Banned!",
+      "link": "https://www.youtube.com/shorts/6KCWmWolfgA",
+      "published": "2026-09-17T19:00:30+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "The Supreme Court Is About to Decide If AR-15s Can Be Banned!"
+    },
     {
       "id": "0fd1d99b62c571c9",
       "title": "SAF ATTORNEY PUBLISHES SECOND LAW REVIEW ARTICLE",
@@ -69,15 +80,15 @@
       "tldr": "Supreme Court Issues 9-0 Unanimous Emergency Election Order With Major Nationwide Implications!"
     },
     {
-      "id": "57ef9909c4972c87",
-      "title": "Federal Firearms Licensee Protection Act of 2026",
-      "link": "https://www.congress.gov/bill/119th-congress/s/4671",
+      "id": "391eebc71daf38a9",
+      "title": "To modernize Federal firearms laws to account for advancements in technology and less-than-lethal weapons, and for other purposes.",
+      "link": "https://www.congress.gov/bill/119th-congress/hr/2189",
       "published": "2026-09-17T00:00:00+00:00",
       "source_id": "congress-gov",
       "source_name": "Congress.gov",
       "source_type": "primary_legal",
       "category": "Legislation",
-      "tldr": "Latest action: Read twice and referred to the Committee on the Judiciary."
+      "tldr": "Latest action: Received in the Senate."
     },
     {
       "id": "fc6199269c5c7279",
@@ -378,7 +389,7 @@
     },
     {
       "id": "ca2095916a137947",
-      "title": "Exclusive: Ukrainians Debate How Guns Will Fit in a Post-War Society [Member Early Access]",
+      "title": "Exclusive: Ukrainians Debate How Guns Will Fit in a Post-War Society",
       "link": "https://thereload.com/exclusive-ukrainians-debate-how-guns-will-fit-in-a-post-war-society/",
       "published": "2026-09-13T09:04:20+00:00",
       "source_id": "the-reload",
@@ -488,7 +499,7 @@
     },
     {
       "id": "f21683c82528f52a",
-      "title": "“Shooting is Very Nice When It’s Only Going One Direction,” Ukrainian Gun Store Staff See Surging Interest [Member Early Access]",
+      "title": "“Shooting is Very Nice When It’s Only Going One Direction,” Ukrainian Gun Store Staff See Surging Interest",
       "link": "https://thereload.com/shooting-is-very-nice-when-its-only-going-one-direction-ukrainian-gun-store-staff-see-surging-interest-member-early-access/",
       "published": "2026-09-11T09:04:01+00:00",
       "source_id": "the-reload",
@@ -1090,17 +1101,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "ATF Hacked in Russian Ransomware Attack (Ft. Cybernews' Stefanie Schappert)"
-    },
-    {
-      "id": "586d4f248313ef90",
-      "title": "ATF Guidance Predictions",
-      "link": "https://www.youtube.com/shorts/NDtB5nBDjUU",
-      "published": "2026-08-30T18:00:30+00:00",
-      "source_id": "atty-tom-grieve",
-      "source_name": "Atty Tom Grieve",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "ATF Guidance Predictions"
     },
     {
       "id": "5c2a842063c45c68",
