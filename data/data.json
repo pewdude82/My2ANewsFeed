@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-09-18T08:32:25.739956+00:00",
-  "item_count": 144,
+  "generated_at": "2026-09-18T15:16:39.233506+00:00",
+  "item_count": 143,
   "items": [
+    {
+      "id": "9d3a5022b843728b",
+      "title": "Court Just Ruled: Border Agents Can Search Your Phone WITHOUT Suspicion",
+      "link": "https://www.youtube.com/watch?v=l1ndcAOVaAU",
+      "published": "2026-09-18T13:52:45+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Court Just Ruled: Border Agents Can Search Your Phone WITHOUT Suspicion"
+    },
+    {
+      "id": "9083e92c49be87ff",
+      "title": "Synagogue Scores Early Win Against Maryland County’s Gun Restrictions",
+      "link": "https://thereload.com/synagogue-wins-case-against-maryland-countys-gun-restrictions/",
+      "published": "2026-09-18T09:04:58+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Court Case",
+      "tldr": "A federal judge sided with a Maryland rabbi and synagogue, arguing that a state law prevented them from having firearms for security and religious reasons."
+    },
+    {
+      "id": "f445113ba2f1cce4",
+      "title": "Analysis: DOJ Doubles Down on Gun-Carry Lawsuits [Member Exclusive]",
+      "link": "https://thereload.com/analysis-doj-doubles-down-on-gun-carry-lawsuits-member-exclusive/",
+      "published": "2026-09-18T09:02:43+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Court Case",
+      "tldr": "The Department of Justice (DOJ) has filed yet another lawsuit against a locality over its gun-carry permitting process. This time, the DOJ’s Civil Rights Division is going after San Jose, California…"
+    },
+    {
+      "id": "c324160ceefc36d7",
+      "title": "Newsletter: Gun Ban at Churches, Synagogues Loses in Federal Court",
+      "link": "https://thereload.com/newsletter-gun-ban-at-churches-synagogues-loses-in-federal-court/",
+      "published": "2026-09-18T09:00:07+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Court Case",
+      "tldr": "Plus, Bearing Arms' Cam Edwards breaks down the pro-gun briefs in the Supreme Court's upcoming AR-15 case on the podcast."
+    },
     {
       "id": "eea54f58dd1f6a61",
       "title": "BREAKING TODAY! Supreme Court 9-0 Unanimous Emergency Election Order Creates Immediate Review!",
@@ -12,17 +56,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING TODAY! Supreme Court 9-0 Unanimous Emergency Election Order Creates Immediate Review!"
-    },
-    {
-      "id": "99e15b5b8d5659d5",
-      "title": "To amend the Child Nutrition Act of 1966 to extend certain certification periods for the special supplemental nutrition program for women, infants, and children, and for other purposes.",
-      "link": "https://www.congress.gov/bill/119th-congress/hr/10393",
-      "published": "2026-09-18T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Referred to the House Committee on Education and Workforce."
     },
     {
       "id": "f77fe1bc70734879",
@@ -586,17 +619,6 @@
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
-      "id": "0e35dff85a1a75e8",
-      "title": "Exclusive: Ukrainian Right to Bear Arms Policy Push Proceeds at a Snail’s Pace",
-      "link": "https://thereload.com/exclusive-ukrainian-right-to-bear-arms-policy-proceeds-at-snails-pace/",
-      "published": "2026-09-10T22:26:55+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "Legislation",
-      "tldr": "Kyiv, Ukraine -- Ukraine is the only country in Europe where firearm regulation exists only by statute. But the Russian invasion could change all of that--at least, eventually."
-    },
-    {
       "id": "bd9631528fe17888",
       "title": "“You’re Not Leaving!” — Crazy Biker Detains Teen Driver, Then The Officer Shows Up",
       "link": "https://www.youtube.com/shorts/JD8vgRmQ2VQ",
@@ -663,17 +685,6 @@
       "tldr": "LAWYER: A 'Karen' Calls 911… Instantly Regrets It"
     },
     {
-      "id": "bee0f86fd166c482",
-      "title": "Analysis: The ‘Dangerous and Unusual’ Standard is About Conduct, Not Weapons Themselves",
-      "link": "https://thereload.com/analysis-the-dangerous-and-unusual-standard-is-about-conduct-not-weapons-themselves/",
-      "published": "2026-09-09T17:51:29+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "Court Case",
-      "tldr": "The Supreme Court’s latest Second Amendment case, Viramontes v. Cook County, is likely to come down to whether AR-15s are “dangerous and unusual” weapons."
-    },
-    {
       "id": "d4106d6b6e8be82b",
       "title": "Your Right to Carry Across State Lines: The Supreme Court Case You Need to Know",
       "link": "https://www.youtube.com/watch?v=Baxp1LaO-ck",
@@ -705,17 +716,6 @@
       "source_type": "org",
       "category": "Regulatory",
       "tldr": "By Lee Williams The Sunday after he decided to accept a federal plea offer, in which he agreed to plead guilty to one count of selling ammunition to a prohibited person, Pastor Russell Fincher…"
-    },
-    {
-      "id": "a8539a6e204c8572",
-      "title": "AR-15 Common Use - Millions Own This Popular Rifle",
-      "link": "https://www.youtube.com/shorts/DfOBku5elFE",
-      "published": "2026-09-09T00:49:30+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "AR-15 Common Use - Millions Own This Popular Rifle"
     },
     {
       "id": "86a06f588d4d27f3",
@@ -914,17 +914,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "The Most Pro 2A Supreme Court Judge!"
-    },
-    {
-      "id": "059e87aaceaa82b8",
-      "title": "Analysis: Why DOJ Says SCOTUS Should Strike Down AR-15 Bans, But Not Every Gun Ban [Member Exclusive]",
-      "link": "https://thereload.com/analysis-why-doj-says-scotus-should-strike-down-ar-15-bans-but-not-every-gun-ban-member-exclusive/",
-      "published": "2026-09-06T09:04:15+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "Court Case",
-      "tldr": "The federal government's brief in the AR-15 case before the Supreme Court of the United States (SCOTUS) is among the most important and most interesting."
     },
     {
       "id": "5a6c858108579bba",
