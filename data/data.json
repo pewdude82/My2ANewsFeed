@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-18T18:40:46.189514+00:00",
+  "generated_at": "2026-09-18T21:59:03.837632+00:00",
   "item_count": 143,
   "items": [
+    {
+      "id": "45c0b5ba7fd26560",
+      "title": "Maryland Synagogue Wins Injunction Against Gun-Carry Ban; DC Jumps Into NRA Foundation Fight",
+      "link": "https://www.youtube.com/watch?v=sa0ng8SCVUk",
+      "published": "2026-09-18T19:14:37+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Maryland Synagogue Wins Injunction Against Gun-Carry Ban; DC Jumps Into NRA Foundation Fight"
+    },
     {
       "id": "70bc1cde53475157",
       "title": "SAF SUBMITS COMMENTS TO CALIFORNIA DOJ ON BARREL BACKGROUND CHECK RULES",
@@ -78,6 +89,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING TODAY! Supreme Court 9-0 Unanimous Emergency Election Order Creates Immediate Review!"
+    },
+    {
+      "id": "34062d5c95ca9ab3",
+      "title": "State v. Byrd (Ohio Court of Appeals)",
+      "link": "https://www.courtlistener.com/opinion/10976929/state-v-byrd/",
+      "published": "2026-09-18T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "f77fe1bc70734879",
@@ -1037,17 +1059,6 @@
       "tldr": "Ranking the Supreme Court Judges on Gun Rights: WORST to BEST"
     },
     {
-      "id": "02b75c6261e1f3e5",
-      "title": "Sealed v. Sealed Juvenile (Court of Appeals for the Fifth Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10966065/sealed-v-sealed-juvenile/",
-      "published": "2026-09-03T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "0af86fa6a279fc8f",
       "title": "LAWYER: Ranking All 9 Supreme Court Justices on Gun Rights — From Best to Worst",
       "link": "https://www.youtube.com/watch?v=ilJ5BYH4ngE",
@@ -1398,17 +1409,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Broken Background Checks, Gun Store Mistakes & Lead Poisoning | The 2A Roundtable"
-    },
-    {
-      "id": "8fd3abc6344c82a0",
-      "title": "AR-15s Return to Virginia Shelves. What's Next? (Ft. VCDL's Phil Van Cleave)",
-      "link": "https://www.youtube.com/watch?v=9-Rofo70LZ4",
-      "published": "2026-07-27T12:00:27+00:00",
-      "source_id": "the-reload-youtube",
-      "source_name": "The Reload (YouTube)",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "AR-15s Return to Virginia Shelves. What's Next? (Ft. VCDL's Phil Van Cleave)"
     },
     {
       "id": "69ecefed6aca2971",
