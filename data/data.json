@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-09-20T08:51:38.438832+00:00",
+  "generated_at": "2026-09-20T14:58:48.772656+00:00",
   "item_count": 146,
   "items": [
+    {
+      "id": "7960f7e44a00d299",
+      "title": "DOJ Takes Aim at Minnesota Gun Laws: A Major Warning!",
+      "link": "https://www.youtube.com/watch?v=m_agyh30KS8",
+      "published": "2026-09-20T13:32:54+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "DOJ Takes Aim at Minnesota Gun Laws: A Major Warning!"
+    },
+    {
+      "id": "18d9ea329279d5ad",
+      "title": "🚨 BREAKING: 5th Circuit STRIKES Gun Law! | 18-20 Can Buy Handguns?! | 2A News LIVE",
+      "link": "https://www.youtube.com/watch?v=fj8qGa9qgGc",
+      "published": "2026-09-20T12:16:50+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "🚨 BREAKING: 5th Circuit STRIKES Gun Law! | 18-20 Can Buy Handguns?! | 2A News LIVE"
+    },
+    {
+      "id": "ecc70613354544d7",
+      "title": "Analysis: DOJ Takes a Shot at Permit-to-Purchase Laws [Member Exclusive]",
+      "link": "https://thereload.com/analysis-doj-takes-a-shot-at-permit-to-purchase-laws-member-exclusive/",
+      "published": "2026-09-20T09:04:06+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Regulatory",
+      "tldr": "A new dispute is brewing between the Department of Justice (DOJ) and Minnesota that may foreshadow the next frontier in the national gun fight."
+    },
+    {
+      "id": "e0d20bfc574b0e22",
+      "title": "Podcast: Guntuber Subpoenaed By Gun-Control Group in Mass Shooting Liability Case (Ft. TFB TV’s James Reeves) [Member Early Access]",
+      "link": "https://thereload.com/podcast-guntuber-subpoenaed-by-gun-control-group-in-mass-shooting-liability-case-ft-tfb-tvs-james-reeves/",
+      "published": "2026-09-20T09:02:08+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Court Case",
+      "tldr": "Plus, Reload Reporter Julie Miller and I cover a new ruling out of Montgomery County, Maryland, that blocks a gun ban at places of worship."
+    },
+    {
+      "id": "0167565d819376f6",
+      "title": "Members’ Newsletter: Permit-to-Purchase Court Fight Comes Into View",
+      "link": "https://thereload.com/members-newsletter-permit-to-purchase-court-fight-comes-into-view/",
+      "published": "2026-09-20T09:00:40+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Court Case",
+      "tldr": "Plus, TFB TV's James Reeves explains on the podcast the novel subpoena Everytown-backed plaintiffs sent him in a Highland Park mass shooting lawsuit."
+    },
     {
       "id": "9a98bc8a4661a76a",
       "title": "BREAKING! Supreme Court Grants Immediate Review In Major Constitutional Rights Challenge!",
@@ -12,17 +67,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING! Supreme Court Grants Immediate Review In Major Constitutional Rights Challenge!"
-    },
-    {
-      "id": "18d9ea329279d5ad",
-      "title": "🚨 BREAKING: 5th Circuit STRIKES Gun Law! | 18-20 Can Buy Handguns?! | 2A News LIVE",
-      "link": "https://www.youtube.com/watch?v=fj8qGa9qgGc",
-      "published": "2026-09-19T22:24:46+00:00",
-      "source_id": "gun-guru",
-      "source_name": "Gun Guru",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "🚨 BREAKING: 5th Circuit STRIKES Gun Law! | 18-20 Can Buy Handguns?! | 2A News LIVE"
     },
     {
       "id": "3333aaa6bc42f449",
@@ -320,6 +364,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Issues 9-0 Unanimous Emergency Election Order With Major Nationwide Implications!"
+    },
+    {
+      "id": "f26b63e936f562c4",
+      "title": "PITTMAN, ANDELL BRYMONTE v. the State of Texas (Court of Criminal Appeals of Texas)",
+      "link": "https://www.courtlistener.com/opinion/10978149/pittman-andell-brymonte-v-the-state-of-texas/",
+      "published": "2026-09-17T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "6fcaaeeb277c5d0d",
@@ -685,17 +740,6 @@
       "tldr": "'Karen' going Crazy on You? What Not To Do!"
     },
     {
-      "id": "2b74015492b8eb4a",
-      "title": "ATF Just Changed the Rules on Suppressors — Here’s What You Can Do Now",
-      "link": "https://www.youtube.com/watch?v=eHcOCWlhyMc",
-      "published": "2026-09-12T13:37:58+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "ATF Just Changed the Rules on Suppressors — Here’s What You Can Do Now"
-    },
-    {
       "id": "0284f77ca37310ef",
       "title": "Supreme Court Issues Emergency Election Order With Major Nationwide Implications!",
       "link": "https://www.youtube.com/watch?v=HS6v9XlFxKg",
@@ -727,39 +771,6 @@
       "source_type": "org",
       "category": "News",
       "tldr": "by Lee Williams I can still recall bits and pieces of my first hunter-safety course, and I was in middle school at the time. My dad accompanied me. All of the other students brought a parent too. It…"
-    },
-    {
-      "id": "f21683c82528f52a",
-      "title": "“Shooting is Very Nice When It’s Only Going One Direction,” Ukrainian Gun Store Staff See Surging Interest",
-      "link": "https://thereload.com/shooting-is-very-nice-when-its-only-going-one-direction-ukrainian-gun-store-staff-see-surging-interest-member-early-access/",
-      "published": "2026-09-11T09:04:01+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "News",
-      "tldr": "Kyiv, Ukraine -- This August, The Reload spoke to businesses in the Ukrainian gun community about the change in the country’s firearm market and the growth of Ukrainian gun culture. They reported…"
-    },
-    {
-      "id": "1db0abe66773cb7e",
-      "title": "Third Circuit Allows Gun Industry Challenge to New Jersey’s ‘Reasonable Controls’ Law",
-      "link": "https://thereload.com/third-circuit-allows-gun-industry-challenge-to-new-jerseys-reasonable-controls-law/",
-      "published": "2026-09-11T09:03:24+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "Court Case",
-      "tldr": "A federal appeals court just revived a lawsuit challenging a New Jersey law that makes it easier for the state to sue gun businesses."
-    },
-    {
-      "id": "a5ea74cfe311845e",
-      "title": "Newsletter: On the Ground in Ukraine’s Gun-Rights Fight",
-      "link": "https://thereload.com/newsletter-on-the-ground-in-ukraines-gun-rights-fight/",
-      "published": "2026-09-11T09:00:38+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "News",
-      "tldr": "Plus, Wake Forest Professor David Yamane explains his guns in America course on the podcast."
     },
     {
       "id": "acc6ab72d5f3d8f2",
@@ -996,17 +1007,6 @@
       "id": "38386e6b1a47a836",
       "title": "United States v. Ostertag (Court of Appeals for the Tenth Circuit)",
       "link": "https://www.courtlistener.com/opinion/10969126/united-states-v-ostertag/",
-      "published": "2026-09-08T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "99fa5d0a8a5a2e43",
-      "title": "National Shooting Sports Foundation v. Attorney General New Jersey (Court of Appeals for the Third Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10969119/national-shooting-sports-foundation-v-attorney-general-new-jersey/",
       "published": "2026-09-08T00:00:00+00:00",
       "source_id": "courtlistener",
       "source_name": "CourtListener (Free Law Project)",
