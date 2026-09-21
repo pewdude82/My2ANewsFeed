@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-21T09:20:59.230346+00:00",
-  "item_count": 146,
+  "generated_at": "2026-09-21T17:15:51.838704+00:00",
+  "item_count": 145,
   "items": [
+    {
+      "id": "60cb19417aca0edf",
+      "title": "Guntuber Subpoenaed By Gun-Control Group in Mass Shooting Liability Case (Ft. @JamesReeves)",
+      "link": "https://www.youtube.com/watch?v=VLHUcbmpv7U",
+      "published": "2026-09-21T12:00:16+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Guntuber Subpoenaed By Gun-Control Group in Mass Shooting Liability Case (Ft. @JamesReeves)"
+    },
     {
       "id": "fb3a75242d449241",
       "title": "Supreme Court Delivers 9-0 Unanimous Ruling With Major Nationwide & Constitutional Implications!",
@@ -12,6 +23,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Delivers 9-0 Unanimous Ruling With Major Nationwide & Constitutional Implications!"
+    },
+    {
+      "id": "00b1b6bdd207e52c",
+      "title": "They Are Coming For Gun Businesses! Virginia's Newest Threat",
+      "link": "https://www.youtube.com/watch?v=IHHSz8irP3I",
+      "published": "2026-09-20T22:26:34+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "They Are Coming For Gun Businesses! Virginia's Newest Threat"
     },
     {
       "id": "7960f7e44a00d299",
@@ -144,17 +166,6 @@
       "source_type": "primary_legal",
       "category": "Legislation",
       "tldr": "Latest action: Sponsor introductory remarks on measure. (CR H3541)"
-    },
-    {
-      "id": "1bbc8a038984c6e7",
-      "title": "Gun Owner Registration Information Protection Act",
-      "link": "https://www.congress.gov/bill/119th-congress/hr/7678",
-      "published": "2026-09-19T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Referred to the House Committee on the Judiciary."
     },
     {
       "id": "ce0c884027837105",
@@ -672,17 +683,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Issues 9-0 Unanimous Ruling With Major Nationwide & Constitutional Implications!"
-    },
-    {
-      "id": "b770a1c765f27669",
-      "title": "Common Use vs. Military Utility: The Case That Changes Everything for AR-15s",
-      "link": "https://www.youtube.com/watch?v=oy_lZD-gksY",
-      "published": "2026-09-13T13:37:22+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Common Use vs. Military Utility: The Case That Changes Everything for AR-15s"
     },
     {
       "id": "6aed3091d226d3b8",
@@ -1431,17 +1431,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "NJ Won't Give Up! State Appeals to Save AR-15 Ban | Gun Guru LIVE"
-    },
-    {
-      "id": "9ad2cfc07eb8cd99",
-      "title": "Connecticut Under-21 Handgun Bans Upheld; Virginia AR-15 Ban to Stay Blocked",
-      "link": "https://www.youtube.com/watch?v=WvSKqDVl8mc",
-      "published": "2026-07-30T17:04:32+00:00",
-      "source_id": "the-reload-youtube",
-      "source_name": "The Reload (YouTube)",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Connecticut Under-21 Handgun Bans Upheld; Virginia AR-15 Ban to Stay Blocked"
     },
     {
       "id": "69ecefed6aca2971",
