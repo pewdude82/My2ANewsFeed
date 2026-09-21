@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-21T17:15:51.838704+00:00",
-  "item_count": 145,
+  "generated_at": "2026-09-21T22:53:23.991083+00:00",
+  "item_count": 144,
   "items": [
+    {
+      "id": "8a15dfd04e56a86b",
+      "title": "SCOTUS Petition Filed: New York’s Gun Laws in Serious Trouble",
+      "link": "https://www.youtube.com/watch?v=JgoRUek5kRk",
+      "published": "2026-09-21T19:44:42+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "SCOTUS Petition Filed: New York’s Gun Laws in Serious Trouble"
+    },
+    {
+      "id": "a1c7e0c40305f339",
+      "title": "Cops Say They Have A Warrant But Won't Show It To You ... What Should You Do?",
+      "link": "https://www.youtube.com/watch?v=oZsBtYxpf-o",
+      "published": "2026-09-21T19:00:09+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Cops Say They Have A Warrant But Won't Show It To You ... What Should You Do?"
+    },
     {
       "id": "60cb19417aca0edf",
       "title": "Guntuber Subpoenaed By Gun-Control Group in Mass Shooting Liability Case (Ft. @JamesReeves)",
@@ -155,17 +177,6 @@
       "source_type": "primary_legal",
       "category": "Legislation",
       "tldr": "Latest action: Motion to reconsider laid on the table Agreed to without objection."
-    },
-    {
-      "id": "c422a8599598fe08",
-      "title": "Kimberly Vaughan Firearm Safe Storage Act",
-      "link": "https://www.congress.gov/bill/119th-congress/hr/8619",
-      "published": "2026-09-19T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Sponsor introductory remarks on measure. (CR H3541)"
     },
     {
       "id": "ce0c884027837105",
@@ -652,17 +663,6 @@
       "tldr": "One of the aftereffects of the United States Supreme Court’s landmark ruling in NYSRPA v. Bruen was the ire expressed by antigun lawmakers, executives and judges, which manifested as an outright…"
     },
     {
-      "id": "49d15d3e4d24cdd2",
-      "title": "The End of Federal Gun Laws? This 5th Circuit Case Is Massive",
-      "link": "https://www.youtube.com/watch?v=HiHoubTZD9A",
-      "published": "2026-09-14T14:27:06+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "The End of Federal Gun Laws? This 5th Circuit Case Is Massive"
-    },
-    {
       "id": "34be0a865f8b23af",
       "title": "Examining the Pro-Gun Briefs in the SCOTUS AR-15 Case (Ft. @BearingArmsCamCo)",
       "link": "https://www.youtube.com/watch?v=wdg-jqUGQxU",
@@ -1123,17 +1123,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "LAWYER: Ranking All 9 Supreme Court Justices on Gun Rights — From Best to Worst"
-    },
-    {
-      "id": "d4d52641ec06cbc8",
-      "title": "Frame or Receiver Rule: What is it?",
-      "link": "https://www.youtube.com/shorts/nGxIg_BnpIM",
-      "published": "2026-09-01T19:00:26+00:00",
-      "source_id": "atty-tom-grieve",
-      "source_name": "Atty Tom Grieve",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Frame or Receiver Rule: What is it?"
     },
     {
       "id": "6624246ac00e8399",
