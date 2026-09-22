@@ -1,17 +1,39 @@
 {
-  "generated_at": "2026-09-22T08:50:39.759723+00:00",
-  "item_count": 136,
+  "generated_at": "2026-09-22T15:48:56.511439+00:00",
+  "item_count": 143,
   "items": [
     {
-      "id": "cb0e195147585575",
-      "title": "Recognizing the importance of diapers to infant health and family well- being, and expressing support for the designation of the week of September 14-20, 2026, as \"National Diaper Need Awareness Week\".",
-      "link": "https://www.congress.gov/bill/119th-congress/hres/1547",
+      "id": "c0e6edccccf00c3a",
+      "title": "USCCA JOINS SAF AS NEWEST DIAMOND-LEVEL CORPORATE PARTNER",
+      "link": "https://saf.org/uscca-joins-saf-as-newest-diamond-level-corporate-partner/",
+      "published": "2026-09-22T14:00:16+00:00",
+      "source_id": "saf",
+      "source_name": "Second Amendment Foundation",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "The Second Amendment Foundation (SAF) is pleased to announce that the U.S. Concealed Carry Association (USCCA) has joined SAF as a corporate partner at the Diamond level. The new partnership…"
+    },
+    {
+      "id": "7ecbc07df85a17fd",
+      "title": "GLOCK SUES! New Gun Ban Could Make Dealers FELONS",
+      "link": "https://www.youtube.com/watch?v=UC8MySJCViU",
+      "published": "2026-09-22T13:38:08+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "GLOCK SUES! New Gun Ban Could Make Dealers FELONS"
+    },
+    {
+      "id": "ae8b0517243ec2fd",
+      "title": "SAFE Platforms Act",
+      "link": "https://www.congress.gov/bill/119th-congress/hr/10433",
       "published": "2026-09-22T00:00:00+00:00",
       "source_id": "congress-gov",
       "source_name": "Congress.gov",
       "source_type": "primary_legal",
       "category": "Legislation",
-      "tldr": "Latest action: Referred to the House Committee on Oversight and Government Reform."
+      "tldr": "Latest action: Referred to the House Committee on Energy and Commerce."
     },
     {
       "id": "8a15dfd04e56a86b",
@@ -542,6 +564,17 @@
       "tldr": "LET’S PASS THESE BILLS! These two bills are marked up tomorrow, we need your help to pass them…. If you’re receiving this email, your Representative in Congress is on the House Judiciary Committee…"
     },
     {
+      "id": "6aed8d7adc9cfc62",
+      "title": "NRA Files Amicus Brief Urging SCOTUS to Hear Challenge to Minnesota’s Refusal to Recognize Out-of-State Carry Permits",
+      "link": "https://www.nraila.org/articles/20260915/nra-files-amicus-brief-urging-scotus-to-hear-challenge-to-minnesota-s-refusal-to-recognize-out-of-state-carry-permits",
+      "published": "2026-09-15T17:46:50+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "The National Rifle Association joined the Second Amendment Foundation, California Rifle &amp; Pistol Association, Second Amendment Law Center, Minnesota Gun Owners Caucus, and Citizens Committee for…"
+    },
+    {
       "id": "6d8e840f3a88174a",
       "title": "SAF URGES SUPREME COURT TO REQUIRE STATES HONOR OUT-OF-STATE CARRY PERMITS",
       "link": "https://saf.org/saf-urges-supreme-court-to-require-states-honor-out-of-state-carry-permits/",
@@ -586,17 +619,6 @@
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
-      "id": "19b11fc6e0bc4220",
-      "title": "Ted Cruz Takes Aim at Assault Weapon Bans in Supreme Court Battle",
-      "link": "https://www.youtube.com/watch?v=3wUEI69gMmQ",
-      "published": "2026-09-14T21:35:07+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Ted Cruz Takes Aim at Assault Weapon Bans in Supreme Court Battle"
-    },
-    {
       "id": "2673fee98700fb41",
       "title": "DANA LOESCH, TATE ADAMIAK ADDED TO GUN RIGHTS POLICY CONFERENCE AGENDA",
       "link": "https://saf.org/dana-loesch-tate-adamiak-added-to-gun-rights-policy-conference-agenda/",
@@ -617,6 +639,28 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Mass Shooter Stopped By Armed Civilian… Guess What The Media Focused On Instead"
+    },
+    {
+      "id": "addbb21ab0fb5ac8",
+      "title": "Remembering NRA Benefactor John Mascari II from Indianapolis, Indiana",
+      "link": "https://www.nraila.org/articles/20260914/remembering-nra-benefactor-john-mascari-ii-from-indianapolis-indiana",
+      "published": "2026-09-14T17:57:20+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "John was a dedicated NRA volunteer, recruiter, and FrontLines Activist Leader (FAL) whose commitment to protecting the Second Amendment touched many people throughout central Indiana."
+    },
+    {
+      "id": "5f4468a814d8b937",
+      "title": "“Derivative Disarmament” – A “No Fault” Loss of Gun Rights",
+      "link": "https://www.nraila.org/articles/20260914/derivative-disarmament-a-no-fault-loss-of-gun-rights",
+      "published": "2026-09-14T16:08:25+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "One of the aftereffects of the United States Supreme Court’s landmark ruling in NYSRPA v. Bruen was the ire expressed by antigun lawmakers, executives and judges, which manifested as an outright…"
     },
     {
       "id": "34be0a865f8b23af",
@@ -872,17 +916,6 @@
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
-      "id": "dd303a6c744638c6",
-      "title": "SAF FILES AMICUS BRIEF CHALLENGING SUBJECTIVE FIREARM PERMIT DENIAL",
-      "link": "https://saf.org/saf-files-amicus-brief-challenging-subjective-firearm-permit-denial/",
-      "published": "2026-09-08T22:26:08+00:00",
-      "source_id": "saf",
-      "source_name": "Second Amendment Foundation",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "BELLEVUE, Wash. — Sept. 8, 2026 — The Second Amendment Foundation (SAF) has filed an amicus brief with the New Jersey Supreme Court in the Matter of the Gun Permit Appeal of A.A.R, supporting…"
-    },
-    {
       "id": "053a33cc7437ef4a",
       "title": "Grant v Higgins: ALL the Supreme Court Amicus Briefs Explained!",
       "link": "https://www.youtube.com/watch?v=tA_3yFoeDWE",
@@ -903,6 +936,50 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Top 2026 Gun Cases to know!"
+    },
+    {
+      "id": "3c3e52147502675e",
+      "title": "Redditors Embarrass Virginia Assembly’s Chief Gun Banner",
+      "link": "https://www.nraila.org/articles/20260908/redditors-embarrass-virginia-assembly-s-chief-gun-banner",
+      "published": "2026-09-08T18:30:13+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "In late August, Virginia State Delegate Dan Helmer (D-10), who represents a portion of the Northern Virginia D.C. suburb of Fairfax County, took to Reddit for an “ask me anything” (AMA) question and…"
+    },
+    {
+      "id": "85a01c3c1b38124f",
+      "title": "Promise to Practice: Federal Firearm Rights Restoration is Now a Reality",
+      "link": "https://www.nraila.org/articles/20260908/promise-to-practice-federal-firearm-rights-restoration-is-now-a-reality",
+      "published": "2026-09-08T18:15:10+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "The federal government’s promise to provide a pathway to restore firearm rights is no longer merely a commitment on paper."
+    },
+    {
+      "id": "6959f01dbe1a4558",
+      "title": "Unhealthy Exposure: Gun Ban Advocates Allergic to Defensive Gun Use",
+      "link": "https://www.nraila.org/articles/20260908/unhealthy-exposure-gun-ban-advocates-allergic-to-defensive-gun-use",
+      "published": "2026-09-08T18:09:37+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "One of the narratives invented by gun control activists and their political allies to try to make their agenda more palatable to the general public has been to recast gun crime as a “public health…"
+    },
+    {
+      "id": "f6516cb726cc8728",
+      "title": "Virginia Case Shows Gun Control is Aimed at Decent Citizens, Not Criminals",
+      "link": "https://www.nraila.org/articles/20260908/virginia-case-shows-gun-control-is-aimed-at-decent-citizens-not-criminals",
+      "published": "2026-09-08T18:00:29+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "Economics has a concept called “revealed preference.” The gist is that a person’s observed actions reveal more about their preferences than what a person might profess to favor."
     },
     {
       "id": "12929994e5929912",
