@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-09-23T15:38:27.176170+00:00",
-  "item_count": 136,
+  "generated_at": "2026-09-23T19:16:10.930438+00:00",
+  "item_count": 143,
   "items": [
+    {
+      "id": "fed07b468961aa19",
+      "title": "U.S. Department of Justice Declares Age 18-20 Handgun Sales Ban Unconstitutional",
+      "link": "https://www.nraila.org/articles/20260923/us-department-of-justice-declares-age-18-20-handgun-sales-ban-unconstitutional",
+      "published": "2026-09-23T19:03:28+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "On September 17, the Department of Justice’s Office of Legal Counsel (OLC) issued a memorandum opinion to answer the question “whether restricting young adults from buying firearms comports with the…"
+    },
+    {
+      "id": "d6a90dafd590a195",
+      "title": "GLOCK SUES CONNECTICUT! New “Glock Ban” Challenged in Federal Court | Gun Guru",
+      "link": "https://www.youtube.com/watch?v=88CxaHuK5A4",
+      "published": "2026-09-23T19:00:19+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "GLOCK SUES CONNECTICUT! New “Glock Ban” Challenged in Federal Court | Gun Guru"
+    },
+    {
+      "id": "ae757e64dd994f42",
+      "title": "LAWYER: When Can You Shoot An Unarmed Attacker?",
+      "link": "https://www.youtube.com/watch?v=Heale9e_cyY",
+      "published": "2026-09-23T19:00:06+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "LAWYER: When Can You Shoot An Unarmed Attacker?"
+    },
+    {
+      "id": "b9d328940a27011d",
+      "title": "Trump DOJ Sues San Jose, Ca., Over $1,600 Concealed Carry Licensing Fee",
+      "link": "https://www.nraila.org/articles/20260923/trump-doj-sues-san-jose-ca-over-1-600-concealed-carry-licensing-fee",
+      "published": "2026-09-23T18:34:31+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "Do you know the way to San Jose? Dionne Warwick famously asked in her 1968 hit song. Well, Assistant U.S. Attorney General Harmeet Dhillon certainly does, and she recently made sure the city was…"
+    },
+    {
+      "id": "1830821078c740c7",
+      "title": "“Law abiding citizens with an AR-15 are not a threat to anyone” — Law Enforcement Groups Weigh in on Supreme Court “Assault Weapons” Cases",
+      "link": "https://www.nraila.org/articles/20260923/law-abiding-citizens-with-an-ar-15-are-not-a-threat-to-anyone-law-enforcement-groups-weigh-in-on-supreme-court-assault-weapons-cases",
+      "published": "2026-09-23T18:29:11+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "The Trace, the “newsroom” funded by anti-gun extremist Michael Bloomberg, reported in June on the extent to which the NRA-backed NYSRPA v. Bruen case has, to date, rebuilt the modern Second Amendment…"
+    },
+    {
+      "id": "d9ce6aa58ad23cfb",
+      "title": "Everytown Goes Hunting for Credibility",
+      "link": "https://www.nraila.org/articles/20260923/everytown-goes-hunting-for-credibility",
+      "published": "2026-09-23T18:26:00+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "The irony is nothing short of comedy. Multiple outlets are having a field day with the Michael Bloomberg-backed Everytown organization, which has spent years and millions of dollars supporting…"
+    },
+    {
+      "id": "b30b2ada531d06a4",
+      "title": "The Fight to Protect the Firearms Industry Continues",
+      "link": "https://www.nraila.org/articles/20260923/the-fight-to-protect-the-firearms-industry-continues",
+      "published": "2026-09-23T18:20:39+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "The political lawfare campaign to dismantle the lawful firearms industry by holding it liable for the criminal misuse of its constitutionally protected products should have never started. U.S. tort…"
+    },
+    {
+      "id": "5eeba94b7fdfd637",
+      "title": "Study Suggests “Safe Storage” Mandates are Ineffective",
+      "link": "https://www.nraila.org/articles/20260923/study-suggests-safe-storage-mandates-are-ineffective",
+      "published": "2026-09-23T17:52:09+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "While it likely comes as no surprise to most readers, a recent study suggests that government-mandates that law-abiding gun owners always secure their firearms when “not in use”—usually unloaded…"
+    },
     {
       "id": "8df62d366b4f7ee3",
       "title": "The Ninth Circuit Just Did WHAT? Bruen Under Attack",
@@ -47,9 +135,31 @@
       "tldr": "BREAKING TODAY! Supreme Court 9-0 Unanimous Emergency Election Order Up For Immediate Re-Review!"
     },
     {
-      "id": "b55010cfe8c63044",
-      "title": "Firearm Access During Shutdowns Act of 2025",
-      "link": "https://www.congress.gov/bill/119th-congress/s/3085",
+      "id": "3893926429238f11",
+      "title": "United States v. Rivera (Court of Appeals for the Ninth Circuit)",
+      "link": "https://www.courtlistener.com/opinion/10980858/united-states-v-rivera/",
+      "published": "2026-09-23T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
+      "id": "a8ee573b8f91664d",
+      "title": "Expressing the sense of the House of Representatives regarding the relationship between firearm violence and intimate partner violence and to honor the memory of Gladys Ricart and other victims of intimate partner homicide killed by firearms, and for other purposes.",
+      "link": "https://www.congress.gov/bill/119th-congress/hres/837",
+      "published": "2026-09-23T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Referred to the House Committee on the Judiciary."
+    },
+    {
+      "id": "523d558bfe65a4ff",
+      "title": "Office of Gun Violence Prevention Act of 2025",
+      "link": "https://www.congress.gov/bill/119th-congress/s/595",
       "published": "2026-09-23T00:00:00+00:00",
       "source_id": "congress-gov",
       "source_name": "Congress.gov",
@@ -949,17 +1059,6 @@
       "tldr": "BREAKING TODAY! Supreme Court Immediate Emergency Election Ruling Now Set In Motion!"
     },
     {
-      "id": "84419ffa8ce56fe0",
-      "title": "Delaware Department of Safety and Homeland Security v. Gavin J. Birney (Supreme Court of Delaware)",
-      "link": "https://www.courtlistener.com/opinion/10969233/delaware-department-of-safety-and-homeland-security-v-gavin-j-birney/",
-      "published": "2026-09-08T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "9773f33a600aea72",
       "title": "LAWYER: The 2026 Gun Law Recap Every Gun Owner Needs",
       "link": "https://www.youtube.com/watch?v=xX0VOGRVDaw",
@@ -1024,17 +1123,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Survey Gives Insight on Gun Ownership, Defensive Use; Ninth Circuit Upholds Gun Store Surveillance"
-    },
-    {
-      "id": "36e982b372f46d67",
-      "title": "Ranking the Supreme Court Judges on Gun Rights: WORST to BEST",
-      "link": "https://www.youtube.com/shorts/8zTizV2916I",
-      "published": "2026-09-03T19:00:29+00:00",
-      "source_id": "atty-tom-grieve",
-      "source_name": "Atty Tom Grieve",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Ranking the Supreme Court Judges on Gun Rights: WORST to BEST"
     },
     {
       "id": "6624246ac00e8399",
@@ -1321,17 +1409,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "A Pro-Gun Critique of the SCOTUS Second Amendment Test (Ft. GMU Professor Ilya Somin)"
-    },
-    {
-      "id": "e20238cb6d3e695e",
-      "title": "NJ Won't Give Up! State Appeals to Save AR-15 Ban | Gun Guru LIVE",
-      "link": "https://www.youtube.com/watch?v=N3wMZuYWdMM",
-      "published": "2026-08-02T12:10:08+00:00",
-      "source_id": "gun-guru",
-      "source_name": "Gun Guru",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "NJ Won't Give Up! State Appeals to Save AR-15 Ban | Gun Guru LIVE"
     },
     {
       "id": "69ecefed6aca2971",
