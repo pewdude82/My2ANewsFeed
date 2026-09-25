@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T19:50:29.731889+00:00",
-  "item_count": 145,
+  "generated_at": "2026-09-25T22:52:08.000225+00:00",
+  "item_count": 144,
   "items": [
     {
       "id": "31fc4d4b252a75ee",
@@ -89,17 +89,6 @@
       "source_type": "primary_legal",
       "category": "Legislation",
       "tldr": "Latest action: Referred to the House Committee on Energy and Commerce."
-    },
-    {
-      "id": "a7dad7d289b9a93b",
-      "title": "To amend chapter 44 of title 18, United States Code, to classify lethal air guns as firearms.",
-      "link": "https://www.congress.gov/bill/119th-congress/hr/10583",
-      "published": "2026-09-25T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Referred to the House Committee on the Judiciary."
     },
     {
       "id": "70b79e5a4048d6a0",
