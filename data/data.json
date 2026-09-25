@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-25T09:08:10.546218+00:00",
+  "generated_at": "2026-09-25T15:59:36.971130+00:00",
   "item_count": 143,
   "items": [
+    {
+      "id": "31fc4d4b252a75ee",
+      "title": "NRA Files Amicus Brief Urging SCOTUS to Review Lawsuit Blaming Firearm Ads for Criminal Acts",
+      "link": "https://www.nraila.org/articles/20260925/nra-files-amicus-brief-urging-scotus-to-review-lawsuit-blaming-firearm-ads-for-criminal-acts",
+      "published": "2026-09-25T15:30:06+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "Today, the National Rifle Association and Second Amendment Foundation filed an amicus brief urging the U.S. Supreme Court to grant review in Daniel Defense, LLC v. Lowy. The case asks whether firearm…"
+    },
+    {
+      "id": "cd3ea3ee15c96147",
+      "title": "Assault Weapon Bans vs The Supreme Court: The Argument That Changes The Game",
+      "link": "https://www.youtube.com/watch?v=qAT8VPDUkfA",
+      "published": "2026-09-25T13:29:21+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Assault Weapon Bans vs The Supreme Court: The Argument That Changes The Game"
+    },
     {
       "id": "38676f48bf738157",
       "title": "Analysis: Does Bruen’s Footnote Nine Create an Alternate Second Amendment Test? [Member Exclusive]",
@@ -36,15 +58,26 @@
       "tldr": "BREAKING! Supreme Court Decision To Permanently End \"Assault Weapon\" Bans Pushes Forward!"
     },
     {
-      "id": "a7dad7d289b9a93b",
-      "title": "To amend chapter 44 of title 18, United States Code, to classify lethal air guns as firearms.",
-      "link": "https://www.congress.gov/bill/119th-congress/hr/10583",
+      "id": "2563e6d79cc98885",
+      "title": "State v. Johnson (Ohio Court of Appeals)",
+      "link": "https://www.courtlistener.com/opinion/10983603/state-v-johnson/",
       "published": "2026-09-25T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
       "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Referred to the House Committee on the Judiciary."
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
+      "id": "d94f4e5827eb2329",
+      "title": "State v. Temple (Ohio Court of Appeals)",
+      "link": "https://www.courtlistener.com/opinion/10983253/state-v-temple/",
+      "published": "2026-09-25T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "70b79e5a4048d6a0",
@@ -619,17 +652,6 @@
       "tldr": "BREAKING NEWS: DOJ Says Federal Handgun Age Ban Is UNCONSTITUTIONAL"
     },
     {
-      "id": "9d3a5022b843728b",
-      "title": "Court Just Ruled: Border Agents Can Search Your Phone WITHOUT Suspicion",
-      "link": "https://www.youtube.com/watch?v=l1ndcAOVaAU",
-      "published": "2026-09-18T13:52:45+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Court Just Ruled: Border Agents Can Search Your Phone WITHOUT Suspicion"
-    },
-    {
       "id": "9083e92c49be87ff",
       "title": "Synagogue Scores Early Win Against Maryland County’s Gun Restrictions",
       "link": "https://thereload.com/synagogue-wins-case-against-maryland-countys-gun-restrictions/",
@@ -1026,17 +1048,6 @@
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
-      "id": "f161bc5fbe4ea9d9",
-      "title": "Frazier v. United States (District of Columbia Court of Appeals)",
-      "link": "https://www.courtlistener.com/opinion/10970375/frazier-v-united-states/",
-      "published": "2026-09-10T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "d15311c5657b2383",
       "title": "LAWYER: A 'Karen' Calls 911… Instantly Regrets It",
       "link": "https://www.youtube.com/watch?v=PsMN464U1Y4",
@@ -1046,17 +1057,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "LAWYER: A 'Karen' Calls 911… Instantly Regrets It"
-    },
-    {
-      "id": "aa863c1b8f346092",
-      "title": "In Re: Aprobación De La Actualización Del Libro De Instrucciones Al Jurado (Supreme Court of Puerto Rico)",
-      "link": "https://www.courtlistener.com/opinion/10972082/in-re-aprobacion-de-la-actualizacion-del-libro-de-instrucciones-al-jurado/",
-      "published": "2026-09-09T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "053a33cc7437ef4a",
