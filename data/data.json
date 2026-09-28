@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-09-28T10:13:15.277138+00:00",
-  "item_count": 144,
+  "generated_at": "2026-09-28T18:49:21.282768+00:00",
+  "item_count": 146,
   "items": [
+    {
+      "id": "aabccbe2520bc755",
+      "title": "DOJ Calls Time on Minnesota’s Second Amendment Waiting Game",
+      "link": "https://www.nraila.org/articles/20260928/doj-calls-time-on-minnesota-s-second-amendment-waiting-game",
+      "published": "2026-09-28T18:28:24+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Regulatory",
+      "tldr": "For too long, Minnesota Governor Tim Waltz and his anti-gun allies in the state have treated the exercise of a constitutional right as something subject to government permission and whatever wait is…"
+    },
+    {
+      "id": "04a6da25ec4e445f",
+      "title": "Support of Self-Defense for Law-Abiding Citizens Continues to Spread Globally",
+      "link": "https://www.nraila.org/articles/20260928/support-of-self-defense-for-law-abiding-citizens-continues-to-spread-globally",
+      "published": "2026-09-28T18:25:01+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "In spite of some countries deciding they cannot trust their own citizens with firearms, other countries seem to be rejecting this policy…at least a bit."
+    },
+    {
+      "id": "e8de563d81c977e0",
+      "title": "Virginia Gun Shops Brace for the New Jerseyfication of the Commonwealth",
+      "link": "https://www.nraila.org/articles/20260928/virginia-gun-shops-brace-for-the-new-jerseyfication-of-the-commonwealth",
+      "published": "2026-09-28T18:19:42+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "Jay Jones, the anti-gun but pro-bullets to the head Virginia attorney general, announced on September 15 the creation of the Firearms Accountability &amp; Industry Responsibility (FAIR) Unit within…"
+    },
+    {
+      "id": "3b18978bb13de38b",
+      "title": "NFA UPDATE: ATF Says Suppressors on a 4473 WILL NOT Get Dealers Cited",
+      "link": "https://www.youtube.com/watch?v=xbAIS5PjiiY",
+      "published": "2026-09-28T14:19:16+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "NFA UPDATE: ATF Says Suppressors on a 4473 WILL NOT Get Dealers Cited"
+    },
+    {
+      "id": "b465379c5df6c26e",
+      "title": "High School Admits Gun Search Was Clearly Illegal (Ft. SAF's Bill Sack)",
+      "link": "https://www.youtube.com/watch?v=oq1rjvXqPQU",
+      "published": "2026-09-28T12:00:05+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "High School Admits Gun Search Was Clearly Illegal (Ft. SAF's Bill Sack)"
+    },
     {
       "id": "d96ea37d94ef8d64",
       "title": "BREAKING! Supreme Court Grants Immediate Review In Major Constitutional Rights Challenge!",
@@ -100,17 +155,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court 9-0 Unanimous Decision Creates Immediate Constitutional Commerce Clause Challenge!"
-    },
-    {
-      "id": "4b6623d2183d1da1",
-      "title": "Constitutional Concealed Carry Reciprocity Act of 2025",
-      "link": "https://www.congress.gov/bill/119th-congress/s/65",
-      "published": "2026-09-26T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Read twice and referred to the Committee on the Judiciary."
     },
     {
       "id": "31fc4d4b252a75ee",
@@ -694,17 +738,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court 9-0 Unanimous Decision Creates Immediate Constitutional Commerce Clause Challenge!"
-    },
-    {
-      "id": "ce0c884027837105",
-      "title": "BREAKING NEWS: Federal Ban on Interstate Handgun Purchases Struck Down!",
-      "link": "https://www.youtube.com/watch?v=HwIgK-jbuXY",
-      "published": "2026-09-18T23:22:21+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "BREAKING NEWS: Federal Ban on Interstate Handgun Purchases Struck Down!"
     },
     {
       "id": "45c0b5ba7fd26560",
@@ -1409,17 +1442,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Why a Judge Just Struck Down the National Firearms Act (Ft. FRAC's Travis White)"
-    },
-    {
-      "id": "74af60362bd8028c",
-      "title": "Colorado Gun Sales Soar as Restrictions Arrive; @TheHumbleMarksman on the Industry's Crossroads",
-      "link": "https://www.youtube.com/watch?v=eEGKMANdQUY",
-      "published": "2026-08-07T23:49:19+00:00",
-      "source_id": "the-reload-youtube",
-      "source_name": "The Reload (YouTube)",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Colorado Gun Sales Soar as Restrictions Arrive; @TheHumbleMarksman on the Industry's Crossroads"
     },
     {
       "id": "69ecefed6aca2971",
