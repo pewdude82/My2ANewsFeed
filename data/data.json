@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-29T10:10:39.290929+00:00",
-  "item_count": 148,
+  "generated_at": "2026-09-29T17:06:30.652999+00:00",
+  "item_count": 133,
   "items": [
+    {
+      "id": "ef72a7652fb14bf8",
+      "title": "SAF ANNOUNCES DON KILMER AS 2026 GOLDEN BOWTIE AWARD WINNER",
+      "link": "https://saf.org/saf-announces-don-kilmer-as-2026-golden-bowtie-award-winner/",
+      "published": "2026-09-29T16:31:54+00:00",
+      "source_id": "saf",
+      "source_name": "Second Amendment Foundation",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "BELLEVUE, Wash. — Sept. 29, 2025 — The Second Amendment Foundation (SAF) honored its third recipient of the Golden Bowtie Award at this year’s Gun Rights Policy Conference (GRPC) in Dallas. This…"
+    },
+    {
+      "id": "ee9cd14a0b0dc6e2",
+      "title": "Why Is ATF Taking Sides In This Forced Reset Trigger Case?",
+      "link": "https://www.youtube.com/watch?v=9Ug-SSy2OMQ",
+      "published": "2026-09-29T14:08:25+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Why Is ATF Taking Sides In This Forced Reset Trigger Case?"
+    },
+    {
+      "id": "641be8d9f1fab160",
+      "title": "GOA Sues City of Jacksonville, Florida Over Illegal Gun-Free Zones",
+      "link": "https://www.gunowners.org/goa-sues-city-of-jacksonville-florida-over-illegal-gun-free-zones/",
+      "published": "2026-09-29T14:06:55+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "FOR IMMEDIATE RELEASE September 29, 2026 Jacksonville, FL — Gun Owners of America (GOA), Gun Owners Foundation (GOF), Florida Carry, and individual plaintiffs have filed a lawsuit challenging firearm…"
+    },
     {
       "id": "ea6fea19fcf72567",
       "title": "Supreme Court Delivers Major Emergency Election Decision With Immediate Nationwide Implications!",
@@ -14,15 +47,15 @@
       "tldr": "Supreme Court Delivers Major Emergency Election Decision With Immediate Nationwide Implications!"
     },
     {
-      "id": "fea837c11498b2ff",
-      "title": "Assault Weapons Ban of 2025",
-      "link": "https://www.congress.gov/bill/119th-congress/hr/3115",
+      "id": "d1783edfcd793485",
+      "title": "Recognizing the importance of diapers to infant health and family well-being, and expressing support for the designation of the week of September 15 to September 21, 2025, as \"National Diaper Need Awareness Week\".",
+      "link": "https://www.congress.gov/bill/119th-congress/hres/736",
       "published": "2026-09-29T00:00:00+00:00",
       "source_id": "congress-gov",
       "source_name": "Congress.gov",
       "source_type": "primary_legal",
       "category": "Legislation",
-      "tldr": "Latest action: Referred to the House Committee on the Judiciary."
+      "tldr": "Latest action: Referred to the House Committee on Oversight and Government Reform."
     },
     {
       "id": "df74d78d455476b9",
@@ -278,28 +311,6 @@
       "tldr": "BREAKING! Supreme Court Decision To Permanently End \"Assault Weapon\" Bans Pushes Forward!"
     },
     {
-      "id": "2563e6d79cc98885",
-      "title": "State v. Johnson (Ohio Court of Appeals)",
-      "link": "https://www.courtlistener.com/opinion/10983603/state-v-johnson/",
-      "published": "2026-09-25T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "d94f4e5827eb2329",
-      "title": "State v. Temple (Ohio Court of Appeals)",
-      "link": "https://www.courtlistener.com/opinion/10983253/state-v-temple/",
-      "published": "2026-09-25T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "70b79e5a4048d6a0",
       "title": "Ninth Circuit Finds Bruen Test 'Carve Out'; Poll Says Americans Split on SCOTUS AR-15 Case",
       "link": "https://www.youtube.com/watch?v=S3qvcQHtXiY",
@@ -388,17 +399,6 @@
       "tldr": "BREAKING TODAY! Supreme Court Immediate Emergency Election Ruling Pushed Forward!"
     },
     {
-      "id": "f19347cd40724bec",
-      "title": "People v. Benson (Illinois Supreme Court)",
-      "link": "https://www.courtlistener.com/opinion/10982905/people-v-benson/",
-      "published": "2026-09-24T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "e4c493d480c2dd96",
       "title": "Analysis: How Revolutionary-Era Privateers Play Into the Supreme Court AR-15 Case",
       "link": "https://thereload.com/analysis-how-revolutionary-era-privateers-play-into-the-supreme-court-ar-15-case/",
@@ -455,7 +455,7 @@
     },
     {
       "id": "ae757e64dd994f42",
-      "title": "LAWYER: Can Fists Count As Deadly Force?",
+      "title": "LAWYER: Can You Shoot Someone Who Attacks You With Their Fists?",
       "link": "https://www.youtube.com/watch?v=Heale9e_cyY",
       "published": "2026-09-23T19:00:06+00:00",
       "source_id": "atty-tom-grieve",
@@ -564,17 +564,6 @@
       "tldr": "BREAKING TODAY! Supreme Court 9-0 Unanimous Emergency Election Order Up For Immediate Re-Review!"
     },
     {
-      "id": "3893926429238f11",
-      "title": "United States v. Rivera (Court of Appeals for the Ninth Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10980858/united-states-v-rivera/",
-      "published": "2026-09-23T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "2101ac8a1a595e89",
       "title": "SAF FILES REPLY BRIEF IN CASE CHALLENGING MARYLAND’S GLOCK BAN",
       "link": "https://saf.org/saf-files-reply-brief-in-case-challenging-marylands-glock-ban/",
@@ -663,17 +652,6 @@
       "tldr": "GLOCK SUES! New Gun Ban Could Make Dealers FELONS"
     },
     {
-      "id": "9260bb057e06ad34",
-      "title": "Todd Yukutake v. Anne E. Lopez (Court of Appeals for the Ninth Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10979261/todd-yukutake-v-anne-e-lopez/",
-      "published": "2026-09-22T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "8a15dfd04e56a86b",
       "title": "SCOTUS Petition Filed: New York’s Gun Laws in Serious Trouble",
       "link": "https://www.youtube.com/watch?v=JgoRUek5kRk",
@@ -727,17 +705,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "They Are Coming For Gun Businesses! Virginia's Newest Threat"
-    },
-    {
-      "id": "7960f7e44a00d299",
-      "title": "DOJ Takes Aim at Minnesota Gun Laws: A Major Warning!",
-      "link": "https://www.youtube.com/watch?v=m_agyh30KS8",
-      "published": "2026-09-20T13:32:54+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "DOJ Takes Aim at Minnesota Gun Laws: A Major Warning!"
     },
     {
       "id": "18d9ea329279d5ad",
@@ -828,28 +795,6 @@
       "tldr": "BREAKING TODAY! Supreme Court 9-0 Unanimous Emergency Election Order Creates Immediate Review!"
     },
     {
-      "id": "337c0d30527e8335",
-      "title": "Elite Precision v. ATF (Court of Appeals for the Fifth Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10976968/elite-precision-v-atf/",
-      "published": "2026-09-18T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "34062d5c95ca9ab3",
-      "title": "State v. Byrd (Ohio Court of Appeals)",
-      "link": "https://www.courtlistener.com/opinion/10976929/state-v-byrd/",
-      "published": "2026-09-18T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "f77fe1bc70734879",
       "title": "Connecticut Can DENY Your Pistol Permit for “Unsuitability”? | The CT Suitability Loophole EXPLAINED",
       "link": "https://www.youtube.com/watch?v=mJi8Dqi0MqM",
@@ -916,39 +861,6 @@
       "tldr": "Supreme Court Issues 9-0 Unanimous Emergency Election Order With Major Nationwide Implications!"
     },
     {
-      "id": "f26b63e936f562c4",
-      "title": "PITTMAN, ANDELL BRYMONTE v. the State of Texas (Court of Criminal Appeals of Texas)",
-      "link": "https://www.courtlistener.com/opinion/10978149/pittman-andell-brymonte-v-the-state-of-texas/",
-      "published": "2026-09-17T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "6fcaaeeb277c5d0d",
-      "title": "Application of 18 U.S.C. § 922(b)(1) and (c)(1) to Young Adults (Department of Justice Office of Legal Counsel)",
-      "link": "https://www.courtlistener.com/opinion/10976760/application-of-18-usc-922b1-and-c1-to-young-adults/",
-      "published": "2026-09-17T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "fc6199269c5c7279",
-      "title": "SAF SEEKS SUPREME COURT REVIEW IN NEW YORK ‘SENSITIVE PLACES’ CARRY BAN",
-      "link": "https://saf.org/saf-seeks-supreme-court-review-in-new-york-sensitive-places-carry-ban/",
-      "published": "2026-09-16T21:48:16+00:00",
-      "source_id": "saf",
-      "source_name": "Second Amendment Foundation",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "BELLEVUE, Wash. — Sept. 16, 2026 — The Second Amendment Foundation (SAF) and its partners have filed a petition for a writ of certiorari with the U.S. Supreme Court seeking review in Christian v…"
-    },
-    {
       "id": "16b5ad56716634eb",
       "title": "Supreme Court Takes Up AR-15 Ban Case: Can 40 Million Rifles Be Banned?",
       "link": "https://www.youtube.com/watch?v=ydyc7mKWiWA",
@@ -969,39 +881,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING! Supreme Court Issues Emergency Election Order With Major Nationwide Implications!"
-    },
-    {
-      "id": "c28117c5225866cc",
-      "title": "United States v. Levasseur (Court of Appeals for the First Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10975313/united-states-v-levasseur/",
-      "published": "2026-09-16T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "2da8ba2a5c1d0e7a",
-      "title": "People v. Gerger (Appellate Court of Illinois)",
-      "link": "https://www.courtlistener.com/opinion/10974735/people-v-gerger/",
-      "published": "2026-09-16T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "5ca99e2e55cec9b3",
-      "title": "Joshua Spotts, Michelle Rains, and Merrell Conlee v. Carl Merrell, Trustee of the June Edmondson Merrell Revocable Trust (Court of Appeals of Arkansas)",
-      "link": "https://www.courtlistener.com/opinion/10974591/joshua-spotts-michelle-rains-and-merrell-conlee-v-carl-merrell-trustee/",
-      "published": "2026-09-16T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "7d4997831715735c",
@@ -1035,17 +914,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Issues Emergency Election Order With Major Nationwide Implications!"
-    },
-    {
-      "id": "3cc8e2701657715e",
-      "title": "Nada v. United Arab Emirates (District Court, District of Columbia)",
-      "link": "https://www.courtlistener.com/opinion/10974360/nada-v-united-arab-emirates/",
-      "published": "2026-09-15T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "fb86bacbadd37101",
@@ -1114,17 +982,6 @@
       "tldr": "On the Ground in Ukraine's Gun-Rights Fight; Third Circuit Revives New Jersey Gun-Industry Suit"
     },
     {
-      "id": "de60b7f0bfc312c7",
-      "title": "Craig W. Thomas v. American Midstream GP, LLC n/k/a Third Coast Midstream Holdings, LLC (Court of Chancery of Delaware)",
-      "link": "https://www.courtlistener.com/opinion/10972096/craig-w-thomas-v-american-midstream-gp-llc-nka-third-coast-midstream/",
-      "published": "2026-09-11T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "bd9631528fe17888",
       "title": "“You’re Not Leaving!” — Crazy Biker Detains Teen Driver, Then The Officer Shows Up",
       "link": "https://www.youtube.com/shorts/JD8vgRmQ2VQ",
@@ -1134,17 +991,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "“You’re Not Leaving!” — Crazy Biker Detains Teen Driver, Then The Officer Shows Up"
-    },
-    {
-      "id": "a0154406b9f5a412",
-      "title": "Hello Farms Licensing MI, LLC v. GR Vending MI, LLC (Court of Appeals for the Sixth Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10970584/hello-farms-licensing-mi-llc-v-gr-vending-mi-llc/",
-      "published": "2026-09-10T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "d15311c5657b2383",
@@ -1398,17 +1244,6 @@
       "source_type": "org",
       "category": "News",
       "tldr": "Florida’s gun owners get to celebrate the Second Amendment wins that happened during last night’s primary elections. Why? Because GOA was the only gun rights organization involved in this election…"
-    },
-    {
-      "id": "bc0757d3d088572a",
-      "title": "Florida: Vote GOA on August 18",
-      "link": "https://www.gunowners.org/fl08182026/",
-      "published": "2026-08-18T11:00:55+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
-      "source_type": "org",
-      "category": "News",
-      "tldr": "Florida gun owners, Election Day is TODAY, Tuesday, August 18 — and it’s time to VOTE. The future of our Second Amendment rights in Florida will be shaped by who shows up to the polls in this primary…"
     },
     {
       "id": "fb507200f6facb81",
