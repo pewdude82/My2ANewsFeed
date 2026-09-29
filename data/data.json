@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-29T17:06:30.652999+00:00",
-  "item_count": 133,
+  "generated_at": "2026-09-29T23:14:21.649577+00:00",
+  "item_count": 150,
   "items": [
+    {
+      "id": "da318496b8a94cbe",
+      "title": "Is Your Favorite Air Rifle A ‘Firearm’ Now?",
+      "link": "https://www.youtube.com/watch?v=BhOv3-QKNTo",
+      "published": "2026-09-29T21:04:21+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Is Your Favorite Air Rifle A ‘Firearm’ Now?"
+    },
+    {
+      "id": "68261db04d82547e",
+      "title": "LAWYER: Federal Judge Strikes Down Delaware Ghost Gun Restrictions as Unconstitutional",
+      "link": "https://www.youtube.com/watch?v=pi2IS0MMGmQ",
+      "published": "2026-09-29T19:00:22+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "LAWYER: Federal Judge Strikes Down Delaware Ghost Gun Restrictions as Unconstitutional"
+    },
+    {
+      "id": "827d84339de4c526",
+      "title": "Justified? Jury finds attacker not guilty!",
+      "link": "https://www.youtube.com/shorts/PWGFoSmLllU",
+      "published": "2026-09-29T19:00:15+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Justified? Jury finds attacker not guilty!"
+    },
     {
       "id": "ef72a7652fb14bf8",
       "title": "SAF ANNOUNCES DON KILMER AS 2026 GOLDEN BOWTIE AWARD WINNER",
@@ -47,15 +80,59 @@
       "tldr": "Supreme Court Delivers Major Emergency Election Decision With Immediate Nationwide Implications!"
     },
     {
-      "id": "d1783edfcd793485",
-      "title": "Recognizing the importance of diapers to infant health and family well-being, and expressing support for the designation of the week of September 15 to September 21, 2025, as \"National Diaper Need Awareness Week\".",
-      "link": "https://www.congress.gov/bill/119th-congress/hres/736",
+      "id": "e409dd4dbd77723e",
+      "title": "People v. Hernandez (Appellate Division of the Supreme Court of the State of New York)",
+      "link": "https://www.courtlistener.com/opinion/10986307/people-v-hernandez/",
+      "published": "2026-09-29T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
+      "id": "0605773912e35e01",
+      "title": "People v. Murdaugh (Appellate Division of the Supreme Court of the State of New York)",
+      "link": "https://www.courtlistener.com/opinion/10986303/people-v-murdaugh/",
+      "published": "2026-09-29T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
+      "id": "9261527aed457bf7",
+      "title": "A resolution honoring the contributions of small manufacturers of firearms to the economy, culture, and recreational heritage of the United States and recognizing the month of August 2026 as \"National Shooting Sports Month\".",
+      "link": "https://www.congress.gov/bill/119th-congress/sres/826",
       "published": "2026-09-29T00:00:00+00:00",
       "source_id": "congress-gov",
       "source_name": "Congress.gov",
       "source_type": "primary_legal",
       "category": "Legislation",
-      "tldr": "Latest action: Referred to the House Committee on Oversight and Government Reform."
+      "tldr": "Latest action: Referred to the Committee on Commerce, Science, and Transportation. (text: CR S4393)"
+    },
+    {
+      "id": "cbf65160727ebb28",
+      "title": "A resolution honoring the contributions of small manufacturers of firearms to the economy, culture, and recreational heritage of the United States and recognizing August 2025 as \"National Shooting Sports Month\".",
+      "link": "https://www.congress.gov/bill/119th-congress/sres/342",
+      "published": "2026-09-29T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Referred to the Committee on Commerce, Science, and Transportation. (text: CR S4829)"
+    },
+    {
+      "id": "ae8b0517243ec2fd",
+      "title": "SAFE Platforms Act",
+      "link": "https://www.congress.gov/bill/119th-congress/hr/10433",
+      "published": "2026-09-29T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Referred to the House Committee on Energy and Commerce."
     },
     {
       "id": "df74d78d455476b9",
@@ -311,6 +388,28 @@
       "tldr": "BREAKING! Supreme Court Decision To Permanently End \"Assault Weapon\" Bans Pushes Forward!"
     },
     {
+      "id": "2563e6d79cc98885",
+      "title": "State v. Johnson (Ohio Court of Appeals)",
+      "link": "https://www.courtlistener.com/opinion/10983603/state-v-johnson/",
+      "published": "2026-09-25T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
+      "id": "d94f4e5827eb2329",
+      "title": "State v. Temple (Ohio Court of Appeals)",
+      "link": "https://www.courtlistener.com/opinion/10983253/state-v-temple/",
+      "published": "2026-09-25T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
       "id": "70b79e5a4048d6a0",
       "title": "Ninth Circuit Finds Bruen Test 'Carve Out'; Poll Says Americans Split on SCOTUS AR-15 Case",
       "link": "https://www.youtube.com/watch?v=S3qvcQHtXiY",
@@ -397,6 +496,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING TODAY! Supreme Court Immediate Emergency Election Ruling Pushed Forward!"
+    },
+    {
+      "id": "f19347cd40724bec",
+      "title": "People v. Benson (Illinois Supreme Court)",
+      "link": "https://www.courtlistener.com/opinion/10982905/people-v-benson/",
+      "published": "2026-09-24T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "e4c493d480c2dd96",
@@ -564,6 +674,17 @@
       "tldr": "BREAKING TODAY! Supreme Court 9-0 Unanimous Emergency Election Order Up For Immediate Re-Review!"
     },
     {
+      "id": "3893926429238f11",
+      "title": "United States v. Rivera (Court of Appeals for the Ninth Circuit)",
+      "link": "https://www.courtlistener.com/opinion/10980858/united-states-v-rivera/",
+      "published": "2026-09-23T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
       "id": "2101ac8a1a595e89",
       "title": "SAF FILES REPLY BRIEF IN CASE CHALLENGING MARYLAND’S GLOCK BAN",
       "link": "https://saf.org/saf-files-reply-brief-in-case-challenging-marylands-glock-ban/",
@@ -652,6 +773,17 @@
       "tldr": "GLOCK SUES! New Gun Ban Could Make Dealers FELONS"
     },
     {
+      "id": "9260bb057e06ad34",
+      "title": "Todd Yukutake v. Anne E. Lopez (Court of Appeals for the Ninth Circuit)",
+      "link": "https://www.courtlistener.com/opinion/10979261/todd-yukutake-v-anne-e-lopez/",
+      "published": "2026-09-22T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
       "id": "8a15dfd04e56a86b",
       "title": "SCOTUS Petition Filed: New York’s Gun Laws in Serious Trouble",
       "link": "https://www.youtube.com/watch?v=JgoRUek5kRk",
@@ -694,17 +826,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Delivers 9-0 Unanimous Ruling With Major Nationwide & Constitutional Implications!"
-    },
-    {
-      "id": "00b1b6bdd207e52c",
-      "title": "They Are Coming For Gun Businesses! Virginia's Newest Threat",
-      "link": "https://www.youtube.com/watch?v=IHHSz8irP3I",
-      "published": "2026-09-20T22:26:34+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "They Are Coming For Gun Businesses! Virginia's Newest Threat"
     },
     {
       "id": "18d9ea329279d5ad",
@@ -795,6 +916,28 @@
       "tldr": "BREAKING TODAY! Supreme Court 9-0 Unanimous Emergency Election Order Creates Immediate Review!"
     },
     {
+      "id": "337c0d30527e8335",
+      "title": "Elite Precision v. ATF (Court of Appeals for the Fifth Circuit)",
+      "link": "https://www.courtlistener.com/opinion/10976968/elite-precision-v-atf/",
+      "published": "2026-09-18T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
+      "id": "34062d5c95ca9ab3",
+      "title": "State v. Byrd (Ohio Court of Appeals)",
+      "link": "https://www.courtlistener.com/opinion/10976929/state-v-byrd/",
+      "published": "2026-09-18T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
       "id": "f77fe1bc70734879",
       "title": "Connecticut Can DENY Your Pistol Permit for “Unsuitability”? | The CT Suitability Loophole EXPLAINED",
       "link": "https://www.youtube.com/watch?v=mJi8Dqi0MqM",
@@ -861,6 +1004,28 @@
       "tldr": "Supreme Court Issues 9-0 Unanimous Emergency Election Order With Major Nationwide Implications!"
     },
     {
+      "id": "f26b63e936f562c4",
+      "title": "PITTMAN, ANDELL BRYMONTE v. the State of Texas (Court of Criminal Appeals of Texas)",
+      "link": "https://www.courtlistener.com/opinion/10978149/pittman-andell-brymonte-v-the-state-of-texas/",
+      "published": "2026-09-17T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
+      "id": "6fcaaeeb277c5d0d",
+      "title": "Application of 18 U.S.C. § 922(b)(1) and (c)(1) to Young Adults (Department of Justice Office of Legal Counsel)",
+      "link": "https://www.courtlistener.com/opinion/10976760/application-of-18-usc-922b1-and-c1-to-young-adults/",
+      "published": "2026-09-17T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
       "id": "16b5ad56716634eb",
       "title": "Supreme Court Takes Up AR-15 Ban Case: Can 40 Million Rifles Be Banned?",
       "link": "https://www.youtube.com/watch?v=ydyc7mKWiWA",
@@ -881,6 +1046,39 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING! Supreme Court Issues Emergency Election Order With Major Nationwide Implications!"
+    },
+    {
+      "id": "c28117c5225866cc",
+      "title": "United States v. Levasseur (Court of Appeals for the First Circuit)",
+      "link": "https://www.courtlistener.com/opinion/10975313/united-states-v-levasseur/",
+      "published": "2026-09-16T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
+      "id": "2da8ba2a5c1d0e7a",
+      "title": "People v. Gerger (Appellate Court of Illinois)",
+      "link": "https://www.courtlistener.com/opinion/10974735/people-v-gerger/",
+      "published": "2026-09-16T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
+      "id": "5ca99e2e55cec9b3",
+      "title": "Joshua Spotts, Michelle Rains, and Merrell Conlee v. Carl Merrell, Trustee of the June Edmondson Merrell Revocable Trust (Court of Appeals of Arkansas)",
+      "link": "https://www.courtlistener.com/opinion/10974591/joshua-spotts-michelle-rains-and-merrell-conlee-v-carl-merrell-trustee/",
+      "published": "2026-09-16T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "7d4997831715735c",
@@ -914,6 +1112,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Issues Emergency Election Order With Major Nationwide Implications!"
+    },
+    {
+      "id": "3cc8e2701657715e",
+      "title": "Nada v. United Arab Emirates (District Court, District of Columbia)",
+      "link": "https://www.courtlistener.com/opinion/10974360/nada-v-united-arab-emirates/",
+      "published": "2026-09-15T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "fb86bacbadd37101",
@@ -993,17 +1202,6 @@
       "tldr": "“You’re Not Leaving!” — Crazy Biker Detains Teen Driver, Then The Officer Shows Up"
     },
     {
-      "id": "d15311c5657b2383",
-      "title": "LAWYER: A 'Karen' Calls 911… Instantly Regrets It",
-      "link": "https://www.youtube.com/watch?v=PsMN464U1Y4",
-      "published": "2026-09-09T19:00:37+00:00",
-      "source_id": "atty-tom-grieve",
-      "source_name": "Atty Tom Grieve",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "LAWYER: A 'Karen' Calls 911… Instantly Regrets It"
-    },
-    {
       "id": "ffe54c628634bafe",
       "title": "Gun Owners of America Endorses Victoria Spartz",
       "link": "https://www.gunowners.org/gun-owners-of-america-endorses-victoria-spartz/",
@@ -1024,17 +1222,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Grant v Higgins: ALL the Supreme Court Amicus Briefs Explained!"
-    },
-    {
-      "id": "34ed21134ac2ad2c",
-      "title": "Top 2026 Gun Cases to know!",
-      "link": "https://www.youtube.com/shorts/UMfHlEwrKEA",
-      "published": "2026-09-08T19:00:31+00:00",
-      "source_id": "atty-tom-grieve",
-      "source_name": "Atty Tom Grieve",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Top 2026 Gun Cases to know!"
     },
     {
       "id": "aabf6036a5a27bdc",
