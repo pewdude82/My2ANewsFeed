@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-30T17:04:14.830649+00:00",
-  "item_count": 150,
+  "generated_at": "2026-09-30T23:15:20.680493+00:00",
+  "item_count": 147,
   "items": [
+    {
+      "id": "28deeb57c2840cb5",
+      "title": "DOJ Says Minnesota Is Violating the Second Amendment",
+      "link": "https://www.youtube.com/watch?v=xA1pR71QR0E",
+      "published": "2026-09-30T21:43:39+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "DOJ Says Minnesota Is Violating the Second Amendment"
+    },
+    {
+      "id": "6ea99358b589ab90",
+      "title": "GLOCKAGEDDON EVE: Connecticut’s HB5043 Enforcement Mystery | No Answers, No Guidance",
+      "link": "https://www.youtube.com/watch?v=rjDS5nfnlvg",
+      "published": "2026-09-30T19:00:35+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "GLOCKAGEDDON EVE: Connecticut’s HB5043 Enforcement Mystery | No Answers, No Guidance"
+    },
+    {
+      "id": "240d11b9defffb70",
+      "title": "Analysis: History Shows There’s No Tradition of Special Taxes on Common Guns",
+      "link": "https://thereload.com/analysis-history-shows-theres-no-tradition-of-special-taxes-on-common-guns/",
+      "published": "2026-09-30T17:39:48+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "News",
+      "tldr": "Governor Gavin Newsom (D.) has called it a “sin tax.” But there's little record of similar taxes on popular firearms throughout history, which may make it unconstitutional."
+    },
     {
       "id": "7fbd1757b51335bb",
       "title": "Congress Demands Trump Destroy ATF’s 1.4 Billion Gun Records",
@@ -34,39 +67,6 @@
       "source_type": "primary_legal",
       "category": "Court Case",
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "72adebac977afb98",
-      "title": "Declaring gun violence a public health crisis.",
-      "link": "https://www.congress.gov/bill/119th-congress/hres/835",
-      "published": "2026-09-30T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Referred to the House Committee on Energy and Commerce."
-    },
-    {
-      "id": "0889f12722491c75",
-      "title": "Advancing Gun Safety Technology Act",
-      "link": "https://www.congress.gov/bill/119th-congress/hr/4918",
-      "published": "2026-09-30T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Referred to the House Committee on the Judiciary."
-    },
-    {
-      "id": "742701f0c011601d",
-      "title": "ATF DATA Act",
-      "link": "https://www.congress.gov/bill/119th-congress/s/2188",
-      "published": "2026-09-30T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Read twice and referred to the Committee on the Judiciary."
     },
     {
       "id": "da318496b8a94cbe",
@@ -806,17 +806,6 @@
       "tldr": "The Second Amendment Foundation (SAF) is pleased to announce that the U.S. Concealed Carry Association (USCCA) has joined SAF as a corporate partner at the Diamond level. The new partnership…"
     },
     {
-      "id": "7ecbc07df85a17fd",
-      "title": "GLOCK SUES! New Gun Ban Could Make Dealers FELONS",
-      "link": "https://www.youtube.com/watch?v=UC8MySJCViU",
-      "published": "2026-09-22T13:38:08+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "GLOCK SUES! New Gun Ban Could Make Dealers FELONS"
-    },
-    {
       "id": "9260bb057e06ad34",
       "title": "Todd Yukutake v. Anne E. Lopez (Court of Appeals for the Ninth Circuit)",
       "link": "https://www.courtlistener.com/opinion/10979261/todd-yukutake-v-anne-e-lopez/",
@@ -870,17 +859,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "🚨 BREAKING: 5th Circuit STRIKES Gun Law! | 18-20 Can Buy Handguns?! | 2A News LIVE"
-    },
-    {
-      "id": "ecc70613354544d7",
-      "title": "Analysis: DOJ Takes a Shot at Permit-to-Purchase Laws [Member Exclusive]",
-      "link": "https://thereload.com/analysis-doj-takes-a-shot-at-permit-to-purchase-laws-member-exclusive/",
-      "published": "2026-09-20T09:04:06+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "Regulatory",
-      "tldr": "A new dispute is brewing between the Department of Justice (DOJ) and Minnesota that may foreshadow the next frontier in the national gun fight."
     },
     {
       "id": "9a98bc8a4661a76a",
@@ -1444,17 +1422,6 @@
       "tldr": "How Far Does the Injunction Against the National Firearms Act Extend? (Ft. SAF's Kostas Moros)"
     },
     {
-      "id": "9fb494fad8eb6b9d",
-      "title": "NFA BOMBSHELL: New ATF Changes & What They Mean for Connecticut Gun Owners | Gun Guru Live",
-      "link": "https://www.youtube.com/watch?v=VI3ZdfQiTUA",
-      "published": "2026-08-16T12:11:25+00:00",
-      "source_id": "gun-guru",
-      "source_name": "Gun Guru",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "NFA BOMBSHELL: New ATF Changes & What They Mean for Connecticut Gun Owners | Gun Guru Live"
-    },
-    {
       "id": "277547a930447805",
       "title": "First Legal Unregistered Silencer Sale in 100 Years; Unearthed Vids Show Abdul El-Sayed's Gun Views",
       "link": "https://www.youtube.com/watch?v=74fwy1QsBAM",
@@ -1464,17 +1431,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "First Legal Unregistered Silencer Sale in 100 Years; Unearthed Vids Show Abdul El-Sayed's Gun Views"
-    },
-    {
-      "id": "202cd09fe5cf68c1",
-      "title": "HOURS LEFT: Will DOJ Kill the Texas NFA Ruling?",
-      "link": "https://www.youtube.com/watch?v=htHuqHnUIN8",
-      "published": "2026-08-12T20:00:26+00:00",
-      "source_id": "gun-guru",
-      "source_name": "Gun Guru",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "HOURS LEFT: Will DOJ Kill the Texas NFA Ruling?"
     },
     {
       "id": "e4434eef3d230a85",
@@ -1519,6 +1475,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "We're here to make sure every AWB gets TOSSED"
+    },
+    {
+      "id": "8d374076d100d621",
+      "title": "BREAKING NEWS!!! GLOCK BAN STAYED!!!",
+      "link": "https://www.youtube.com/watch?v=LbggIlvWzHY",
+      "published": "2024-08-18T16:51:43+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "BREAKING NEWS!!! GLOCK BAN STAYED!!!"
     },
     {
       "id": "331bdbf081cdd3eb",
