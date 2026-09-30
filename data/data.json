@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-30T10:02:28.190059+00:00",
-  "item_count": 149,
+  "generated_at": "2026-09-30T17:04:14.830649+00:00",
+  "item_count": 150,
   "items": [
+    {
+      "id": "7fbd1757b51335bb",
+      "title": "Congress Demands Trump Destroy ATF’s 1.4 Billion Gun Records",
+      "link": "https://www.youtube.com/watch?v=Lzd_Tx_zlyU",
+      "published": "2026-09-30T14:42:12+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Congress Demands Trump Destroy ATF’s 1.4 Billion Gun Records"
+    },
     {
       "id": "1c196b21e559d270",
       "title": "BREAKING! Supreme Court Takes On Immediate Review In Major Constitutional Rights Challenge!",
@@ -12,6 +23,50 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING! Supreme Court Takes On Immediate Review In Major Constitutional Rights Challenge!"
+    },
+    {
+      "id": "c9503395b3dd072e",
+      "title": "Carson Concrete Corporation v. InteRebar Fabricators, LLC (District Court of Appeal of Florida)",
+      "link": "https://www.courtlistener.com/opinion/10987872/carson-concrete-corporation-v-interebar-fabricators-llc/",
+      "published": "2026-09-30T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
+      "id": "72adebac977afb98",
+      "title": "Declaring gun violence a public health crisis.",
+      "link": "https://www.congress.gov/bill/119th-congress/hres/835",
+      "published": "2026-09-30T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Referred to the House Committee on Energy and Commerce."
+    },
+    {
+      "id": "0889f12722491c75",
+      "title": "Advancing Gun Safety Technology Act",
+      "link": "https://www.congress.gov/bill/119th-congress/hr/4918",
+      "published": "2026-09-30T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Referred to the House Committee on the Judiciary."
+    },
+    {
+      "id": "742701f0c011601d",
+      "title": "ATF DATA Act",
+      "link": "https://www.congress.gov/bill/119th-congress/s/2188",
+      "published": "2026-09-30T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Read twice and referred to the Committee on the Judiciary."
     },
     {
       "id": "da318496b8a94cbe",
@@ -26,7 +81,7 @@
     },
     {
       "id": "68261db04d82547e",
-      "title": "LAWYER: Federal Judge Strikes Down Delaware Ghost Gun Restrictions as Unconstitutional",
+      "title": "LAWYER: Major Second Amendment Ruling Protects Homemade Guns",
       "link": "https://www.youtube.com/watch?v=pi2IS0MMGmQ",
       "published": "2026-09-29T19:00:22+00:00",
       "source_id": "atty-tom-grieve",
@@ -122,28 +177,6 @@
       "source_type": "primary_legal",
       "category": "Court Case",
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "cbf65160727ebb28",
-      "title": "A resolution honoring the contributions of small manufacturers of firearms to the economy, culture, and recreational heritage of the United States and recognizing August 2025 as \"National Shooting Sports Month\".",
-      "link": "https://www.congress.gov/bill/119th-congress/sres/342",
-      "published": "2026-09-29T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Referred to the Committee on Commerce, Science, and Transportation. (text: CR S4829)"
-    },
-    {
-      "id": "9261527aed457bf7",
-      "title": "A resolution honoring the contributions of small manufacturers of firearms to the economy, culture, and recreational heritage of the United States and recognizing the month of August 2026 as \"National Shooting Sports Month\".",
-      "link": "https://www.congress.gov/bill/119th-congress/sres/826",
-      "published": "2026-09-29T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Referred to the Committee on Commerce, Science, and Transportation. (text: CR S4393)"
     },
     {
       "id": "df74d78d455476b9",
@@ -795,17 +828,6 @@
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
-      "id": "8a15dfd04e56a86b",
-      "title": "SCOTUS Petition Filed: New York’s Gun Laws in Serious Trouble",
-      "link": "https://www.youtube.com/watch?v=JgoRUek5kRk",
-      "published": "2026-09-21T19:44:42+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "SCOTUS Petition Filed: New York’s Gun Laws in Serious Trouble"
-    },
-    {
       "id": "a1c7e0c40305f339",
       "title": "Cops Say They Have A Warrant But Won't Show It To You ... What Should You Do?",
       "link": "https://www.youtube.com/watch?v=oZsBtYxpf-o",
@@ -1073,17 +1095,6 @@
       "id": "2da8ba2a5c1d0e7a",
       "title": "People v. Gerger (Appellate Court of Illinois)",
       "link": "https://www.courtlistener.com/opinion/10974735/people-v-gerger/",
-      "published": "2026-09-16T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "5ca99e2e55cec9b3",
-      "title": "Joshua Spotts, Michelle Rains, and Merrell Conlee v. Carl Merrell, Trustee of the June Edmondson Merrell Revocable Trust (Court of Appeals of Arkansas)",
-      "link": "https://www.courtlistener.com/opinion/10974591/joshua-spotts-michelle-rains-and-merrell-conlee-v-carl-merrell-trustee/",
       "published": "2026-09-16T00:00:00+00:00",
       "source_id": "courtlistener",
       "source_name": "CourtListener (Free Law Project)",
