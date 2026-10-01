@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-10-01T10:30:21.683280+00:00",
-  "item_count": 147,
+  "generated_at": "2026-10-01T17:34:31.199280+00:00",
+  "item_count": 135,
   "items": [
+    {
+      "id": "efba468aec2068c0",
+      "title": "Gun Owners of America Sues Jacksonville Over Gun-Free Zones",
+      "link": "https://www.youtube.com/watch?v=LXcT4IO5xdc",
+      "published": "2026-10-01T14:47:27+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Gun Owners of America Sues Jacksonville Over Gun-Free Zones"
+    },
+    {
+      "id": "177834bc9b3c1164",
+      "title": "New York father of two facing 40 years behind bars for ‘ghost guns’",
+      "link": "https://saf.org/new-york-father-of-two-facing-40-years-behind-bars-for-ghost-guns/",
+      "published": "2026-10-01T11:20:00+00:00",
+      "source_id": "saf",
+      "source_name": "Second Amendment Foundation",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "by Lee Williams Albany, New York resident Demetrio Daga is currently facing 40 years in a state prison, but if he had lived in Florida, Texas, Georgia or any other free state he would never have been…"
+    },
+    {
+      "id": "8d374076d100d621",
+      "title": "🚨 JUDGE STAYS CT GLOCK BAN! HB5043 BLOCKED? | PSA Dagger Live",
+      "link": "https://www.youtube.com/watch?v=LbggIlvWzHY",
+      "published": "2026-10-01T10:58:06+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "BREAKING NEWS!!! GLOCK BAN STAYED!!!"
+    },
     {
       "id": "750b03ba9d2e6555",
       "title": "Unanimous Suppressor & NFA Decision Drops Immediately After Bad Precedent Trap! What Now?",
@@ -245,39 +278,6 @@
       "tldr": "LAWYER: He Confessed in Court... The Jury Still Said NOT GUILTY"
     },
     {
-      "id": "aabccbe2520bc755",
-      "title": "DOJ Calls Time on Minnesota’s Second Amendment Waiting Game",
-      "link": "https://www.nraila.org/articles/20260928/doj-calls-time-on-minnesota-s-second-amendment-waiting-game",
-      "published": "2026-09-28T18:28:24+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "Regulatory",
-      "tldr": "For too long, Minnesota Governor Tim Waltz and his anti-gun allies in the state have treated the exercise of a constitutional right as something subject to government permission and whatever wait is…"
-    },
-    {
-      "id": "04a6da25ec4e445f",
-      "title": "Support of Self-Defense for Law-Abiding Citizens Continues to Spread Globally",
-      "link": "https://www.nraila.org/articles/20260928/support-of-self-defense-for-law-abiding-citizens-continues-to-spread-globally",
-      "published": "2026-09-28T18:25:01+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "News",
-      "tldr": "In spite of some countries deciding they cannot trust their own citizens with firearms, other countries seem to be rejecting this policy…at least a bit."
-    },
-    {
-      "id": "e8de563d81c977e0",
-      "title": "Virginia Gun Shops Brace for the New Jerseyfication of the Commonwealth",
-      "link": "https://www.nraila.org/articles/20260928/virginia-gun-shops-brace-for-the-new-jerseyfication-of-the-commonwealth",
-      "published": "2026-09-28T18:19:42+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "News",
-      "tldr": "Jay Jones, the anti-gun but pro-bullets to the head Virginia attorney general, announced on September 15 the creation of the Firearms Accountability &amp; Industry Responsibility (FAIR) Unit within…"
-    },
-    {
       "id": "3b18978bb13de38b",
       "title": "NFA UPDATE: ATF Says Suppressors on a 4473 WILL NOT Get Dealers Cited",
       "link": "https://www.youtube.com/watch?v=xbAIS5PjiiY",
@@ -287,17 +287,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "NFA UPDATE: ATF Says Suppressors on a 4473 WILL NOT Get Dealers Cited"
-    },
-    {
-      "id": "812db185c04aeeb2",
-      "title": "California: Newsom Takes One Last Shot at the Second Amendment as Governor",
-      "link": "https://www.nraila.org/articles/20260928/california-newsom-takes-one-last-shot-at-the-second-amendment-as-governor",
-      "published": "2026-09-28T13:54:50+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "Legislation",
-      "tldr": "On Saturday, Governor Gavin Newsom inked his signature to six anti-gun bills, continuing his attack on law-abiding gun owners as he closes his final months as the Governor of California. Since taking…"
     },
     {
       "id": "b465379c5df6c26e",
@@ -408,17 +397,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court 9-0 Unanimous Decision Creates Immediate Constitutional Commerce Clause Challenge!"
-    },
-    {
-      "id": "31fc4d4b252a75ee",
-      "title": "NRA Files Amicus Brief Urging SCOTUS to Review Lawsuit Blaming Firearm Ads for Criminal Acts",
-      "link": "https://www.nraila.org/articles/20260925/nra-files-amicus-brief-urging-scotus-to-review-lawsuit-blaming-firearm-ads-for-criminal-acts",
-      "published": "2026-09-25T15:30:06+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "Today, the National Rifle Association and Second Amendment Foundation filed an amicus brief urging the U.S. Supreme Court to grant review in Daniel Defense, LLC v. Lowy. The case asks whether firearm…"
     },
     {
       "id": "cd3ea3ee15c96147",
@@ -542,17 +520,6 @@
       "tldr": "BELLEVUE, Wash. — Sept. 24, 2026 — The 41st annual Gun Rights Policy Conference starts Friday, and the Planning Committee is pleased to announce the final agenda is set! Co-hosted by the Second…"
     },
     {
-      "id": "2fc38522988a4638",
-      "title": "NRA Files Amicus Brief Urging SCOTUS to Hear Challenge to Maine’s 72-Hour Waiting Period Law",
-      "link": "https://www.nraila.org/articles/20260924/nra-files-amicus-brief-urging-scotus-to-hear-challenge-to-maine-s-72-hour-waiting-period-law",
-      "published": "2026-09-24T13:52:16+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "The National Rifle Association and Second Amendment Foundation filed an amicus brief urging the U.S. Supreme Court to grant review in Beckwith v. Frey, a challenge to Maine’s 72-hour waiting period…"
-    },
-    {
       "id": "9aaceb5c2e7561ce",
       "title": "The War On 2A Rights: New York's Refusal To Back Down From DOJ",
       "link": "https://www.youtube.com/watch?v=fSMXm_MUcs8",
@@ -619,17 +586,6 @@
       "tldr": "Major 2A Update: They Are Trying To Stop You From Buying Guns"
     },
     {
-      "id": "fed07b468961aa19",
-      "title": "U.S. Department of Justice Declares Age 18-20 Handgun Sales Ban Unconstitutional",
-      "link": "https://www.nraila.org/articles/20260923/us-department-of-justice-declares-age-18-20-handgun-sales-ban-unconstitutional",
-      "published": "2026-09-23T19:03:28+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "On September 17, the Department of Justice’s Office of Legal Counsel (OLC) issued a memorandum opinion to answer the question “whether restricting young adults from buying firearms comports with the…"
-    },
-    {
       "id": "d6a90dafd590a195",
       "title": "GLOCK SUES CONNECTICUT! New “Glock Ban” Challenged in Federal Court | Gun Guru",
       "link": "https://www.youtube.com/watch?v=88CxaHuK5A4",
@@ -650,61 +606,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "LAWYER: Can You Shoot Someone Who Attacks You With Their Fists?"
-    },
-    {
-      "id": "b9d328940a27011d",
-      "title": "Trump DOJ Sues San Jose, Ca., Over $1,600 Concealed Carry Licensing Fee",
-      "link": "https://www.nraila.org/articles/20260923/trump-doj-sues-san-jose-ca-over-1-600-concealed-carry-licensing-fee",
-      "published": "2026-09-23T18:34:31+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "Do you know the way to San Jose? Dionne Warwick famously asked in her 1968 hit song. Well, Assistant U.S. Attorney General Harmeet Dhillon certainly does, and she recently made sure the city was…"
-    },
-    {
-      "id": "1830821078c740c7",
-      "title": "“Law abiding citizens with an AR-15 are not a threat to anyone” — Law Enforcement Groups Weigh in on Supreme Court “Assault Weapons” Cases",
-      "link": "https://www.nraila.org/articles/20260923/law-abiding-citizens-with-an-ar-15-are-not-a-threat-to-anyone-law-enforcement-groups-weigh-in-on-supreme-court-assault-weapons-cases",
-      "published": "2026-09-23T18:29:11+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "The Trace, the “newsroom” funded by anti-gun extremist Michael Bloomberg, reported in June on the extent to which the NRA-backed NYSRPA v. Bruen case has, to date, rebuilt the modern Second Amendment…"
-    },
-    {
-      "id": "d9ce6aa58ad23cfb",
-      "title": "Everytown Goes Hunting for Credibility",
-      "link": "https://www.nraila.org/articles/20260923/everytown-goes-hunting-for-credibility",
-      "published": "2026-09-23T18:26:00+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "News",
-      "tldr": "The irony is nothing short of comedy. Multiple outlets are having a field day with the Michael Bloomberg-backed Everytown organization, which has spent years and millions of dollars supporting…"
-    },
-    {
-      "id": "b30b2ada531d06a4",
-      "title": "The Fight to Protect the Firearms Industry Continues",
-      "link": "https://www.nraila.org/articles/20260923/the-fight-to-protect-the-firearms-industry-continues",
-      "published": "2026-09-23T18:20:39+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "News",
-      "tldr": "The political lawfare campaign to dismantle the lawful firearms industry by holding it liable for the criminal misuse of its constitutionally protected products should have never started. U.S. tort…"
-    },
-    {
-      "id": "5eeba94b7fdfd637",
-      "title": "Study Suggests “Safe Storage” Mandates are Ineffective",
-      "link": "https://www.nraila.org/articles/20260923/study-suggests-safe-storage-mandates-are-ineffective",
-      "published": "2026-09-23T17:52:09+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "News",
-      "tldr": "While it likely comes as no surprise to most readers, a recent study suggests that government-mandates that law-abiding gun owners always secure their firearms when “not in use”—usually unloaded…"
     },
     {
       "id": "8df62d366b4f7ee3",
@@ -771,17 +672,6 @@
       "source_type": "org",
       "category": "Court Case",
       "tldr": "BELLEVUE, Wash. — Sept. 22, 2026 — The Second Amendment Foundation (SAF) and its partners have filed a reply in support of their motion for preliminary injunction in Bathras v. Moore, SAF’s challenge…"
-    },
-    {
-      "id": "5e26d612a196f6db",
-      "title": "UPDATE: They Put Your Gun Rights Behind A PAYWALL — Now He’s Guilty",
-      "link": "https://www.youtube.com/watch?v=u8ksVhbXoCM",
-      "published": "2026-09-22T20:38:28+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "UPDATE: They Put Your Gun Rights Behind A PAYWALL — Now He’s Guilty"
     },
     {
       "id": "1f65d167a67041c5",
@@ -1013,17 +903,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Connecticut “Glockageddon”: Glock Ban, SCOTUS & Gun Rights | 2A Roundtable"
-    },
-    {
-      "id": "5dd3074bc5334c45",
-      "title": "Send me your questions now for Patrick ‘Tate’ Adamiak",
-      "link": "https://saf.org/send-me-your-questions-now-for-patrick-tate-adamiak/",
-      "published": "2026-09-17T05:32:31+00:00",
-      "source_id": "saf",
-      "source_name": "Second Amendment Foundation",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "by Lee Williams When I first started writing about Patrick “Tate” Adamiak’s plight about 21 months ago, I never thought he would be an honored guest at the Second Amendment Foundation’s Gun Rights…"
     },
     {
       "id": "e11457fb7a092971",
@@ -1475,17 +1354,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "We're here to make sure every AWB gets TOSSED"
-    },
-    {
-      "id": "8d374076d100d621",
-      "title": "🚨 JUDGE STAYS CT GLOCK BAN! HB5043 BLOCKED? | PSA Dagger Live",
-      "link": "https://www.youtube.com/watch?v=LbggIlvWzHY",
-      "published": "2024-08-18T16:51:43+00:00",
-      "source_id": "gun-guru",
-      "source_name": "Gun Guru",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "BREAKING NEWS!!! GLOCK BAN STAYED!!!"
     },
     {
       "id": "331bdbf081cdd3eb",
