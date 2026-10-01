@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-10-01T17:34:31.199280+00:00",
-  "item_count": 135,
+  "generated_at": "2026-10-01T23:30:33.840967+00:00",
+  "item_count": 150,
   "items": [
+    {
+      "id": "7ea38adc1f3dfa72",
+      "title": "BREAKING NFA NEWS: DOJ Makes HUGE Decision on ATF Case - Wants More Time!",
+      "link": "https://www.youtube.com/watch?v=MbUqBqFfMOo",
+      "published": "2026-10-01T22:05:32+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "BREAKING NFA NEWS: DOJ Makes HUGE Decision on ATF Case - Wants More Time!"
+    },
+    {
+      "id": "eeb9cfc780496a46",
+      "title": "Gun Advocates Raise Alarm Over Flock Cameras",
+      "link": "https://thereload.com/gun-advocates-raise-alarm-over-flock-cameras/",
+      "published": "2026-10-01T21:31:36+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "News",
+      "tldr": "The increasing prevalence of surveillance cameras, especially the automated license plate readers operated by Flock Safety and its competitors, has raised privacy concerns across the country. The…"
+    },
+    {
+      "id": "7b97e8dd2dbb55e3",
+      "title": "Federal Judge Temporarily Blocks Connecticut ‘Glock Ban’",
+      "link": "https://thereload.com/federal-judge-temporarily-blocks-connecticut-glock-ban/",
+      "published": "2026-10-01T20:24:50+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Court Case",
+      "tldr": "A judge just enjoined a law restricting the sale of popular semi-automatic pistols that critics claim can be too easily converted into machine guns, hours before it was set to take effect."
+    },
+    {
+      "id": "1dbb2c21193b5da9",
+      "title": "The ATF Just Got Caught In Another Legal Mess #2a #shorts",
+      "link": "https://www.youtube.com/shorts/3Dgul6Ujs2A",
+      "published": "2026-10-01T19:03:14+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "The ATF Just Got Caught In Another Legal Mess #2a #shorts"
+    },
+    {
+      "id": "6902c0534fe7a221",
+      "title": "Are Ghost Gun Restrictions Unconstitutional?",
+      "link": "https://www.youtube.com/shorts/JS8ro7ZuC90",
+      "published": "2026-10-01T19:00:00+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Are Ghost Gun Restrictions Unconstitutional?"
+    },
+    {
+      "id": "8d3d14b848b858d2",
+      "title": "SAF URGES SUPREME COURT TO REJECT LIFETIME GUN BANS FOR NONVIOLENT FELONS",
+      "link": "https://saf.org/saf-urges-supreme-court-to-reject-lifetime-gun-bans-for-nonviolent-felons/",
+      "published": "2026-10-01T18:35:44+00:00",
+      "source_id": "saf",
+      "source_name": "Second Amendment Foundation",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "BELLEVUE, Wash. — Oct. 1, 2026 — The Second Amendment Foundation (SAF) joined the National Rifle Association in filing an amicus brief with the U.S. Supreme Court in Johnson v. United States, urging…"
+    },
+    {
+      "id": "cb5c39c8bdee655b",
+      "title": "NRA Files Amicus Brief Urging SCOTUS to Hear Challenge to Ban on Firearms Possession by Nonviolent Felons",
+      "link": "https://www.nraila.org/articles/20261001/nra-files-amicus-brief-urging-scotus-to-hear-challenge-to-ban-on-firearms-possession-by-nonviolent-felons",
+      "published": "2026-10-01T17:44:32+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "Today, the National Rifle Association, joined by the Firearms Policy Coalition and Second Amendment Foundation, filed an amicus brief urging the U.S. Supreme Court to hear a challenge to the federal…"
+    },
+    {
+      "id": "86c7fc5a07a8860d",
+      "title": "BREAKING: New York’s Airport Gun Ban Just Got BLOCKED",
+      "link": "https://www.youtube.com/watch?v=P2wFd7NXxCQ",
+      "published": "2026-10-01T17:27:17+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "BREAKING: New York’s Airport Gun Ban Just Got BLOCKED"
+    },
     {
       "id": "efba468aec2068c0",
       "title": "Gun Owners of America Sues Jacksonville Over Gun-Free Zones",
@@ -45,6 +133,39 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Unanimous Suppressor & NFA Decision Drops Immediately After Bad Precedent Trap! What Now?"
+    },
+    {
+      "id": "5be591f2eb8c2552",
+      "title": "People v. Carrington (Appellate Division of the Supreme Court of the State of New York)",
+      "link": "https://www.courtlistener.com/opinion/11008155/people-v-carrington/",
+      "published": "2026-10-01T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
+      "id": "cc13a21e9d36e77d",
+      "title": "Stopping the Fraudulent Sale of Firearms Act",
+      "link": "https://www.congress.gov/bill/119th-congress/s/2158",
+      "published": "2026-10-01T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S3517-3518)"
+    },
+    {
+      "id": "e7f4a153497e508b",
+      "title": "Safer Neighborhoods Gun Buyback Act of 2025",
+      "link": "https://www.congress.gov/bill/119th-congress/hr/2948",
+      "published": "2026-10-01T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Referred to the House Committee on the Judiciary."
     },
     {
       "id": "2e3e72f8190261f0",
@@ -278,6 +399,39 @@
       "tldr": "LAWYER: He Confessed in Court... The Jury Still Said NOT GUILTY"
     },
     {
+      "id": "aabccbe2520bc755",
+      "title": "DOJ Calls Time on Minnesota’s Second Amendment Waiting Game",
+      "link": "https://www.nraila.org/articles/20260928/doj-calls-time-on-minnesota-s-second-amendment-waiting-game",
+      "published": "2026-09-28T18:28:24+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Regulatory",
+      "tldr": "For too long, Minnesota Governor Tim Waltz and his anti-gun allies in the state have treated the exercise of a constitutional right as something subject to government permission and whatever wait is…"
+    },
+    {
+      "id": "04a6da25ec4e445f",
+      "title": "Support of Self-Defense for Law-Abiding Citizens Continues to Spread Globally",
+      "link": "https://www.nraila.org/articles/20260928/support-of-self-defense-for-law-abiding-citizens-continues-to-spread-globally",
+      "published": "2026-09-28T18:25:01+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "In spite of some countries deciding they cannot trust their own citizens with firearms, other countries seem to be rejecting this policy…at least a bit."
+    },
+    {
+      "id": "e8de563d81c977e0",
+      "title": "Virginia Gun Shops Brace for the New Jerseyfication of the Commonwealth",
+      "link": "https://www.nraila.org/articles/20260928/virginia-gun-shops-brace-for-the-new-jerseyfication-of-the-commonwealth",
+      "published": "2026-09-28T18:19:42+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "Jay Jones, the anti-gun but pro-bullets to the head Virginia attorney general, announced on September 15 the creation of the Firearms Accountability &amp; Industry Responsibility (FAIR) Unit within…"
+    },
+    {
       "id": "3b18978bb13de38b",
       "title": "NFA UPDATE: ATF Says Suppressors on a 4473 WILL NOT Get Dealers Cited",
       "link": "https://www.youtube.com/watch?v=xbAIS5PjiiY",
@@ -287,6 +441,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "NFA UPDATE: ATF Says Suppressors on a 4473 WILL NOT Get Dealers Cited"
+    },
+    {
+      "id": "812db185c04aeeb2",
+      "title": "California: Newsom Takes One Last Shot at the Second Amendment as Governor",
+      "link": "https://www.nraila.org/articles/20260928/california-newsom-takes-one-last-shot-at-the-second-amendment-as-governor",
+      "published": "2026-09-28T13:54:50+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "On Saturday, Governor Gavin Newsom inked his signature to six anti-gun bills, continuing his attack on law-abiding gun owners as he closes his final months as the Governor of California. Since taking…"
     },
     {
       "id": "b465379c5df6c26e",
@@ -397,6 +562,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court 9-0 Unanimous Decision Creates Immediate Constitutional Commerce Clause Challenge!"
+    },
+    {
+      "id": "31fc4d4b252a75ee",
+      "title": "NRA Files Amicus Brief Urging SCOTUS to Review Lawsuit Blaming Firearm Ads for Criminal Acts",
+      "link": "https://www.nraila.org/articles/20260925/nra-files-amicus-brief-urging-scotus-to-review-lawsuit-blaming-firearm-ads-for-criminal-acts",
+      "published": "2026-09-25T15:30:06+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "Today, the National Rifle Association and Second Amendment Foundation filed an amicus brief urging the U.S. Supreme Court to grant review in Daniel Defense, LLC v. Lowy. The case asks whether firearm…"
     },
     {
       "id": "cd3ea3ee15c96147",
@@ -520,6 +696,17 @@
       "tldr": "BELLEVUE, Wash. — Sept. 24, 2026 — The 41st annual Gun Rights Policy Conference starts Friday, and the Planning Committee is pleased to announce the final agenda is set! Co-hosted by the Second…"
     },
     {
+      "id": "2fc38522988a4638",
+      "title": "NRA Files Amicus Brief Urging SCOTUS to Hear Challenge to Maine’s 72-Hour Waiting Period Law",
+      "link": "https://www.nraila.org/articles/20260924/nra-files-amicus-brief-urging-scotus-to-hear-challenge-to-maine-s-72-hour-waiting-period-law",
+      "published": "2026-09-24T13:52:16+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "The National Rifle Association and Second Amendment Foundation filed an amicus brief urging the U.S. Supreme Court to grant review in Beckwith v. Frey, a challenge to Maine’s 72-hour waiting period…"
+    },
+    {
       "id": "9aaceb5c2e7561ce",
       "title": "The War On 2A Rights: New York's Refusal To Back Down From DOJ",
       "link": "https://www.youtube.com/watch?v=fSMXm_MUcs8",
@@ -564,26 +751,15 @@
       "tldr": "On December 2, the Supreme Court will hear arguments in Viramontes v. Cook County and decide a question that sounds simple but carries enormous weight: does the Second Amendment protect the AR-15?"
     },
     {
-      "id": "c583961122903771",
-      "title": "DOJ Says Federal Ban on Handgun Sales to Adults Under 21 is Unconstitutional",
-      "link": "https://thereload.com/doj-says-federal-ban-on-handgun-sales-to-adults-under-21-is-unconstitutional/",
-      "published": "2026-09-23T23:15:31+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "Regulatory",
-      "tldr": "The Department of Justice (DOJ) has concluded that federal restrictions barring licensed firearms dealers from selling handguns to otherwise law-abiding adults under 21 violate the Second Amendment."
-    },
-    {
-      "id": "c86d2201233fc15d",
-      "title": "Major 2A Update: They Are Trying To Stop You From Buying Guns",
-      "link": "https://www.youtube.com/watch?v=HfP3Vm9a4V8",
-      "published": "2026-09-23T20:40:35+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Major 2A Update: They Are Trying To Stop You From Buying Guns"
+      "id": "fed07b468961aa19",
+      "title": "U.S. Department of Justice Declares Age 18-20 Handgun Sales Ban Unconstitutional",
+      "link": "https://www.nraila.org/articles/20260923/us-department-of-justice-declares-age-18-20-handgun-sales-ban-unconstitutional",
+      "published": "2026-09-23T19:03:28+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "On September 17, the Department of Justice’s Office of Legal Counsel (OLC) issued a memorandum opinion to answer the question “whether restricting young adults from buying firearms comports with the…"
     },
     {
       "id": "d6a90dafd590a195",
@@ -608,37 +784,59 @@
       "tldr": "LAWYER: Can You Shoot Someone Who Attacks You With Their Fists?"
     },
     {
-      "id": "8df62d366b4f7ee3",
-      "title": "The Ninth Circuit Just Did WHAT? Bruen Under Attack",
-      "link": "https://www.youtube.com/watch?v=KQEfXBdMZgE",
-      "published": "2026-09-23T13:39:16+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "The Ninth Circuit Just Did WHAT? Bruen Under Attack"
-    },
-    {
-      "id": "05360d72f0f5ec48",
-      "title": "Poll: Americans Split on What SCOTUS Should Do in AR-15 Case",
-      "link": "https://thereload.com/poll-americans-split-on-what-scotus-should-do-in-ar-15-case/",
-      "published": "2026-09-23T03:17:17+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
+      "id": "b9d328940a27011d",
+      "title": "Trump DOJ Sues San Jose, Ca., Over $1,600 Concealed Carry Licensing Fee",
+      "link": "https://www.nraila.org/articles/20260923/trump-doj-sues-san-jose-ca-over-1-600-concealed-carry-licensing-fee",
+      "published": "2026-09-23T18:34:31+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
       "category": "Court Case",
-      "tldr": "Americans favor the Supreme Court of the United States (SCOTUS) upholding \"assault weapons\" bans, according to a new poll. But only by a slim margin."
+      "tldr": "Do you know the way to San Jose? Dionne Warwick famously asked in her 1968 hit song. Well, Assistant U.S. Attorney General Harmeet Dhillon certainly does, and she recently made sure the city was…"
     },
     {
-      "id": "2ab0307c7bef2659",
-      "title": "Apple Official: CCW Permits Tied to Sheriff's Re election Support",
-      "link": "https://www.youtube.com/shorts/WKEfFJg5ysU",
-      "published": "2026-09-23T01:21:09+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Apple Official: CCW Permits Tied to Sheriff's Re election Support"
+      "id": "1830821078c740c7",
+      "title": "“Law abiding citizens with an AR-15 are not a threat to anyone” — Law Enforcement Groups Weigh in on Supreme Court “Assault Weapons” Cases",
+      "link": "https://www.nraila.org/articles/20260923/law-abiding-citizens-with-an-ar-15-are-not-a-threat-to-anyone-law-enforcement-groups-weigh-in-on-supreme-court-assault-weapons-cases",
+      "published": "2026-09-23T18:29:11+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "The Trace, the “newsroom” funded by anti-gun extremist Michael Bloomberg, reported in June on the extent to which the NRA-backed NYSRPA v. Bruen case has, to date, rebuilt the modern Second Amendment…"
+    },
+    {
+      "id": "d9ce6aa58ad23cfb",
+      "title": "Everytown Goes Hunting for Credibility",
+      "link": "https://www.nraila.org/articles/20260923/everytown-goes-hunting-for-credibility",
+      "published": "2026-09-23T18:26:00+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "The irony is nothing short of comedy. Multiple outlets are having a field day with the Michael Bloomberg-backed Everytown organization, which has spent years and millions of dollars supporting…"
+    },
+    {
+      "id": "b30b2ada531d06a4",
+      "title": "The Fight to Protect the Firearms Industry Continues",
+      "link": "https://www.nraila.org/articles/20260923/the-fight-to-protect-the-firearms-industry-continues",
+      "published": "2026-09-23T18:20:39+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "The political lawfare campaign to dismantle the lawful firearms industry by holding it liable for the criminal misuse of its constitutionally protected products should have never started. U.S. tort…"
+    },
+    {
+      "id": "5eeba94b7fdfd637",
+      "title": "Study Suggests “Safe Storage” Mandates are Ineffective",
+      "link": "https://www.nraila.org/articles/20260923/study-suggests-safe-storage-mandates-are-ineffective",
+      "published": "2026-09-23T17:52:09+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "While it likely comes as no surprise to most readers, a recent study suggests that government-mandates that law-abiding gun owners always secure their firearms when “not in use”—usually unloaded…"
     },
     {
       "id": "81d4924723498483",
@@ -729,6 +927,17 @@
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
+      "id": "02c46b912027fd6f",
+      "title": "President Trump Just Killed DOJ’s Appeal",
+      "link": "https://www.gunowners.org/president-trump-just-killed-dojs-appeal/",
+      "published": "2026-09-21T20:30:39+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "PRESIDENT TRUMP TOLD DOJ: DON’T APPEAL GOA’S WIN! Thank you to President Trump for supporting the Second Amendment! President Trump personally ordered the Justice Department not to appeal our NFA…"
+    },
+    {
       "id": "a1c7e0c40305f339",
       "title": "Cops Say They Have A Warrant But Won't Show It To You ... What Should You Do?",
       "link": "https://www.youtube.com/watch?v=oZsBtYxpf-o",
@@ -762,6 +971,17 @@
       "tldr": "Supreme Court Delivers 9-0 Unanimous Ruling With Major Nationwide & Constitutional Implications!"
     },
     {
+      "id": "8eebe30100fd44af",
+      "title": "State Of The Second. Issue vol. 3",
+      "link": "https://www.gunowners.org/092026/",
+      "published": "2026-09-20T18:47:19+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "Get up to speed on Vol. 3 of State of the Second The third issue of State of the Second is now available. Following the launch of our inaugural digital magazine, Issue Two continues to bring together…"
+    },
+    {
       "id": "18d9ea329279d5ad",
       "title": "🚨 BREAKING: 5th Circuit STRIKES Gun Law! | 18-20 Can Buy Handguns?! | 2A News LIVE",
       "link": "https://www.youtube.com/watch?v=fj8qGa9qgGc",
@@ -782,6 +1002,28 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING! Supreme Court Grants Immediate Review In Major Constitutional Rights Challenge!"
+    },
+    {
+      "id": "d2980c60d782794a",
+      "title": "We Can’t Sit This Election Out",
+      "link": "https://www.gunowners.org/091926-2/",
+      "published": "2026-09-19T18:18:06+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "GOA Members and Supporters must vote this November to secure the Second Amendment… The recent victory against key provisions of the National Firearms Act (NFA) did not happen in a vacuum. In 2025…"
+    },
+    {
+      "id": "c6cf0492c05a89e5",
+      "title": "Free Suppressors for Life Member Purchases",
+      "link": "https://www.gunowners.org/091926/",
+      "published": "2026-09-19T18:12:48+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "BUY A LIFE MEMBERSHIP, GET A FREE SUPPRESSOR! Outlier has partnered with GOA to give free suppressors to new life members… Gun Owners of America has partnered with Outlier to give away their…"
     },
     {
       "id": "3333aaa6bc42f449",
@@ -815,6 +1057,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Maryland Synagogue Wins Injunction Against Gun-Carry Ban; DC Jumps Into NRA Foundation Fight"
+    },
+    {
+      "id": "0c419f5165fe022c",
+      "title": "This Week in Gun Rights",
+      "link": "https://www.gunowners.org/091826/",
+      "published": "2026-09-18T18:22:07+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Regulatory",
+      "tldr": "Here’s what you may have missed this week in the fight for the Second Amendment… This week, the DOJ released a memorandum opinion from the Office of Legal Counsel saying that the federal ban on…"
     },
     {
       "id": "70bc1cde53475157",
@@ -883,17 +1136,6 @@
       "tldr": "The Supreme Court Is About to Decide If AR-15s Can Be Banned!"
     },
     {
-      "id": "0fd1d99b62c571c9",
-      "title": "SAF ATTORNEY PUBLISHES SECOND LAW REVIEW ARTICLE",
-      "link": "https://saf.org/saf-attorney-publishes-second-law-review-article/",
-      "published": "2026-09-17T15:15:18+00:00",
-      "source_id": "saf",
-      "source_name": "Second Amendment Foundation",
-      "source_type": "org",
-      "category": "News",
-      "tldr": "BELLEVUE, Wash. — Sept. 17, 2026 — Second Amendment Foundation (SAF) attorney and Director of Legal Research and Education Konstadinos T. Moros has published his second law review article today…"
-    },
-    {
       "id": "c9d5c8dd59fc6297",
       "title": "Connecticut “Glockageddon”: Glock Ban, SCOTUS & Gun Rights | 2A Roundtable",
       "link": "https://www.youtube.com/watch?v=brHXW6Yb8_U",
@@ -958,17 +1200,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING! Supreme Court Issues Emergency Election Order With Major Nationwide Implications!"
-    },
-    {
-      "id": "c28117c5225866cc",
-      "title": "United States v. Levasseur (Court of Appeals for the First Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10975313/united-states-v-levasseur/",
-      "published": "2026-09-16T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "7d4997831715735c",
@@ -1046,17 +1277,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "On the Ground in Ukraine's Gun-Rights Fight; Third Circuit Revives New Jersey Gun-Industry Suit"
-    },
-    {
-      "id": "bd9631528fe17888",
-      "title": "“You’re Not Leaving!” — Crazy Biker Detains Teen Driver, Then The Officer Shows Up",
-      "link": "https://www.youtube.com/shorts/JD8vgRmQ2VQ",
-      "published": "2026-09-10T19:00:26+00:00",
-      "source_id": "atty-tom-grieve",
-      "source_name": "Atty Tom Grieve",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "“You’re Not Leaving!” — Crazy Biker Detains Teen Driver, Then The Officer Shows Up"
     },
     {
       "id": "ffe54c628634bafe",
@@ -1180,39 +1400,6 @@
       "tldr": "CONNECTICUT REPS Want to CLOSE This Gun Loophole?! New Bill Targets Domestic Violence Abusers"
     },
     {
-      "id": "0c91d7dd7c8a7764",
-      "title": "PA: Legalize Suppressors",
-      "link": "https://www.gunowners.org/pa082620226/",
-      "published": "2026-08-25T19:55:01+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
-      "source_type": "org",
-      "category": "News",
-      "tldr": "Let’s Eliminate Suppressor and SBR/SBS Restrictions in Pennsylvania Pennsylvanians should NEVER be treated like criminals for exercising their constitutionally-protected rights. Yet under…"
-    },
-    {
-      "id": "19db33acc05cacd7",
-      "title": "ATF MUST PROVIDE GUIDANCE TO GUN DEALERS!",
-      "link": "https://www.gunowners.org/08-25-26/",
-      "published": "2026-08-25T17:08:03+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "We won our case, but ATF is stalling, so let’s turn up the heat and make them clear things up for dealers and gun owners nationwide… On August 5th, GOA won our “One Big Beautiful Lawsuit,” against…"
-    },
-    {
-      "id": "73a219084f8d3039",
-      "title": "NFA Victory FAQ: What Gun Owners Need to Know",
-      "link": "https://www.gunowners.org/082426/",
-      "published": "2026-08-24T18:13:01+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "On August 5, 2026, a federal judge in Texas ruled that the National Firearms Act’s registration requirements are unconstitutional for certain firearms whose NFA tax has been reduced to $0. This…"
-    },
-    {
       "id": "4d6e73894ea2a8c2",
       "title": "Murder Hits All-Time Low (Ft. AH Datalytic's Jeff Asher)",
       "link": "https://www.youtube.com/watch?v=aC029iV1vc8",
@@ -1257,17 +1444,6 @@
       "tldr": "Startup Says It's Developed 3D Printed Gun Part Blocker; DOJ Rights Restoration Process Drops"
     },
     {
-      "id": "994aaffdd45bf8d6",
-      "title": "THIS WEEK: Here’s Where Things Stand!",
-      "link": "https://www.gunowners.org/082126/",
-      "published": "2026-08-21T17:17:43+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "THIS WEEK IN GUN RIGHTS! At GOA, we’ve been hard at work fighting for your Second Amendment rights, here’s a recap of the things you should know… A federal judge ruled the registration requirements…"
-    },
-    {
       "id": "c067fdf6edc6e3b9",
       "title": "ATF Rolls Back Gun Regulations — New York FIGHTS BACK! What About Connecticut?",
       "link": "https://www.youtube.com/watch?v=lsd4hVMRlGk",
@@ -1277,17 +1453,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "ATF Rolls Back Gun Regulations — New York FIGHTS BACK! What About Connecticut?"
-    },
-    {
-      "id": "b3bd547653835162",
-      "title": "FL VICTORY: Byron Donalds Wins Primary Election",
-      "link": "https://www.gunowners.org/fl08192026/",
-      "published": "2026-08-19T21:00:30+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
-      "source_type": "org",
-      "category": "News",
-      "tldr": "Florida’s gun owners get to celebrate the Second Amendment wins that happened during last night’s primary elections. Why? Because GOA was the only gun rights organization involved in this election…"
     },
     {
       "id": "fb507200f6facb81",
