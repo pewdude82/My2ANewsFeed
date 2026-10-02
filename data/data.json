@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-02T10:05:34.868154+00:00",
-  "item_count": 148,
+  "generated_at": "2026-10-02T16:53:33.543318+00:00",
+  "item_count": 149,
   "items": [
+    {
+      "id": "4aace0369177d5cd",
+      "title": "Finally! The DOJ's Official Stance On The NFA Injunction",
+      "link": "https://www.youtube.com/watch?v=Asl7Iw6W3v8",
+      "published": "2026-10-02T14:16:59+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Finally! The DOJ's Official Stance On The NFA Injunction"
+    },
     {
       "id": "4416ae8fec6ce892",
       "title": "Analysis: Why Connecticut’s ‘Glock Ban’ Was Blocked After California’s Wasn’t [Member Exclusive]",
@@ -23,6 +34,17 @@
       "source_type": "journalism",
       "category": "Court Case",
       "tldr": "Plus, the Second Amendment Foundation's Bill Sack explains a new settlement the group got over an illegal gun search of a high schooler's car on the podcast."
+    },
+    {
+      "id": "c617ebc17d55be36",
+      "title": "Resources for Victims of Gun Violence Act of 2025",
+      "link": "https://www.congress.gov/bill/119th-congress/hr/2837",
+      "published": "2026-10-02T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Referred to the House Committee on the Judiciary."
     },
     {
       "id": "7ea38adc1f3dfa72",
@@ -694,17 +716,6 @@
       "source_type": "org",
       "category": "Court Case",
       "tldr": "The National Rifle Association and Second Amendment Foundation filed an amicus brief urging the U.S. Supreme Court to grant review in Beckwith v. Frey, a challenge to Maine’s 72-hour waiting period…"
-    },
-    {
-      "id": "9aaceb5c2e7561ce",
-      "title": "The War On 2A Rights: New York's Refusal To Back Down From DOJ",
-      "link": "https://www.youtube.com/watch?v=fSMXm_MUcs8",
-      "published": "2026-09-24T13:43:53+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "The War On 2A Rights: New York's Refusal To Back Down From DOJ"
     },
     {
       "id": "c0ae75536b6d3842",
