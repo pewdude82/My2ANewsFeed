@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-03T09:28:10.609094+00:00",
-  "item_count": 150,
+  "generated_at": "2026-10-03T15:18:10.166925+00:00",
+  "item_count": 149,
   "items": [
+    {
+      "id": "f8eac4897dd3db41",
+      "title": "They Took His Gun Over a Missing Database Record—Now He’s Suing",
+      "link": "https://www.youtube.com/watch?v=QFey2sfmTtY",
+      "published": "2026-10-03T13:05:06+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "They Took His Gun Over a Missing Database Record—Now He’s Suing"
+    },
     {
       "id": "ebb4979f0ac430b1",
       "title": "Supreme Court Delivers 9-0 Unanimous Ruling With Major Nationwide & Constitutional Implications!",
@@ -72,17 +83,6 @@
       "id": "851faaa87ba08295",
       "title": "Crime Gun Tracing Modernization Act of 2025",
       "link": "https://www.congress.gov/bill/119th-congress/s/3289",
-      "published": "2026-10-02T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Read twice and referred to the Committee on the Judiciary."
-    },
-    {
-      "id": "bea8f55e3dba6919",
-      "title": "Preventing Pretrial Gun Purchases Act",
-      "link": "https://www.congress.gov/bill/119th-congress/s/2186",
       "published": "2026-10-02T00:00:00+00:00",
       "source_id": "congress-gov",
       "source_name": "Congress.gov",
@@ -639,17 +639,6 @@
       "source_type": "org",
       "category": "Court Case",
       "tldr": "Today, the National Rifle Association and Second Amendment Foundation filed an amicus brief urging the U.S. Supreme Court to grant review in Daniel Defense, LLC v. Lowy. The case asks whether firearm…"
-    },
-    {
-      "id": "cd3ea3ee15c96147",
-      "title": "Assault Weapon Bans vs The Supreme Court: The Argument That Changes The Game",
-      "link": "https://www.youtube.com/watch?v=qAT8VPDUkfA",
-      "published": "2026-09-25T13:29:21+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Assault Weapon Bans vs The Supreme Court: The Argument That Changes The Game"
     },
     {
       "id": "38676f48bf738157",
