@@ -1,7 +1,106 @@
 {
-  "generated_at": "2026-10-05T10:54:34.893537+00:00",
-  "item_count": 149,
+  "generated_at": "2026-10-05T19:54:04.289774+00:00",
+  "item_count": 150,
   "items": [
+    {
+      "id": "19686249a10394c5",
+      "title": "DOJ Will Not Appeal the NFA Ruling — BUT State Laws Still Apply",
+      "link": "https://www.youtube.com/watch?v=YJOE-0swW1s",
+      "published": "2026-10-05T19:00:18+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "DOJ Will Not Appeal the NFA Ruling — BUT State Laws Still Apply"
+    },
+    {
+      "id": "1af44e248597edc4",
+      "title": "St. Louis Housing Authority Evicts Man Who Police Say Acted in Self-Defense",
+      "link": "https://www.nraila.org/articles/20261005/st-louis-housing-authority-evicts-man-who-police-say-acted-in-self-defense",
+      "published": "2026-10-05T18:57:23+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "While the state of Missouri is considered a pro-Second Amendment state—including having Constitutional Carry—the City of St. Louis has a tendency to try to go its own way on the matter. The recent…"
+    },
+    {
+      "id": "39aede0d73de87c2",
+      "title": "BREAKING: Supreme Court DENIES Major 2A Reciprocity Case — Here’s What It Means",
+      "link": "https://www.youtube.com/watch?v=yTqHWTSJmXY",
+      "published": "2026-10-05T18:02:33+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "BREAKING: Supreme Court DENIES Major 2A Reciprocity Case — Here’s What It Means"
+    },
+    {
+      "id": "db30146e89e403e7",
+      "title": "The New Battleground for Second Amendment Rights: Global Online Content",
+      "link": "https://www.nraila.org/articles/20261005/the-new-battleground-for-second-amendment-rights-global-online-content",
+      "published": "2026-10-05T17:42:37+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Regulatory",
+      "tldr": "Artificial intelligence (AI) chatbots – computer programs on websites, messaging apps, and social media platforms designed to simulate human conversation through text or voice – are now ubiquitous…"
+    },
+    {
+      "id": "c055e98355dad039",
+      "title": "Creating Crimes Out of Thin Air: Federal Bill Seeks to Treat Air Guns as Firearms",
+      "link": "https://www.nraila.org/articles/20261005/creating-crimes-out-of-thin-air-federal-bill-seeks-to-treat-air-guns-as-firearms",
+      "published": "2026-10-05T17:36:22+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "A new bill introduced in Congress proposes to regulate “lethal air guns” as firearms under the Gun Control Act of 1968, as amended (GCA). Yet the risk of fatalities and criminal misuse from air guns…"
+    },
+    {
+      "id": "7a02ce689e55339c",
+      "title": "Pervasive Surveillance and Data Storage an Emerging Concern for Gun Owner Privacy",
+      "link": "https://www.nraila.org/articles/20261005/pervasive-surveillance-and-data-storage-an-emerging-concern-for-gun-owner-privacy",
+      "published": "2026-10-05T17:33:22+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "Americans have willingly, and sometimes unwillingly, surrounded themselves with technology that watches, listens, records, and remembers. Cars know how and where we drive. Phones track just about…"
+    },
+    {
+      "id": "509e053af687ca0c",
+      "title": "Bad Faith: Gun Controllers Seek to Enlist Clergy in Firearm Confiscation Efforts",
+      "link": "https://www.nraila.org/articles/20261005/bad-faith-gun-controllers-seek-to-enlist-clergy-in-firearm-confiscation-efforts",
+      "published": "2026-10-05T17:23:03+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "It’s often been said that gun control is really about people control. Understanding this, the megalomania gun control advocates exhibit in their never-ending pursuit to control others displays a…"
+    },
+    {
+      "id": "a8f63b6d1977b2e7",
+      "title": "Why the Government's Gun Ban Argument is About to FAIL",
+      "link": "https://www.youtube.com/watch?v=tfoIN1q7bsE",
+      "published": "2026-10-05T14:00:17+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Why the Government's Gun Ban Argument is About to FAIL"
+    },
+    {
+      "id": "cc7c877f9bfab0ca",
+      "title": "Researching Women and Guns (Ft. Yale's Kerri Raissian & KU's Margaret Kelley)",
+      "link": "https://www.youtube.com/watch?v=ufFUZA31K5s",
+      "published": "2026-10-05T12:00:12+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Researching Women and Guns (Ft. Yale's Kerri Raissian & KU's Margaret Kelley)"
+    },
     {
       "id": "619cc8a8131ccee2",
       "title": "BREAKING! Supreme Court Grants Immediate Review In Major Constitutional Rights Challenge!",
@@ -14,8 +113,19 @@
       "tldr": "BREAKING! Supreme Court Grants Immediate Review In Major Constitutional Rights Challenge!"
     },
     {
+      "id": "2868a53a49f913d5",
+      "title": "Williams v. United States of America (District Court, District of Columbia)",
+      "link": "https://www.courtlistener.com/opinion/11011899/williams-v-united-states-of-america/",
+      "published": "2026-10-05T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
       "id": "f709c352d3a22679",
-      "title": "Major Channel Update: New Name. Same Fight! 🇺🇸",
+      "title": "Why I’m Changing the Name of This Channel",
       "link": "https://www.youtube.com/watch?v=0MX75HsqEp8",
       "published": "2026-10-04T21:38:04+00:00",
       "source_id": "guns-gadgets",
@@ -199,17 +309,6 @@
       "source_type": "journalism",
       "category": "Court Case",
       "tldr": "Plus, the Second Amendment Foundation's Bill Sack explains a new settlement the group got over an illegal gun search of a high schooler's car on the podcast."
-    },
-    {
-      "id": "851faaa87ba08295",
-      "title": "Crime Gun Tracing Modernization Act of 2025",
-      "link": "https://www.congress.gov/bill/119th-congress/s/3289",
-      "published": "2026-10-02T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Read twice and referred to the Committee on the Judiciary."
     },
     {
       "id": "7ea38adc1f3dfa72",
@@ -399,17 +498,6 @@
       "tldr": "Governor Gavin Newsom (D.) has called it a “sin tax.” But there's little record of similar taxes on popular firearms throughout history, which may make it unconstitutional."
     },
     {
-      "id": "7fbd1757b51335bb",
-      "title": "Congress Demands Trump Destroy ATF’s 1.4 Billion Gun Records",
-      "link": "https://www.youtube.com/watch?v=Lzd_Tx_zlyU",
-      "published": "2026-09-30T14:42:12+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Congress Demands Trump Destroy ATF’s 1.4 Billion Gun Records"
-    },
-    {
       "id": "1c196b21e559d270",
       "title": "BREAKING! Supreme Court Takes On Immediate Review In Major Constitutional Rights Challenge!",
       "link": "https://www.youtube.com/watch?v=lf3VYiHYACs",
@@ -441,17 +529,6 @@
       "source_type": "primary_legal",
       "category": "Court Case",
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "da318496b8a94cbe",
-      "title": "Is Your Favorite Air Rifle A ‘Firearm’ Now?",
-      "link": "https://www.youtube.com/watch?v=BhOv3-QKNTo",
-      "published": "2026-09-29T21:04:21+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Is Your Favorite Air Rifle A ‘Firearm’ Now?"
     },
     {
       "id": "68261db04d82547e",
@@ -861,39 +938,6 @@
       "tldr": "The Trace, the “newsroom” funded by anti-gun extremist Michael Bloomberg, reported in June on the extent to which the NRA-backed NYSRPA v. Bruen case has, to date, rebuilt the modern Second Amendment…"
     },
     {
-      "id": "d9ce6aa58ad23cfb",
-      "title": "Everytown Goes Hunting for Credibility",
-      "link": "https://www.nraila.org/articles/20260923/everytown-goes-hunting-for-credibility",
-      "published": "2026-09-23T18:26:00+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "News",
-      "tldr": "The irony is nothing short of comedy. Multiple outlets are having a field day with the Michael Bloomberg-backed Everytown organization, which has spent years and millions of dollars supporting…"
-    },
-    {
-      "id": "b30b2ada531d06a4",
-      "title": "The Fight to Protect the Firearms Industry Continues",
-      "link": "https://www.nraila.org/articles/20260923/the-fight-to-protect-the-firearms-industry-continues",
-      "published": "2026-09-23T18:20:39+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "News",
-      "tldr": "The political lawfare campaign to dismantle the lawful firearms industry by holding it liable for the criminal misuse of its constitutionally protected products should have never started. U.S. tort…"
-    },
-    {
-      "id": "5eeba94b7fdfd637",
-      "title": "Study Suggests “Safe Storage” Mandates are Ineffective",
-      "link": "https://www.nraila.org/articles/20260923/study-suggests-safe-storage-mandates-are-ineffective",
-      "published": "2026-09-23T17:52:09+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "News",
-      "tldr": "While it likely comes as no surprise to most readers, a recent study suggests that government-mandates that law-abiding gun owners always secure their firearms when “not in use”—usually unloaded…"
-    },
-    {
       "id": "81d4924723498483",
       "title": "BREAKING TODAY! Supreme Court 9-0 Unanimous Emergency Election Order Up For Immediate Re-Review!",
       "link": "https://www.youtube.com/watch?v=7n8zpjxYxt4",
@@ -1202,17 +1246,6 @@
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
-      "id": "6fcaaeeb277c5d0d",
-      "title": "Application of 18 U.S.C. § 922(b)(1) and (c)(1) to Young Adults (Department of Justice Office of Legal Counsel)",
-      "link": "https://www.courtlistener.com/opinion/10976760/application-of-18-usc-922b1-and-c1-to-young-adults/",
-      "published": "2026-09-17T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "16b5ad56716634eb",
       "title": "Supreme Court Takes Up AR-15 Ban Case: Can 40 Million Rifles Be Banned?",
       "link": "https://www.youtube.com/watch?v=ydyc7mKWiWA",
@@ -1244,17 +1277,6 @@
       "source_type": "org",
       "category": "Legislation",
       "tldr": "LET’S PASS THESE BILLS! These two bills are marked up tomorrow, we need your help to pass them…. If you’re receiving this email, your Representative in Congress is on the House Judiciary Committee…"
-    },
-    {
-      "id": "fb86bacbadd37101",
-      "title": "Mass Shooter Stopped By Armed Civilian… Guess What The Media Focused On Instead",
-      "link": "https://www.youtube.com/watch?v=1Ij3zGf3r-A",
-      "published": "2026-09-14T19:00:12+00:00",
-      "source_id": "atty-tom-grieve",
-      "source_name": "Atty Tom Grieve",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Mass Shooter Stopped By Armed Civilian… Guess What The Media Focused On Instead"
     },
     {
       "id": "34be0a865f8b23af",
@@ -1464,17 +1486,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "How Far Does the Injunction Against the National Firearms Act Extend? (Ft. SAF's Kostas Moros)"
-    },
-    {
-      "id": "277547a930447805",
-      "title": "First Legal Unregistered Silencer Sale in 100 Years; Unearthed Vids Show Abdul El-Sayed's Gun Views",
-      "link": "https://www.youtube.com/watch?v=74fwy1QsBAM",
-      "published": "2026-08-14T22:08:38+00:00",
-      "source_id": "the-reload-youtube",
-      "source_name": "The Reload (YouTube)",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "First Legal Unregistered Silencer Sale in 100 Years; Unearthed Vids Show Abdul El-Sayed's Gun Views"
     },
     {
       "id": "69ecefed6aca2971",
