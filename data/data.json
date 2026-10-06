@@ -1,17 +1,39 @@
 {
-  "generated_at": "2026-10-06T17:28:25.258090+00:00",
+  "generated_at": "2026-10-06T23:23:16.510084+00:00",
   "item_count": 150,
   "items": [
+    {
+      "id": "ead91a0985349108",
+      "title": "Everytown's SCOTUS Strategy EXPOSED: The Real Truth About This Case",
+      "link": "https://www.youtube.com/watch?v=nRMRe04wGiI",
+      "published": "2026-10-06T22:24:23+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Everytown's SCOTUS Strategy EXPOSED: The Real Truth About This Case"
+    },
     {
       "id": "b1d41583195be1a0",
       "title": "Connecticut Glock Ban: The Injunction & What Comes Next | 2A Roundtable",
       "link": "https://www.youtube.com/watch?v=4H_vkey5s88",
-      "published": "2026-10-06T14:07:07+00:00",
+      "published": "2026-10-06T21:00:07+00:00",
       "source_id": "gun-guru",
       "source_name": "Gun Guru",
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Connecticut Glock Ban: The Injunction & What Comes Next | 2A Roundtable"
+    },
+    {
+      "id": "834722856a3ced72",
+      "title": "Suppressors Are Off the NFA List for Covered Buyers — Here’s What Still Applies",
+      "link": "https://www.youtube.com/shorts/2du-ClZtiQQ",
+      "published": "2026-10-06T19:00:02+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Suppressors Are Off the NFA List for Covered Buyers — Here’s What Still Applies"
     },
     {
       "id": "f96c54cce814b0da",
@@ -333,6 +355,17 @@
       "tldr": "BREAKING: DOJ Now Has Until October 12 — ATF’s NFA Guidance Could Come First"
     },
     {
+      "id": "595ede0ffe821e43",
+      "title": "This Week in Gun Rights",
+      "link": "https://www.gunowners.org/this-week-in-gun-rights/",
+      "published": "2026-10-02T19:35:50+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "THIS WEEK IN THE FIGHT Here’s what you may have missed this week in the fight for the Second Amendment… This week, ATF confirmed that guidance is incoming on GOA’s historic victory against the…"
+    },
+    {
       "id": "4aace0369177d5cd",
       "title": "Finally! The DOJ's Official Stance On The NFA Injunction",
       "link": "https://www.youtube.com/watch?v=Asl7Iw6W3v8",
@@ -452,17 +485,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING: New York’s Airport Gun Ban Just Got BLOCKED"
-    },
-    {
-      "id": "efba468aec2068c0",
-      "title": "Gun Owners of America Sues Jacksonville Over Gun-Free Zones",
-      "link": "https://www.youtube.com/watch?v=LXcT4IO5xdc",
-      "published": "2026-10-01T14:47:27+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Gun Owners of America Sues Jacksonville Over Gun-Free Zones"
     },
     {
       "id": "177834bc9b3c1164",
@@ -1268,17 +1290,6 @@
       "tldr": "Supreme Court Takes Up AR-15 Ban Case: Can 40 Million Rifles Be Banned?"
     },
     {
-      "id": "7d4997831715735c",
-      "title": "The Media is LYING to you about these gun statistics!",
-      "link": "https://www.youtube.com/shorts/2wayxyVPrO8",
-      "published": "2026-09-15T19:00:17+00:00",
-      "source_id": "atty-tom-grieve",
-      "source_name": "Atty Tom Grieve",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "The Media is LYING to you about these gun statistics!"
-    },
-    {
       "id": "e1fbcc2e9f1527bf",
       "title": "Take Action: Stop State Gun Taxes & Fix the SHOT Act",
       "link": "https://www.gunowners.org/091526/",
@@ -1409,17 +1420,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING: The Supreme Court Could Decide the Future of the AR-15! | Grant v. Higgins + 2A News"
-    },
-    {
-      "id": "6ba2d34beeb569a0",
-      "title": "This Week In Gun Control",
-      "link": "https://www.gunowners.org/08-29-26/",
-      "published": "2026-08-29T15:20:38+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "THIS WEEK IN THE FIGHT Here’s what you may have missed this week in the fight for the Second Amendment… Biden’s “Ghost Gun” rule was struck down by the courts. GOA’s case against it is still active…"
     },
     {
       "id": "9cbecf8337a58aea",
