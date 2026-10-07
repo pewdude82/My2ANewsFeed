@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-07T10:37:23.829360+00:00",
-  "item_count": 150,
+  "generated_at": "2026-10-07T18:00:39.201182+00:00",
+  "item_count": 152,
   "items": [
+    {
+      "id": "c53c6a19dde7de1b",
+      "title": "D.C. Gun Laws: Why This National Guardsman is Facing a FELONY and What You Need to Know",
+      "link": "https://www.youtube.com/watch?v=yILYjxuOn98",
+      "published": "2026-10-07T13:37:43+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "D.C. Gun Laws: Why This National Guardsman is Facing a FELONY and What You Need to Know"
+    },
+    {
+      "id": "ce19cb484477d32e",
+      "title": "Trump Asked To DESTROY ATF’s Massive Gun Database #2a #trump #politics",
+      "link": "https://www.youtube.com/shorts/GOusLFZ_M6k",
+      "published": "2026-10-07T11:53:13+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Trump Asked To DESTROY ATF’s Massive Gun Database #2a #trump #politics"
+    },
     {
       "id": "d84eab52da013168",
       "title": "Supreme Court Issues Unanimous Emergency Election Order With Major Nationwide Implications!",
@@ -12,6 +34,50 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Issues Unanimous Emergency Election Order With Major Nationwide Implications!"
+    },
+    {
+      "id": "53dcbd7cea13102d",
+      "title": "State of Iowa v. Breosha Keairr Kelley (Court of Appeals of Iowa)",
+      "link": "https://www.courtlistener.com/opinion/11013704/state-of-iowa-v-breosha-keairr-kelley/",
+      "published": "2026-10-07T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
+      "id": "8f9239cd69a01a97",
+      "title": "King L. Grigger v. State of Florida (District Court of Appeal of Florida)",
+      "link": "https://www.courtlistener.com/opinion/11013577/king-l-grigger-v-state-of-florida/",
+      "published": "2026-10-07T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
+      "id": "cb0e195147585575",
+      "title": "Recognizing the importance of diapers to infant health and family well-being, and expressing support for the designation of the week of September 14-20, 2026, as \"National Diaper Need Awareness Week\".",
+      "link": "https://www.congress.gov/bill/119th-congress/hres/1547",
+      "published": "2026-10-07T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Referred to the House Committee on Oversight and Government Reform."
+    },
+    {
+      "id": "d1783edfcd793485",
+      "title": "Recognizing the importance of diapers to infant health and family well-being, and expressing support for the designation of the week of September 15 to September 21, 2025, as \"National Diaper Need Awareness Week\".",
+      "link": "https://www.congress.gov/bill/119th-congress/hres/736",
+      "published": "2026-10-07T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Referred to the House Committee on Oversight and Government Reform."
     },
     {
       "id": "ead91a0985349108",
@@ -443,17 +509,6 @@
       "tldr": "A judge just enjoined a law restricting the sale of popular semi-automatic pistols that critics claim can be too easily converted into machine guns, hours before it was set to take effect."
     },
     {
-      "id": "1dbb2c21193b5da9",
-      "title": "The ATF Just Got Caught In Another Legal Mess #2a #shorts",
-      "link": "https://www.youtube.com/shorts/3Dgul6Ujs2A",
-      "published": "2026-10-01T19:03:14+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "The ATF Just Got Caught In Another Legal Mess #2a #shorts"
-    },
-    {
       "id": "6902c0534fe7a221",
       "title": "Are Ghost Gun Restrictions Unconstitutional?",
       "link": "https://www.youtube.com/shorts/JS8ro7ZuC90",
@@ -485,17 +540,6 @@
       "source_type": "org",
       "category": "Court Case",
       "tldr": "Today, the National Rifle Association, joined by the Firearms Policy Coalition and Second Amendment Foundation, filed an amicus brief urging the U.S. Supreme Court to hear a challenge to the federal…"
-    },
-    {
-      "id": "86c7fc5a07a8860d",
-      "title": "BREAKING: New York’s Airport Gun Ban Just Got BLOCKED",
-      "link": "https://www.youtube.com/watch?v=P2wFd7NXxCQ",
-      "published": "2026-10-01T17:27:17+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "BREAKING: New York’s Airport Gun Ban Just Got BLOCKED"
     },
     {
       "id": "177834bc9b3c1164",
@@ -1224,17 +1268,6 @@
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
-      "id": "34062d5c95ca9ab3",
-      "title": "State v. Byrd (Ohio Court of Appeals)",
-      "link": "https://www.courtlistener.com/opinion/10976929/state-v-byrd/",
-      "published": "2026-09-18T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "f77fe1bc70734879",
       "title": "Connecticut Can DENY Your Pistol Permit for “Unsuitability”? | The CT Suitability Loophole EXPLAINED",
       "link": "https://www.youtube.com/watch?v=mJi8Dqi0MqM",
@@ -1266,17 +1299,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Connecticut “Glockageddon”: Glock Ban, SCOTUS & Gun Rights | 2A Roundtable"
-    },
-    {
-      "id": "f26b63e936f562c4",
-      "title": "PITTMAN, ANDELL BRYMONTE v. the State of Texas (Court of Criminal Appeals of Texas)",
-      "link": "https://www.courtlistener.com/opinion/10978149/pittman-andell-brymonte-v-the-state-of-texas/",
-      "published": "2026-09-17T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "16b5ad56716634eb",
