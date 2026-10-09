@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-10-09T00:00:30.901908+00:00",
-  "item_count": 147,
+  "generated_at": "2026-10-09T10:57:14.840462+00:00",
+  "item_count": 146,
   "items": [
+    {
+      "id": "93f51535a5355439",
+      "title": "Analysis: Where the Gun Groups are Spending Their Midterm Money [Member Exclusive]",
+      "link": "https://thereload.com/analysis-where-the-gun-groups-are-spending-their-midterm-money-member-exclusive/",
+      "published": "2026-10-09T09:02:35+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Legislation",
+      "tldr": "The political arms of Giffords and Everytown have announced they will spend $10 million each on advertising to influence select 2026 congressional races. Thus far, they are the only groups in the…"
+    },
+    {
+      "id": "1f8c588879226a0e",
+      "title": "Newsletter: Midterm Fundraising, Spending is Extremely Lopsided Among Gun Groups",
+      "link": "https://thereload.com/newsletter-midterm-fundraising-spending-is-extremely-lopsided-among-gun-groups/",
+      "published": "2026-10-09T09:00:30+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "News",
+      "tldr": "Plus, researchers from Yale and Kansas University join the podcast to discuss the rise of female gun owners."
+    },
+    {
+      "id": "e17c97e680280364",
+      "title": "BREAKING! Supreme Court Issuing Immediate Decision In Major Constitutional Rights Challenge!",
+      "link": "https://www.youtube.com/watch?v=Cjf8KJ16Df0",
+      "published": "2026-10-09T00:00:01+00:00",
+      "source_id": "armed-scholar",
+      "source_name": "Armed Scholar",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "BREAKING! Supreme Court Issuing Immediate Decision In Major Constitutional Rights Challenge!"
+    },
     {
       "id": "cd77256ac6c942ce",
       "title": "Midterm Gun Money Race Turns Lopsided; Silencer Sales Soar",
@@ -586,28 +619,6 @@
       "tldr": "Plus, the Second Amendment Foundation's Bill Sack explains a new settlement the group got over an illegal gun search of a high schooler's car on the podcast."
     },
     {
-      "id": "eeb9cfc780496a46",
-      "title": "Gun Advocates Raise Alarm Over Flock Cameras",
-      "link": "https://thereload.com/gun-advocates-raise-alarm-over-flock-cameras/",
-      "published": "2026-10-01T21:31:36+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "News",
-      "tldr": "The increasing prevalence of surveillance cameras, especially the automated license plate readers operated by Flock Safety and its competitors, has raised privacy concerns across the country. The…"
-    },
-    {
-      "id": "7b97e8dd2dbb55e3",
-      "title": "Federal Judge Temporarily Blocks Connecticut ‘Glock Ban’",
-      "link": "https://thereload.com/federal-judge-temporarily-blocks-connecticut-glock-ban/",
-      "published": "2026-10-01T20:24:50+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "Court Case",
-      "tldr": "A judge just enjoined a law restricting the sale of popular semi-automatic pistols that critics claim can be too easily converted into machine guns, hours before it was set to take effect."
-    },
-    {
       "id": "6902c0534fe7a221",
       "title": "Are Ghost Gun Restrictions Unconstitutional?",
       "link": "https://www.youtube.com/shorts/JS8ro7ZuC90",
@@ -1026,17 +1037,6 @@
       "tldr": "BELLEVUE, Wash. — Sept. 24, 2026 — The 41st annual Gun Rights Policy Conference starts Friday, and the Planning Committee is pleased to announce the final agenda is set! Co-hosted by the Second…"
     },
     {
-      "id": "2fc38522988a4638",
-      "title": "NRA Files Amicus Brief Urging SCOTUS to Hear Challenge to Maine’s 72-Hour Waiting Period Law",
-      "link": "https://www.nraila.org/articles/20260924/nra-files-amicus-brief-urging-scotus-to-hear-challenge-to-maine-s-72-hour-waiting-period-law",
-      "published": "2026-09-24T13:52:16+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "The National Rifle Association and Second Amendment Foundation filed an amicus brief urging the U.S. Supreme Court to grant review in Beckwith v. Frey, a challenge to Maine’s 72-hour waiting period…"
-    },
-    {
       "id": "c0ae75536b6d3842",
       "title": "BREAKING TODAY! Supreme Court Immediate Emergency Election Ruling Pushed Forward!",
       "link": "https://www.youtube.com/watch?v=JhiO6MJfNmc",
@@ -1079,17 +1079,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "LAWYER: Can You Shoot Someone Who Attacks You With Their Fists?"
-    },
-    {
-      "id": "81d4924723498483",
-      "title": "BREAKING TODAY! Supreme Court 9-0 Unanimous Emergency Election Order Up For Immediate Re-Review!",
-      "link": "https://www.youtube.com/watch?v=7n8zpjxYxt4",
-      "published": "2026-09-23T00:00:01+00:00",
-      "source_id": "armed-scholar",
-      "source_name": "Armed Scholar",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "BREAKING TODAY! Supreme Court 9-0 Unanimous Emergency Election Order Up For Immediate Re-Review!"
     },
     {
       "id": "3893926429238f11",
