@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-10-09T17:36:31.171834+00:00",
-  "item_count": 131,
+  "generated_at": "2026-10-09T23:37:46.772026+00:00",
+  "item_count": 146,
   "items": [
+    {
+      "id": "e022af8d8dd590c3",
+      "title": "BREAKING: You No Longer Need ATF Approval for a Suppressor… UNLESS You Live In These States",
+      "link": "https://www.youtube.com/watch?v=Rppr5XwPr6M",
+      "published": "2026-10-09T22:20:33+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "BREAKING: You No Longer Need ATF Approval for a Suppressor… UNLESS You Live In These States"
+    },
+    {
+      "id": "4fd6f57f779b426b",
+      "title": "ATF Gives Go Ahead for Unregistered Silencer, Short-Barrel Shotgun Purchases",
+      "link": "https://thereload.com/atf-gives-go-ahead-for-unregistered-silencer-short-barrel-shotgun-purchases/",
+      "published": "2026-10-09T22:15:24+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Court Case",
+      "tldr": "The Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF) has issued new guidance on buying silencers, short-barrel shotguns, and other National Firearms Act (NFA) regulated items following a…"
+    },
+    {
+      "id": "aff90181e7d69518",
+      "title": "ATF FINALLY Releases NFA Guidance - What Does It Say?",
+      "link": "https://www.youtube.com/watch?v=KfXZrkoQy1E",
+      "published": "2026-10-09T20:07:50+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "ATF FINALLY Releases NFA Guidance - What Does It Say?"
+    },
+    {
+      "id": "284cc50bd1a40823",
+      "title": "ATF RELEASES GUIDANCE IN RESPONSE TO NFA INJUNCTION – WILL NOT ENFORCE REGISTRATION",
+      "link": "https://saf.org/atf-releases-guidance-in-response-to-nfa-injunction-will-not-enforce-registration/",
+      "published": "2026-10-09T20:05:49+00:00",
+      "source_id": "saf",
+      "source_name": "Second Amendment Foundation",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "BELLEVUE, Wash. — Oct. 9, 2026 — The Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) today released guidance for dealers and consumers in response to the landmark National Firearms Act…"
+    },
+    {
+      "id": "5eaf0ecacd067e54",
+      "title": "Podcast: ATF Director, Chief Counsel Explain New Guidance on Silencers, SBRs [Member Early Access]",
+      "link": "https://thereload.com/podcast-atf-director-chief-counsel-explain-new-guidance-on-silencers-sbrs-member-early-access/",
+      "published": "2026-10-09T19:30:05+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Regulatory",
+      "tldr": "Plus, Reload Reporter Julie Miller and I dig into the latest Federal Election Commission filings that indicate the gun money race has gotten out of hand."
+    },
     {
       "id": "3587389de653b578",
       "title": "DOJ's New Argument to Kill NFA Cases — What You Need to Know",
@@ -45,6 +100,50 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING! Supreme Court Issuing Immediate Decision In Major Constitutional Rights Challenge!"
+    },
+    {
+      "id": "43a23836d6722672",
+      "title": "Doe v. Columbus (Ohio Court of Appeals)",
+      "link": "https://www.courtlistener.com/opinion/11025372/doe-v-columbus/",
+      "published": "2026-10-09T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
+      "id": "bb6cf5bac959d6ff",
+      "title": "State v. Caceres (Ohio Court of Appeals)",
+      "link": "https://www.courtlistener.com/opinion/11024231/state-v-caceres/",
+      "published": "2026-10-09T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
+      "id": "e8ebcc07e0195481",
+      "title": "State v. Calhoun (Ohio Court of Appeals)",
+      "link": "https://www.courtlistener.com/opinion/11024230/state-v-calhoun/",
+      "published": "2026-10-09T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
+      "id": "620b13bed05f40d1",
+      "title": "State v. Pate (Ohio Court of Appeals)",
+      "link": "https://www.courtlistener.com/opinion/11024224/state-v-pate/",
+      "published": "2026-10-09T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "cd77256ac6c942ce",
@@ -157,6 +256,28 @@
       "tldr": "BREAKING! Supreme Court Decision Used To Pause State Suppressor & NFA Ban Challenges!"
     },
     {
+      "id": "9cf33b3d722b7653",
+      "title": "Armstrong (Steven) v. State (Nevada Supreme Court)",
+      "link": "https://www.courtlistener.com/opinion/11018566/armstrong-steven-v-state/",
+      "published": "2026-10-08T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
+      "id": "a0a79c50d8070042",
+      "title": "People v. Nevarez (Appellate Division of the Supreme Court of the State of New York)",
+      "link": "https://www.courtlistener.com/opinion/11017520/people-v-nevarez/",
+      "published": "2026-10-08T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
       "id": "5abdad2789569664",
       "title": "CIA Official Created a FAKE Secret Government Program to Steal $194 MILLION",
       "link": "https://www.youtube.com/watch?v=G_bCbEnAmj8",
@@ -210,6 +331,28 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Issues Unanimous Emergency Election Order With Major Nationwide Implications!"
+    },
+    {
+      "id": "53dcbd7cea13102d",
+      "title": "State of Iowa v. Breosha Keairr Kelley (Court of Appeals of Iowa)",
+      "link": "https://www.courtlistener.com/opinion/11013704/state-of-iowa-v-breosha-keairr-kelley/",
+      "published": "2026-10-07T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
+      "id": "8f9239cd69a01a97",
+      "title": "King L. Grigger v. State of Florida (District Court of Appeal of Florida)",
+      "link": "https://www.courtlistener.com/opinion/11013577/king-l-grigger-v-state-of-florida/",
+      "published": "2026-10-07T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "ead91a0985349108",
@@ -399,6 +542,17 @@
       "tldr": "BREAKING! Supreme Court Grants Immediate Review In Major Constitutional Rights Challenge!"
     },
     {
+      "id": "2868a53a49f913d5",
+      "title": "Williams v. United States of America (District Court, District of Columbia)",
+      "link": "https://www.courtlistener.com/opinion/11011899/williams-v-united-states-of-america/",
+      "published": "2026-10-05T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
       "id": "f709c352d3a22679",
       "title": "Why I’m Changing the Name of This Channel",
       "link": "https://www.youtube.com/watch?v=0MX75HsqEp8",
@@ -487,17 +641,6 @@
       "tldr": "Supreme Court Issues 9-0 Unanimous Ruling With Major Nationwide & Constitutional Implications!"
     },
     {
-      "id": "acae4ac0526ecf85",
-      "title": "Is This the End of the Pro-2A Supreme Court Majority?",
-      "link": "https://www.youtube.com/watch?v=sNozKgoPRk8",
-      "published": "2026-10-03T19:02:55+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Is This the End of the Pro-2A Supreme Court Majority?"
-    },
-    {
       "id": "22d555e49e99a83a",
       "title": "When to use Deadly Force",
       "link": "https://www.youtube.com/shorts/jYed1UQVjeQ",
@@ -540,28 +683,6 @@
       "source_type": "org",
       "category": "Legislation",
       "tldr": "THIS WEEK IN THE FIGHT Here’s what you may have missed this week in the fight for the Second Amendment… This week, ATF confirmed that guidance is incoming on GOA’s historic victory against the…"
-    },
-    {
-      "id": "4416ae8fec6ce892",
-      "title": "Analysis: Why Connecticut’s ‘Glock Ban’ Was Blocked After California’s Wasn’t [Member Exclusive]",
-      "link": "https://thereload.com/analysis-why-connecticuts-glock-ban-was-blocked-after-californias-wasnt-member-exclusive/",
-      "published": "2026-10-02T09:02:37+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "Court Case",
-      "tldr": "A federal judge has issued the first injunction against a “Glock ban” just a few months after another declined to do so. On Wednesday, US District Judge Kari A. Dooley issued a preliminary injunction…"
-    },
-    {
-      "id": "03584a853fcff21c",
-      "title": "Newsletter: Gun Industry Scores First Win Against ‘Glock Bans’",
-      "link": "https://thereload.com/newsletter-gun-industry-scores-first-win-against-glock-bans/",
-      "published": "2026-10-02T09:00:12+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "Court Case",
-      "tldr": "Plus, the Second Amendment Foundation's Bill Sack explains a new settlement the group got over an illegal gun search of a high schooler's car on the podcast."
     },
     {
       "id": "6902c0534fe7a221",
@@ -630,6 +751,17 @@
       "tldr": "Unanimous Suppressor & NFA Decision Drops Immediately After Bad Precedent Trap! What Now?"
     },
     {
+      "id": "5be591f2eb8c2552",
+      "title": "People v. Carrington (Appellate Division of the Supreme Court of the State of New York)",
+      "link": "https://www.courtlistener.com/opinion/11008155/people-v-carrington/",
+      "published": "2026-10-01T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
       "id": "6ea99358b589ab90",
       "title": "GLOCKAGEDDON EVE: Connecticut’s HB5043 Enforcement Mystery | No Answers, No Guidance",
       "link": "https://www.youtube.com/watch?v=rjDS5nfnlvg",
@@ -650,6 +782,28 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING! Supreme Court Takes On Immediate Review In Major Constitutional Rights Challenge!"
+    },
+    {
+      "id": "2a50539f4f356032",
+      "title": "Ward v. United States of America (District Court, District of Columbia)",
+      "link": "https://www.courtlistener.com/opinion/10996973/ward-v-united-states-of-america/",
+      "published": "2026-09-30T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
+      "id": "c9503395b3dd072e",
+      "title": "Carson Concrete Corporation v. InteRebar Fabricators, LLC (District Court of Appeal of Florida)",
+      "link": "https://www.courtlistener.com/opinion/10987872/carson-concrete-corporation-v-interebar-fabricators-llc/",
+      "published": "2026-09-30T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "68261db04d82547e",
@@ -705,6 +859,39 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Delivers Major Emergency Election Decision With Immediate Nationwide Implications!"
+    },
+    {
+      "id": "0e6168b98ce2fcfb",
+      "title": "Rhyu v. Frost (Appellate Court of Illinois)",
+      "link": "https://www.courtlistener.com/opinion/10986482/rhyu-v-frost/",
+      "published": "2026-09-29T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
+      "id": "e409dd4dbd77723e",
+      "title": "People v. Hernandez (Appellate Division of the Supreme Court of the State of New York)",
+      "link": "https://www.courtlistener.com/opinion/10986307/people-v-hernandez/",
+      "published": "2026-09-29T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
+      "id": "0605773912e35e01",
+      "title": "People v. Murdaugh (Appellate Division of the Supreme Court of the State of New York)",
+      "link": "https://www.courtlistener.com/opinion/10986303/people-v-murdaugh/",
+      "published": "2026-09-29T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "19894b490a6e2102",
@@ -938,17 +1125,6 @@
       "tldr": "BELLEVUE, Wash. — Sept. 22, 2026 — The Second Amendment Foundation (SAF) and its partners have filed a reply in support of their motion for preliminary injunction in Bathras v. Moore, SAF’s challenge…"
     },
     {
-      "id": "1f65d167a67041c5",
-      "title": "SAF WIN: DISTRICT ADMITS UNLAWFUL SEARCH VIOLATED STUDENT’S RIGHTS",
-      "link": "https://saf.org/saf-win-district-admits-unlawful-search-violated-students-rights/",
-      "published": "2026-09-22T19:50:04+00:00",
-      "source_id": "saf",
-      "source_name": "Second Amendment Foundation",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "BELLEVUE, Wash. — Sept. 22, 2026 — The Second Amendment Foundation (SAF) secured a major win today in Harrington v. Crawford after school district officials admitted the search of plaintiff Jack…"
-    },
-    {
       "id": "74eb0e11c60366ab",
       "title": "Cops Won't Show Warrant? Know Your Rights!",
       "link": "https://www.youtube.com/shorts/9sAv5Ua70hY",
@@ -1035,17 +1211,6 @@
       "source_type": "org",
       "category": "Court Case",
       "tldr": "BUY A LIFE MEMBERSHIP, GET A FREE SUPPRESSOR! Outlier has partnered with GOA to give free suppressors to new life members… Gun Owners of America has partnered with Outlier to give away their…"
-    },
-    {
-      "id": "3333aaa6bc42f449",
-      "title": "The AR-15 is Unusual? December 2026 Case!",
-      "link": "https://www.youtube.com/shorts/nLbUcoTVevc",
-      "published": "2026-09-19T18:00:33+00:00",
-      "source_id": "atty-tom-grieve",
-      "source_name": "Atty Tom Grieve",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "The AR-15 is Unusual? December 2026 Case!"
     },
     {
       "id": "45c0b5ba7fd26560",
