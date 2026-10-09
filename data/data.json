@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-10-08T18:02:41.033673+00:00",
+  "generated_at": "2026-10-09T00:00:30.901908+00:00",
   "item_count": 147,
   "items": [
+    {
+      "id": "cd77256ac6c942ce",
+      "title": "Midterm Gun Money Race Turns Lopsided; Silencer Sales Soar",
+      "link": "https://www.youtube.com/watch?v=KBgq3eBIg6U",
+      "published": "2026-10-08T23:53:50+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Midterm Gun Money Race Turns Lopsided; Silencer Sales Soar"
+    },
+    {
+      "id": "9649c3d86cba5d03",
+      "title": "DOJ Moves to Moot Under-21 Pistol Sales Challenge After Agreeing With Gun-Rights Plaintiffs",
+      "link": "https://thereload.com/doj-moves-to-moot-under-21-pistol-sales-challenge-after-agreeing-with-gun-rights-plaintiffs/",
+      "published": "2026-10-08T21:03:13+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Court Case",
+      "tldr": "The Department of Justice (DOJ) wants to end the legal fight over licensed dealers selling handguns to 18-to-20-year-olds."
+    },
+    {
+      "id": "d4e9b9a280cc01e7",
+      "title": "1,486 GUNS STOLEN: This DESTROYS the Gun Control Narrative",
+      "link": "https://www.youtube.com/watch?v=je0HMUbWjGU",
+      "published": "2026-10-08T20:57:14+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "1,486 GUNS STOLEN: This DESTROYS the Gun Control Narrative"
+    },
+    {
+      "id": "e6b7845eae391b1d",
+      "title": "Silencer Sales Soar Past 1.1 Million in 2026",
+      "link": "https://thereload.com/silencers-sales-soar-past-1-1-million-in-2026/",
+      "published": "2026-10-08T19:56:40+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "News",
+      "tldr": "American gun owners are stocking up on sound suppressors."
+    },
+    {
+      "id": "ebe0e55f91bcf497",
+      "title": "Is your AR-15 now Unconstitutional?",
+      "link": "https://www.youtube.com/shorts/AZ3fY59Dxss",
+      "published": "2026-10-08T19:09:24+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Is your AR-15 now Unconstitutional?"
+    },
+    {
+      "id": "8bb17085f2dc251f",
+      "title": "SAF WIN: CALIFORNIA SHERIFF TO ALLOW RED DOTS, WEAPON LIGHTS AND 1911/2011 HANDGUNS",
+      "link": "https://saf.org/saf-win-california-sheriff-to-allow-red-dots-weapon-lights-and-1911-2011-handguns/",
+      "published": "2026-10-08T18:42:18+00:00",
+      "source_id": "saf",
+      "source_name": "Second Amendment Foundation",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "BELLEVUE, Wash. — Oct. 8, 2026 — The Second Amendment Foundation (SAF) has reached a settlement agreement with the Contra Costa County Sheriff’s Office over policies that previously prohibited permit…"
+    },
     {
       "id": "9bd1e828af252c24",
       "title": "Gun-Control Groups Dominate Midterm Fundraising, Spending",
@@ -45,6 +111,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING! Supreme Court Decision Used To Pause State Suppressor & NFA Ban Challenges!"
+    },
+    {
+      "id": "9cf33b3d722b7653",
+      "title": "Armstrong (Steven) v. State (Nevada Supreme Court)",
+      "link": "https://www.courtlistener.com/opinion/11018566/armstrong-steven-v-state/",
+      "published": "2026-10-08T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "a0a79c50d8070042",
@@ -476,17 +553,6 @@
       "tldr": "Connecticut's 'Glock Ban' Gets Blocked; Gun Owners Join Flock Camera Backlash"
     },
     {
-      "id": "ffd5616e2ad2bc94",
-      "title": "BREAKING: DOJ Now Has Until October 12 — ATF’s NFA Guidance Could Come First",
-      "link": "https://www.youtube.com/watch?v=Vy7c9VTEUOA",
-      "published": "2026-10-02T19:54:06+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "BREAKING: DOJ Now Has Until October 12 — ATF’s NFA Guidance Could Come First"
-    },
-    {
       "id": "595ede0ffe821e43",
       "title": "This Week in Gun Rights",
       "link": "https://www.gunowners.org/this-week-in-gun-rights/",
@@ -628,17 +694,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "GLOCKAGEDDON EVE: Connecticut’s HB5043 Enforcement Mystery | No Answers, No Guidance"
-    },
-    {
-      "id": "240d11b9defffb70",
-      "title": "Analysis: History Shows There’s No Tradition of Special Taxes on Common Guns",
-      "link": "https://thereload.com/analysis-history-shows-theres-no-tradition-of-special-taxes-on-common-guns/",
-      "published": "2026-09-30T17:39:48+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "News",
-      "tldr": "Governor Gavin Newsom (D.) has called it a “sin tax.” But there's little record of similar taxes on popular firearms throughout history, which may make it unconstitutional."
     },
     {
       "id": "1c196b21e559d270",
@@ -861,17 +916,6 @@
       "tldr": "GLOCK SUES CONNECTICUT! Glock v. Griffin & The CT Glock Ban Explained | Gun Guru Live @7PM"
     },
     {
-      "id": "9d14d0b36672e3e9",
-      "title": "Analysis: New York Times Gun Reporting Mistakes Indicative of Industry Issue [Member Exclusive]",
-      "link": "https://thereload.com/analysis-new-york-times-gun-reporting-mistakes-indicative-of-industry-issue-member-exclusive/",
-      "published": "2026-09-27T09:04:28+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "News",
-      "tldr": "A recent piece from The New York Times is a good example of what major media outlets get wrong when covering guns and why."
-    },
-    {
       "id": "dcfbc51bd33f1657",
       "title": "Supreme Court Issues 9-0 Unanimous Emergency Election Order With Major Nationwide Implications!",
       "link": "https://www.youtube.com/watch?v=7GgqmA1RAZ0",
@@ -1092,28 +1136,6 @@
       "tldr": "Cops Won't Show Warrant? Know Your Rights!"
     },
     {
-      "id": "c33d22f2e45347e0",
-      "title": "SAF URGES SUPREME COURT TO STRIKE MAINE FIREARM WAITING PERIOD LAW",
-      "link": "https://saf.org/saf-urges-supreme-court-to-strike-maine-firearm-waiting-period-law/",
-      "published": "2026-09-22T18:11:19+00:00",
-      "source_id": "saf",
-      "source_name": "Second Amendment Foundation",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "BELLEVUE, Wash. — Sept. 22, 2026 — The Second Amendment Foundation (SAF) filed an amicus brief today in the U.S. Supreme Court in Beckwith v. Frey, supporting petitioners’ request for review of a…"
-    },
-    {
-      "id": "9260bb057e06ad34",
-      "title": "Todd Yukutake v. Anne E. Lopez (Court of Appeals for the Ninth Circuit)",
-      "link": "https://www.courtlistener.com/opinion/10979261/todd-yukutake-v-anne-e-lopez/",
-      "published": "2026-09-22T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "02c46b912027fd6f",
       "title": "President Trump Just Killed DOJ’s Appeal",
       "link": "https://www.gunowners.org/president-trump-just-killed-dojs-appeal/",
@@ -1233,17 +1255,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Connecticut Can DENY Your Pistol Permit for “Unsuitability”? | The CT Suitability Loophole EXPLAINED"
-    },
-    {
-      "id": "6096431b7bf7732c",
-      "title": "The Supreme Court Is About to Decide If AR-15s Can Be Banned!",
-      "link": "https://www.youtube.com/shorts/6KCWmWolfgA",
-      "published": "2026-09-17T19:00:30+00:00",
-      "source_id": "atty-tom-grieve",
-      "source_name": "Atty Tom Grieve",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "The Supreme Court Is About to Decide If AR-15s Can Be Banned!"
     },
     {
       "id": "c9d5c8dd59fc6297",
@@ -1442,17 +1453,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Startup Says It's Developed 3D Printed Gun Part Blocker; DOJ Rights Restoration Process Drops"
-    },
-    {
-      "id": "fb507200f6facb81",
-      "title": "How Far Does the Injunction Against the National Firearms Act Extend? (Ft. SAF's Kostas Moros)",
-      "link": "https://www.youtube.com/watch?v=YCU1AGK3UmM",
-      "published": "2026-08-17T12:00:15+00:00",
-      "source_id": "the-reload-youtube",
-      "source_name": "The Reload (YouTube)",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "How Far Does the Injunction Against the National Firearms Act Extend? (Ft. SAF's Kostas Moros)"
     },
     {
       "id": "69ecefed6aca2971",
