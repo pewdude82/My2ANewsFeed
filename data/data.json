@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-10T10:10:04.199902+00:00",
-  "item_count": 147,
+  "generated_at": "2026-10-10T16:26:33.434030+00:00",
+  "item_count": 148,
   "items": [
+    {
+      "id": "b81ed9db24a59575",
+      "title": "Trump Promised to Rip It Up—DOJ Just Appealed the Victory",
+      "link": "https://www.youtube.com/watch?v=PmaRsvm01Nc",
+      "published": "2026-10-10T13:53:54+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Trump Promised to Rip It Up—DOJ Just Appealed the Victory"
+    },
+    {
+      "id": "dad93510ae3a18ff",
+      "title": "Exclusive: ATF Director, Chief Counsel Explain New Guidance on Silencers, SBRs",
+      "link": "https://www.youtube.com/watch?v=xlbq6jPjAPU",
+      "published": "2026-10-10T12:00:03+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Exclusive: ATF Director, Chief Counsel Explain New Guidance on Silencers, SBRs"
+    },
     {
       "id": "21c7de73945b0ced",
       "title": "Huge Ruling Finds NFA Unconstitutional & Permanently Blocks Restrictions! ATF Now Issues Guidance!",
@@ -12,6 +34,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Huge Ruling Finds NFA Unconstitutional & Permanently Blocks Restrictions! ATF Now Issues Guidance!"
+    },
+    {
+      "id": "98316fbf4dfc06e1",
+      "title": "To establish a grant program to make grants to States to improve access to the special supplemental nutrition program for women, infants, and children.",
+      "link": "https://www.congress.gov/bill/119th-congress/hr/10794",
+      "published": "2026-10-10T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Referred to the House Committee on Education and Workforce."
     },
     {
       "id": "e4c558b3981f1e80",
@@ -37,7 +70,7 @@
     },
     {
       "id": "e022af8d8dd590c3",
-      "title": "BREAKING: You No Longer Need ATF Approval for a Suppressor… UNLESS You Live In These States",
+      "title": "BREAKING: You No Longer Need ATF Approval for a Suppressor… BUT Check Your State Laws",
       "link": "https://www.youtube.com/watch?v=Rppr5XwPr6M",
       "published": "2026-10-09T22:20:33+00:00",
       "source_id": "atty-tom-grieve",
@@ -606,17 +639,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING: ATF Director Says NFA Guidance Expected THIS WEEK #2ndamendment #atf #firearms"
-    },
-    {
-      "id": "336df37a7f9435be",
-      "title": "FLOCK CAMERAS RULED UNCONSTITUTIONAL in Major Federal Case",
-      "link": "https://www.youtube.com/watch?v=SsDOPgIgCqg",
-      "published": "2026-10-04T14:00:11+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "FLOCK CAMERAS RULED UNCONSTITUTIONAL in Major Federal Case"
     },
     {
       "id": "9db7587196269b9b",
@@ -1442,17 +1464,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Giffords & Everytown EXPOSED? Debunking Their Latest 2A Propaganda + YOUR Questions | Gun Guru Live"
-    },
-    {
-      "id": "3f517a6ba66afa11",
-      "title": "Startup Says It's Developed 3D Printed Gun Part Blocker; DOJ Rights Restoration Process Drops",
-      "link": "https://www.youtube.com/watch?v=k5-QYEKnvzw",
-      "published": "2026-08-21T18:53:29+00:00",
-      "source_id": "the-reload-youtube",
-      "source_name": "The Reload (YouTube)",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Startup Says It's Developed 3D Printed Gun Part Blocker; DOJ Rights Restoration Process Drops"
     },
     {
       "id": "69ecefed6aca2971",
