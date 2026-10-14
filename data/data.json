@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-14T09:04:41.292361+00:00",
+  "generated_at": "2026-10-14T16:02:00.467747+00:00",
   "item_count": 145,
   "items": [
+    {
+      "id": "ec9806e841467245",
+      "title": "UPDATE: DOJ Responds to NFA Injunction — Why Would They Say THIS?",
+      "link": "https://www.youtube.com/watch?v=NRiawjVOLLE",
+      "published": "2026-10-14T15:03:59+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "UPDATE: DOJ Responds to NFA Injunction — Why Would They Say THIS?"
+    },
+    {
+      "id": "dfc6161f4cf92896",
+      "title": "ChatGPT launches new anti-gun AI policies one day after Everytown recommends new anti-gun AI policies",
+      "link": "https://saf.org/chatgpt-launches-new-anti-gun-ai-policies-one-day-after-everytown-recommends-new-anti-gun-ai-policies/",
+      "published": "2026-10-14T12:46:00+00:00",
+      "source_id": "saf",
+      "source_name": "Second Amendment Foundation",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "Gennifer Hesseling is the “shop mom” at a gun shop she started with her husband Phil in 2017, Hesseling & Sons Firearms & Gunsmithing. The business began in their garage almost 10 years ago, but they…"
+    },
     {
       "id": "b28a6edf29f23b75",
       "title": "‘As a gun policy scholar …’",
@@ -23,6 +45,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Issues Emergency Election Denial Order With Major Nationwide Implications!"
+    },
+    {
+      "id": "3b58a2684dd249c3",
+      "title": "United States v. Friell Johnson (Court of Appeals for the Eleventh Circuit)",
+      "link": "https://www.courtlistener.com/opinion/11033615/united-states-v-friell-johnson/",
+      "published": "2026-10-14T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "68c54f936158b492",
@@ -685,17 +718,6 @@
       "tldr": "Suppressors Are Off the NFA List for Covered Buyers — Here’s What Still Applies"
     },
     {
-      "id": "f96c54cce814b0da",
-      "title": "Supreme Court Asked to END Lifetime Gun Ban for Nonviolent Felons",
-      "link": "https://www.youtube.com/watch?v=AgX4Ee95Oxc",
-      "published": "2026-10-06T14:00:16+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Supreme Court Asked to END Lifetime Gun Ban for Nonviolent Felons"
-    },
-    {
       "id": "7db5d9b571e5b03d",
       "title": "Probation department recommends no jail time for Demetrio Daga, but judge may disagree",
       "link": "https://saf.org/probation-department-recommends-no-jail-time-for-demetrio-daga-but-judge-may-disagree/",
@@ -1004,17 +1026,6 @@
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
-      "id": "c9503395b3dd072e",
-      "title": "Carson Concrete Corporation v. InteRebar Fabricators, LLC (District Court of Appeal of Florida)",
-      "link": "https://www.courtlistener.com/opinion/10987872/carson-concrete-corporation-v-interebar-fabricators-llc/",
-      "published": "2026-09-30T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "68261db04d82547e",
       "title": "LAWYER: Major Second Amendment Ruling Protects Homemade Guns",
       "link": "https://www.youtube.com/watch?v=pi2IS0MMGmQ",
@@ -1068,17 +1079,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Delivers Major Emergency Election Decision With Immediate Nationwide Implications!"
-    },
-    {
-      "id": "19894b490a6e2102",
-      "title": "SAF FILES BRIEF URGING SUPREME COURT TO REJECT LIABILITY FOR FIREARMS ADVERTISING",
-      "link": "https://saf.org/saf-files-brief-urging-supreme-court-to-reject-liability-for-firearms-advertising/",
-      "published": "2026-09-28T20:17:04+00:00",
-      "source_id": "saf",
-      "source_name": "Second Amendment Foundation",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "BELLEVUE, Wash. — Sept. 28, 2026 — The Second Amendment Foundation (SAF) filed an amicus brief with the National Rifle Association (NRA) in the U.S. Supreme Court case Daniel Defense v. Lowy…"
     },
     {
       "id": "57cf22136f99b4d5",
