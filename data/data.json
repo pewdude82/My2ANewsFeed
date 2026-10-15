@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-15T19:30:33.632681+00:00",
-  "item_count": 150,
+  "generated_at": "2026-10-15T22:43:31.807633+00:00",
+  "item_count": 149,
   "items": [
+    {
+      "id": "8dce68670e849430",
+      "title": "PA: GOA Knocks Down Federal NFA Scheme—Now AG Dave Sunday Must Protect Pennsylvanians",
+      "link": "https://www.gunowners.org/pa-goa-knocks-down-federal-nfa-scheme-now-ag-dave-sunday-must-protect-pennsylvanians/",
+      "published": "2026-10-15T20:23:29+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "GOA’s Federal NFA Win Leaves PA Gun Owners in Legal Limbo: AG Sunday Must Act NOW! Following a massive legal victory by Gun Owners of America, law-abiding Pennsylvanians are finally seeing…"
+    },
+    {
+      "id": "296147c22bdd2d4d",
+      "title": "Another State SHUTS DOWN NFA Enforcement!",
+      "link": "https://www.youtube.com/watch?v=XDtZO4b3uRI",
+      "published": "2026-10-15T20:01:36+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Another State SHUTS DOWN NFA Enforcement!"
+    },
     {
       "id": "b4914c8b05ba37b1",
       "title": "$800,000 Insurance Per Gun Just to Carry (Tom Tiffany Interview)",
@@ -56,17 +78,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING! Supreme Court Issuing Immediate Decision In Major Constitutional Rights Challenge!"
-    },
-    {
-      "id": "fda548e423e21010",
-      "title": "Federal Firearm Licensing Act",
-      "link": "https://www.congress.gov/bill/119th-congress/s/3544",
-      "published": "2026-10-15T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Read twice and referred to the Committee on the Judiciary."
     },
     {
       "id": "17b01da98a0c7837",
@@ -762,17 +773,6 @@
       "tldr": "Your AR-15 Could Be “Unconstitutional” If This Professor Is Right (Supreme Court Common Use Test)"
     },
     {
-      "id": "c53c6a19dde7de1b",
-      "title": "D.C. Gun Laws: Why This National Guardsman is Facing a FELONY and What You Need to Know",
-      "link": "https://www.youtube.com/watch?v=yILYjxuOn98",
-      "published": "2026-10-07T13:37:43+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "D.C. Gun Laws: Why This National Guardsman is Facing a FELONY and What You Need to Know"
-    },
-    {
       "id": "d84eab52da013168",
       "title": "Supreme Court Issues Unanimous Emergency Election Order With Major Nationwide Implications!",
       "link": "https://www.youtube.com/watch?v=LfRFyDlniNg",
@@ -1398,17 +1398,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Teaching a College Course on Guns in America (Ft. Wake Forest's David Yamane)"
-    },
-    {
-      "id": "7275c6b476fa21fe",
-      "title": "GOA LEADS INDUSTRY COALITION IN SUPREME COURT FIGHT TO DEFEND AR-15s",
-      "link": "https://www.gunowners.org/goa-leads-industry-coalition-in-supreme-court-fight-to-defend-ar-15s/",
-      "published": "2026-09-04T18:42:57+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "FOR IMMEDIATE RELEASE September 4, 2026 GOA LEADS INDUSTRY COALITION IN SUPREME COURT FIGHT TO DEFEND AR-15s WASHINGTON, D.C. — Today, Gun Owners of America (GOA) and Gun Owners Foundation…"
     },
     {
       "id": "f820028388331a63",
