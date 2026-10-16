@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-16T08:32:47.186284+00:00",
-  "item_count": 148,
+  "generated_at": "2026-10-16T15:38:55.729009+00:00",
+  "item_count": 149,
   "items": [
+    {
+      "id": "b151e41d0e2c1d8a",
+      "title": "Who Really Stops Mass Shooters? The Answer May Surprise You",
+      "link": "https://www.youtube.com/shorts/68LBYF2wfkQ",
+      "published": "2026-10-16T15:16:41+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Who Really Stops Mass Shooters? The Answer May Surprise You"
+    },
+    {
+      "id": "e6182f42a494ba07",
+      "title": "Maryland DEFIES ATF's New NFA Guidance! Gun Owners Face 5 YEARS!",
+      "link": "https://www.youtube.com/watch?v=rlt4iyEmZRQ",
+      "published": "2026-10-16T13:30:18+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Maryland DEFIES ATF's New NFA Guidance! Gun Owners Face 5 YEARS!"
+    },
+    {
+      "id": "9ec313ffb97a134a",
+      "title": "NRA Targets Texas’s Talarico in First 2026 Ad as Everytown Pledges Millions More for State Legislative Ads",
+      "link": "https://thereload.com/nra-targets-texass-talarico-in-first-2026-ad-as-everytown-pledges-millions-more-for-state-legislative-ads/",
+      "published": "2026-10-16T09:02:31+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "News",
+      "tldr": "The gun-money fight is heating up as we head down the home stretch of the 2026 midterm elections."
+    },
+    {
+      "id": "ec159c8caf4ad992",
+      "title": "Newsletter: NRA Jumps Into 2026 Ad Race",
+      "link": "https://thereload.com/newsletter-nra-jumps-into-2026-ad-race/",
+      "published": "2026-10-16T09:00:29+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Regulatory",
+      "tldr": "Plus, we have an exclusive interview on the podcast with the ATF's Director and Chief Counsel about changes to NFA enforcement."
+    },
     {
       "id": "1d1964db5a9133c9",
       "title": "Florida Greenlights Unregistered Silencers, NRA Drops its First Midterm Ad",
@@ -34,6 +78,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Nationwide Block of NFA & Suppressor Restrictions Put In Place! State Suppressor Bans Now Challenged"
+    },
+    {
+      "id": "2f862df6e1dcf7f0",
+      "title": "A resolution designating September 2026 as \"National Infant Mortality Awareness Month\", raising awareness of infant mortality, and increasing efforts to reduce infant mortality.",
+      "link": "https://www.congress.gov/bill/119th-congress/sres/951",
+      "published": "2026-10-16T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Under authority of the order of the Senate of September 30, 2026, ordered referred to the Committee on The Judiciary."
     },
     {
       "id": "8dce68670e849430",
@@ -70,7 +125,7 @@
     },
     {
       "id": "733c81a6a0e01038",
-      "title": "Want to Carry? That'll Be $800,000 in Insurance… Per Gun (Tom Tiffany Interview)",
+      "title": "$800,000 Insurance on Every Gun You Own… Just to Get a Carry Permit (Tom Tiffany Interview)",
       "link": "https://www.youtube.com/watch?v=UlwE8PNrNdw",
       "published": "2026-10-15T17:00:06+00:00",
       "source_id": "atty-tom-grieve",
@@ -597,17 +652,6 @@
       "tldr": "The political arms of Giffords and Everytown have announced they will spend $10 million each on advertising to influence select 2026 congressional races. Thus far, they are the only groups in the…"
     },
     {
-      "id": "1f8c588879226a0e",
-      "title": "Newsletter: Midterm Fundraising, Spending is Extremely Lopsided Among Gun Groups",
-      "link": "https://thereload.com/newsletter-midterm-fundraising-spending-is-extremely-lopsided-among-gun-groups/",
-      "published": "2026-10-09T09:00:30+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "News",
-      "tldr": "Plus, researchers from Yale and Kansas University join the podcast to discuss the rise of female gun owners."
-    },
-    {
       "id": "e17c97e680280364",
       "title": "BREAKING! Supreme Court Issuing Immediate Decision In Major Constitutional Rights Challenge!",
       "link": "https://www.youtube.com/watch?v=Cjf8KJ16Df0",
@@ -672,17 +716,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Midterm Gun Money Race Turns Lopsided; Silencer Sales Soar"
-    },
-    {
-      "id": "9649c3d86cba5d03",
-      "title": "DOJ Moves to Moot Under-21 Pistol Sales Challenge After Agreeing With Gun-Rights Plaintiffs",
-      "link": "https://thereload.com/doj-moves-to-moot-under-21-pistol-sales-challenge-after-agreeing-with-gun-rights-plaintiffs/",
-      "published": "2026-10-08T21:03:13+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "Court Case",
-      "tldr": "The Department of Justice (DOJ) wants to end the legal fight over licensed dealers selling handguns to 18-to-20-year-olds."
     },
     {
       "id": "d4e9b9a280cc01e7",
@@ -771,17 +804,6 @@
       "source_type": "primary_legal",
       "category": "Court Case",
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "5abdad2789569664",
-      "title": "CIA Official Created a FAKE Secret Government Program to Steal $194 MILLION",
-      "link": "https://www.youtube.com/watch?v=G_bCbEnAmj8",
-      "published": "2026-10-07T20:06:00+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "CIA Official Created a FAKE Secret Government Program to Steal $194 MILLION"
     },
     {
       "id": "1977333ded58e647",
@@ -1134,17 +1156,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "LAWYER: Major Second Amendment Ruling Protects Homemade Guns"
-    },
-    {
-      "id": "827d84339de4c526",
-      "title": "Justified? Jury finds attacker not guilty!",
-      "link": "https://www.youtube.com/shorts/PWGFoSmLllU",
-      "published": "2026-09-29T19:00:15+00:00",
-      "source_id": "atty-tom-grieve",
-      "source_name": "Atty Tom Grieve",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Justified? Jury finds attacker not guilty!"
     },
     {
       "id": "ef72a7652fb14bf8",
