@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-17T18:00:01.070164+00:00",
+  "generated_at": "2026-10-17T21:48:00.932922+00:00",
   "item_count": 149,
   "items": [
+    {
+      "id": "ba9c8980af28c400",
+      "title": "Handing a Friend Your Shotgun Could've Been a Crime Under This Bill",
+      "link": "https://www.youtube.com/shorts/eaSA3D2S0WQ",
+      "published": "2026-10-17T20:00:21+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Handing a Friend Your Shotgun Could've Been a Crime Under This Bill"
+    },
+    {
+      "id": "5ed0e2d2d16f5c68",
+      "title": "No Duty to Retreat… Unless the Jury Thinks You Should Have",
+      "link": "https://www.youtube.com/shorts/iQ0RqwX81Sw",
+      "published": "2026-10-17T18:47:03+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "No Duty to Retreat… Unless the Jury Thinks You Should Have"
+    },
     {
       "id": "04b5ff8c21c33270",
       "title": "Supreme Court Issues Emergency Election Ruling With Major Nationwide Implications! Expansion Sought!",
@@ -111,6 +133,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Nationwide Block of NFA & Suppressor Restrictions Put In Place! State Suppressor Bans Now Challenged"
+    },
+    {
+      "id": "b6c9997b91f18693",
+      "title": "John Doe v. Catholic Relief Services (Court of Appeals for the Fourth Circuit)",
+      "link": "https://www.courtlistener.com/opinion/11037825/john-doe-v-catholic-relief-services/",
+      "published": "2026-10-16T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
       "id": "72927b5687452959",
@@ -1081,17 +1114,6 @@
       "tldr": "THIS WEEK IN THE FIGHT Here’s what you may have missed this week in the fight for the Second Amendment… This week, ATF confirmed that guidance is incoming on GOA’s historic victory against the…"
     },
     {
-      "id": "6902c0534fe7a221",
-      "title": "Are Ghost Gun Restrictions Unconstitutional?",
-      "link": "https://www.youtube.com/shorts/JS8ro7ZuC90",
-      "published": "2026-10-01T19:00:00+00:00",
-      "source_id": "atty-tom-grieve",
-      "source_name": "Atty Tom Grieve",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Are Ghost Gun Restrictions Unconstitutional?"
-    },
-    {
       "id": "8d3d14b848b858d2",
       "title": "SAF URGES SUPREME COURT TO REJECT LIFETIME GUN BANS FOR NONVIOLENT FELONS",
       "link": "https://saf.org/saf-urges-supreme-court-to-reject-lifetime-gun-bans-for-nonviolent-felons/",
@@ -1125,17 +1147,6 @@
       "tldr": "🚨 JUDGE STAYS CT GLOCK BAN! HB5043 BLOCKED? | PSA Dagger Live"
     },
     {
-      "id": "5be591f2eb8c2552",
-      "title": "People v. Carrington (Appellate Division of the Supreme Court of the State of New York)",
-      "link": "https://www.courtlistener.com/opinion/11008155/people-v-carrington/",
-      "published": "2026-10-01T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "6ea99358b589ab90",
       "title": "GLOCKAGEDDON EVE: Connecticut’s HB5043 Enforcement Mystery | No Answers, No Guidance",
       "link": "https://www.youtube.com/watch?v=rjDS5nfnlvg",
@@ -1145,17 +1156,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "GLOCKAGEDDON EVE: Connecticut’s HB5043 Enforcement Mystery | No Answers, No Guidance"
-    },
-    {
-      "id": "68261db04d82547e",
-      "title": "LAWYER: Major Second Amendment Ruling Protects Homemade Guns",
-      "link": "https://www.youtube.com/watch?v=pi2IS0MMGmQ",
-      "published": "2026-09-29T19:00:22+00:00",
-      "source_id": "atty-tom-grieve",
-      "source_name": "Atty Tom Grieve",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "LAWYER: Major Second Amendment Ruling Protects Homemade Guns"
     },
     {
       "id": "ef72a7652fb14bf8",
