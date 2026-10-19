@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-10-19T09:21:09.678931+00:00",
-  "item_count": 149,
+  "generated_at": "2026-10-19T17:49:51.298762+00:00",
+  "item_count": 151,
   "items": [
+    {
+      "id": "fc794409b8b05357",
+      "title": "“I’m sorry, Dave, I’m afraid I can’t do that” – ChatGPT is Now “Completely Anti-gun”",
+      "link": "https://www.nraila.org/articles/20261019/i-m-sorry-dave-i-m-afraid-i-can-t-do-that-chatgpt-is-now-completely-anti-gun",
+      "published": "2026-10-19T17:10:13+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "More than half a century ago, Stanley Kubrick’s film, 2001: A Space Odyssey, introduced the world to HAL-9000, a sentient “supercomputer” with advanced artificial intelligence (AI) processing. When…"
+    },
+    {
+      "id": "db4d8c116e0104c9",
+      "title": "LAWYER: New Bill Would Make Your Pellet Gun a Federal Firearm",
+      "link": "https://www.youtube.com/watch?v=gPmtqtN0HT0",
+      "published": "2026-10-19T17:00:22+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "LAWYER: New Bill Would Make Your Pellet Gun a Federal Firearm"
+    },
+    {
+      "id": "d6a373bc658988dc",
+      "title": "Catch and Release: Fine for Fishing, Deadly with Violent Criminals",
+      "link": "https://www.nraila.org/articles/20261019/catch-and-release-fine-for-fishing-deadly-with-violent-criminals",
+      "published": "2026-10-19T16:55:07+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "Our regular readers understand what should be axiomatic for all: Violent criminals cannot prey on law-abiding citizens if they are behind bars. Unfortunately, we are hearing more and more regularly…"
+    },
+    {
+      "id": "f88a33fba62eb38c",
+      "title": "Polls Show Electorate’s Interest in Gun Control Waning",
+      "link": "https://www.nraila.org/articles/20261019/polls-show-electorate-s-interest-in-gun-control-waning",
+      "published": "2026-10-19T16:49:04+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "In late July, the White House announced that through the first half of 2026, homicides were “on pace for the lowest level in at least 126 years.” In mid-August, the FBI released data showing that…"
+    },
+    {
+      "id": "9518dcd324d4a2e8",
+      "title": "Scary Stories from the Crypt Keepers at Big Gun Control",
+      "link": "https://www.nraila.org/articles/20261019/scary-stories-from-the-crypt-keepers-at-big-gun-control",
+      "published": "2026-10-19T16:42:46+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "‘Tis the Halloween season of fear and disguise, and, in step with the holiday, the gun control ghouls are embracing a familiar tradition of their own. When facts aren’t quite frightening enough…"
+    },
+    {
+      "id": "7597e95dfd7a238a",
+      "title": "Get Your Suppressor Faster: Another Major Manufacturer Abandons NFA Requirements",
+      "link": "https://www.youtube.com/watch?v=zL6darOc8mk",
+      "published": "2026-10-19T15:04:13+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Get Your Suppressor Faster: Another Major Manufacturer Abandons NFA Requirements"
+    },
+    {
+      "id": "15f4474515cf930b",
+      "title": "How Will Gun Politics Impact the Midterms? (Ft. Semafor's Burgess Everett)",
+      "link": "https://www.youtube.com/watch?v=JP1lmLyXcIg",
+      "published": "2026-10-19T12:00:32+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "How Will Gun Politics Impact the Midterms? (Ft. Semafor's Burgess Everett)"
+    },
     {
       "id": "0b5a083466230233",
       "title": "Suppressors Laws Have Changed! BUT Some States Still BLOCK You From Getting One",
@@ -23,6 +100,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Issues Emergency Election Denial Order With Major Nationwide Implications!"
+    },
+    {
+      "id": "2f862df6e1dcf7f0",
+      "title": "A resolution designating September 2026 as \"National Infant Mortality Awareness Month\", raising awareness of infant mortality, and increasing efforts to reduce infant mortality.",
+      "link": "https://www.congress.gov/bill/119th-congress/sres/951",
+      "published": "2026-10-19T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Under authority of the order of the Senate of September 30, 2026, ordered referred to the Committee on The Judiciary."
     },
     {
       "id": "a9071567ac1c0b34",
@@ -133,17 +221,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Issues Emergency Election Ruling With Major Nationwide Implications! Expansion Sought!"
-    },
-    {
-      "id": "2f862df6e1dcf7f0",
-      "title": "A resolution designating September 2026 as \"National Infant Mortality Awareness Month\", raising awareness of infant mortality, and increasing efforts to reduce infant mortality.",
-      "link": "https://www.congress.gov/bill/119th-congress/sres/951",
-      "published": "2026-10-17T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Under authority of the order of the Senate of September 30, 2026, ordered referred to the Committee on The Judiciary."
     },
     {
       "id": "5f6cf65c86d7d603",
@@ -773,17 +850,6 @@
       "tldr": "BELLEVUE, Wash. — Oct. 9, 2026 — The Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) today released guidance for dealers and consumers in response to the landmark National Firearms Act…"
     },
     {
-      "id": "3587389de653b578",
-      "title": "DOJ's New Argument to Kill NFA Cases — What You Need to Know",
-      "link": "https://www.youtube.com/watch?v=gbm10JF_OHk",
-      "published": "2026-10-09T13:39:14+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "DOJ's New Argument to Kill NFA Cases — What You Need to Know"
-    },
-    {
       "id": "e17c97e680280364",
       "title": "BREAKING! Supreme Court Issuing Immediate Decision In Major Constitutional Rights Challenge!",
       "link": "https://www.youtube.com/watch?v=Cjf8KJ16Df0",
@@ -872,6 +938,17 @@
       "tldr": "BELLEVUE, Wash. — Oct. 8, 2026 — The Second Amendment Foundation (SAF) has reached a settlement agreement with the Contra Costa County Sheriff’s Office over policies that previously prohibited permit…"
     },
     {
+      "id": "d4075fa7ac3fd515",
+      "title": "Grow GOA, Grow Your Business",
+      "link": "https://www.gunowners.org/100826-2/",
+      "published": "2026-10-08T16:14:18+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "Get paid every time one of your customers joins the fight! As a part of Gun Owners of America’s Corporate Membership Program, you’re already actively in the fight to protect the Second Amendment…"
+    },
+    {
       "id": "06f39da6c98a9c72",
       "title": "PRIMARY WEAPONS SYSTEMS JOINS SAF AS NEWEST SILVER-LEVEL CORPORATE PARTNER",
       "link": "https://saf.org/primary-weapons-systems-joins-saf-as-newest-silver-level-corporate-partner/",
@@ -914,17 +991,6 @@
       "source_type": "primary_legal",
       "category": "Court Case",
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
-      "id": "1977333ded58e647",
-      "title": "Your AR-15 Could Be “Unconstitutional” If This Professor Is Right (Supreme Court Common Use Test)",
-      "link": "https://www.youtube.com/watch?v=L0p401ZIn3A",
-      "published": "2026-10-07T19:04:15+00:00",
-      "source_id": "atty-tom-grieve",
-      "source_name": "Atty Tom Grieve",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Your AR-15 Could Be “Unconstitutional” If This Professor Is Right (Supreme Court Common Use Test)"
     },
     {
       "id": "d84eab52da013168",
@@ -1024,28 +1090,6 @@
       "source_type": "org",
       "category": "Legislation",
       "tldr": "A new bill introduced in Congress proposes to regulate “lethal air guns” as firearms under the Gun Control Act of 1968, as amended (GCA). Yet the risk of fatalities and criminal misuse from air guns…"
-    },
-    {
-      "id": "7a02ce689e55339c",
-      "title": "Pervasive Surveillance and Data Storage an Emerging Concern for Gun Owner Privacy",
-      "link": "https://www.nraila.org/articles/20261005/pervasive-surveillance-and-data-storage-an-emerging-concern-for-gun-owner-privacy",
-      "published": "2026-10-05T17:33:22+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "News",
-      "tldr": "Americans have willingly, and sometimes unwillingly, surrounded themselves with technology that watches, listens, records, and remembers. Cars know how and where we drive. Phones track just about…"
-    },
-    {
-      "id": "509e053af687ca0c",
-      "title": "Bad Faith: Gun Controllers Seek to Enlist Clergy in Firearm Confiscation Efforts",
-      "link": "https://www.nraila.org/articles/20261005/bad-faith-gun-controllers-seek-to-enlist-clergy-in-firearm-confiscation-efforts",
-      "published": "2026-10-05T17:23:03+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "News",
-      "tldr": "It’s often been said that gun control is really about people control. Understanding this, the megalomania gun control advocates exhibit in their never-ending pursuit to control others displays a…"
     },
     {
       "id": "cc7c877f9bfab0ca",
@@ -1156,6 +1200,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "GLOCKAGEDDON EVE: Connecticut’s HB5043 Enforcement Mystery | No Answers, No Guidance"
+    },
+    {
+      "id": "ba1e9c603f3d3e43",
+      "title": "1.4 BILLION RECORDS",
+      "link": "https://www.gunowners.org/093026-2/",
+      "published": "2026-09-30T16:08:03+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "ATF’s illegal registry of guns and gun owners is growing… Breaking news, ATF just reported to Congress that their digital, searchable registry of guns and gun owners now contains over 1.4 billion…"
     },
     {
       "id": "ef72a7652fb14bf8",
@@ -1334,17 +1389,6 @@
       "tldr": "Connecticut “Glockageddon”: Glock Ban, SCOTUS & Gun Rights | 2A Roundtable"
     },
     {
-      "id": "e1fbcc2e9f1527bf",
-      "title": "Take Action: Stop State Gun Taxes & Fix the SHOT Act",
-      "link": "https://www.gunowners.org/091526/",
-      "published": "2026-09-15T18:37:12+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
-      "source_type": "org",
-      "category": "Legislation",
-      "tldr": "LET’S PASS THESE BILLS! These two bills are marked up tomorrow, we need your help to pass them…. If you’re receiving this email, your Representative in Congress is on the House Judiciary Committee…"
-    },
-    {
       "id": "34be0a865f8b23af",
       "title": "Examining the Pro-Gun Briefs in the SCOTUS AR-15 Case (Ft. @BearingArmsCamCo)",
       "link": "https://www.youtube.com/watch?v=wdg-jqUGQxU",
@@ -1376,17 +1420,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "On the Ground in Ukraine's Gun-Rights Fight; Third Circuit Revives New Jersey Gun-Industry Suit"
-    },
-    {
-      "id": "ffe54c628634bafe",
-      "title": "Gun Owners of America Endorses Victoria Spartz",
-      "link": "https://www.gunowners.org/gun-owners-of-america-endorses-victoria-spartz/",
-      "published": "2026-09-08T20:14:51+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
-      "source_type": "org",
-      "category": "News",
-      "tldr": "Gun Owners of America is proud to endorse and stand by our friend, Victoria Spartz. Victoria embodies the values that make our state strong. She has a proven track record of defending and standing up…"
     },
     {
       "id": "053a33cc7437ef4a",
@@ -1453,17 +1486,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING: The Supreme Court Could Decide the Future of the AR-15! | Grant v. Higgins + 2A News"
-    },
-    {
-      "id": "9cbecf8337a58aea",
-      "title": "CDC Restores Gun Defense Use Estimates; @JaredAF on Building Marksmanship",
-      "link": "https://www.youtube.com/watch?v=5o0S5ClfquE",
-      "published": "2026-08-28T18:23:21+00:00",
-      "source_id": "the-reload-youtube",
-      "source_name": "The Reload (YouTube)",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "CDC Restores Gun Defense Use Estimates; @JaredAF on Building Marksmanship"
     },
     {
       "id": "f28b261c0e81ad1c",
