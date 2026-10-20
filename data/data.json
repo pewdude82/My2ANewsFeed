@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-10-20T08:55:58.571331+00:00",
-  "item_count": 151,
+  "generated_at": "2026-10-20T15:53:59.501176+00:00",
+  "item_count": 149,
   "items": [
+    {
+      "id": "7ec5c1213e2d328e",
+      "title": "Yet Another State Moves to END NFA Restrictions After ATF Issues Guidance",
+      "link": "https://www.youtube.com/watch?v=IiFuU71_-3w",
+      "published": "2026-10-20T13:34:46+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Yet Another State Moves to END NFA Restrictions After ATF Issues Guidance"
+    },
+    {
+      "id": "9db5c44ef95b0406",
+      "title": "SAF, PARTNERS CHALLENGE NEW MEXICO’S FIREARMS PURCHASE WAITING PERIOD",
+      "link": "https://saf.org/saf-partners-challenge-new-mexicos-firearms-purchase-waiting-period/",
+      "published": "2026-10-20T13:14:46+00:00",
+      "source_id": "saf",
+      "source_name": "Second Amendment Foundation",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "BELLEVUE, Wash. — Oct. 20, 2026 — The Second Amendment Foundation (SAF) and its partners have filed a new lawsuit in New Mexico challenging the state’s “cooling off” waiting period for firearms…"
+    },
+    {
+      "id": "fe3837fb0ce5d98d",
+      "title": "Commonwealth v. Thomson (Massachusetts Supreme Judicial Court)",
+      "link": "https://www.courtlistener.com/opinion/11039862/commonwealth-v-thomson/",
+      "published": "2026-10-20T00:00:00+00:00",
+      "source_id": "courtlistener",
+      "source_name": "CourtListener (Free Law Project)",
+      "source_type": "primary_legal",
+      "category": "Court Case",
+      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
     {
       "id": "2b90c0502c4d5041",
       "title": "Freedom from Unfair Gun Taxes Act of 2025",
@@ -14,39 +47,6 @@
       "tldr": "Latest action: Referred to the House Committee on the Judiciary."
     },
     {
-      "id": "c422a8599598fe08",
-      "title": "Kimberly Vaughan Firearm Safe Storage Act",
-      "link": "https://www.congress.gov/bill/119th-congress/hr/8619",
-      "published": "2026-10-20T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Sponsor introductory remarks on measure. (CR H3541)"
-    },
-    {
-      "id": "140de98d8eef1c14",
-      "title": "Firearm Access During Shutdowns Act",
-      "link": "https://www.congress.gov/bill/119th-congress/hr/5874",
-      "published": "2026-10-20T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for…"
-    },
-    {
-      "id": "e4c558b3981f1e80",
-      "title": "To designate the facility of the United States Postal Service located at 1905 Route 112 in Medford, New York, as the \"Gunnery Sergeant Ruben Santos Post Office Building\".",
-      "link": "https://www.congress.gov/bill/119th-congress/hr/10779",
-      "published": "2026-10-20T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Referred to the House Committee on Oversight and Government Reform."
-    },
-    {
       "id": "8b2ef6c4b6f06b21",
       "title": "Did You Hear The BS at the 2A Town Hall?",
       "link": "https://www.youtube.com/shorts/2y6QSJ03-bY",
@@ -56,6 +56,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Did You Hear The BS at the 2A Town Hall?"
+    },
+    {
+      "id": "40a1cbb5639e3150",
+      "title": "NRA Files (Another) Lawsuit Challenging New Mexico’s 7-Day Waiting Period Law",
+      "link": "https://www.nraila.org/articles/20261019/nra-files-another-lawsuit-challenging-new-mexico-s-7-day-waiting-period-law",
+      "published": "2026-10-19T22:07:18+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "Today, the National Rifle Association—along with the National Shooting Sports Foundation, Second Amendment Foundation, New Mexico Firearms Industry Association, New Mexico Shooting Sports…"
     },
     {
       "id": "ea454657a14e3627",
@@ -784,17 +795,6 @@
       "tldr": "Supreme Court Delivered 9-0 Unanimous Decision On Firearm Confiscation But Denied Reconsideration!"
     },
     {
-      "id": "d1925eb2c945d7b1",
-      "title": "Are You Losing Sight of the Fight? The 2A Truth We Need to Hear",
-      "link": "https://www.youtube.com/watch?v=cisfC8yZXoI",
-      "published": "2026-10-11T15:18:18+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Are You Losing Sight of the Fight? The 2A Truth We Need to Hear"
-    },
-    {
       "id": "f6dfb7e566e2414e",
       "title": "🚨 ATF JUST CHANGED THE RULES! What It Means for CT Gun Owners | Gun Guru Live",
       "link": "https://www.youtube.com/watch?v=HhqKiZWVADQ",
@@ -1114,17 +1114,6 @@
       "tldr": "BREAKING! Supreme Court Grants Immediate Review In Major Constitutional Rights Challenge!"
     },
     {
-      "id": "2868a53a49f913d5",
-      "title": "Williams v. United States of America (District Court, District of Columbia)",
-      "link": "https://www.courtlistener.com/opinion/11011899/williams-v-united-states-of-america/",
-      "published": "2026-10-05T00:00:00+00:00",
-      "source_id": "courtlistener",
-      "source_name": "CourtListener (Free Law Project)",
-      "source_type": "primary_legal",
-      "category": "Court Case",
-      "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
-    },
-    {
       "id": "9db7587196269b9b",
       "title": "🚨 CONNECTICUT GLOCK BAN BLOCKED! Judge Issues Injunction | HB 5043 & 2A News LIVE",
       "link": "https://www.youtube.com/watch?v=--MRktDkhIo",
@@ -1211,17 +1200,6 @@
       "source_type": "org",
       "category": "Legislation",
       "tldr": "ATF’s illegal registry of guns and gun owners is growing… Breaking news, ATF just reported to Congress that their digital, searchable registry of guns and gun owners now contains over 1.4 billion…"
-    },
-    {
-      "id": "ef72a7652fb14bf8",
-      "title": "SAF ANNOUNCES DON KILMER AS 2026 GOLDEN BOWTIE AWARD WINNER",
-      "link": "https://saf.org/saf-announces-don-kilmer-as-2026-golden-bowtie-award-winner/",
-      "published": "2026-09-29T16:31:54+00:00",
-      "source_id": "saf",
-      "source_name": "Second Amendment Foundation",
-      "source_type": "org",
-      "category": "News",
-      "tldr": "BELLEVUE, Wash. — Sept. 29, 2025 — The Second Amendment Foundation (SAF) honored its third recipient of the Golden Bowtie Award at this year’s Gun Rights Policy Conference (GRPC) in Dallas. This…"
     },
     {
       "id": "641be8d9f1fab160",
