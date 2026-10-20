@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-20T19:40:44.243967+00:00",
-  "item_count": 136,
+  "generated_at": "2026-10-20T22:44:45.648608+00:00",
+  "item_count": 151,
   "items": [
+    {
+      "id": "3a56859e7b8b301a",
+      "title": "Armed Dad Stops School Shooter—Senators Demand MORE Gun Control!",
+      "link": "https://www.youtube.com/watch?v=kZVA1f5YKZ8",
+      "published": "2026-10-20T21:41:21+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Armed Dad Stops School Shooter—Senators Demand MORE Gun Control!"
+    },
     {
       "id": "efe18089dcfa0b13",
       "title": "Say This To The Police If They Won't Show You A Warrant",
@@ -12,6 +23,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Say This To The Police If They Won't Show You A Warrant"
+    },
+    {
+      "id": "828f30f6e57b079b",
+      "title": "Montana: Legislature to Pursue State-Level Suppressor Deregulation in 2027 Session",
+      "link": "https://www.nraila.org/articles/20261020/montana-legislature-to-pursue-state-level-suppressor-deregulation-in-2027-session",
+      "published": "2026-10-20T16:47:39+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "Montana Republicans, led by Attorney General Austin Knudesen, announced plans for legislation to deregulate suppressors and short barreled firearms during the 2027 legislative session."
     },
     {
       "id": "7ec5c1213e2d328e",
@@ -47,6 +69,17 @@
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
+      "id": "a2d8057302a0ec6f",
+      "title": "Gun Violence Prevention Research Act of 2025",
+      "link": "https://www.congress.gov/bill/119th-congress/hr/4821",
+      "published": "2026-10-20T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Referred to the House Committee on Energy and Commerce."
+    },
+    {
       "id": "13a5a40b85d107fa",
       "title": "Crime Gun Tracing Modernization Act of 2025",
       "link": "https://www.congress.gov/bill/119th-congress/hr/6223",
@@ -67,6 +100,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Did You Hear The BS at the 2A Town Hall?"
+    },
+    {
+      "id": "40a1cbb5639e3150",
+      "title": "NRA Files (Another) Lawsuit Challenging New Mexico’s 7-Day Waiting Period Law",
+      "link": "https://www.nraila.org/articles/20261019/nra-files-another-lawsuit-challenging-new-mexico-s-7-day-waiting-period-law",
+      "published": "2026-10-19T22:07:18+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "Today, the National Rifle Association—along with the National Shooting Sports Foundation, Second Amendment Foundation, New Mexico Firearms Industry Association, New Mexico Shooting Sports…"
     },
     {
       "id": "ea454657a14e3627",
@@ -91,6 +135,17 @@
       "tldr": "BAD NEWS: SCOTUS Denies Waiting Period Case: The 72 Hour Law Stays"
     },
     {
+      "id": "fc794409b8b05357",
+      "title": "“I’m sorry, Dave, I’m afraid I can’t do that” – ChatGPT is Now “Completely Anti-gun”",
+      "link": "https://www.nraila.org/articles/20261019/i-m-sorry-dave-i-m-afraid-i-can-t-do-that-chatgpt-is-now-completely-anti-gun",
+      "published": "2026-10-19T17:10:13+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "More than half a century ago, Stanley Kubrick’s film, 2001: A Space Odyssey, introduced the world to HAL-9000, a sentient “supercomputer” with advanced artificial intelligence (AI) processing. When…"
+    },
+    {
       "id": "db4d8c116e0104c9",
       "title": "LAWYER: New Bill Would Make Your Pellet Gun a Federal Firearm",
       "link": "https://www.youtube.com/watch?v=gPmtqtN0HT0",
@@ -100,6 +155,39 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "LAWYER: New Bill Would Make Your Pellet Gun a Federal Firearm"
+    },
+    {
+      "id": "d6a373bc658988dc",
+      "title": "Catch and Release: Fine for Fishing, Deadly with Violent Criminals",
+      "link": "https://www.nraila.org/articles/20261019/catch-and-release-fine-for-fishing-deadly-with-violent-criminals",
+      "published": "2026-10-19T16:55:07+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "Our regular readers understand what should be axiomatic for all: Violent criminals cannot prey on law-abiding citizens if they are behind bars. Unfortunately, we are hearing more and more regularly…"
+    },
+    {
+      "id": "f88a33fba62eb38c",
+      "title": "Polls Show Electorate’s Interest in Gun Control Waning",
+      "link": "https://www.nraila.org/articles/20261019/polls-show-electorate-s-interest-in-gun-control-waning",
+      "published": "2026-10-19T16:49:04+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "In late July, the White House announced that through the first half of 2026, homicides were “on pace for the lowest level in at least 126 years.” In mid-August, the FBI released data showing that…"
+    },
+    {
+      "id": "9518dcd324d4a2e8",
+      "title": "Scary Stories from the Crypt Keepers at Big Gun Control",
+      "link": "https://www.nraila.org/articles/20261019/scary-stories-from-the-crypt-keepers-at-big-gun-control",
+      "published": "2026-10-19T16:42:46+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "‘Tis the Halloween season of fear and disguise, and, in step with the holiday, the gun control ghouls are embracing a familiar tradition of their own. When facts aren’t quite frightening enough…"
     },
     {
       "id": "7597e95dfd7a238a",
@@ -323,7 +411,7 @@
     },
     {
       "id": "7252f4669230128d",
-      "title": "Florida Announces Residents Don’t Need ATF Approval for Silencers, Short-Barrel Shotguns",
+      "title": "Florida State Attorney Announces Residents Don’t Need ATF Approval for Silencers, Short-Barrel Shotguns",
       "link": "https://thereload.com/florida-announces-residents-dont-need-atf-approval-for-silencers-short-barrel-shotguns/",
       "published": "2026-10-16T00:04:23+00:00",
       "source_id": "the-reload",
@@ -454,6 +542,17 @@
       "tldr": "Here’s what a firearms malfunction during a life-or-death encounter looks like in practice, and it’s a great teaching tool for what you should understand in case you ever encounter one."
     },
     {
+      "id": "7bab723f42fbeef7",
+      "title": "Trump Administration Issues Report Detailing Firearms Industry Debanking",
+      "link": "https://www.nraila.org/articles/20261014/trump-administration-issues-report-detailing-firearms-industry-debanking",
+      "published": "2026-10-14T21:20:02+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "Since taking office for the second time, President Donald Trump and his administration have worked to end political debanking and guarantee that all law-abiding Americans and businesses have access…"
+    },
+    {
       "id": "86b59daca4bf1fcd",
       "title": "Can You Trust the ATF? The Dangerous Reality of Shifting Regulations",
       "link": "https://www.youtube.com/watch?v=DfOVZocgWCQ",
@@ -465,6 +564,28 @@
       "tldr": "Can You Trust the ATF? The Dangerous Reality of Shifting Regulations"
     },
     {
+      "id": "bff169fc2c966f9b",
+      "title": "For Better and for Worse, “Direct Democracy” Seeks to Alter Gun and Hunting Policy",
+      "link": "https://www.nraila.org/articles/20261014/for-better-and-for-worse-direct-democracy-seeks-to-alter-gun-and-hunting-policy",
+      "published": "2026-10-14T20:55:25+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "Not every important Second Amendment or hunting policy fight begins with a bill number."
+    },
+    {
+      "id": "9d56acf2e4084472",
+      "title": "NRA Launches New Texas Senate Ad as Part of Multi-Million Dollar Campaign to Retain Pro-Gun Majorities in Congress",
+      "link": "https://www.nraila.org/articles/20261014/nra-launches-new-texas-senate-ad-as-part-of-multi-million-dollar-campaign-to-retain-pro-gun-majorities-in-congress",
+      "published": "2026-10-14T17:36:10+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "FAIRFAX, Va. — Today, the NRA Victory Fund Inc. released a new 30-second ad highlighting Democrat U.S. Senate candidate James Talarico’s longstanding support for banning so-called “assault weapons”…"
+    },
+    {
       "id": "f4bb8700c11dc07a",
       "title": "LAWYER: Is ATF's New Suppressor Rule the Next Pistol Brace Trap?",
       "link": "https://www.youtube.com/watch?v=f-JpE9HrqYk",
@@ -474,6 +595,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "LAWYER: Is ATF's New Suppressor Rule the Next Pistol Brace Trap?"
+    },
+    {
+      "id": "200b3180d9226515",
+      "title": "Mississippi: Attorney General Issues Statement on Suppressors Following ATF Decision",
+      "link": "https://www.nraila.org/articles/20261014/mississippi-attorney-general-issues-statement-on-suppressors-following-atf-decision",
+      "published": "2026-10-14T17:24:59+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Regulatory",
+      "tldr": "Following the ATF's recent decision regarding the enforcement of NFA transfer guidelines, Attorney General Lynn Fitch has issued a statement that filing an ATF Form 4 for suppressor transfers is no…"
     },
     {
       "id": "ec9806e841467245",
@@ -540,6 +672,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Another State Breaks Away From the NFA! Florida Issues HUGE Guidance"
+    },
+    {
+      "id": "7ffe17b8e5a4e20d",
+      "title": "NRA New Jersey Alert: Anti-Gun Politicians Launch Another Campaign To Harass Gun Dealers",
+      "link": "https://www.nraila.org/articles/20261013/nra-new-jersey-alert-anti-gun-politicians-launch-another-campaign-to-harass-gun-dealers",
+      "published": "2026-10-13T18:13:01+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "After a brief hiatus in Trenton, the gun grabbers are back at it this week. On Thursday, October 16, the Senate Law &amp; Public Safety Committee will meet to consider S.1800."
     },
     {
       "id": "549653ca24375a1d",
@@ -641,15 +784,37 @@
       "tldr": "ATF Won't Stop You… But Your State Could Still Charge You With a Felony (Suppressor NFA)"
     },
     {
-      "id": "bf5275bc4b54f442",
-      "title": "ATF Backs Off—But Your State Can STILL Prosecute You",
-      "link": "https://www.youtube.com/watch?v=0CvwW6Uc0WM",
-      "published": "2026-10-12T14:22:36+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "ATF Backs Off—But Your State Can STILL Prosecute You"
+      "id": "74c399393bec3c66",
+      "title": "Officials Admit It: There’s No Actual Substance Behind Canadian Gun Grab",
+      "link": "https://www.nraila.org/articles/20261012/officials-admit-it-there-s-no-actual-substance-behind-canadian-gun-grab",
+      "published": "2026-10-12T15:35:24+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "A year ago, Canada’s Public Safety Minister Gary Anandasangaree admitted, in a bombshell recording with a gun owner, that the Liberal government’s “assault-style firearm” ban and confiscation program…"
+    },
+    {
+      "id": "bd86366f2a4bec04",
+      "title": "Guardsmen’s Arrest Shows D.C. Still Lacks Common Sense, Proportionality on Guns",
+      "link": "https://www.nraila.org/articles/20261012/guardsmen-s-arrest-shows-dc-still-lacks-common-sense-proportionality-on-guns",
+      "published": "2026-10-12T15:19:21+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "A lot of has changed for the better in the Nation’s Capital since Donald Trump returned to the White House. But the recent arrest of a young National Guardsman for an apparently harmless breach of…"
+    },
+    {
+      "id": "36fd5bb24de2a360",
+      "title": "The NFA’s New Era: What Has Changed, What Remains the Same, Items of Note",
+      "link": "https://www.nraila.org/articles/20261012/the-nfa-s-new-era-what-has-changed-what-remains-the-same-items-of-note",
+      "published": "2026-10-12T13:21:40+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Regulatory",
+      "tldr": "As we announced separately this week, ATF has determined that it will use its executive discretion to uniformly suspend enforcement of large portions of the National Firearms Act (NFA)."
     },
     {
       "id": "2a8e254e4f1ced53",
