@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-25T08:45:55.531542+00:00",
-  "item_count": 136,
+  "generated_at": "2026-10-25T15:06:59.388897+00:00",
+  "item_count": 141,
   "items": [
+    {
+      "id": "122d8134ebb95520",
+      "title": "CONNECTICUT DEFENDS AR-15 BAN AT SCOTUS! | Grant v. Higgins Breakdown – Gun Guru Live",
+      "link": "https://www.youtube.com/watch?v=ApgTXqVAZSg",
+      "published": "2026-10-25T12:21:38+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "CONNECTICUT DEFENDS AR-15 BAN AT SCOTUS! | Grant v. Higgins Breakdown – Gun Guru Live"
+    },
+    {
+      "id": "eb6246dae3119020",
+      "title": "Analysis: How ‘Rebel Without a Cause’ Swayed the Fifth Circuit’s Latest Second Amendment Ruling [Member Exclusive]",
+      "link": "https://thereload.com/analysis-how-rebel-without-a-cause-swayed-the-fifth-circuits-latest-second-amendment-ruling-member-exclusive/",
+      "published": "2026-10-25T09:04:48+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Court Case",
+      "tldr": "James Dean just played a role in getting rid of a federal ban on switchblades."
+    },
+    {
+      "id": "18c61eb7082e4e4f",
+      "title": "Podcast: How NFA Mirror Laws Impact Silencer, SBR Sales (ft. Firearms Attorney Gilbert Ambler) [Member Early Access]",
+      "link": "https://thereload.com/podcast-how-nfa-mirror-laws-impact-silencer-sbr-sales-ft-firearms-attorney-gilbert-ambler/",
+      "published": "2026-10-25T09:02:53+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "News",
+      "tldr": "Plus, Reload Reporter Julie Miller and I look at the biggest donation Everytown's Super PAC has ever received."
+    },
+    {
+      "id": "8db078159b7d6650",
+      "title": "Members’ Newsletter: James Dean Stars in Second Amendment Ruling",
+      "link": "https://thereload.com/members-newsletter-james-dean-stars-in-second-amendment-ruling/",
+      "published": "2026-10-25T09:00:08+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Court Case",
+      "tldr": "Plus, firearms attorney Gilbert Ambler joins the podcast to discuss NFA mirror laws."
+    },
     {
       "id": "61a4989bdf5934ab",
       "title": "BREAKING! Supreme Court Issuing Immediate Decision In Major Constitutional Rights Challenge!",
@@ -12,17 +56,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING! Supreme Court Issuing Immediate Decision In Major Constitutional Rights Challenge!"
-    },
-    {
-      "id": "122d8134ebb95520",
-      "title": "CONNECTICUT DEFENDS AR-15 BAN AT SCOTUS! | Grant v. Higgins Breakdown – Gun Guru Live",
-      "link": "https://www.youtube.com/watch?v=ApgTXqVAZSg",
-      "published": "2026-10-24T22:29:35+00:00",
-      "source_id": "gun-guru",
-      "source_name": "Gun Guru",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "CONNECTICUT DEFENDS AR-15 BAN AT SCOTUS! | Grant v. Higgins Breakdown – Gun Guru Live"
     },
     {
       "id": "a3112371cfa17230",
@@ -58,6 +91,17 @@
       "tldr": "Supreme Court Issues Emergency Election Denial Order With Major Nationwide Implications!"
     },
     {
+      "id": "965b9a6bfa8e1094",
+      "title": "NRA Files Amicus Brief Urging Ninth Circuit to Rehear Challenge to California’s Gun Store Surveillance Law En Banc",
+      "link": "https://www.nraila.org/articles/20261023/nra-files-amicus-brief-urging-ninth-circuit-to-rehear-challenge-to-california-s-gun-store-surveillance-law-en-banc",
+      "published": "2026-10-23T21:52:25+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "The National Rifle Association of America, along with the America First Policy Institute and Knox Williams, founder of the American Suppressor Association, filed an amicus brief urging the U.S. Court…"
+    },
+    {
       "id": "741e5f5c026f8638",
       "title": "NFA Fallout EXPLODES! Another Prosecutor Tells Police to Back Off!",
       "link": "https://www.youtube.com/watch?v=msiiBf8QuwI",
@@ -78,6 +122,17 @@
       "source_type": "org",
       "category": "Court Case",
       "tldr": "BELLEVUE, Wash. — Oct. 23, 2026 — The Second Amendment Foundation (SAF) and its partners have filed a motion for preliminary injunction in NSSF v. Torrez, SAF’s challenge to New Mexico’s “cooling…"
+    },
+    {
+      "id": "d0579a27b328264f",
+      "title": "Fifth Circuit Rules Federal Switchblade Knife Restrictions Violate the Second Amendment",
+      "link": "https://www.nraila.org/articles/20261023/fifth-circuit-rules-federal-switchblade-knife-restrictions-violate-the-second-amendment",
+      "published": "2026-10-23T18:51:53+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "The U.S. Court of Appeals for the Fifth Circuit has ruled that the federal Switchblade Act’s restrictions on the interstate commerce of switchblade knives violate the Second Amendment."
     },
     {
       "id": "3ce34056ba03833a",
@@ -102,39 +157,6 @@
       "tldr": "Bloomberg Injects Tens of Millions into Everytown Midterm Push; Polls Show Voters Complacent on Guns"
     },
     {
-      "id": "af39caa63944b119",
-      "title": "OH: Information on Dangerous Ordnance Licenses",
-      "link": "https://www.gunowners.org/oh10212026-3/",
-      "published": "2026-10-23T18:05:06+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
-      "source_type": "org",
-      "category": "Legislation",
-      "tldr": "Ohio Law May Provide Another Exemption to NFA Registration Under ORC § 2923.18, Ohioans can apply for a $50 Dangerous Ordnance License, providing a separate exemption that does not expressly require…"
-    },
-    {
-      "id": "0a5c5351b18720d2",
-      "title": "OH: State Law Restricts Our NFA Win — Here’s What You Can Do",
-      "link": "https://www.gunowners.org/oh10222026-2/",
-      "published": "2026-10-23T18:04:58+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "GOA secured a historic victory against the National Firearms Act, but Ohio law is still standing in the way. On August 5, GOA and our fellow plaintiffs won a federal court victory against NFA…"
-    },
-    {
-      "id": "0ae2422c5f02ef67",
-      "title": "OH: GOA Proposes Amendments for SB 214 in Light of NFA Changes",
-      "link": "https://www.gunowners.org/oh10222026-1/",
-      "published": "2026-10-23T18:04:35+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
-      "source_type": "org",
-      "category": "Legislation",
-      "tldr": "Gun Owners of America’s State & Local and Legal teams has been working diligently to review the Ohio Revised Code regarding “Dangerous Ordnance” regulations standing in the way of recent judicial and…"
-    },
-    {
       "id": "c43d29427d3b622e",
       "title": "Presidential pardon recipients still barred from buying guns",
       "link": "https://saf.org/presidential-pardon-recipients-still-barred-from-buying-guns/",
@@ -155,17 +177,6 @@
       "source_type": "org",
       "category": "Court Case",
       "tldr": "It must be a difficult time to be an anti-gun activist working at the Trace—the propaganda arm of former New York City mayor Michael Bloomberg’s anti-gun empire. After all, things are certainly not…"
-    },
-    {
-      "id": "45006a692faf4b45",
-      "title": "THIS WEEK IN THE FIGHT",
-      "link": "https://www.gunowners.org/101726/",
-      "published": "2026-10-23T15:52:12+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "Here’s what you may have missed this week in the fight for the Second Amendment… This week, GOA & GOF filed a lawsuit in Pennsylvania against “enhanced” background checks for 18-to-20-year-old…"
     },
     {
       "id": "fedf46320c3d130c",
@@ -287,6 +298,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Huge Victory: Another State AG Rules Against Federal NFA Requirements"
+    },
+    {
+      "id": "049b311bc871526d",
+      "title": "New York: Gov. Hochul Signs More Gun Control This Week",
+      "link": "https://www.nraila.org/articles/20261022/new-york-gov-hochul-signs-more-gun-control-this-week",
+      "published": "2026-10-22T20:06:51+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "Gov. Kathy Hochul remains the scariest thing in Albany for law-abiding gun owners. On Wednesday, October 21 the anti-gun governor of the Empire State signed a pair of gun bills into law. We've…"
     },
     {
       "id": "36742b422607bb1f",
@@ -432,6 +454,17 @@
       "tldr": "Court Says Gun Law Is UNCONSTITUTIONAL—State REFUSES To Stop!"
     },
     {
+      "id": "ddde1ff6bd9e1fb5",
+      "title": "NRA Files Amicus Brief Urging Fifth Circuit to Adopt a Test in Disarmament Cases that Ensures Peaceable Citizens Cannot Be Disarmed",
+      "link": "https://www.nraila.org/articles/20261021/nra-files-amicus-brief-urging-fifth-circuit-to-adopt-a-test-in-disarmament-cases-that-ensures-peaceable-citizens-cannot-be-disarmed",
+      "published": "2026-10-21T13:41:49+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "The National Rifle Association and Second Amendment Foundation filed an amicus brief in United States v. Cordova, a case before the en banc Fifth Circuit Court of Appeals involving a challenge to the…"
+    },
+    {
       "id": "b639005bf64b8836",
       "title": "BREAKING! Supreme Court Grants Review Impacting Nationwide Suppressor & NFA Tax Ruling!",
       "link": "https://www.youtube.com/watch?v=Z4w5PI5h8oA",
@@ -498,6 +531,17 @@
       "tldr": "Say This To The Police If They Won't Show You A Warrant"
     },
     {
+      "id": "828f30f6e57b079b",
+      "title": "Montana: Legislature to Pursue State-Level Suppressor Deregulation in 2027 Session",
+      "link": "https://www.nraila.org/articles/20261020/montana-legislature-to-pursue-state-level-suppressor-deregulation-in-2027-session",
+      "published": "2026-10-20T16:47:39+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "Montana Republicans, led by Attorney General Austin Knudesen, announced plans for legislation to deregulate suppressors and short barreled firearms during the 2027 legislative session."
+    },
+    {
       "id": "7ec5c1213e2d328e",
       "title": "Yet Another State Moves to END NFA Restrictions After ATF Issues Guidance",
       "link": "https://www.youtube.com/watch?v=IiFuU71_-3w",
@@ -542,6 +586,17 @@
       "tldr": "Did You Hear The BS at the 2A Town Hall?"
     },
     {
+      "id": "40a1cbb5639e3150",
+      "title": "NRA Files (Another) Lawsuit Challenging New Mexico’s 7-Day Waiting Period Law",
+      "link": "https://www.nraila.org/articles/20261019/nra-files-another-lawsuit-challenging-new-mexico-s-7-day-waiting-period-law",
+      "published": "2026-10-19T22:07:18+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "Today, the National Rifle Association—along with the National Shooting Sports Foundation, Second Amendment Foundation, New Mexico Firearms Industry Association, New Mexico Shooting Sports…"
+    },
+    {
       "id": "ea454657a14e3627",
       "title": "Congress Wants Pellet Guns To Be Legally Treated Like Real Guns",
       "link": "https://www.youtube.com/shorts/Hp0A5ShLydo",
@@ -564,6 +619,17 @@
       "tldr": "BAD NEWS: SCOTUS Denies Waiting Period Case: The 72 Hour Law Stays"
     },
     {
+      "id": "fc794409b8b05357",
+      "title": "“I’m sorry, Dave, I’m afraid I can’t do that” – ChatGPT is Now “Completely Anti-gun”",
+      "link": "https://www.nraila.org/articles/20261019/i-m-sorry-dave-i-m-afraid-i-can-t-do-that-chatgpt-is-now-completely-anti-gun",
+      "published": "2026-10-19T17:10:13+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "More than half a century ago, Stanley Kubrick’s film, 2001: A Space Odyssey, introduced the world to HAL-9000, a sentient “supercomputer” with advanced artificial intelligence (AI) processing. When…"
+    },
+    {
       "id": "db4d8c116e0104c9",
       "title": "LAWYER: New Bill Would Make Your Pellet Gun a Federal Firearm",
       "link": "https://www.youtube.com/watch?v=gPmtqtN0HT0",
@@ -573,6 +639,39 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "LAWYER: New Bill Would Make Your Pellet Gun a Federal Firearm"
+    },
+    {
+      "id": "d6a373bc658988dc",
+      "title": "Catch and Release: Fine for Fishing, Deadly with Violent Criminals",
+      "link": "https://www.nraila.org/articles/20261019/catch-and-release-fine-for-fishing-deadly-with-violent-criminals",
+      "published": "2026-10-19T16:55:07+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "Our regular readers understand what should be axiomatic for all: Violent criminals cannot prey on law-abiding citizens if they are behind bars. Unfortunately, we are hearing more and more regularly…"
+    },
+    {
+      "id": "f88a33fba62eb38c",
+      "title": "Polls Show Electorate’s Interest in Gun Control Waning",
+      "link": "https://www.nraila.org/articles/20261019/polls-show-electorate-s-interest-in-gun-control-waning",
+      "published": "2026-10-19T16:49:04+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "In late July, the White House announced that through the first half of 2026, homicides were “on pace for the lowest level in at least 126 years.” In mid-August, the FBI released data showing that…"
+    },
+    {
+      "id": "9518dcd324d4a2e8",
+      "title": "Scary Stories from the Crypt Keepers at Big Gun Control",
+      "link": "https://www.nraila.org/articles/20261019/scary-stories-from-the-crypt-keepers-at-big-gun-control",
+      "published": "2026-10-19T16:42:46+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "‘Tis the Halloween season of fear and disguise, and, in step with the holiday, the gun control ghouls are embracing a familiar tradition of their own. When facts aren’t quite frightening enough…"
     },
     {
       "id": "7597e95dfd7a238a",
@@ -663,17 +762,6 @@
       "tldr": "Plus, I detail Florida's decision on how it plans to enforce, or not enforce, its National Firearms Act (NFA) mirror law."
     },
     {
-      "id": "28a76e323e08a841",
-      "title": "Members’ Newsletter: How Will States Handle NFA Mirror Laws?",
-      "link": "https://thereload.com/members-newsletter-how-will-states-handle-nfa-mirror-laws/",
-      "published": "2026-10-18T09:00:44+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "News",
-      "tldr": "Plus, Semafor's Burgess Everett joins the podcast to discuss gun politics in the 2026 midterm elections."
-    },
-    {
       "id": "74aaa3ae1be20d76",
       "title": "Supreme Court Issues 9-0 Unanimous Ruling With Major Nationwide & Constitutional Implications!",
       "link": "https://www.youtube.com/watch?v=TJeYydiqTEs",
@@ -751,28 +839,6 @@
       "tldr": "Who Really Stops Mass Shooters? The Answer May Surprise You"
     },
     {
-      "id": "9ec313ffb97a134a",
-      "title": "NRA Targets Texas’s Talarico in First 2026 Ad as Everytown Pledges Millions More for State Legislative Ads",
-      "link": "https://thereload.com/nra-targets-texass-talarico-in-first-2026-ad-as-everytown-pledges-millions-more-for-state-legislative-ads/",
-      "published": "2026-10-16T09:02:31+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "News",
-      "tldr": "The gun-money fight is heating up as we head down the home stretch of the 2026 midterm elections."
-    },
-    {
-      "id": "ec159c8caf4ad992",
-      "title": "Newsletter: NRA Jumps Into 2026 Ad Race",
-      "link": "https://thereload.com/newsletter-nra-jumps-into-2026-ad-race/",
-      "published": "2026-10-16T09:00:29+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "Regulatory",
-      "tldr": "Plus, we have an exclusive interview on the podcast with the ATF's Director and Chief Counsel about changes to NFA enforcement."
-    },
-    {
       "id": "1d1964db5a9133c9",
       "title": "Florida Greenlights Unregistered Silencers, NRA Drops its First Midterm Ad",
       "link": "https://www.youtube.com/watch?v=h_v7s2qBzoA",
@@ -817,28 +883,6 @@
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
     },
     {
-      "id": "8dce68670e849430",
-      "title": "PA: GOA Knocks Down Federal NFA Scheme—Now AG Dave Sunday Must Protect Pennsylvanians",
-      "link": "https://www.gunowners.org/pa-goa-knocks-down-federal-nfa-scheme-now-ag-dave-sunday-must-protect-pennsylvanians/",
-      "published": "2026-10-15T20:23:29+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "GOA’s Federal NFA Win Leaves PA Gun Owners in Legal Limbo: AG Sunday Must Act NOW! Following a massive legal victory by Gun Owners of America, law-abiding Pennsylvanians are finally seeing…"
-    },
-    {
-      "id": "8a3c9122dc161f1e",
-      "title": "HERE’S HOW THEY VOTED!",
-      "link": "https://www.gunowners.org/101526-2/",
-      "published": "2026-10-15T14:41:30+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "Some claim to support the Second Amendment, others live it… Every two years, the gun control lobby gets a chance to take back the ground it has lost, and every two years, gun owners decide whether it…"
-    },
-    {
       "id": "214234974c137b73",
       "title": "BREAKING! Supreme Court Issuing Immediate Decision In Major Constitutional Rights Challenge!",
       "link": "https://www.youtube.com/watch?v=LQDli7UlrOE",
@@ -848,6 +892,50 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING! Supreme Court Issuing Immediate Decision In Major Constitutional Rights Challenge!"
+    },
+    {
+      "id": "7bab723f42fbeef7",
+      "title": "Trump Administration Issues Report Detailing Firearms Industry Debanking",
+      "link": "https://www.nraila.org/articles/20261014/trump-administration-issues-report-detailing-firearms-industry-debanking",
+      "published": "2026-10-14T21:20:02+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "Since taking office for the second time, President Donald Trump and his administration have worked to end political debanking and guarantee that all law-abiding Americans and businesses have access…"
+    },
+    {
+      "id": "bff169fc2c966f9b",
+      "title": "For Better and for Worse, “Direct Democracy” Seeks to Alter Gun and Hunting Policy",
+      "link": "https://www.nraila.org/articles/20261014/for-better-and-for-worse-direct-democracy-seeks-to-alter-gun-and-hunting-policy",
+      "published": "2026-10-14T20:55:25+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "Not every important Second Amendment or hunting policy fight begins with a bill number."
+    },
+    {
+      "id": "9d56acf2e4084472",
+      "title": "NRA Launches New Texas Senate Ad as Part of Multi-Million Dollar Campaign to Retain Pro-Gun Majorities in Congress",
+      "link": "https://www.nraila.org/articles/20261014/nra-launches-new-texas-senate-ad-as-part-of-multi-million-dollar-campaign-to-retain-pro-gun-majorities-in-congress",
+      "published": "2026-10-14T17:36:10+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "FAIRFAX, Va. — Today, the NRA Victory Fund Inc. released a new 30-second ad highlighting Democrat U.S. Senate candidate James Talarico’s longstanding support for banning so-called “assault weapons”…"
+    },
+    {
+      "id": "200b3180d9226515",
+      "title": "Mississippi: Attorney General Issues Statement on Suppressors Following ATF Decision",
+      "link": "https://www.nraila.org/articles/20261014/mississippi-attorney-general-issues-statement-on-suppressors-following-atf-decision",
+      "published": "2026-10-14T17:24:59+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Regulatory",
+      "tldr": "Following the ATF's recent decision regarding the enforcement of NFA transfer guidelines, Attorney General Lynn Fitch has issued a statement that filing an ATF Form 4 for suppressor transfers is no…"
     },
     {
       "id": "dfc6161f4cf92896",
@@ -892,6 +980,17 @@
       "source_type": "primary_legal",
       "category": "Court Case",
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
+      "id": "7ffe17b8e5a4e20d",
+      "title": "NRA New Jersey Alert: Anti-Gun Politicians Launch Another Campaign To Harass Gun Dealers",
+      "link": "https://www.nraila.org/articles/20261013/nra-new-jersey-alert-anti-gun-politicians-launch-another-campaign-to-harass-gun-dealers",
+      "published": "2026-10-13T18:13:01+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "After a brief hiatus in Trenton, the gun grabbers are back at it this week. On Thursday, October 16, the Senate Law &amp; Public Safety Committee will meet to consider S.1800."
     },
     {
       "id": "2670947885e5cecf",
@@ -1004,17 +1103,6 @@
       "tldr": "Huge Ruling Finds NFA Unconstitutional & Permanently Blocks Restrictions! ATF Now Issues Guidance!"
     },
     {
-      "id": "5b6c09bc0c64d575",
-      "title": "ATF GUIDANCE IS HERE!",
-      "link": "https://www.gunowners.org/100926-2/",
-      "published": "2026-10-09T16:39:24+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "And there are some big changes thanks to GOA’s lawsuit victory… ATF just released guidance on our massive victory in our “One Big Beautiful Lawsuit,” which struck down the registration requirements…"
-    },
-    {
       "id": "43a23836d6722672",
       "title": "Doe v. Columbus (Ohio Court of Appeals)",
       "link": "https://www.courtlistener.com/opinion/11025372/doe-v-columbus/",
@@ -1057,17 +1145,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Midterm Gun Money Race Turns Lopsided; Silencer Sales Soar"
-    },
-    {
-      "id": "d4075fa7ac3fd515",
-      "title": "Grow GOA, Grow Your Business",
-      "link": "https://www.gunowners.org/100826-2/",
-      "published": "2026-10-08T16:14:18+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "Get paid every time one of your customers joins the fight! As a part of Gun Owners of America’s Corporate Membership Program, you’re already actively in the fight to protect the Second Amendment…"
     },
     {
       "id": "b1d41583195be1a0",
@@ -1114,17 +1191,6 @@
       "tldr": "Connecticut's 'Glock Ban' Gets Blocked; Gun Owners Join Flock Camera Backlash"
     },
     {
-      "id": "595ede0ffe821e43",
-      "title": "This Week in Gun Rights",
-      "link": "https://www.gunowners.org/this-week-in-gun-rights/",
-      "published": "2026-10-02T19:35:50+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
-      "source_type": "org",
-      "category": "Legislation",
-      "tldr": "THIS WEEK IN THE FIGHT Here’s what you may have missed this week in the fight for the Second Amendment… This week, ATF confirmed that guidance is incoming on GOA’s historic victory against the…"
-    },
-    {
       "id": "8d374076d100d621",
       "title": "🚨 JUDGE STAYS CT GLOCK BAN! HB5043 BLOCKED? | PSA Dagger Live",
       "link": "https://www.youtube.com/watch?v=LbggIlvWzHY",
@@ -1145,17 +1211,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "GLOCKAGEDDON EVE: Connecticut’s HB5043 Enforcement Mystery | No Answers, No Guidance"
-    },
-    {
-      "id": "ba1e9c603f3d3e43",
-      "title": "1.4 BILLION RECORDS",
-      "link": "https://www.gunowners.org/093026-2/",
-      "published": "2026-09-30T16:08:03+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
-      "source_type": "org",
-      "category": "Legislation",
-      "tldr": "ATF’s illegal registry of guns and gun owners is growing… Breaking news, ATF just reported to Congress that their digital, searchable registry of guns and gun owners now contains over 1.4 billion…"
     },
     {
       "id": "b465379c5df6c26e",
