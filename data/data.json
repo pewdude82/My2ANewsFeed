@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-25T15:06:59.388897+00:00",
-  "item_count": 141,
+  "generated_at": "2026-10-25T18:35:04.127828+00:00",
+  "item_count": 151,
   "items": [
+    {
+      "id": "7dc0312217acd3d1",
+      "title": "HEADS UP! New NFA Trap: Police Say You Have 45 Days Before Your Firearm Is Forfeited",
+      "link": "https://www.youtube.com/watch?v=CjvKxuv5oEo",
+      "published": "2026-10-25T17:16:59+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "HEADS UP! New NFA Trap: Police Say You Have 45 Days Before Your Firearm Is Forfeited"
+    },
     {
       "id": "122d8134ebb95520",
       "title": "CONNECTICUT DEFENDS AR-15 BAN AT SCOTUS! | Grant v. Higgins Breakdown – Gun Guru Live",
@@ -157,6 +168,39 @@
       "tldr": "Bloomberg Injects Tens of Millions into Everytown Midterm Push; Polls Show Voters Complacent on Guns"
     },
     {
+      "id": "af39caa63944b119",
+      "title": "OH: Information on Dangerous Ordnance Licenses",
+      "link": "https://www.gunowners.org/oh10212026-3/",
+      "published": "2026-10-23T18:05:06+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "Ohio Law May Provide Another Exemption to NFA Registration Under ORC § 2923.18, Ohioans can apply for a $50 Dangerous Ordnance License, providing a separate exemption that does not expressly require…"
+    },
+    {
+      "id": "0a5c5351b18720d2",
+      "title": "OH: State Law Restricts Our NFA Win — Here’s What You Can Do",
+      "link": "https://www.gunowners.org/oh10222026-2/",
+      "published": "2026-10-23T18:04:58+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "GOA secured a historic victory against the National Firearms Act, but Ohio law is still standing in the way. On August 5, GOA and our fellow plaintiffs won a federal court victory against NFA…"
+    },
+    {
+      "id": "0ae2422c5f02ef67",
+      "title": "OH: GOA Proposes Amendments for SB 214 in Light of NFA Changes",
+      "link": "https://www.gunowners.org/oh10222026-1/",
+      "published": "2026-10-23T18:04:35+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "Gun Owners of America’s State & Local and Legal teams has been working diligently to review the Ohio Revised Code regarding “Dangerous Ordnance” regulations standing in the way of recent judicial and…"
+    },
+    {
       "id": "c43d29427d3b622e",
       "title": "Presidential pardon recipients still barred from buying guns",
       "link": "https://saf.org/presidential-pardon-recipients-still-barred-from-buying-guns/",
@@ -177,6 +221,17 @@
       "source_type": "org",
       "category": "Court Case",
       "tldr": "It must be a difficult time to be an anti-gun activist working at the Trace—the propaganda arm of former New York City mayor Michael Bloomberg’s anti-gun empire. After all, things are certainly not…"
+    },
+    {
+      "id": "45006a692faf4b45",
+      "title": "THIS WEEK IN THE FIGHT",
+      "link": "https://www.gunowners.org/101726/",
+      "published": "2026-10-23T15:52:12+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "Here’s what you may have missed this week in the fight for the Second Amendment… This week, GOA & GOF filed a lawsuit in Pennsylvania against “enhanced” background checks for 18-to-20-year-old…"
     },
     {
       "id": "fedf46320c3d130c",
@@ -817,17 +872,6 @@
       "tldr": "Supreme Court Issues Emergency Election Ruling With Major Nationwide Implications! Expansion Sought!"
     },
     {
-      "id": "5f6cf65c86d7d603",
-      "title": "FEDERAL COURT SHOCKER: Your Past Crimes Don't Have to Mean Lifetime Disarmament",
-      "link": "https://www.youtube.com/watch?v=NEjzbrZoqmo",
-      "published": "2026-10-16T20:10:50+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "FEDERAL COURT SHOCKER: Your Past Crimes Don't Have to Mean Lifetime Disarmament"
-    },
-    {
       "id": "b151e41d0e2c1d8a",
       "title": "Who Really Stops Mass Shooters? The Answer May Surprise You",
       "link": "https://www.youtube.com/shorts/68LBYF2wfkQ",
@@ -881,6 +925,28 @@
       "source_type": "primary_legal",
       "category": "Court Case",
       "tldr": "Federal court opinion referencing the Second Amendment. Click through for the full filing on CourtListener."
+    },
+    {
+      "id": "8dce68670e849430",
+      "title": "PA: GOA Knocks Down Federal NFA Scheme—Now AG Dave Sunday Must Protect Pennsylvanians",
+      "link": "https://www.gunowners.org/pa-goa-knocks-down-federal-nfa-scheme-now-ag-dave-sunday-must-protect-pennsylvanians/",
+      "published": "2026-10-15T20:23:29+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "GOA’s Federal NFA Win Leaves PA Gun Owners in Legal Limbo: AG Sunday Must Act NOW! Following a massive legal victory by Gun Owners of America, law-abiding Pennsylvanians are finally seeing…"
+    },
+    {
+      "id": "8a3c9122dc161f1e",
+      "title": "HERE’S HOW THEY VOTED!",
+      "link": "https://www.gunowners.org/101526-2/",
+      "published": "2026-10-15T14:41:30+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "Some claim to support the Second Amendment, others live it… Every two years, the gun control lobby gets a chance to take back the ground it has lost, and every two years, gun owners decide whether it…"
     },
     {
       "id": "214234974c137b73",
@@ -1103,6 +1169,17 @@
       "tldr": "Huge Ruling Finds NFA Unconstitutional & Permanently Blocks Restrictions! ATF Now Issues Guidance!"
     },
     {
+      "id": "5b6c09bc0c64d575",
+      "title": "ATF GUIDANCE IS HERE!",
+      "link": "https://www.gunowners.org/100926-2/",
+      "published": "2026-10-09T16:39:24+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "And there are some big changes thanks to GOA’s lawsuit victory… ATF just released guidance on our massive victory in our “One Big Beautiful Lawsuit,” which struck down the registration requirements…"
+    },
+    {
       "id": "43a23836d6722672",
       "title": "Doe v. Columbus (Ohio Court of Appeals)",
       "link": "https://www.courtlistener.com/opinion/11025372/doe-v-columbus/",
@@ -1145,6 +1222,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Midterm Gun Money Race Turns Lopsided; Silencer Sales Soar"
+    },
+    {
+      "id": "d4075fa7ac3fd515",
+      "title": "Grow GOA, Grow Your Business",
+      "link": "https://www.gunowners.org/100826-2/",
+      "published": "2026-10-08T16:14:18+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "Get paid every time one of your customers joins the fight! As a part of Gun Owners of America’s Corporate Membership Program, you’re already actively in the fight to protect the Second Amendment…"
     },
     {
       "id": "b1d41583195be1a0",
@@ -1191,6 +1279,17 @@
       "tldr": "Connecticut's 'Glock Ban' Gets Blocked; Gun Owners Join Flock Camera Backlash"
     },
     {
+      "id": "595ede0ffe821e43",
+      "title": "This Week in Gun Rights",
+      "link": "https://www.gunowners.org/this-week-in-gun-rights/",
+      "published": "2026-10-02T19:35:50+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "THIS WEEK IN THE FIGHT Here’s what you may have missed this week in the fight for the Second Amendment… This week, ATF confirmed that guidance is incoming on GOA’s historic victory against the…"
+    },
+    {
       "id": "8d374076d100d621",
       "title": "🚨 JUDGE STAYS CT GLOCK BAN! HB5043 BLOCKED? | PSA Dagger Live",
       "link": "https://www.youtube.com/watch?v=LbggIlvWzHY",
@@ -1211,6 +1310,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "GLOCKAGEDDON EVE: Connecticut’s HB5043 Enforcement Mystery | No Answers, No Guidance"
+    },
+    {
+      "id": "ba1e9c603f3d3e43",
+      "title": "1.4 BILLION RECORDS",
+      "link": "https://www.gunowners.org/093026-2/",
+      "published": "2026-09-30T16:08:03+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "ATF’s illegal registry of guns and gun owners is growing… Breaking news, ATF just reported to Congress that their digital, searchable registry of guns and gun owners now contains over 1.4 billion…"
     },
     {
       "id": "b465379c5df6c26e",
