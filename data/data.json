@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-28T17:29:03.482593+00:00",
-  "item_count": 141,
+  "generated_at": "2026-10-28T23:40:24.737469+00:00",
+  "item_count": 138,
   "items": [
+    {
+      "id": "39cb093e882c93ba",
+      "title": "They Want to Use Anti Klan Laws to BAN Your AR 15?!",
+      "link": "https://www.youtube.com/watch?v=-NjlODWa_NM",
+      "published": "2026-10-28T20:56:35+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "They Want to Use Anti Klan Laws to BAN Your AR 15?!"
+    },
     {
       "id": "7daec425fb53c85e",
       "title": "How Does A Self-Defense Shooting Turn Into 7 Felonies? ... Even In A Pro-Gun State!",
@@ -36,37 +47,37 @@
       "tldr": "Supreme Court 9-0 Unanimous Decision Creates Immediate Constitutional Commerce Clause Challenge!"
     },
     {
-      "id": "90e6d33b76a98333",
-      "title": "Neutralizing Unfair Chinese Export Subsidies Act of 2021",
-      "link": "https://www.congress.gov/bill/117th-congress/hr/5790",
+      "id": "e4c558b3981f1e80",
+      "title": "To designate the facility of the United States Postal Service located at 1905 Route 112 in Medford, New York, as the \"Gunnery Sergeant Ruben Santos Post Office Building\".",
+      "link": "https://www.congress.gov/bill/119th-congress/hr/10779",
       "published": "2026-10-28T00:00:00+00:00",
       "source_id": "congress-gov",
       "source_name": "Congress.gov",
       "source_type": "primary_legal",
       "category": "Legislation",
-      "tldr": "Latest action: Referred to the House Committee on Financial Services."
+      "tldr": "Latest action: Referred to the House Committee on Oversight and Government Reform."
     },
     {
-      "id": "9421e9d37190a009",
-      "title": "Neutralizing Unfair Chinese Export Subsidies Act of 2025",
-      "link": "https://www.congress.gov/bill/119th-congress/hr/4522",
+      "id": "d14d0086f2852784",
+      "title": "Federal Firearms Licensee Protection Act of 2025",
+      "link": "https://www.congress.gov/bill/119th-congress/hr/1773",
       "published": "2026-10-28T00:00:00+00:00",
       "source_id": "congress-gov",
       "source_name": "Congress.gov",
       "source_type": "primary_legal",
       "category": "Legislation",
-      "tldr": "Latest action: Referred to the House Committee on Financial Services."
+      "tldr": "Latest action: Referred to the House Committee on the Judiciary."
     },
     {
-      "id": "f68feb56ebc8a384",
-      "title": "Neutralizing Unfair Chinese Export Subsidies Act of 2023",
-      "link": "https://www.congress.gov/bill/118th-congress/hr/1137",
+      "id": "155d8198f92dafa1",
+      "title": "Infant Formula Safety Modernization Act of 2026",
+      "link": "https://www.congress.gov/bill/119th-congress/hr/7867",
       "published": "2026-10-28T00:00:00+00:00",
       "source_id": "congress-gov",
       "source_name": "Congress.gov",
       "source_type": "primary_legal",
       "category": "Legislation",
-      "tldr": "Latest action: Referred to the House Committee on Financial Services."
+      "tldr": "Latest action: Referred to the House Committee on Energy and Commerce."
     },
     {
       "id": "953ac0dd874709f4",
@@ -100,39 +111,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Asked to Declare Part of the Second Amendment Extinct?"
-    },
-    {
-      "id": "7af93fcd7988da59",
-      "title": "Secure Background Checks Act of 2025",
-      "link": "https://www.congress.gov/bill/119th-congress/hr/2648",
-      "published": "2026-10-27T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Referred to the House Committee on the Judiciary."
-    },
-    {
-      "id": "3ed1d5852b1084d4",
-      "title": "Secure Background Checks Act of 2023",
-      "link": "https://www.congress.gov/bill/118th-congress/hr/2898",
-      "published": "2026-10-27T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Referred to the House Committee on the Judiciary."
-    },
-    {
-      "id": "6729642305384a4e",
-      "title": "Secure Background Checks Act of 2021",
-      "link": "https://www.congress.gov/bill/117th-congress/hr/5080",
-      "published": "2026-10-27T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Referred to the Subcommittee on Crime, Terrorism, and Homeland Security."
     },
     {
       "id": "d92624135360706e",
@@ -749,17 +727,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING! Supreme Court Grants Review Impacting Nationwide Suppressor & NFA Tax Ruling!"
-    },
-    {
-      "id": "3a56859e7b8b301a",
-      "title": "Armed Dad Stops School Shooter—Senators Demand MORE Gun Control!",
-      "link": "https://www.youtube.com/watch?v=kZVA1f5YKZ8",
-      "published": "2026-10-20T21:41:21+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Armed Dad Stops School Shooter—Senators Demand MORE Gun Control!"
     },
     {
       "id": "efe18089dcfa0b13",
