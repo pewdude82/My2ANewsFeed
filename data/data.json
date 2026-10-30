@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-30T03:07:45.210911+00:00",
-  "item_count": 30,
+  "generated_at": "2026-10-30T10:29:53.337463+00:00",
+  "item_count": 135,
   "items": [
+    {
+      "id": "7f904ce74094275c",
+      "title": "Everytown Banks Millions More as Bloomberg Boosts Texas’s Talarico Through Big Gift to Another Group",
+      "link": "https://thereload.com/everytown-banks-millions-more-as-bloomberg-boosts-texass-talarico-through-big-gift-to-another-group/",
+      "published": "2026-10-30T09:06:03+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Legislation",
+      "tldr": "New Federal Election Commission (FEC) filings show that Everytown for Gun Safety may be spending more than previously promised on efforts to influence the 2026 congressional elections, even as its…"
+    },
+    {
+      "id": "96f43fc074594337",
+      "title": "Analysis: Everytown Outraises Even Previous Presidential Cycles [Member Exclusive]",
+      "link": "https://thereload.com/analysis-everytown-outraises-even-previous-presidential-cycles-member-exclusive/",
+      "published": "2026-10-30T09:02:08+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "News",
+      "tldr": "The Everytown for Gun Safety Victory Fund has now pulled in more than $34.7 million during the 2026 midterms. That's more than it's ever raised before."
+    },
+    {
+      "id": "e3053d4cd4d4c6e0",
+      "title": "Newsletter: Bloomberg Pushes Everytown Beyond Even Presidential Cycle Fundraising Record",
+      "link": "https://thereload.com/newsletter-bloomberg-pushes-everytown-beyond-even-presidential-cycle-fundraising-record/",
+      "published": "2026-10-30T09:00:05+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "News",
+      "tldr": "Plus, firearms attorney Gilbert Ambler joins the podcast to explain how National Firearms Act mirror laws may keep some buyers from enjoying the benefits of the federal law being blocked."
+    },
+    {
+      "id": "db47293da8607d66",
+      "title": "DOJ Says ATF Will Help Monitor Polling Places During Midterm Elections",
+      "link": "https://thereload.com/doj-says-atf-will-help-monitor-midterm-elections/",
+      "published": "2026-10-30T04:49:13+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Regulatory",
+      "tldr": "Americans may see Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF) employees at their local polling place next Tuesday."
+    },
     {
       "id": "4428f6b0907d8403",
       "title": "The Races Gun Owners Should Watch on Tuesday",
@@ -12,6 +56,39 @@
       "source_type": "journalism",
       "category": "Legislation",
       "tldr": "The November midterm general election is approaching, and Americans will soon elect members of the House of Representatives and Senate, as well as vote on numerous local government positions and…"
+    },
+    {
+      "id": "d243537c75e161b5",
+      "title": "ANTI GUNNERS FLOOD SCOTUS With Briefs! | Grant v Higgins",
+      "link": "https://www.youtube.com/watch?v=1qEgpRoArHc",
+      "published": "2026-10-29T21:00:57+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "ANTI GUNNERS FLOOD SCOTUS With Briefs! | Grant v Higgins"
+    },
+    {
+      "id": "4632b81e63c20940",
+      "title": "BREAKING: DOJ Threatens Lawsuit Over $2,000 Gun Permits!",
+      "link": "https://www.youtube.com/watch?v=Uq9KHRnOCZc",
+      "published": "2026-10-29T20:30:47+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "BREAKING: DOJ Threatens Lawsuit Over $2,000 Gun Permits!"
+    },
+    {
+      "id": "4a4f643de0d4df70",
+      "title": "Can A Missed Shot In Self-Defense Bring Felony Charges?",
+      "link": "https://www.youtube.com/shorts/AwswKHWghsI",
+      "published": "2026-10-29T17:15:33+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Can A Missed Shot In Self-Defense Bring Felony Charges?"
     },
     {
       "id": "9e3ebe37af0d82a2",
@@ -25,6 +102,28 @@
       "tldr": "A major online ammunition dealer is betting its business on who controls Congress--literally."
     },
     {
+      "id": "005fcb4743a38068",
+      "title": "District Court Declines to Enter Agreement to Invalidate Florida’s Waiting Period Law in NRA Case and Invites Amici Participation",
+      "link": "https://www.nraila.org/articles/20261029/district-court-declines-to-enter-agreement-to-invalidate-florida-s-waiting-period-law-in-nra-case-and-invites-amici-participation",
+      "published": "2026-10-29T16:29:41+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "Yesterday, U.S. District Judge Steven D. Merryday denied the parties’ joint motion for entry of judgment in the National Rifle Association’s challenge to Florida’s firearm waiting period law. The…"
+    },
+    {
+      "id": "5af8a20aa5237481",
+      "title": "Police Chiefs Just Asked SCOTUS to Uphold AR-15 Bans",
+      "link": "https://www.youtube.com/watch?v=KY3OuR0ewww",
+      "published": "2026-10-29T13:31:50+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Police Chiefs Just Asked SCOTUS to Uphold AR-15 Bans"
+    },
+    {
       "id": "5c14ea565cac35b6",
       "title": "SIG SAUER RENEWS GOLD-LEVEL CORPORATE PARTNERSHIP",
       "link": "https://saf.org/sig-sauer-renews-gold-level-corporate-partnership/",
@@ -36,6 +135,105 @@
       "tldr": "BELLEVUE, Wash. — Oct. 29, 2026 — The Second Amendment Foundation is pleased to announce that SIG SAUER has renewed their corporate partner commitment at the Gold level. “Protecting the fundamental…"
     },
     {
+      "id": "6a8b21dca63d0c59",
+      "title": "Permanent Nationwide Block of Short Barreled Rifle & Pistol Brace Rule Gets Pushback By DOJ!",
+      "link": "https://www.youtube.com/watch?v=S8x5S2A8Rfs",
+      "published": "2026-10-29T00:00:01+00:00",
+      "source_id": "armed-scholar",
+      "source_name": "Armed Scholar",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Permanent Nationwide Block of Short Barreled Rifle & Pistol Brace Rule Gets Pushback By DOJ!"
+    },
+    {
+      "id": "39cb093e882c93ba",
+      "title": "They Want to Use Anti-Klan Laws to BAN Your AR-15?!",
+      "link": "https://www.youtube.com/watch?v=-NjlODWa_NM",
+      "published": "2026-10-28T20:56:35+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "They Want to Use Anti-Klan Laws to BAN Your AR-15?!"
+    },
+    {
+      "id": "7daec425fb53c85e",
+      "title": "How Does A Self-Defense Shooting Turn Into 7 Felonies? ... Even In A Pro-Gun State!",
+      "link": "https://www.youtube.com/watch?v=yOKA32Q-zOU",
+      "published": "2026-10-28T17:02:28+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "How Does A Self-Defense Shooting Turn Into 7 Felonies? ... Even In A Pro-Gun State!"
+    },
+    {
+      "id": "5a5e3483748fda94",
+      "title": "Bloomberg Just Dumped $22 Million Into Gun Control and It's Just the Start",
+      "link": "https://www.youtube.com/watch?v=XO4cALcyqFc",
+      "published": "2026-10-28T13:34:06+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Bloomberg Just Dumped $22 Million Into Gun Control and It's Just the Start"
+    },
+    {
+      "id": "9c9e009db743eac1",
+      "title": "Supreme Court 9-0 Unanimous Decision Creates Immediate Constitutional Commerce Clause Challenge!",
+      "link": "https://www.youtube.com/watch?v=U4ZEUFBB9xg",
+      "published": "2026-10-28T00:00:01+00:00",
+      "source_id": "armed-scholar",
+      "source_name": "Armed Scholar",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Supreme Court 9-0 Unanimous Decision Creates Immediate Constitutional Commerce Clause Challenge!"
+    },
+    {
+      "id": "953ac0dd874709f4",
+      "title": "BREAKING NEWS: The ATF Brace Fight Is Not Over, and Gun Owners Are Still at Risk",
+      "link": "https://www.youtube.com/watch?v=i08dlJN8DOo",
+      "published": "2026-10-27T20:33:16+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "BREAKING NEWS: The ATF Brace Fight Is Not Over, and Gun Owners Are Still at Risk"
+    },
+    {
+      "id": "8296b809066df047",
+      "title": "Scientists Taught Wi-Fi to Find Handguns…",
+      "link": "https://www.youtube.com/shorts/eYc8SAvOlwI",
+      "published": "2026-10-27T17:08:02+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Scientists Taught Wi-Fi to Find Handguns…"
+    },
+    {
+      "id": "77f3d45bb4597b01",
+      "title": "Supreme Court Asked to Declare Part of the Second Amendment Extinct?",
+      "link": "https://www.youtube.com/watch?v=rNsYjA8eQvk",
+      "published": "2026-10-27T13:49:43+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Supreme Court Asked to Declare Part of the Second Amendment Extinct?"
+    },
+    {
+      "id": "d92624135360706e",
+      "title": "NYPD EXPOSED: They're Breaking Their OWN Gun Laws!",
+      "link": "https://www.youtube.com/watch?v=FZfMokbanQo",
+      "published": "2026-10-26T21:01:27+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "NYPD EXPOSED: They're Breaking Their OWN Gun Laws!"
+    },
+    {
       "id": "063f7f938c11525b",
       "title": "VOLQUARTSEN RENEWS CORPORATE PARTNER COMMITMENT, UPGRADES TO GOLD LEVEL",
       "link": "https://saf.org/volquartsen-renews-corporate-partner-commitment-upgrades-to-gold-level/",
@@ -45,6 +243,116 @@
       "source_type": "org",
       "category": "News",
       "tldr": "BELLEVUE, Wash. — Oct. 26, 2026 — The Second Amendment Foundation (SAF) is pleased to announce that Volquartsen Firearms has renewed their corporate partner commitment and upgraded to the Gold level…"
+    },
+    {
+      "id": "80c610ac3e7de45c",
+      "title": "Scientists Taught Wi-Fi to Find Handguns… Here's What Police Can Legally Do Next",
+      "link": "https://www.youtube.com/watch?v=omj-Sw1zmNw",
+      "published": "2026-10-26T17:22:16+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Scientists Taught Wi-Fi to Find Handguns… Here's What Police Can Legally Do Next"
+    },
+    {
+      "id": "f9053b879af0bc4a",
+      "title": "Location, Location, Location: Study Finds Crime Concentration Correlates with Politics",
+      "link": "https://www.nraila.org/articles/20261026/location-location-location-study-finds-crime-concentration-correlates-with-politics",
+      "published": "2026-10-26T16:01:54+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "It’s well established that certain offenders remain disproportionately responsible for violent crime. A 2001 report on such “chronic offenders” in Minnesota concluded that over a four-year period…"
+    },
+    {
+      "id": "b5b121d863bdc3b8",
+      "title": "Different Election, Same Billionaire, Same Gun Control Agenda",
+      "link": "https://www.nraila.org/articles/20261026/different-election-same-billionaire-same-gun-control-agenda",
+      "published": "2026-10-26T15:59:20+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "Another election, same former New York City mayor Michael Bloomberg working to shape the nation’s gun laws. For years, NRA has exposed Bloomberg’s relentless efforts to export New York style gun…"
+    },
+    {
+      "id": "c5849de719decab3",
+      "title": "San Francisco Law Professor Purports to Channel Scalia on AR-15s; Ignores Scalia",
+      "link": "https://www.nraila.org/articles/20261026/san-francisco-law-professor-purports-to-channel-scalia-on-ar-15s-ignores-scalia",
+      "published": "2026-10-26T15:43:41+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "Some arguments succeed by being true. Some attempt to succeed by confusing the debate and substituting misdirection for clarity. And some attempt to succeed merely by dogged persistence, refusing to…"
+    },
+    {
+      "id": "2b7ba30ad0bb0fdb",
+      "title": "Grassroots Spotlight: NRA Leadership and Grassroots Advocates Unite at the “ASRPA Education & Training Dinner”",
+      "link": "https://www.nraila.org/articles/20261026/grassroots-spotlight-nra-leadership-and-grassroots-advocates-unite-at-the-asrpa-education-training-dinner",
+      "published": "2026-10-26T15:37:35+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "NRA-ILA Grassroots Field Coordinator Darius Diggs recently attended the Arizona State Rifle and Pistol Association's (ASRPA) Annual “Education &amp; Training Dinner”, alongside FrontLines Activist…"
+    },
+    {
+      "id": "5331544fbad8aff3",
+      "title": "HUGE 2A WIN! Federal Court Rules Knives ARE Protected Arms!",
+      "link": "https://www.youtube.com/watch?v=81nRmhFNpEo",
+      "published": "2026-10-26T13:52:41+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "HUGE 2A WIN! Federal Court Rules Knives ARE Protected Arms!"
+    },
+    {
+      "id": "7f7d4274fd0f4f7b",
+      "title": "How NFA Mirror Laws Impact Silencer, SBR Sales (ft. Firearms Attorney Gilbert Ambler)",
+      "link": "https://www.youtube.com/watch?v=_9yfEKxfzcU",
+      "published": "2026-10-26T12:00:36+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "How NFA Mirror Laws Impact Silencer, SBR Sales (ft. Firearms Attorney Gilbert Ambler)"
+    },
+    {
+      "id": "6d9d7a52106b3af5",
+      "title": "Huge Ruling Finds NFA Unconstitutional & Blocks Suppressor Restrictions! State Bans Now Targeted!",
+      "link": "https://www.youtube.com/watch?v=G4go_HuUviQ",
+      "published": "2026-10-26T00:00:01+00:00",
+      "source_id": "armed-scholar",
+      "source_name": "Armed Scholar",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Huge Ruling Finds NFA Unconstitutional & Blocks Suppressor Restrictions! State Bans Now Targeted!"
+    },
+    {
+      "id": "7dc0312217acd3d1",
+      "title": "HEADS UP! New NFA Trap: Police Say You Have 45 Days Before Your Firearm Is Forfeited",
+      "link": "https://www.youtube.com/watch?v=CjvKxuv5oEo",
+      "published": "2026-10-25T17:16:59+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "HEADS UP! New NFA Trap: Police Say You Have 45 Days Before Your Firearm Is Forfeited"
+    },
+    {
+      "id": "122d8134ebb95520",
+      "title": "CONNECTICUT DEFENDS AR-15 BAN AT SCOTUS! | Grant v. Higgins Breakdown – Gun Guru Live",
+      "link": "https://www.youtube.com/watch?v=ApgTXqVAZSg",
+      "published": "2026-10-25T12:21:38+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "CONNECTICUT DEFENDS AR-15 BAN AT SCOTUS! | Grant v. Higgins Breakdown – Gun Guru Live"
     },
     {
       "id": "eb6246dae3119020",
@@ -80,6 +388,28 @@
       "tldr": "Plus, firearms attorney Gilbert Ambler joins the podcast to discuss NFA mirror laws."
     },
     {
+      "id": "61a4989bdf5934ab",
+      "title": "BREAKING! Supreme Court Issuing Immediate Decision In Major Constitutional Rights Challenge!",
+      "link": "https://www.youtube.com/watch?v=5sda77O2aDk",
+      "published": "2026-10-25T00:00:03+00:00",
+      "source_id": "armed-scholar",
+      "source_name": "Armed Scholar",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "BREAKING! Supreme Court Issuing Immediate Decision In Major Constitutional Rights Challenge!"
+    },
+    {
+      "id": "a3112371cfa17230",
+      "title": "State AG Warning: Why You Need To Check Your NFA Items Right Now!",
+      "link": "https://www.youtube.com/watch?v=zk0ZcCQcIH0",
+      "published": "2026-10-24T19:44:55+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "State AG Warning: Why You Need To Check Your NFA Items Right Now!"
+    },
+    {
       "id": "16af00a8790f4717",
       "title": "GOA Takes Virginia’s “Assault Weapons” Ban to Court … Again",
       "link": "https://www.gunowners.org/goa-takes-virginias-assault-weapons-ban-to-court-again/",
@@ -91,6 +421,50 @@
       "tldr": "THIS WEEK IN THE FIGHT FOR YOUR 2A RIGHTS! Here’s what you may have missed this week in the fight for the Second Amendment… This week, GOA headed back to court in Virginia to fight the state’s…"
     },
     {
+      "id": "fd4ada808e7f2b1e",
+      "title": "Mass Shooter Stopped By Armed Civilian…",
+      "link": "https://www.youtube.com/shorts/KHfrPmc6My8",
+      "published": "2026-10-24T17:00:38+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Mass Shooter Stopped By Armed Civilian…"
+    },
+    {
+      "id": "21e3d88e55e2a38e",
+      "title": "Supreme Court Issues Emergency Election Denial Order With Major Nationwide Implications!",
+      "link": "https://www.youtube.com/watch?v=etTzG9R2uF8",
+      "published": "2026-10-24T00:00:02+00:00",
+      "source_id": "armed-scholar",
+      "source_name": "Armed Scholar",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Supreme Court Issues Emergency Election Denial Order With Major Nationwide Implications!"
+    },
+    {
+      "id": "965b9a6bfa8e1094",
+      "title": "NRA Files Amicus Brief Urging Ninth Circuit to Rehear Challenge to California’s Gun Store Surveillance Law En Banc",
+      "link": "https://www.nraila.org/articles/20261023/nra-files-amicus-brief-urging-ninth-circuit-to-rehear-challenge-to-california-s-gun-store-surveillance-law-en-banc",
+      "published": "2026-10-23T21:52:25+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "The National Rifle Association of America, along with the America First Policy Institute and Knox Williams, founder of the American Suppressor Association, filed an amicus brief urging the U.S. Court…"
+    },
+    {
+      "id": "741e5f5c026f8638",
+      "title": "NFA Fallout EXPLODES! Another Prosecutor Tells Police to Back Off!",
+      "link": "https://www.youtube.com/watch?v=msiiBf8QuwI",
+      "published": "2026-10-23T20:53:06+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "NFA Fallout EXPLODES! Another Prosecutor Tells Police to Back Off!"
+    },
+    {
       "id": "3db2d73fa7b742d3",
       "title": "MOTION FOR PRELIMINARY INJUNCTION FILED IN FIREARMS PURCHASE WAITING PERIOD CASE",
       "link": "https://saf.org/motion-for-preliminary-injunction-filed-in-firearms-purchase-waiting-period-case/",
@@ -100,6 +474,39 @@
       "source_type": "org",
       "category": "Court Case",
       "tldr": "BELLEVUE, Wash. — Oct. 23, 2026 — The Second Amendment Foundation (SAF) and its partners have filed a motion for preliminary injunction in NSSF v. Torrez, SAF’s challenge to New Mexico’s “cooling…"
+    },
+    {
+      "id": "d0579a27b328264f",
+      "title": "Fifth Circuit Rules Federal Switchblade Knife Restrictions Violate the Second Amendment",
+      "link": "https://www.nraila.org/articles/20261023/fifth-circuit-rules-federal-switchblade-knife-restrictions-violate-the-second-amendment",
+      "published": "2026-10-23T18:51:53+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "The U.S. Court of Appeals for the Fifth Circuit has ruled that the federal Switchblade Act’s restrictions on the interstate commerce of switchblade knives violate the Second Amendment."
+    },
+    {
+      "id": "3ce34056ba03833a",
+      "title": "Unarmed Attacker Comes At You ... Can You Legally Shoot In Self-Defense?",
+      "link": "https://www.youtube.com/shorts/Zfhr-IVNvhw",
+      "published": "2026-10-23T18:23:50+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Unarmed Attacker Comes At You ... Can You Legally Shoot In Self-Defense?"
+    },
+    {
+      "id": "f4e8cf8b1284893a",
+      "title": "Bloomberg Injects Tens of Millions into Everytown Midterm Push; Polls Show Voters Complacent on Guns",
+      "link": "https://www.youtube.com/watch?v=yp6-7UqcFeU",
+      "published": "2026-10-23T18:21:29+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Bloomberg Injects Tens of Millions into Everytown Midterm Push; Polls Show Voters Complacent on Guns"
     },
     {
       "id": "af39caa63944b119",
@@ -179,6 +586,17 @@
       "tldr": "As arsonists, rioters and looters swarmed the streets of Paris Sunday night, French police were completely ineffective and President Emmanuel Macron and his wife were off attending a concert, which…"
     },
     {
+      "id": "9637b4c44ca6a433",
+      "title": "DOJ TARGETS Police Departments Over Gun Permit Delays: What You Need to Know",
+      "link": "https://www.youtube.com/watch?v=gfFLN3f5RTc",
+      "published": "2026-10-23T13:08:09+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "DOJ TARGETS Police Departments Over Gun Permit Delays: What You Need to Know"
+    },
+    {
       "id": "fb50e8ba3e94c3ed",
       "title": "Bloomberg Pours Tens of Millions into Everytown as it Announces Another $3 Million Midterm Ad Buy",
       "link": "https://thereload.com/bloomberg-pours-tens-of-millions-into-everytown-as-it-announces-another-3-million-midterm-ad-buy/",
@@ -190,37 +608,70 @@
       "tldr": "With the 2026 election less than two weeks away, gun-control groups continued to dominate gun-policy advertising--thanks substantially to a massive donation from billionaire Michael Bloomberg."
     },
     {
-      "id": "0ba316925ed019cc",
-      "title": "Analysis: Everytown Blows Past Previous Midterm Fundraising Record, Gun-Rights Rivals [Member Exclusive]",
-      "link": "https://thereload.com/analysis-everytown-blows-past-previous-midterm-fundraising-record-gun-rights-rivals-member-exclusive/",
-      "published": "2026-10-23T09:02:25+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "News",
-      "tldr": "Everytown's political arm just set a new fundraising record this cycle, eclipsing its previous midterm performance and leaving its opponents in the dust."
+      "id": "4766548b4049864d",
+      "title": "BREAKING! Supreme Court Decision To Permanently End \"Assault Weapon\" Bans Pushes Forward!",
+      "link": "https://www.youtube.com/watch?v=yu_5QBjKKYk",
+      "published": "2026-10-23T00:00:01+00:00",
+      "source_id": "armed-scholar",
+      "source_name": "Armed Scholar",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "BREAKING! Supreme Court Decision To Permanently End \"Assault Weapon\" Bans Pushes Forward!"
     },
     {
-      "id": "4e512eff05de0059",
-      "title": "Newsletter: Bloomberg Drops Cash Bomb on Midterms",
-      "link": "https://thereload.com/newsletter-bloomberg-drops-cash-bomb-on-midterms/",
-      "published": "2026-10-23T09:00:58+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
+      "id": "428a927b9781bda1",
+      "title": "A Senate Candidate Just Mocked Owning Guns … and the Crowd Loved It?!",
+      "link": "https://www.youtube.com/shorts/by1Vbx-Y1Bc",
+      "published": "2026-10-22T23:00:03+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "A Senate Candidate Just Mocked Owning Guns … and the Crowd Loved It?!"
+    },
+    {
+      "id": "11225c8a9f59f521",
+      "title": "Huge Victory: Another State AG Rules Against Federal NFA Requirements",
+      "link": "https://www.youtube.com/watch?v=Ove_7_M_RzM",
+      "published": "2026-10-22T21:00:26+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Huge Victory: Another State AG Rules Against Federal NFA Requirements"
+    },
+    {
+      "id": "049b311bc871526d",
+      "title": "New York: Gov. Hochul Signs More Gun Control This Week",
+      "link": "https://www.nraila.org/articles/20261022/new-york-gov-hochul-signs-more-gun-control-this-week",
+      "published": "2026-10-22T20:06:51+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
       "category": "Legislation",
-      "tldr": "Plus, Semafor's Burgess Everett joins the podcast to explore how gun politics are impacting the midterms and what might happen if Democrats retake Congress."
+      "tldr": "Gov. Kathy Hochul remains the scariest thing in Albany for law-abiding gun owners. On Wednesday, October 21 the anti-gun governor of the Empire State signed a pair of gun bills into law. We've…"
     },
     {
-      "id": "46d3d8f9745f0fcf",
-      "title": "Federal Judge Strikes Down New York Ban on Civilian Body Armor Sales",
-      "link": "https://thereload.com/federal-judge-strikes-down-new-york-ban-on-civilian-body-armor-sales/",
-      "published": "2026-10-23T00:20:18+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "Court Case",
-      "tldr": "New York’s first-of-its-kind law banning most people from buying body armor for self-defense is unconstitutional, a federal judge has now ruled."
+      "id": "36742b422607bb1f",
+      "title": "A Candidate Said the 2A Only Covers Muskets… And the Crowd Agreed?!",
+      "link": "https://www.youtube.com/watch?v=0uskeLnp61Y",
+      "published": "2026-10-22T17:19:01+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "A Candidate Said the 2A Only Covers Muskets… And the Crowd Agreed?!"
+    },
+    {
+      "id": "90483e9495ff25ce",
+      "title": "BREAKING: The Supreme Court’s AR-15 Showdown Just Intensified! Governments Response",
+      "link": "https://www.youtube.com/watch?v=AJZt2tca_6o",
+      "published": "2026-10-22T13:29:53+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "BREAKING: The Supreme Court’s AR-15 Showdown Just Intensified! Governments Response"
     },
     {
       "id": "471a3ce3d5d91d00",
@@ -234,15 +685,59 @@
       "tldr": "BELLEVUE, Wash. — Oct. 22, 2026 — The opposition in Second Amendment Foundation’s (SAF) challenges to so-called “assault weapons” bans has filed their opening briefs with the Supreme Court laying out…"
     },
     {
-      "id": "4cc7013ef4b770f6",
-      "title": "Home Stretch Polling Suggests Gun Policy a Low Priority Headed into Election Day",
-      "link": "https://thereload.com/home-stretch-polling-suggests-gun-policy-a-low-priority-headed-into-election-day/",
-      "published": "2026-10-22T09:00:20+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "News",
-      "tldr": "Surveys from some of the top pollsters conducted during the first three weeks of October show Americans aren’t very interested in gun politics. An NBC News/Decision Desk poll released this week shows…"
+      "id": "6c7af779b55e0f35",
+      "title": "El-Sayed wants you to own a musket #2ndamendment #shorts #politics",
+      "link": "https://www.youtube.com/shorts/pR3f098XlUQ",
+      "published": "2026-10-22T00:49:05+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "El-Sayed wants you to own a musket #2ndamendment #shorts #politics"
+    },
+    {
+      "id": "5e82ef1025047d0d",
+      "title": "BREAKING! Supreme Court Emergency Election Decision Moves Forward!",
+      "link": "https://www.youtube.com/watch?v=1OfMVaVyDq8",
+      "published": "2026-10-22T00:00:02+00:00",
+      "source_id": "armed-scholar",
+      "source_name": "Armed Scholar",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "BREAKING! Supreme Court Emergency Election Decision Moves Forward!"
+    },
+    {
+      "id": "d8a09884eb222461",
+      "title": "Getting a Handgun Out of State Is a Federal Crime… A Court Just Said That's Unconstitutional",
+      "link": "https://www.youtube.com/shorts/ikCoXzgtMTk",
+      "published": "2026-10-21T23:00:15+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Getting a Handgun Out of State Is a Federal Crime… A Court Just Said That's Unconstitutional"
+    },
+    {
+      "id": "99031f03699a6681",
+      "title": "They’ll Use ANYTHING to Push Gun Control...",
+      "link": "https://www.youtube.com/watch?v=qQE3jhQgZmI",
+      "published": "2026-10-21T19:00:26+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "They’ll Use ANYTHING to Push Gun Control..."
+    },
+    {
+      "id": "516f54336811ea5b",
+      "title": "Getting a Handgun Out of State Is a Federal Crime… A Court Just Said That's Unconstitutional",
+      "link": "https://www.youtube.com/watch?v=9RQmepTjRDU",
+      "published": "2026-10-21T17:03:39+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Getting a Handgun Out of State Is a Federal Crime… A Court Just Said That's Unconstitutional"
     },
     {
       "id": "dac2b9dc45429d3e",
@@ -256,6 +751,50 @@
       "tldr": "BELLEVUE, Wash. — Oct. 21, 2026 — The Second Amendment Foundation and National Rifle Association have filed an amicus brief in United States v. Cordova, urging the Fifth Circuit to adopt a…"
     },
     {
+      "id": "ddde1ff6bd9e1fb5",
+      "title": "NRA Files Amicus Brief Urging Fifth Circuit to Adopt a Test in Disarmament Cases that Ensures Peaceable Citizens Cannot Be Disarmed",
+      "link": "https://www.nraila.org/articles/20261021/nra-files-amicus-brief-urging-fifth-circuit-to-adopt-a-test-in-disarmament-cases-that-ensures-peaceable-citizens-cannot-be-disarmed",
+      "published": "2026-10-21T13:41:49+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "The National Rifle Association and Second Amendment Foundation filed an amicus brief in United States v. Cordova, a case before the en banc Fifth Circuit Court of Appeals involving a challenge to the…"
+    },
+    {
+      "id": "b639005bf64b8836",
+      "title": "BREAKING! Supreme Court Grants Review Impacting Nationwide Suppressor & NFA Tax Ruling!",
+      "link": "https://www.youtube.com/watch?v=Z4w5PI5h8oA",
+      "published": "2026-10-21T00:00:01+00:00",
+      "source_id": "armed-scholar",
+      "source_name": "Armed Scholar",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "BREAKING! Supreme Court Grants Review Impacting Nationwide Suppressor & NFA Tax Ruling!"
+    },
+    {
+      "id": "efe18089dcfa0b13",
+      "title": "Say This To The Police If They Won't Show You A Warrant",
+      "link": "https://www.youtube.com/shorts/d6hZ-PIHTW8",
+      "published": "2026-10-20T16:56:37+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Say This To The Police If They Won't Show You A Warrant"
+    },
+    {
+      "id": "828f30f6e57b079b",
+      "title": "Montana: Legislature to Pursue State-Level Suppressor Deregulation in 2027 Session",
+      "link": "https://www.nraila.org/articles/20261020/montana-legislature-to-pursue-state-level-suppressor-deregulation-in-2027-session",
+      "published": "2026-10-20T16:47:39+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "Montana Republicans, led by Attorney General Austin Knudesen, announced plans for legislation to deregulate suppressors and short barreled firearms during the 2027 legislative session."
+    },
+    {
       "id": "9db5c44ef95b0406",
       "title": "SAF, PARTNERS CHALLENGE NEW MEXICO’S FIREARMS PURCHASE WAITING PERIOD",
       "link": "https://saf.org/saf-partners-challenge-new-mexicos-firearms-purchase-waiting-period/",
@@ -265,6 +804,171 @@
       "source_type": "org",
       "category": "Court Case",
       "tldr": "BELLEVUE, Wash. — Oct. 20, 2026 — The Second Amendment Foundation (SAF) and its partners have filed a new lawsuit in New Mexico challenging the state’s “cooling off” waiting period for firearms…"
+    },
+    {
+      "id": "40a1cbb5639e3150",
+      "title": "NRA Files (Another) Lawsuit Challenging New Mexico’s 7-Day Waiting Period Law",
+      "link": "https://www.nraila.org/articles/20261019/nra-files-another-lawsuit-challenging-new-mexico-s-7-day-waiting-period-law",
+      "published": "2026-10-19T22:07:18+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "Today, the National Rifle Association—along with the National Shooting Sports Foundation, Second Amendment Foundation, New Mexico Firearms Industry Association, New Mexico Shooting Sports…"
+    },
+    {
+      "id": "ea454657a14e3627",
+      "title": "Congress Wants Pellet Guns To Be Legally Treated Like Real Guns",
+      "link": "https://www.youtube.com/shorts/Hp0A5ShLydo",
+      "published": "2026-10-19T21:31:40+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Congress Wants Pellet Guns To Be Legally Treated Like Real Guns"
+    },
+    {
+      "id": "fc794409b8b05357",
+      "title": "“I’m sorry, Dave, I’m afraid I can’t do that” – ChatGPT is Now “Completely Anti-gun”",
+      "link": "https://www.nraila.org/articles/20261019/i-m-sorry-dave-i-m-afraid-i-can-t-do-that-chatgpt-is-now-completely-anti-gun",
+      "published": "2026-10-19T17:10:13+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "More than half a century ago, Stanley Kubrick’s film, 2001: A Space Odyssey, introduced the world to HAL-9000, a sentient “supercomputer” with advanced artificial intelligence (AI) processing. When…"
+    },
+    {
+      "id": "db4d8c116e0104c9",
+      "title": "LAWYER: New Bill Would Make Your Pellet Gun a Federal Firearm",
+      "link": "https://www.youtube.com/watch?v=gPmtqtN0HT0",
+      "published": "2026-10-19T17:00:22+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "LAWYER: New Bill Would Make Your Pellet Gun a Federal Firearm"
+    },
+    {
+      "id": "d6a373bc658988dc",
+      "title": "Catch and Release: Fine for Fishing, Deadly with Violent Criminals",
+      "link": "https://www.nraila.org/articles/20261019/catch-and-release-fine-for-fishing-deadly-with-violent-criminals",
+      "published": "2026-10-19T16:55:07+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "Our regular readers understand what should be axiomatic for all: Violent criminals cannot prey on law-abiding citizens if they are behind bars. Unfortunately, we are hearing more and more regularly…"
+    },
+    {
+      "id": "f88a33fba62eb38c",
+      "title": "Polls Show Electorate’s Interest in Gun Control Waning",
+      "link": "https://www.nraila.org/articles/20261019/polls-show-electorate-s-interest-in-gun-control-waning",
+      "published": "2026-10-19T16:49:04+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "In late July, the White House announced that through the first half of 2026, homicides were “on pace for the lowest level in at least 126 years.” In mid-August, the FBI released data showing that…"
+    },
+    {
+      "id": "9518dcd324d4a2e8",
+      "title": "Scary Stories from the Crypt Keepers at Big Gun Control",
+      "link": "https://www.nraila.org/articles/20261019/scary-stories-from-the-crypt-keepers-at-big-gun-control",
+      "published": "2026-10-19T16:42:46+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "‘Tis the Halloween season of fear and disguise, and, in step with the holiday, the gun control ghouls are embracing a familiar tradition of their own. When facts aren’t quite frightening enough…"
+    },
+    {
+      "id": "15f4474515cf930b",
+      "title": "How Will Gun Politics Impact the Midterms? (Ft. Semafor's Burgess Everett)",
+      "link": "https://www.youtube.com/watch?v=JP1lmLyXcIg",
+      "published": "2026-10-19T12:00:32+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "How Will Gun Politics Impact the Midterms? (Ft. Semafor's Burgess Everett)"
+    },
+    {
+      "id": "0b5a083466230233",
+      "title": "Suppressors Laws Have Changed! BUT Some States Still BLOCK You From Getting One",
+      "link": "https://www.youtube.com/shorts/CNenXuIeT1Y",
+      "published": "2026-10-19T04:45:08+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Suppressors Laws Have Changed! BUT Some States Still BLOCK You From Getting One"
+    },
+    {
+      "id": "07082ea77f07ae82",
+      "title": "Supreme Court Issues Emergency Election Denial Order With Major Nationwide Implications!",
+      "link": "https://www.youtube.com/watch?v=ZFsVuYLuGEM",
+      "published": "2026-10-19T00:00:01+00:00",
+      "source_id": "armed-scholar",
+      "source_name": "Armed Scholar",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Supreme Court Issues Emergency Election Denial Order With Major Nationwide Implications!"
+    },
+    {
+      "id": "3bfe92f4051c2504",
+      "title": "$800,000 TO CARRY CONCEALED?! (Governor Candidate Interview)",
+      "link": "https://www.youtube.com/shorts/dQsBEnfehY8",
+      "published": "2026-10-18T18:00:09+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "$800,000 TO CARRY CONCEALED?! (Governor Candidate Interview)"
+    },
+    {
+      "id": "74aaa3ae1be20d76",
+      "title": "Supreme Court Issues 9-0 Unanimous Ruling With Major Nationwide & Constitutional Implications!",
+      "link": "https://www.youtube.com/watch?v=TJeYydiqTEs",
+      "published": "2026-10-18T00:00:02+00:00",
+      "source_id": "armed-scholar",
+      "source_name": "Armed Scholar",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Supreme Court Issues 9-0 Unanimous Ruling With Major Nationwide & Constitutional Implications!"
+    },
+    {
+      "id": "04b5ff8c21c33270",
+      "title": "Supreme Court Issues Emergency Election Ruling With Major Nationwide Implications! Expansion Sought!",
+      "link": "https://www.youtube.com/watch?v=8oTd3FaxnrU",
+      "published": "2026-10-17T00:00:01+00:00",
+      "source_id": "armed-scholar",
+      "source_name": "Armed Scholar",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Supreme Court Issues Emergency Election Ruling With Major Nationwide Implications! Expansion Sought!"
+    },
+    {
+      "id": "1d1964db5a9133c9",
+      "title": "Florida Greenlights Unregistered Silencers, NRA Drops its First Midterm Ad",
+      "link": "https://www.youtube.com/watch?v=h_v7s2qBzoA",
+      "published": "2026-10-16T00:13:01+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Florida Greenlights Unregistered Silencers, NRA Drops its First Midterm Ad"
+    },
+    {
+      "id": "126624bcf0e2beb5",
+      "title": "Nationwide Block of NFA & Suppressor Restrictions Put In Place! State Suppressor Bans Now Challenged",
+      "link": "https://www.youtube.com/watch?v=jSDRMQPsQ9k",
+      "published": "2026-10-16T00:00:02+00:00",
+      "source_id": "armed-scholar",
+      "source_name": "Armed Scholar",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Nationwide Block of NFA & Suppressor Restrictions Put In Place! State Suppressor Bans Now Challenged"
     },
     {
       "id": "8dce68670e849430",
@@ -289,6 +993,17 @@
       "tldr": "Some claim to support the Second Amendment, others live it… Every two years, the gun control lobby gets a chance to take back the ground it has lost, and every two years, gun owners decide whether it…"
     },
     {
+      "id": "214234974c137b73",
+      "title": "BREAKING! Supreme Court Issuing Immediate Decision In Major Constitutional Rights Challenge!",
+      "link": "https://www.youtube.com/watch?v=LQDli7UlrOE",
+      "published": "2026-10-15T00:00:01+00:00",
+      "source_id": "armed-scholar",
+      "source_name": "Armed Scholar",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "BREAKING! Supreme Court Issuing Immediate Decision In Major Constitutional Rights Challenge!"
+    },
+    {
       "id": "dfc6161f4cf92896",
       "title": "ChatGPT launches new anti-gun AI policies one day after Everytown recommends new anti-gun AI policies",
       "link": "https://saf.org/chatgpt-launches-new-anti-gun-ai-policies-one-day-after-everytown-recommends-new-anti-gun-ai-policies/",
@@ -298,6 +1013,50 @@
       "source_type": "org",
       "category": "News",
       "tldr": "Gennifer Hesseling is the “shop mom” at a gun shop she started with her husband Phil in 2017, Hesseling & Sons Firearms & Gunsmithing. The business began in their garage almost 10 years ago, but they…"
+    },
+    {
+      "id": "8fc5f1c7d0506b73",
+      "title": "Supreme Court Issues Emergency Election Denial Order With Major Nationwide Implications!",
+      "link": "https://www.youtube.com/watch?v=wScF3nACaB4",
+      "published": "2026-10-14T00:00:01+00:00",
+      "source_id": "armed-scholar",
+      "source_name": "Armed Scholar",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Supreme Court Issues Emergency Election Denial Order With Major Nationwide Implications!"
+    },
+    {
+      "id": "872815dc72124ecd",
+      "title": "Supreme Court 9-0 Unanimous Decision Creates Immediate Constitutional Commerce Clause Challenge!",
+      "link": "https://www.youtube.com/watch?v=PZBIuKdlFy4",
+      "published": "2026-10-13T00:00:02+00:00",
+      "source_id": "armed-scholar",
+      "source_name": "Armed Scholar",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Supreme Court 9-0 Unanimous Decision Creates Immediate Constitutional Commerce Clause Challenge!"
+    },
+    {
+      "id": "f6dfb7e566e2414e",
+      "title": "🚨 ATF JUST CHANGED THE RULES! What It Means for CT Gun Owners | Gun Guru Live",
+      "link": "https://www.youtube.com/watch?v=HhqKiZWVADQ",
+      "published": "2026-10-11T12:09:01+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "🚨 ATF JUST CHANGED THE RULES! What It Means for CT Gun Owners | Gun Guru Live"
+    },
+    {
+      "id": "dad93510ae3a18ff",
+      "title": "Exclusive: ATF Director, Chief Counsel Explain New Guidance on Silencers, SBRs",
+      "link": "https://www.youtube.com/watch?v=xlbq6jPjAPU",
+      "published": "2026-10-10T12:00:03+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Exclusive: ATF Director, Chief Counsel Explain New Guidance on Silencers, SBRs"
     },
     {
       "id": "5b6c09bc0c64d575",
@@ -311,6 +1070,17 @@
       "tldr": "And there are some big changes thanks to GOA’s lawsuit victory… ATF just released guidance on our massive victory in our “One Big Beautiful Lawsuit,” which struck down the registration requirements…"
     },
     {
+      "id": "cd77256ac6c942ce",
+      "title": "Midterm Gun Money Race Turns Lopsided; Silencer Sales Soar",
+      "link": "https://www.youtube.com/watch?v=KBgq3eBIg6U",
+      "published": "2026-10-08T23:53:50+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Midterm Gun Money Race Turns Lopsided; Silencer Sales Soar"
+    },
+    {
       "id": "d4075fa7ac3fd515",
       "title": "Grow GOA, Grow Your Business",
       "link": "https://www.gunowners.org/100826-2/",
@@ -322,6 +1092,50 @@
       "tldr": "Get paid every time one of your customers joins the fight! As a part of Gun Owners of America’s Corporate Membership Program, you’re already actively in the fight to protect the Second Amendment…"
     },
     {
+      "id": "b1d41583195be1a0",
+      "title": "Connecticut Glock Ban: The Injunction & What Comes Next | 2A Roundtable",
+      "link": "https://www.youtube.com/watch?v=4H_vkey5s88",
+      "published": "2026-10-06T21:00:07+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Connecticut Glock Ban: The Injunction & What Comes Next | 2A Roundtable"
+    },
+    {
+      "id": "cc7c877f9bfab0ca",
+      "title": "Researching Women and Guns (Ft. Yale's Kerri Raissian & KU's Margaret Kelley)",
+      "link": "https://www.youtube.com/watch?v=ufFUZA31K5s",
+      "published": "2026-10-05T12:00:12+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Researching Women and Guns (Ft. Yale's Kerri Raissian & KU's Margaret Kelley)"
+    },
+    {
+      "id": "9db7587196269b9b",
+      "title": "🚨 CONNECTICUT GLOCK BAN BLOCKED! Judge Issues Injunction | HB 5043 & 2A News LIVE",
+      "link": "https://www.youtube.com/watch?v=--MRktDkhIo",
+      "published": "2026-10-04T12:21:50+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "🚨 CONNECTICUT GLOCK BAN BLOCKED! Judge Issues Injunction | HB 5043 & 2A News LIVE"
+    },
+    {
+      "id": "c9f8e1fb2dcab657",
+      "title": "Connecticut's 'Glock Ban' Gets Blocked; Gun Owners Join Flock Camera Backlash",
+      "link": "https://www.youtube.com/watch?v=8c5TAu1WYRU",
+      "published": "2026-10-02T20:13:21+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Connecticut's 'Glock Ban' Gets Blocked; Gun Owners Join Flock Camera Backlash"
+    },
+    {
       "id": "595ede0ffe821e43",
       "title": "This Week in Gun Rights",
       "link": "https://www.gunowners.org/this-week-in-gun-rights/",
@@ -331,6 +1145,347 @@
       "source_type": "org",
       "category": "Legislation",
       "tldr": "THIS WEEK IN THE FIGHT Here’s what you may have missed this week in the fight for the Second Amendment… This week, ATF confirmed that guidance is incoming on GOA’s historic victory against the…"
+    },
+    {
+      "id": "8d374076d100d621",
+      "title": "🚨 JUDGE STAYS CT GLOCK BAN! HB5043 BLOCKED? | PSA Dagger Live",
+      "link": "https://www.youtube.com/watch?v=LbggIlvWzHY",
+      "published": "2026-10-01T10:58:06+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "🚨 JUDGE STAYS CT GLOCK BAN! HB5043 BLOCKED? | PSA Dagger Live"
+    },
+    {
+      "id": "6ea99358b589ab90",
+      "title": "GLOCKAGEDDON EVE: Connecticut’s HB5043 Enforcement Mystery | No Answers, No Guidance",
+      "link": "https://www.youtube.com/watch?v=rjDS5nfnlvg",
+      "published": "2026-09-30T19:00:35+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "GLOCKAGEDDON EVE: Connecticut’s HB5043 Enforcement Mystery | No Answers, No Guidance"
+    },
+    {
+      "id": "b465379c5df6c26e",
+      "title": "High School Admits Gun Search Was Clearly Illegal (Ft. SAF's Bill Sack)",
+      "link": "https://www.youtube.com/watch?v=oq1rjvXqPQU",
+      "published": "2026-09-28T12:00:05+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "High School Admits Gun Search Was Clearly Illegal (Ft. SAF's Bill Sack)"
+    },
+    {
+      "id": "41f4223a99b19a30",
+      "title": "GLOCK SUES CONNECTICUT! Glock v. Griffin & The CT Glock Ban Explained | Gun Guru Live @7PM",
+      "link": "https://www.youtube.com/watch?v=rkDcjMbAT8s",
+      "published": "2026-09-27T12:10:13+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "GLOCK SUES CONNECTICUT! Glock v. Griffin & The CT Glock Ban Explained | Gun Guru Live @7PM"
+    },
+    {
+      "id": "70b79e5a4048d6a0",
+      "title": "Ninth Circuit Finds Bruen Test 'Carve Out'; Poll Says Americans Split on SCOTUS AR-15 Case",
+      "link": "https://www.youtube.com/watch?v=S3qvcQHtXiY",
+      "published": "2026-09-24T22:47:42+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Ninth Circuit Finds Bruen Test 'Carve Out'; Poll Says Americans Split on SCOTUS AR-15 Case"
+    },
+    {
+      "id": "d6a90dafd590a195",
+      "title": "GLOCK SUES CONNECTICUT! New “Glock Ban” Challenged in Federal Court | Gun Guru",
+      "link": "https://www.youtube.com/watch?v=88CxaHuK5A4",
+      "published": "2026-09-23T19:00:19+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "GLOCK SUES CONNECTICUT! New “Glock Ban” Challenged in Federal Court | Gun Guru"
+    },
+    {
+      "id": "60cb19417aca0edf",
+      "title": "Guntuber Subpoenaed By Gun-Control Group in Mass Shooting Liability Case (Ft. @JamesReeves)",
+      "link": "https://www.youtube.com/watch?v=VLHUcbmpv7U",
+      "published": "2026-09-21T12:00:16+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Guntuber Subpoenaed By Gun-Control Group in Mass Shooting Liability Case (Ft. @JamesReeves)"
+    },
+    {
+      "id": "18d9ea329279d5ad",
+      "title": "🚨 BREAKING: 5th Circuit STRIKES Gun Law! | 18-20 Can Buy Handguns?! | 2A News LIVE",
+      "link": "https://www.youtube.com/watch?v=fj8qGa9qgGc",
+      "published": "2026-09-20T12:16:50+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "🚨 BREAKING: 5th Circuit STRIKES Gun Law! | 18-20 Can Buy Handguns?! | 2A News LIVE"
+    },
+    {
+      "id": "45c0b5ba7fd26560",
+      "title": "Maryland Synagogue Wins Injunction Against Gun-Carry Ban; DC Jumps Into NRA Foundation Fight",
+      "link": "https://www.youtube.com/watch?v=sa0ng8SCVUk",
+      "published": "2026-09-18T19:14:37+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Maryland Synagogue Wins Injunction Against Gun-Carry Ban; DC Jumps Into NRA Foundation Fight"
+    },
+    {
+      "id": "f77fe1bc70734879",
+      "title": "Connecticut Can DENY Your Pistol Permit for “Unsuitability”? | The CT Suitability Loophole EXPLAINED",
+      "link": "https://www.youtube.com/watch?v=mJi8Dqi0MqM",
+      "published": "2026-09-17T22:15:35+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Connecticut Can DENY Your Pistol Permit for “Unsuitability”? | The CT Suitability Loophole EXPLAINED"
+    },
+    {
+      "id": "c9d5c8dd59fc6297",
+      "title": "Connecticut “Glockageddon”: Glock Ban, SCOTUS & Gun Rights | 2A Roundtable",
+      "link": "https://www.youtube.com/watch?v=brHXW6Yb8_U",
+      "published": "2026-09-17T12:30:08+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Connecticut “Glockageddon”: Glock Ban, SCOTUS & Gun Rights | 2A Roundtable"
+    },
+    {
+      "id": "34be0a865f8b23af",
+      "title": "Examining the Pro-Gun Briefs in the SCOTUS AR-15 Case (Ft. @BearingArmsCamCo)",
+      "link": "https://www.youtube.com/watch?v=wdg-jqUGQxU",
+      "published": "2026-09-14T12:00:11+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Examining the Pro-Gun Briefs in the SCOTUS AR-15 Case (Ft. @BearingArmsCamCo)"
+    },
+    {
+      "id": "6aed3091d226d3b8",
+      "title": "DOJ Says AR-15 Bans Are UNCONSTITUTIONAL?! | Grant v. Higgins + 2A News LIVE @ 7PM",
+      "link": "https://www.youtube.com/watch?v=eEZncQ1jBP4",
+      "published": "2026-09-13T12:19:31+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "DOJ Says AR-15 Bans Are UNCONSTITUTIONAL?! | Grant v. Higgins + 2A News LIVE @ 7PM"
+    },
+    {
+      "id": "b7367b67a5037460",
+      "title": "On the Ground in Ukraine's Gun-Rights Fight; Third Circuit Revives New Jersey Gun-Industry Suit",
+      "link": "https://www.youtube.com/watch?v=WyCpHqSRsto",
+      "published": "2026-09-11T16:24:07+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "On the Ground in Ukraine's Gun-Rights Fight; Third Circuit Revives New Jersey Gun-Industry Suit"
+    },
+    {
+      "id": "053a33cc7437ef4a",
+      "title": "Grant v Higgins: ALL the Supreme Court Amicus Briefs Explained!",
+      "link": "https://www.youtube.com/watch?v=tA_3yFoeDWE",
+      "published": "2026-09-08T19:30:39+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Grant v Higgins: ALL the Supreme Court Amicus Briefs Explained!"
+    },
+    {
+      "id": "aabf6036a5a27bdc",
+      "title": "Teaching a College Course on Guns in America (Ft. Wake Forest's David Yamane)",
+      "link": "https://www.youtube.com/watch?v=yRos26YEJw8",
+      "published": "2026-09-07T12:30:13+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Teaching a College Course on Guns in America (Ft. Wake Forest's David Yamane)"
+    },
+    {
+      "id": "69ecefed6aca2971",
+      "title": "A Tyrant's Worst Fear Is The Lawsuit Printer",
+      "link": "https://www.youtube.com/shorts/x0YcG7Y_f9A",
+      "published": "2026-07-22T15:43:52+00:00",
+      "source_id": "fpc-youtube",
+      "source_name": "Firearms Policy Coalition (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "A Tyrant's Worst Fear Is The Lawsuit Printer"
+    },
+    {
+      "id": "dc420a4cacb0b319",
+      "title": "Become Ungovernable",
+      "link": "https://www.youtube.com/shorts/8bLUuNZb-0I",
+      "published": "2026-07-22T14:37:45+00:00",
+      "source_id": "fpc-youtube",
+      "source_name": "Firearms Policy Coalition (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Become Ungovernable"
+    },
+    {
+      "id": "84db4401363a4216",
+      "title": "We're here to make sure every AWB gets TOSSED",
+      "link": "https://www.youtube.com/shorts/KemG8r-tBdA",
+      "published": "2026-07-22T14:28:14+00:00",
+      "source_id": "fpc-youtube",
+      "source_name": "Firearms Policy Coalition (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "We're here to make sure every AWB gets TOSSED"
+    },
+    {
+      "id": "331bdbf081cdd3eb",
+      "title": "Stop the Senate from Violating Our Rights",
+      "link": "https://www.youtube.com/shorts/VkdBPt36Jbk",
+      "published": "2023-12-05T15:33:34+00:00",
+      "source_id": "fpc-youtube",
+      "source_name": "Firearms Policy Coalition (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Stop the Senate from Violating Our Rights"
+    },
+    {
+      "id": "61c86f9b5f5a19ae",
+      "title": "Why So Sad Gov. Newsom?",
+      "link": "https://www.youtube.com/shorts/gcY2TUOHsjo",
+      "published": "2023-09-28T19:04:14+00:00",
+      "source_id": "fpc-youtube",
+      "source_name": "Firearms Policy Coalition (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Why So Sad Gov. Newsom?"
+    },
+    {
+      "id": "826f8d7537faef8f",
+      "title": "WHAT 2A IS REALLY ABOUT",
+      "link": "https://www.youtube.com/shorts/Ts8CINSqflc",
+      "published": "2023-08-23T14:32:53+00:00",
+      "source_id": "fpc-youtube",
+      "source_name": "Firearms Policy Coalition (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "WHAT 2A IS REALLY ABOUT"
+    },
+    {
+      "id": "c486c995d4287340",
+      "title": "The Disarmament Regime is Completely Morally Bankrupt",
+      "link": "https://www.youtube.com/shorts/niRhb0-YPDk",
+      "published": "2023-07-14T18:58:02+00:00",
+      "source_id": "fpc-youtube",
+      "source_name": "Firearms Policy Coalition (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "The Disarmament Regime is Completely Morally Bankrupt"
+    },
+    {
+      "id": "bc32c2d28aa19971",
+      "title": "FPC DESTROYS THE ATF 'FRAME OR RECEIVER' RULE",
+      "link": "https://www.youtube.com/shorts/urgK7C5P12A",
+      "published": "2023-07-10T18:52:08+00:00",
+      "source_id": "fpc-youtube",
+      "source_name": "Firearms Policy Coalition (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "FPC DESTROYS THE ATF 'FRAME OR RECEIVER' RULE"
+    },
+    {
+      "id": "2d823cb5f4f80d39",
+      "title": "What Does a Pistol Brace Do, Joe?",
+      "link": "https://www.youtube.com/shorts/QlHgjiCdGQA",
+      "published": "2023-06-19T19:06:14+00:00",
+      "source_id": "fpc-youtube",
+      "source_name": "Firearms Policy Coalition (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "What Does a Pistol Brace Do, Joe?"
+    },
+    {
+      "id": "39b427ef07cdcdf1",
+      "title": "Newsom Admits FPC is Winning",
+      "link": "https://www.youtube.com/shorts/Str2y8CiE28",
+      "published": "2023-06-12T20:59:58+00:00",
+      "source_id": "fpc-youtube",
+      "source_name": "Firearms Policy Coalition (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Newsom Admits FPC is Winning"
+    },
+    {
+      "id": "c536911c5326ce24",
+      "title": "FPC Showing Ready to Destroy the CA Handgun Roster",
+      "link": "https://www.youtube.com/shorts/xADRZE9u7us",
+      "published": "2023-06-09T15:51:22+00:00",
+      "source_id": "fpc-youtube",
+      "source_name": "Firearms Policy Coalition (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "FPC Showing Ready to Destroy the CA Handgun Roster"
+    },
+    {
+      "id": "a2e059f5d1f5fd1f",
+      "title": "Help Us End the CA Handgun Roster",
+      "link": "https://www.youtube.com/shorts/wdZXEMkvbpY",
+      "published": "2023-06-09T15:16:55+00:00",
+      "source_id": "fpc-youtube",
+      "source_name": "Firearms Policy Coalition (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Help Us End the CA Handgun Roster"
+    },
+    {
+      "id": "583699b9c058bb1a",
+      "title": "When FPC members meet ATF Agents",
+      "link": "https://www.youtube.com/shorts/EAdn2bvUyKU",
+      "published": "2023-06-06T17:44:02+00:00",
+      "source_id": "fpc-youtube",
+      "source_name": "Firearms Policy Coalition (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "When FPC members meet ATF Agents"
+    },
+    {
+      "id": "cf00d9e7e2c47904",
+      "title": "FPC Trips Up the Biden Regime Agenda",
+      "link": "https://www.youtube.com/shorts/slPTIiaIagQ",
+      "published": "2023-06-01T23:16:45+00:00",
+      "source_id": "fpc-youtube",
+      "source_name": "Firearms Policy Coalition (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "FPC Trips Up the Biden Regime Agenda"
+    },
+    {
+      "id": "4177c7d53ad59846",
+      "title": "FPC Feasts on DOJ",
+      "link": "https://www.youtube.com/shorts/_N_XifdR83k",
+      "published": "2023-06-01T18:05:08+00:00",
+      "source_id": "fpc-youtube",
+      "source_name": "Firearms Policy Coalition (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "FPC Feasts on DOJ"
     }
   ]
 }
