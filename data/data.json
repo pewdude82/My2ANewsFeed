@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-11-03T15:30:58.755127+00:00",
-  "item_count": 134,
+  "generated_at": "2026-11-03T21:19:03.166484+00:00",
+  "item_count": 135,
   "items": [
+    {
+      "id": "335b56351029d474",
+      "title": "DOJ Gun Rights Restoration Opens November 4! Who Qualifies & How to Apply?",
+      "link": "https://www.youtube.com/watch?v=D9bOYv6nPi0",
+      "published": "2026-11-03T19:00:32+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "DOJ Gun Rights Restoration Opens November 4! Who Qualifies & How to Apply?"
+    },
+    {
+      "id": "fcd36d6541953831",
+      "title": "Republicans Aren't Running on Gun Accomplishments",
+      "link": "https://www.youtube.com/shorts/WlrfT3lSLuU",
+      "published": "2026-11-03T18:02:43+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Republicans Aren't Running on Gun Accomplishments"
+    },
+    {
+      "id": "887a7b9932ec8e75",
+      "title": "They Just Called Your AR-15 a Machine Gun… So They Can Ban It",
+      "link": "https://www.youtube.com/shorts/HB-VqxltCU4",
+      "published": "2026-11-03T18:01:06+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "They Just Called Your AR-15 a Machine Gun… So They Can Ban It"
+    },
+    {
+      "id": "1a8f9a67ad116c1b",
+      "title": "Democrats Haven't Turned Pro-Gun in 2026",
+      "link": "https://www.youtube.com/shorts/vSpPlWmAM6c",
+      "published": "2026-11-03T17:49:50+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Democrats Haven't Turned Pro-Gun in 2026"
+    },
+    {
+      "id": "cb671df6f10671d6",
+      "title": "BIG UPDATE: ATF Form 4 BYPASSED! PSA Makes Major Move in 17 States",
+      "link": "https://www.youtube.com/watch?v=PaGoOy36FVI",
+      "published": "2026-11-03T15:16:42+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "BIG UPDATE: ATF Form 4 BYPASSED! PSA Makes Major Move in 17 States"
+    },
     {
       "id": "1fb8d90ab4779373",
       "title": "The Midterm Gun Money Race Isn't Close",
@@ -34,6 +89,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING! Supreme Court Decision To Permanently End \"Assault Weapon\" Bans Pushes Forward!"
+    },
+    {
+      "id": "d04ae34cbc374727",
+      "title": "CATFISH Act of 2026",
+      "link": "https://www.congress.gov/bill/119th-congress/hr/10495",
+      "published": "2026-11-03T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Referred to the Committee on the Judiciary, and in addition to the Committees on Financial Services, and Agriculture, for a period to be subsequently determined by the Speaker, in each…"
     },
     {
       "id": "0a53176671279eac",
@@ -718,17 +784,6 @@
       "tldr": "Huge Ruling Finds NFA Unconstitutional & Blocks Suppressor Restrictions! State Bans Now Targeted!"
     },
     {
-      "id": "7dc0312217acd3d1",
-      "title": "HEADS UP! New NFA Trap: Police Say You Have 45 Days Before Your Firearm Is Forfeited",
-      "link": "https://www.youtube.com/watch?v=CjvKxuv5oEo",
-      "published": "2026-10-25T17:16:59+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "HEADS UP! New NFA Trap: Police Say You Have 45 Days Before Your Firearm Is Forfeited"
-    },
-    {
       "id": "122d8134ebb95520",
       "title": "CONNECTICUT DEFENDS AR-15 BAN AT SCOTUS! | Grant v. Higgins Breakdown – Gun Guru Live",
       "link": "https://www.youtube.com/watch?v=ApgTXqVAZSg",
@@ -1048,17 +1103,6 @@
       "tldr": "Montana Republicans, led by Attorney General Austin Knudesen, announced plans for legislation to deregulate suppressors and short barreled firearms during the 2027 legislative session."
     },
     {
-      "id": "ea454657a14e3627",
-      "title": "Congress Wants Pellet Guns To Be Legally Treated Like Real Guns",
-      "link": "https://www.youtube.com/shorts/Hp0A5ShLydo",
-      "published": "2026-10-19T21:31:40+00:00",
-      "source_id": "atty-tom-grieve",
-      "source_name": "Atty Tom Grieve",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Congress Wants Pellet Guns To Be Legally Treated Like Real Guns"
-    },
-    {
       "id": "15f4474515cf930b",
       "title": "How Will Gun Politics Impact the Midterms? (Ft. Semafor's Burgess Everett)",
       "link": "https://www.youtube.com/watch?v=JP1lmLyXcIg",
@@ -1235,17 +1279,6 @@
       "tldr": "GLOCK SUES CONNECTICUT! Glock v. Griffin & The CT Glock Ban Explained | Gun Guru Live @7PM"
     },
     {
-      "id": "70b79e5a4048d6a0",
-      "title": "Ninth Circuit Finds Bruen Test 'Carve Out'; Poll Says Americans Split on SCOTUS AR-15 Case",
-      "link": "https://www.youtube.com/watch?v=S3qvcQHtXiY",
-      "published": "2026-09-24T22:47:42+00:00",
-      "source_id": "the-reload-youtube",
-      "source_name": "The Reload (YouTube)",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Ninth Circuit Finds Bruen Test 'Carve Out'; Poll Says Americans Split on SCOTUS AR-15 Case"
-    },
-    {
       "id": "d6a90dafd590a195",
       "title": "GLOCK SUES CONNECTICUT! New “Glock Ban” Challenged in Federal Court | Gun Guru",
       "link": "https://www.youtube.com/watch?v=88CxaHuK5A4",
@@ -1255,17 +1288,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "GLOCK SUES CONNECTICUT! New “Glock Ban” Challenged in Federal Court | Gun Guru"
-    },
-    {
-      "id": "60cb19417aca0edf",
-      "title": "Guntuber Subpoenaed By Gun-Control Group in Mass Shooting Liability Case (Ft. @JamesReeves)",
-      "link": "https://www.youtube.com/watch?v=VLHUcbmpv7U",
-      "published": "2026-09-21T12:00:16+00:00",
-      "source_id": "the-reload-youtube",
-      "source_name": "The Reload (YouTube)",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Guntuber Subpoenaed By Gun-Control Group in Mass Shooting Liability Case (Ft. @JamesReeves)"
     },
     {
       "id": "18d9ea329279d5ad",
@@ -1299,17 +1321,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Connecticut “Glockageddon”: Glock Ban, SCOTUS & Gun Rights | 2A Roundtable"
-    },
-    {
-      "id": "6aed3091d226d3b8",
-      "title": "DOJ Says AR-15 Bans Are UNCONSTITUTIONAL?! | Grant v. Higgins + 2A News LIVE @ 7PM",
-      "link": "https://www.youtube.com/watch?v=eEZncQ1jBP4",
-      "published": "2026-09-13T12:19:31+00:00",
-      "source_id": "gun-guru",
-      "source_name": "Gun Guru",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "DOJ Says AR-15 Bans Are UNCONSTITUTIONAL?! | Grant v. Higgins + 2A News LIVE @ 7PM"
     },
     {
       "id": "69ecefed6aca2971",
