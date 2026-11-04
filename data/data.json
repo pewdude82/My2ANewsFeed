@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-04T11:39:39.957021+00:00",
+  "generated_at": "2026-11-04T18:55:57.116424+00:00",
   "item_count": 133,
   "items": [
+    {
+      "id": "34d8fd62098af2de",
+      "title": "A Message to the Gun Owners in America",
+      "link": "https://www.gunowners.org/110426-2/",
+      "published": "2026-11-04T17:02:43+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "This election didn’t go the way we expected, but we’re still here… We all saw what happened yesterday. It was a horrible political bloodbath. But while we may have lost a lot of battles, we have not…"
+    },
+    {
+      "id": "801592f4ebf2a940",
+      "title": "Texan arrested for selling Forced ResetTriggers in Florida",
+      "link": "https://saf.org/texan-arrested-for-selling-forced-resettriggers-in-florida/",
+      "published": "2026-11-04T14:57:00+00:00",
+      "source_id": "saf",
+      "source_name": "Second Amendment Foundation",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "by Lee Williams Skyeler “Bleau” Jackson, 24, says he is the first person ever charged with an eight-year-old Florida statute that may prohibit the possession of Forced Reset Triggers, or FRTs, which…"
+    },
+    {
+      "id": "29b3475df782564f",
+      "title": "WHAT?! Judge BLOCKS Gun Rights Victory — Invites Anti-Gun Groups Into the Fight!",
+      "link": "https://www.youtube.com/watch?v=SaQosrkvyIg",
+      "published": "2026-11-04T14:38:30+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "WHAT?! Judge BLOCKS Gun Rights Victory — Invites Anti-Gun Groups Into the Fight!"
+    },
     {
       "id": "bd674446938ebe5d",
       "title": "Gun Sales Surged in Weeks Before Election Night",
@@ -685,17 +718,6 @@
       "tldr": "Supreme Court Asked to Declare Part of the Second Amendment Extinct?"
     },
     {
-      "id": "d92624135360706e",
-      "title": "NYPD EXPOSED: They're Breaking Their OWN Gun Laws!",
-      "link": "https://www.youtube.com/watch?v=FZfMokbanQo",
-      "published": "2026-10-26T21:01:27+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "NYPD EXPOSED: They're Breaking Their OWN Gun Laws!"
-    },
-    {
       "id": "063f7f938c11525b",
       "title": "VOLQUARTSEN RENEWS CORPORATE PARTNER COMMITMENT, UPGRADES TO GOLD LEVEL",
       "link": "https://saf.org/volquartsen-renews-corporate-partner-commitment-upgrades-to-gold-level/",
@@ -905,17 +927,6 @@
       "tldr": "Bloomberg Injects Tens of Millions into Everytown Midterm Push; Polls Show Voters Complacent on Guns"
     },
     {
-      "id": "af39caa63944b119",
-      "title": "OH: Information on Dangerous Ordnance Licenses",
-      "link": "https://www.gunowners.org/oh10212026-3/",
-      "published": "2026-10-23T18:05:06+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
-      "source_type": "org",
-      "category": "Legislation",
-      "tldr": "Ohio Law May Provide Another Exemption to NFA Registration Under ORC § 2923.18, Ohioans can apply for a $50 Dangerous Ordnance License, providing a separate exemption that does not expressly require…"
-    },
-    {
       "id": "c43d29427d3b622e",
       "title": "Presidential pardon recipients still barred from buying guns",
       "link": "https://saf.org/presidential-pardon-recipients-still-barred-from-buying-guns/",
@@ -1046,17 +1057,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Getting a Handgun Out of State Is a Federal Crime… A Court Just Said That's Unconstitutional"
-    },
-    {
-      "id": "dac2b9dc45429d3e",
-      "title": "SAF, NRA FILE AMICUS CHALLENGING LIFETIME FIREARMS BAN FOR NONVIOLENT FELONS",
-      "link": "https://saf.org/saf-nra-file-amicus-challenging-lifetime-firearms-ban-for-nonviolent-felons/",
-      "published": "2026-10-21T15:43:09+00:00",
-      "source_id": "saf",
-      "source_name": "Second Amendment Foundation",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "BELLEVUE, Wash. — Oct. 21, 2026 — The Second Amendment Foundation and National Rifle Association have filed an amicus brief in United States v. Cordova, urging the Fifth Circuit to adopt a…"
     },
     {
       "id": "ddde1ff6bd9e1fb5",
