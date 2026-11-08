@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T23:09:30.065932+00:00",
-  "item_count": 41,
+  "generated_at": "2026-11-08T02:53:01.953291+00:00",
+  "item_count": 46,
   "items": [
     {
       "id": "6b518090cd34a4b3",
@@ -45,6 +45,61 @@
       "source_type": "journalism",
       "category": "News",
       "tldr": "Plus, gun-control groups clean up on election day targets."
+    },
+    {
+      "id": "a2e67ccdc2062951",
+      "title": "SECURE Firearm Storage Act",
+      "link": "https://www.congress.gov/bill/119th-congress/s/468",
+      "published": "2026-11-06T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Read twice and referred to the Committee on the Judiciary. (text: CR S795)"
+    },
+    {
+      "id": "5322bf3f6eeb4593",
+      "title": "SECURE Firearm Storage Act",
+      "link": "https://www.congress.gov/bill/118th-congress/s/246",
+      "published": "2026-11-06T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Read twice and referred to the Committee on the Judiciary."
+    },
+    {
+      "id": "d5025c9ecdf3f323",
+      "title": "SECURE Firearm Storage Act",
+      "link": "https://www.congress.gov/bill/118th-congress/hr/816",
+      "published": "2026-11-06T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Referred to the House Committee on the Judiciary."
+    },
+    {
+      "id": "abd97e07fc888917",
+      "title": "SECURE Firearm Storage Act",
+      "link": "https://www.congress.gov/bill/117th-congress/s/2908",
+      "published": "2026-11-06T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Read twice and referred to the Committee on the Judiciary."
+    },
+    {
+      "id": "5b5a4689dae488c9",
+      "title": "SECURE Firearm Storage Act",
+      "link": "https://www.congress.gov/bill/117th-congress/hr/5465",
+      "published": "2026-11-06T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Referred to the Subcommittee on Crime, Terrorism, and Homeland Security."
     },
     {
       "id": "7a101ed48dc04549",
