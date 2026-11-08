@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-08T17:17:14.694347+00:00",
+  "generated_at": "2026-11-08T23:14:14.108493+00:00",
   "item_count": 136,
   "items": [
+    {
+      "id": "09f06314ee0a4651",
+      "title": "3 Things Every Gun Owner Should Do RIGHT NOW…",
+      "link": "https://www.youtube.com/shorts/_1D9WZWUM3M",
+      "published": "2026-11-08T18:27:21+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "3 Things Every Gun Owner Should Do RIGHT NOW…"
+    },
     {
       "id": "dd0ccf7bfa5161a3",
       "title": "Machine Gun Ban Survives by ONE Vote! What Happens Next?",
@@ -223,17 +234,6 @@
       "tldr": "BREAKING! Supreme Court Issuing Immediate Decision In Major Constitutional Rights Challenge!"
     },
     {
-      "id": "5322bf3f6eeb4593",
-      "title": "SECURE Firearm Storage Act",
-      "link": "https://www.congress.gov/bill/118th-congress/s/246",
-      "published": "2026-11-06T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Read twice and referred to the Committee on the Judiciary."
-    },
-    {
       "id": "a2e67ccdc2062951",
       "title": "SECURE Firearm Storage Act",
       "link": "https://www.congress.gov/bill/119th-congress/s/468",
@@ -243,6 +243,17 @@
       "source_type": "primary_legal",
       "category": "Legislation",
       "tldr": "Latest action: Read twice and referred to the Committee on the Judiciary. (text: CR S795)"
+    },
+    {
+      "id": "5322bf3f6eeb4593",
+      "title": "SECURE Firearm Storage Act",
+      "link": "https://www.congress.gov/bill/118th-congress/s/246",
+      "published": "2026-11-06T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Read twice and referred to the Committee on the Judiciary."
     },
     {
       "id": "d5025c9ecdf3f323",
@@ -1167,17 +1178,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "A Senate Candidate Just Mocked Owning Guns … and the Crowd Loved It?!"
-    },
-    {
-      "id": "36742b422607bb1f",
-      "title": "A Candidate Said the 2A Only Covers Muskets… And the Crowd Agreed?!",
-      "link": "https://www.youtube.com/watch?v=0uskeLnp61Y",
-      "published": "2026-10-22T17:19:01+00:00",
-      "source_id": "atty-tom-grieve",
-      "source_name": "Atty Tom Grieve",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "A Candidate Said the 2A Only Covers Muskets… And the Crowd Agreed?!"
     },
     {
       "id": "5e82ef1025047d0d",
