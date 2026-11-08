@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-08T10:48:38.676006+00:00",
-  "item_count": 125,
+  "generated_at": "2026-11-08T17:17:14.694347+00:00",
+  "item_count": 136,
   "items": [
+    {
+      "id": "dd0ccf7bfa5161a3",
+      "title": "Machine Gun Ban Survives by ONE Vote! What Happens Next?",
+      "link": "https://www.youtube.com/watch?v=dicfSnwoy_c",
+      "published": "2026-11-08T14:48:12+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Machine Gun Ban Survives by ONE Vote! What Happens Next?"
+    },
+    {
+      "id": "f5dcf98fec8b1411",
+      "title": "UNBOXING! #secondamendment #military #gunguru #shorts",
+      "link": "https://www.youtube.com/shorts/_t95L8pjFSY",
+      "published": "2026-11-08T13:40:45+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "UNBOXING! #secondamendment #military #gunguru #shorts"
+    },
+    {
+      "id": "8f681937ae58710b",
+      "title": "BREAKING: Cook County Tries to KILL Its SCOTUS Gun Case! Democrats Take Control & 2A Under Attack!",
+      "link": "https://www.youtube.com/watch?v=jxnNAoVNKgQ",
+      "published": "2026-11-08T13:17:11+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "BREAKING: Cook County Tries to KILL Its SCOTUS Gun Case! Democrats Take Control & 2A Under Attack!"
+    },
     {
       "id": "594629295e4d649d",
       "title": "Analysis: Where Gun Policy is Likely to Shift Most After the Midterms [Member Exclusive]",
@@ -34,17 +67,6 @@
       "source_type": "journalism",
       "category": "News",
       "tldr": "Plus, Semafor's Dave Weigel joins the podcast to explain how to read the election's impact on gun politics."
-    },
-    {
-      "id": "8f681937ae58710b",
-      "title": "BREAKING: Cook County Tries to KILL Its SCOTUS Gun Case! Democrats Take Control & 2A Under Attack!",
-      "link": "https://www.youtube.com/watch?v=jxnNAoVNKgQ",
-      "published": "2026-11-07T23:00:15+00:00",
-      "source_id": "gun-guru",
-      "source_name": "Gun Guru",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "BREAKING: Cook County Tries to KILL Its SCOTUS Gun Case! Democrats Take Control & 2A Under Attack!"
     },
     {
       "id": "2fd0d22dd0462df7",
@@ -135,6 +157,17 @@
       "tldr": "Democrats Dominate Midterms as Gun-Control Groups Rout Gun-Rights Groups"
     },
     {
+      "id": "6b518090cd34a4b3",
+      "title": "Arizona: Anti-Gun Lawmakers Waste No Time Taking Aim at Second Amendment Rights",
+      "link": "https://www.nraila.org/articles/20261106/arizona-anti-gun-lawmakers-waste-no-time-taking-aim-at-second-amendment-rights",
+      "published": "2026-11-06T16:00:48+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "Just hours after Election Day, anti-gun lawmakers in Arizona are already signaling plans to pursue gun control in 2027, leaving law-abiding Arizonans to face the harsh reality that a consequential…"
+    },
+    {
       "id": "a2ba593f1939e5e2",
       "title": "BIG AR-15 Case Update: Why Cook County Is Asking the Supreme Court to Walk Away",
       "link": "https://www.youtube.com/watch?v=FqUrL1_tMNU",
@@ -190,17 +223,6 @@
       "tldr": "BREAKING! Supreme Court Issuing Immediate Decision In Major Constitutional Rights Challenge!"
     },
     {
-      "id": "a2e67ccdc2062951",
-      "title": "SECURE Firearm Storage Act",
-      "link": "https://www.congress.gov/bill/119th-congress/s/468",
-      "published": "2026-11-06T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Read twice and referred to the Committee on the Judiciary. (text: CR S795)"
-    },
-    {
       "id": "5322bf3f6eeb4593",
       "title": "SECURE Firearm Storage Act",
       "link": "https://www.congress.gov/bill/118th-congress/s/246",
@@ -210,6 +232,17 @@
       "source_type": "primary_legal",
       "category": "Legislation",
       "tldr": "Latest action: Read twice and referred to the Committee on the Judiciary."
+    },
+    {
+      "id": "a2e67ccdc2062951",
+      "title": "SECURE Firearm Storage Act",
+      "link": "https://www.congress.gov/bill/119th-congress/s/468",
+      "published": "2026-11-06T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Read twice and referred to the Committee on the Judiciary. (text: CR S795)"
     },
     {
       "id": "d5025c9ecdf3f323",
@@ -410,6 +443,17 @@
       "tldr": "GOA is still here, in DC, ready to fight for your rights. And be encouraged, because we’ve survived worse. GOA fought tirelessly for your Second Amendment rights under 8 years of Obama and 4 years of…"
     },
     {
+      "id": "01c829570b7777e7",
+      "title": "The Election is Over: Now the Real Work Begins",
+      "link": "https://www.nraila.org/articles/20261104/the-election-is-over-now-the-real-work-begins",
+      "published": "2026-11-04T18:02:00+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "While the complete picture from the 2026 midterm elections is still emerging, the results, to say the least, were not what gun owners wanted. Anti-gun forces took control of the U.S. Senate and House…"
+    },
+    {
       "id": "34d8fd62098af2de",
       "title": "A Message to the Gun Owners in America",
       "link": "https://www.gunowners.org/110426-2/",
@@ -575,6 +619,17 @@
       "tldr": "Four States, One Election Day: What's at Stake for Gun Owners?"
     },
     {
+      "id": "9e9243ccf12dc938",
+      "title": "Article by NRA-ILA Litigation Director Joseph Greenlee and Professor George Mocsary Published in Yale Law Journal Forum",
+      "link": "https://www.nraila.org/articles/20261102/article-by-nra-ila-litigation-director-joseph-greenlee-and-professor-george-mocsary-published-in-yale-law-journal-forum",
+      "published": "2026-11-02T20:12:47+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "A new Essay authored by NRA-ILA Litigation Director Joseph Greenlee and University of Wyoming College of Law Professor George Mocsary has been published in the Yale Law Journal Forum."
+    },
+    {
       "id": "a4a6d578937eff64",
       "title": "Virginia Told the Supreme Court Your Rifle Is a Machine Gun… Then Said \"Except It Isn't\"",
       "link": "https://www.youtube.com/watch?v=z5sR0MzS1E0",
@@ -584,6 +639,28 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Virginia Told the Supreme Court Your Rifle Is a Machine Gun… Then Said \"Except It Isn't\""
+    },
+    {
+      "id": "e242a189640048e0",
+      "title": "Trump’s Gun Rights Policies Making America Safe Again",
+      "link": "https://www.nraila.org/articles/20261102/trump-s-gun-rights-policies-making-america-safe-again",
+      "published": "2026-11-02T16:17:40+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "“Crime’s way down thanks to Trump — Dems will fight to send it back up,” warns an editorial in the N.Y. Post. “Law-and-order works. Immigration enforcement works. And — like it or not — Trump’s…"
+    },
+    {
+      "id": "64392a83c4d649de",
+      "title": "The Hunting Vote: What’s at Stake in 2026 and Beyond",
+      "link": "https://www.nraila.org/articles/20261102/the-hunting-vote-what-s-at-stake-in-2026-and-beyond",
+      "published": "2026-11-02T16:14:36+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "As votes are now being cast nationwide, one influential voting bloc is drawing renewed attention: America's hunters, sportsmen, and sportswomen."
     },
     {
       "id": "e9888bf278b20892",
@@ -696,15 +773,15 @@
       "tldr": "BREAKING! Supreme Court Issuing Immediate Decision In Major Constitutional Rights Challenge!"
     },
     {
-      "id": "be1b5f9c4d430a48",
-      "title": "The Second Amendment Case the Government Doesn't Want You to See",
-      "link": "https://www.youtube.com/watch?v=PSZJPFNFFic",
-      "published": "2026-10-30T21:00:52+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "The Second Amendment Case the Government Doesn't Want You to See"
+      "id": "c90eb7337d66d72f",
+      "title": "NRA Files Lawsuit Challenging Pennsylvania’s Carry Restrictions for Adults Under 21",
+      "link": "https://www.nraila.org/articles/20261030/nra-files-lawsuit-challenging-pennsylvania-s-carry-restrictions-for-adults-under-21",
+      "published": "2026-10-30T20:00:43+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "Today, the National Rifle Association, Firearms Policy Coalition, and an individual, Daniel Maines, filed a lawsuit challenging Pennsylvania’s carry restrictions for adults under 21."
     },
     {
       "id": "6e6c14242b15f7ce",
@@ -817,6 +894,17 @@
       "tldr": "Can A Missed Shot In Self-Defense Bring Felony Charges?"
     },
     {
+      "id": "005fcb4743a38068",
+      "title": "District Court Declines to Enter Agreement to Invalidate Florida’s Waiting Period Law in NRA Case and Invites Amici Participation",
+      "link": "https://www.nraila.org/articles/20261029/district-court-declines-to-enter-agreement-to-invalidate-florida-s-waiting-period-law-in-nra-case-and-invites-amici-participation",
+      "published": "2026-10-29T16:29:41+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "Yesterday, U.S. District Judge Steven D. Merryday denied the parties’ joint motion for entry of judgment in the National Rifle Association’s challenge to Florida’s firearm waiting period law. The…"
+    },
+    {
       "id": "5c14ea565cac35b6",
       "title": "SIG SAUER RENEWS GOLD-LEVEL CORPORATE PARTNERSHIP",
       "link": "https://saf.org/sig-sauer-renews-gold-level-corporate-partnership/",
@@ -892,6 +980,50 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Scientists Taught Wi-Fi to Find Handguns… Here's What Police Can Legally Do Next"
+    },
+    {
+      "id": "f9053b879af0bc4a",
+      "title": "Location, Location, Location: Study Finds Crime Concentration Correlates with Politics",
+      "link": "https://www.nraila.org/articles/20261026/location-location-location-study-finds-crime-concentration-correlates-with-politics",
+      "published": "2026-10-26T16:01:54+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Court Case",
+      "tldr": "It’s well established that certain offenders remain disproportionately responsible for violent crime. A 2001 report on such “chronic offenders” in Minnesota concluded that over a four-year period…"
+    },
+    {
+      "id": "b5b121d863bdc3b8",
+      "title": "Different Election, Same Billionaire, Same Gun Control Agenda",
+      "link": "https://www.nraila.org/articles/20261026/different-election-same-billionaire-same-gun-control-agenda",
+      "published": "2026-10-26T15:59:20+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "Another election, same former New York City mayor Michael Bloomberg working to shape the nation’s gun laws. For years, NRA has exposed Bloomberg’s relentless efforts to export New York style gun…"
+    },
+    {
+      "id": "c5849de719decab3",
+      "title": "San Francisco Law Professor Purports to Channel Scalia on AR-15s; Ignores Scalia",
+      "link": "https://www.nraila.org/articles/20261026/san-francisco-law-professor-purports-to-channel-scalia-on-ar-15s-ignores-scalia",
+      "published": "2026-10-26T15:43:41+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "Some arguments succeed by being true. Some attempt to succeed by confusing the debate and substituting misdirection for clarity. And some attempt to succeed merely by dogged persistence, refusing to…"
+    },
+    {
+      "id": "2b7ba30ad0bb0fdb",
+      "title": "Grassroots Spotlight: NRA Leadership and Grassroots Advocates Unite at the “ASRPA Education & Training Dinner”",
+      "link": "https://www.nraila.org/articles/20261026/grassroots-spotlight-nra-leadership-and-grassroots-advocates-unite-at-the-asrpa-education-training-dinner",
+      "published": "2026-10-26T15:37:35+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "NRA-ILA Grassroots Field Coordinator Darius Diggs recently attended the Arizona State Rifle and Pistol Association's (ASRPA) Annual “Education &amp; Training Dinner”, alongside FrontLines Activist…"
     },
     {
       "id": "7f7d4274fd0f4f7b",
@@ -1200,17 +1332,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "🚨 BREAKING: 5th Circuit STRIKES Gun Law! | 18-20 Can Buy Handguns?! | 2A News LIVE"
-    },
-    {
-      "id": "f77fe1bc70734879",
-      "title": "Connecticut Can DENY Your Pistol Permit for “Unsuitability”? | The CT Suitability Loophole EXPLAINED",
-      "link": "https://www.youtube.com/watch?v=mJi8Dqi0MqM",
-      "published": "2026-09-17T22:15:35+00:00",
-      "source_id": "gun-guru",
-      "source_name": "Gun Guru",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Connecticut Can DENY Your Pistol Permit for “Unsuitability”? | The CT Suitability Loophole EXPLAINED"
     },
     {
       "id": "69ecefed6aca2971",
