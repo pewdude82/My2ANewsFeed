@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-11-12T01:42:15.778801+00:00",
-  "item_count": 136,
+  "generated_at": "2026-11-12T11:56:12.890138+00:00",
+  "item_count": 135,
   "items": [
+    {
+      "id": "be9b9b4c1671a91d",
+      "title": "Federal Judge Dismisses DOJ Challenge to Maryland County’s Expansive ‘Gun-Free’ Zones",
+      "link": "https://thereload.com/federal-judge-dismisses-doj-challenge-to-maryland-countys-expansive-gun-free-zones/",
+      "published": "2026-11-12T04:29:44+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Court Case",
+      "tldr": "A federal judge dismissed the Department of Justice’s (DOJ) lawsuit against Montgomery County, Maryland, over restrictions on carrying firearms near many public spaces or events."
+    },
     {
       "id": "d4e8d62fbc4c87a9",
       "title": "TESTING 2A War Room Setup",
       "link": "https://www.youtube.com/watch?v=uWEAKW01MWo",
-      "published": "2026-11-12T00:13:59+00:00",
+      "published": "2026-11-12T03:42:51+00:00",
       "source_id": "guns-gadgets",
       "source_name": "Guns & Gadgets",
       "source_type": "youtube",
@@ -133,17 +144,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "2026 Blue Tsunami: What's Next for Connecticut Gun Owners? | 2A Roundtable"
-    },
-    {
-      "id": "2f862df6e1dcf7f0",
-      "title": "A resolution designating September 2026 as \"National Infant Mortality Awareness Month\", raising awareness of infant mortality, and increasing efforts to reduce infant mortality.",
-      "link": "https://www.congress.gov/bill/119th-congress/sres/951",
-      "published": "2026-11-11T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent."
     },
     {
       "id": "bdf2ef673074cb7a",
@@ -804,17 +804,6 @@
       "source_type": "org",
       "category": "Legislation",
       "tldr": "by Lee Williams Skyeler “Bleau” Jackson, 24, says he is the first person ever charged with an eight-year-old Florida statute that may prohibit the possession of Forced Reset Triggers, or FRTs, which…"
-    },
-    {
-      "id": "bd674446938ebe5d",
-      "title": "Gun Sales Surged in Weeks Before Election Night",
-      "link": "https://thereload.com/gun-sales-surged-in-weeks-before-election-night/",
-      "published": "2026-11-04T01:51:35+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "News",
-      "tldr": "Americans bought more guns in October 2026 than the year before."
     },
     {
       "id": "74ea9a61f1d34c3c",
