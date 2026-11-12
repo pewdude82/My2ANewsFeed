@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-11-12T11:56:12.890138+00:00",
-  "item_count": 135,
+  "generated_at": "2026-11-12T19:18:08.948133+00:00",
+  "item_count": 136,
   "items": [
+    {
+      "id": "55ec587923c5c1b9",
+      "title": "24 Hours to Surrender Your Guns… and NO Notice",
+      "link": "https://www.youtube.com/shorts/Ol6ZfHJJw1U",
+      "published": "2026-11-12T19:07:08+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "24 Hours to Surrender Your Guns… and NO Notice"
+    },
+    {
+      "id": "9a30fd0f9994f1ec",
+      "title": "Can Trump and Dems Make a Gun-Control Deal?",
+      "link": "https://www.youtube.com/shorts/UYAthzCJMXM",
+      "published": "2026-11-12T17:47:40+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Can Trump and Dems Make a Gun-Control Deal?"
+    },
+    {
+      "id": "90a5ef1b4712f616",
+      "title": "@Semafor's Dave Weigel Bearish on Big Gun Changes",
+      "link": "https://www.youtube.com/shorts/w2WqqYIcZAg",
+      "published": "2026-11-12T17:32:51+00:00",
+      "source_id": "the-reload-youtube",
+      "source_name": "The Reload (YouTube)",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "@Semafor's Dave Weigel Bearish on Big Gun Changes"
+    },
+    {
+      "id": "d6fba00b0f39fc62",
+      "title": "NEW Governor's First Press Conference Puts Minnesota Gun Owners on Notice",
+      "link": "https://www.youtube.com/watch?v=ZSx-pFd57TA",
+      "published": "2026-11-12T14:45:26+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "NEW Governor's First Press Conference Puts Minnesota Gun Owners on Notice"
+    },
+    {
+      "id": "761281bfe017a1ea",
+      "title": "ATRIUS UPGRADES CORPORATE PARTNER LEVEL, DONATES RIFLE FOR NOVEMBER SWEEPS",
+      "link": "https://saf.org/atrius-upgrades-corporate-partner-level-donates-rifle-for-november-sweeps/",
+      "published": "2026-11-12T14:13:12+00:00",
+      "source_id": "saf",
+      "source_name": "Second Amendment Foundation",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "BELLEVUE, Wash. — Nov. 12, 2026 — The Second Amendment Foundation (SAF) is pleased to announce that Atrius Development Group has upgraded its corporate partnership to the Platinum level and donated a…"
+    },
+    {
+      "id": "b30514b7a7b8d0d2",
+      "title": "Demetrio Daga worried most about his two young boys",
+      "link": "https://saf.org/demetrio-daga-worried-most-about-his-two-young-boys/",
+      "published": "2026-11-12T13:26:00+00:00",
+      "source_id": "saf",
+      "source_name": "Second Amendment Foundation",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "by Lee Williams Demetrio Daga is not doing well in New York’s Albany County jail, especially last week when his son Dimitri had his 8th birthday. When Daga turned eight, his father was in the very…"
+    },
     {
       "id": "be9b9b4c1671a91d",
       "title": "Federal Judge Dismisses DOJ Challenge to Maryland County’s Expansive ‘Gun-Free’ Zones",
@@ -23,6 +89,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "TESTING 2A War Room Setup"
+    },
+    {
+      "id": "2f862df6e1dcf7f0",
+      "title": "A resolution designating September 2026 as \"National Infant Mortality Awareness Month\", raising awareness of infant mortality, and increasing efforts to reduce infant mortality.",
+      "link": "https://www.congress.gov/bill/119th-congress/sres/951",
+      "published": "2026-11-12T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5525)"
     },
     {
       "id": "2e53bb8feabf91b2",
@@ -696,17 +773,6 @@
       "tldr": "BELLEVUE, Wash. — Nov. 5, 2026 — The Second Amendment Foundation (SAF) is pleased to announce that Blackout Coffee Co. has renewed their corporate partnership with the organization at the Silver…"
     },
     {
-      "id": "270e535fb79c43df",
-      "title": "2A War Room: First Guest Announcement",
-      "link": "https://www.youtube.com/watch?v=Tn3QYmDE8is",
-      "published": "2026-11-05T11:52:36+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "2A War Room: First Guest Announcement"
-    },
-    {
       "id": "a486517f75f8d181",
       "title": "Sixth Circuit Rejects Second Amendment Challenge to Mental-Health Gun Ban",
       "link": "https://thereload.com/sixth-circuit-rejects-second-amendment-challenge-to-mental-health-gun-ban/",
@@ -1125,17 +1191,6 @@
       "tldr": "Permanent Nationwide Block of Short Barreled Rifle & Pistol Brace Rule Gets Pushback By DOJ!"
     },
     {
-      "id": "7daec425fb53c85e",
-      "title": "How Does A Self-Defense Shooting Turn Into 7 Felonies? ... Even In A Pro-Gun State!",
-      "link": "https://www.youtube.com/watch?v=yOKA32Q-zOU",
-      "published": "2026-10-28T17:02:28+00:00",
-      "source_id": "atty-tom-grieve",
-      "source_name": "Atty Tom Grieve",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "How Does A Self-Defense Shooting Turn Into 7 Felonies? ... Even In A Pro-Gun State!"
-    },
-    {
       "id": "9c9e009db743eac1",
       "title": "Supreme Court 9-0 Unanimous Decision Creates Immediate Constitutional Commerce Clause Challenge!",
       "link": "https://www.youtube.com/watch?v=U4ZEUFBB9xg",
@@ -1145,17 +1200,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court 9-0 Unanimous Decision Creates Immediate Constitutional Commerce Clause Challenge!"
-    },
-    {
-      "id": "063f7f938c11525b",
-      "title": "VOLQUARTSEN RENEWS CORPORATE PARTNER COMMITMENT, UPGRADES TO GOLD LEVEL",
-      "link": "https://saf.org/volquartsen-renews-corporate-partner-commitment-upgrades-to-gold-level/",
-      "published": "2026-10-26T18:24:46+00:00",
-      "source_id": "saf",
-      "source_name": "Second Amendment Foundation",
-      "source_type": "org",
-      "category": "News",
-      "tldr": "BELLEVUE, Wash. — Oct. 26, 2026 — The Second Amendment Foundation (SAF) is pleased to announce that Volquartsen Firearms has renewed their corporate partner commitment and upgraded to the Gold level…"
     },
     {
       "id": "7f7d4274fd0f4f7b",
@@ -1213,17 +1257,6 @@
       "tldr": "Supreme Court Issues Emergency Election Denial Order With Major Nationwide Implications!"
     },
     {
-      "id": "3db2d73fa7b742d3",
-      "title": "MOTION FOR PRELIMINARY INJUNCTION FILED IN FIREARMS PURCHASE WAITING PERIOD CASE",
-      "link": "https://saf.org/motion-for-preliminary-injunction-filed-in-firearms-purchase-waiting-period-case/",
-      "published": "2026-10-23T19:30:12+00:00",
-      "source_id": "saf",
-      "source_name": "Second Amendment Foundation",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "BELLEVUE, Wash. — Oct. 23, 2026 — The Second Amendment Foundation (SAF) and its partners have filed a motion for preliminary injunction in NSSF v. Torrez, SAF’s challenge to New Mexico’s “cooling…"
-    },
-    {
       "id": "f4e8cf8b1284893a",
       "title": "Bloomberg Injects Tens of Millions into Everytown Midterm Push; Polls Show Voters Complacent on Guns",
       "link": "https://www.youtube.com/watch?v=yp6-7UqcFeU",
@@ -1244,28 +1277,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "They’ll Use ANYTHING to Push Gun Control..."
-    },
-    {
-      "id": "15f4474515cf930b",
-      "title": "How Will Gun Politics Impact the Midterms? (Ft. Semafor's Burgess Everett)",
-      "link": "https://www.youtube.com/watch?v=JP1lmLyXcIg",
-      "published": "2026-10-19T12:00:32+00:00",
-      "source_id": "the-reload-youtube",
-      "source_name": "The Reload (YouTube)",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "How Will Gun Politics Impact the Midterms? (Ft. Semafor's Burgess Everett)"
-    },
-    {
-      "id": "1d1964db5a9133c9",
-      "title": "Florida Greenlights Unregistered Silencers, NRA Drops its First Midterm Ad",
-      "link": "https://www.youtube.com/watch?v=h_v7s2qBzoA",
-      "published": "2026-10-16T00:13:01+00:00",
-      "source_id": "the-reload-youtube",
-      "source_name": "The Reload (YouTube)",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Florida Greenlights Unregistered Silencers, NRA Drops its First Midterm Ad"
     },
     {
       "id": "f6dfb7e566e2414e",
