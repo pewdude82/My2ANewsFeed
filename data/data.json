@@ -1,7 +1,84 @@
 {
-  "generated_at": "2026-11-18T12:22:26.565502+00:00",
+  "generated_at": "2026-11-18T22:43:50.892041+00:00",
   "item_count": 135,
   "items": [
+    {
+      "id": "6b5ae7d67d1fc8f8",
+      "title": "Can Civilians Handle the AR 15? A Veteran's Argument Examined",
+      "link": "https://www.youtube.com/watch?v=-vO0OgDXnHA",
+      "published": "2026-11-18T20:00:01+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Can Civilians Handle the AR 15? A Veteran's Argument Examined"
+    },
+    {
+      "id": "042769709a84ef24",
+      "title": "New Bill Could Force You to Destroy Your Suppressor… No Grandfathering?",
+      "link": "https://www.youtube.com/watch?v=3LnJIwLc4z4",
+      "published": "2026-11-18T18:46:48+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "New Bill Could Force You to Destroy Your Suppressor… No Grandfathering?"
+    },
+    {
+      "id": "d3fa0e266992f6dd",
+      "title": "ARMSLIST RENEWS GOLD-LEVEL CORPORATE PARTNERSHIP",
+      "link": "https://saf.org/armslist-renews-gold-level-corporate-partnership/",
+      "published": "2026-11-18T18:05:28+00:00",
+      "source_id": "saf",
+      "source_name": "Second Amendment Foundation",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "BELLEVUE, Wash. — Nov. 18, 2026 — The Second Amendment Foundation (SAF) is pleased to announce that Armslist has renewed their Gold-level corporate partnership. “Armslist is proud to renew our…"
+    },
+    {
+      "id": "dc71e0432164dcc7",
+      "title": "Ohio: Strengthened Preemption Bill with New Carry Provisions Advances",
+      "link": "https://www.nraila.org/articles/20261118/ohio-strengthened-preemption-bill-with-new-carry-provisions-advances",
+      "published": "2026-11-18T17:48:57+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "The House Judiciary Committee has advanced Senate Bill 278, legislation to strengthen Ohio’s existing firearm preemption law."
+    },
+    {
+      "id": "608ccfe8e608b7b1",
+      "title": "Gun Owners of America’s Aidan Johnston to Testify Before Congress on ATF’s Illegal Gun Registry",
+      "link": "https://www.gunowners.org/gun-owners-of-americas-aidan-johnston-to-testify-before-congress-on-atfs-illegal-gun-registry/",
+      "published": "2026-11-18T16:36:29+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "FOR IMMEDIATE RELEASE November 18, 2026 Gun Owners of America’s Aidan Johnston to Testify Before Congress on ATF’s Illegal Gun Registry Springfield, VA – Gun Owners of America (GOA) is proud to…"
+    },
+    {
+      "id": "6fe282103c7257d6",
+      "title": "The 3 WORST Gun Bills Texas Just Filed (RECAP)",
+      "link": "https://www.youtube.com/shorts/NJZe6vyqbJE",
+      "published": "2026-11-18T15:30:33+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "The 3 WORST Gun Bills Texas Just Filed (RECAP)"
+    },
+    {
+      "id": "4c7420fba0aec25c",
+      "title": "Democrats Want to Nuke the Filibuster! Here's What It Means for NFA...",
+      "link": "https://www.youtube.com/watch?v=6CE_qiE69V0",
+      "published": "2026-11-18T13:54:26+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Democrats Want to Nuke the Filibuster! Here's What It Means for NFA..."
+    },
     {
       "id": "027887a826d1811b",
       "title": "Gallup: Most Americans Want Stricter Gun Laws Even as Support for Loosening Restrictions Rises",
@@ -58,17 +135,6 @@
       "tldr": "The November 3rd midterm elections changed the political landscape in Pennsylvania, changing a formerly split state government into an anti-gun trifecta."
     },
     {
-      "id": "74e9e328f1b6d393",
-      "title": "DOJ Just Revealed How Americans Can Get Their Gun Rights BACK!",
-      "link": "https://www.youtube.com/watch?v=hyUxIm5o1pA",
-      "published": "2026-11-17T14:45:10+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "DOJ Just Revealed How Americans Can Get Their Gun Rights BACK!"
-    },
-    {
       "id": "50596c36851811b4",
       "title": "Wisconsin: New Legislature Brings New Risk of Gun Control",
       "link": "https://www.nraila.org/articles/20261117/wisconsin-new-legislature-brings-new-risk-of-gun-control",
@@ -78,6 +144,17 @@
       "source_type": "org",
       "category": "Legislation",
       "tldr": "The November 3rd midterm elections changed the political landscape in Wisconsin, changing a formerly pro-gun legislature into an anti-gun trifecta."
+    },
+    {
+      "id": "9c32fa92db466c61",
+      "title": "Michigan: Midterm Election Brings Anti-Gun Majority to Lansing",
+      "link": "https://www.nraila.org/articles/20261117/michigan-midterm-election-brings-anti-gun-majority-to-lansing",
+      "published": "2026-11-17T14:44:52+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "The November 3rd midterm elections saw radical anti-gun politicians win across Michigan, including an anti-gun trifecta in the state government."
     },
     {
       "id": "7f0402e76ac5a3a6",
@@ -850,17 +927,6 @@
       "tldr": "Prefiling of legislative bills for the 2027 Regular Session of the Texas State Legislature began today. On the first day alone, legislators filed roughly 35 firearm-related bills, with the vast…"
     },
     {
-      "id": "919e3e1cd8ddba18",
-      "title": "Grassroots Spotlight: Building Grassroots Momentum in Eastern Pennsylvania",
-      "link": "https://www.nraila.org/articles/20261109/grassroots-spotlight-building-grassroots-momentum-in-eastern-pennsylvania",
-      "published": "2026-11-09T18:45:22+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "News",
-      "tldr": "Just days after the election, the NRA was hard at work in eastern Pennsylvania at Saints Logistics."
-    },
-    {
       "id": "3293479cce8cb9a6",
       "title": "GOA Celebrates 50 Years of No-Compromise Fighting for Gun Rights",
       "link": "https://www.gunowners.org/goa-celebrates-50-years-of-no-compromise-fighting-for-gun-rights/",
@@ -870,17 +936,6 @@
       "source_type": "org",
       "category": "Legislation",
       "tldr": "FOR IMMEDIATE RELEASE November 9, 2026 GOA Celebrates 50 Years of No-Compromise Fighting for Gun Rights Springfield, VA – Gun Owners of America (GOA) is celebrating 50 years of standing for the…"
-    },
-    {
-      "id": "eedb8e0fa7efbc99",
-      "title": "Criminals Keep Reoffending, Politicians Keep Talking Gun Control",
-      "link": "https://www.nraila.org/articles/20261109/criminals-keep-reoffending-politicians-keep-talking-gun-control",
-      "published": "2026-11-09T17:43:04+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "News",
-      "tldr": "The ballots have barely been counted from the 2026 midterm elections, and national gun control organizations are celebrating political victories while eagerly awaiting the next wave of firearm…"
     },
     {
       "id": "6f88e9d9b53ff751",
@@ -936,17 +991,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING: Cook County Tries to KILL Its SCOTUS Gun Case! Democrats Take Control & 2A Under Attack!"
-    },
-    {
-      "id": "2fd0d22dd0462df7",
-      "title": "3 Things Every Gun Owner Should Do NOW… Waiting Could Cost You",
-      "link": "https://www.youtube.com/watch?v=yg9ao_vwSzg",
-      "published": "2026-11-07T18:15:28+00:00",
-      "source_id": "atty-tom-grieve",
-      "source_name": "Atty Tom Grieve",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "3 Things Every Gun Owner Should Do NOW… Waiting Could Cost You"
     },
     {
       "id": "fab02b53b603ab78",
@@ -1024,17 +1068,6 @@
       "source_type": "org",
       "category": "News",
       "tldr": "FOR IMMEDIATE RELEASE October 30, 2026 GEAR Tickets Now Available: Gun Owners of America Launches New Outdoor and Overlanding Experience New event brings together outdoor adventure, overlanding…"
-    },
-    {
-      "id": "a352c07fb478148e",
-      "title": "The Election Is Over… What Gun Control Is Coming?",
-      "link": "https://www.youtube.com/shorts/BNwscwChIGI",
-      "published": "2026-11-05T16:16:17+00:00",
-      "source_id": "atty-tom-grieve",
-      "source_name": "Atty Tom Grieve",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "The Election Is Over… What Gun Control Is Coming?"
     },
     {
       "id": "851f17a0d894ec2d",
@@ -1213,28 +1246,6 @@
       "tldr": "BREAKING! Supreme Court Issuing Immediate Decision In Major Constitutional Rights Challenge!"
     },
     {
-      "id": "79bcc8037102c2ff",
-      "title": "FL District 14: Vote for Mike Beltran—Send a Second Amendment Fighter to Congress.",
-      "link": "https://www.gunowners.org/fl10302026b/",
-      "published": "2026-10-30T15:27:51+00:00",
-      "source_id": "goa",
-      "source_name": "Gun Owners of America",
-      "source_type": "org",
-      "category": "Legislation",
-      "tldr": "Vote for Mike Beltran for Florida’s 14th Congressional District Gun Owners of America and Fuerza 2A proudly endorse Mike Beltran for Congress in Florida’s 14th Congressional District—and we’re asking…"
-    },
-    {
-      "id": "47d773450b95ae9c",
-      "title": "Mentally disturbed anti-gun vandal defaces 9/11 Memorial",
-      "link": "https://saf.org/mentally-disturbed-anti-gun-vandal-defaces-9-11-memorial/",
-      "published": "2026-10-30T14:40:38+00:00",
-      "source_id": "saf",
-      "source_name": "Second Amendment Foundation",
-      "source_type": "org",
-      "category": "News",
-      "tldr": "Neither the NYPD nor the NYFD were willing to comment publicly about a wanton act of vandalism that occurred this week at Ground Zero of the 9/11 Memorial. Calls and emails to both agencies were not…"
-    },
-    {
       "id": "d243537c75e161b5",
       "title": "ANTI GUNNERS FLOOD SCOTUS With Briefs! | Grant v Higgins",
       "link": "https://www.youtube.com/watch?v=1qEgpRoArHc",
@@ -1310,17 +1321,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "🚨 CONNECTICUT GLOCK BAN BLOCKED! Judge Issues Injunction | HB 5043 & 2A News LIVE"
-    },
-    {
-      "id": "8d374076d100d621",
-      "title": "🚨 JUDGE STAYS CT GLOCK BAN! HB5043 BLOCKED? | PSA Dagger Live",
-      "link": "https://www.youtube.com/watch?v=LbggIlvWzHY",
-      "published": "2026-10-01T10:58:06+00:00",
-      "source_id": "gun-guru",
-      "source_name": "Gun Guru",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "🚨 JUDGE STAYS CT GLOCK BAN! HB5043 BLOCKED? | PSA Dagger Live"
     },
     {
       "id": "69ecefed6aca2971",
