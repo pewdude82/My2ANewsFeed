@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-11-19T04:41:58.548962+00:00",
-  "item_count": 125,
+  "generated_at": "2026-11-19T16:52:27.619430+00:00",
+  "item_count": 136,
   "items": [
+    {
+      "id": "b637fbb365ad7452",
+      "title": "Court Says Body Armor Is Protected! Now the State Is Rushing to Stop It!",
+      "link": "https://www.youtube.com/watch?v=uoCDFARcgg8",
+      "published": "2026-11-19T14:35:54+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Court Says Body Armor Is Protected! Now the State Is Rushing to Stop It!"
+    },
+    {
+      "id": "42ee6313085f7f69",
+      "title": "ATF: Pastor Russell Fincher’s guns were all destroyed before his Presidential pardon",
+      "link": "https://saf.org/atf-pastor-russell-finchers-guns-were-all-destroyed-before-his-presidential-pardon/",
+      "published": "2026-11-19T10:48:00+00:00",
+      "source_id": "saf",
+      "source_name": "Second Amendment Foundation",
+      "source_type": "org",
+      "category": "Regulatory",
+      "tldr": "by Lee Williams ATF Director Robert Cekada told Pastor Russell Fincher this week that he can’t get any of his seized firearms even after he was pardoned by President Donald J. Trump because ATF…"
+    },
     {
       "id": "c6f7b5fe802c9b0c",
       "title": "Permanent Nationwide Block of Short Barreled Rifle & Pistol Brace Rule Gets Pushback By DOJ!",
@@ -23,6 +45,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "DOJ Just Revealed How Felons Can Get Their Gun Rights BACK!"
+    },
+    {
+      "id": "32b46270df4f995a",
+      "title": "Repeal the NFA Act",
+      "link": "https://www.congress.gov/bill/119th-congress/hr/335",
+      "published": "2026-11-19T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Referred to the House Committee on Ways and Means."
     },
     {
       "id": "6b5ae7d67d1fc8f8",
@@ -67,6 +100,17 @@
       "source_type": "org",
       "category": "Legislation",
       "tldr": "The House Judiciary Committee has advanced Senate Bill 278, legislation to strengthen Ohio’s existing firearm preemption law."
+    },
+    {
+      "id": "608ccfe8e608b7b1",
+      "title": "Gun Owners of America’s Aidan Johnston to Testify Before Congress on ATF’s Illegal Gun Registry",
+      "link": "https://www.gunowners.org/gun-owners-of-americas-aidan-johnston-to-testify-before-congress-on-atfs-illegal-gun-registry/",
+      "published": "2026-11-18T16:36:29+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "FOR IMMEDIATE RELEASE November 18, 2026 Gun Owners of America’s Aidan Johnston to Testify Before Congress on ATF’s Illegal Gun Registry Springfield, VA – Gun Owners of America (GOA) is proud to…"
     },
     {
       "id": "6fe282103c7257d6",
@@ -696,17 +740,6 @@
       "tldr": "@Semafor's Dave Weigel Bearish on Big Gun Changes"
     },
     {
-      "id": "d6fba00b0f39fc62",
-      "title": "NEW Governor's First Press Conference Puts Minnesota Gun Owners on Notice",
-      "link": "https://www.youtube.com/watch?v=ZSx-pFd57TA",
-      "published": "2026-11-12T14:45:26+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "NEW Governor's First Press Conference Puts Minnesota Gun Owners on Notice"
-    },
-    {
       "id": "761281bfe017a1ea",
       "title": "ATRIUS UPGRADES CORPORATE PARTNER LEVEL, DONATES RIFLE FOR NOVEMBER SWEEPS",
       "link": "https://saf.org/atrius-upgrades-corporate-partner-level-donates-rifle-for-november-sweeps/",
@@ -828,6 +861,17 @@
       "tldr": "2026 Blue Tsunami: What's Next for Connecticut Gun Owners? | 2A Roundtable"
     },
     {
+      "id": "161e61327690fa62",
+      "title": "OH: SB 214 Heads to Governor DeWine’s Desk!",
+      "link": "https://www.gunowners.org/oh11102016-2/",
+      "published": "2026-11-10T22:09:29+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "SB 214 Passes the Senate on a Concurrence Vote! It now heads to Governor Mike DeWine’s desk! The Ohio Senate just passed SB 214 on a concurrence vote 21-9! This means the bill is headed to the desk…"
+    },
+    {
       "id": "913d923e7e2c3e86",
       "title": "ATF Director: ‘We will not change’",
       "link": "https://saf.org/atf-director-we-will-not-change/",
@@ -859,6 +903,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "20 Gun Bills Just Filed in Texas… These 5 Are the Worst!"
+    },
+    {
+      "id": "cbffd7a33b5408d1",
+      "title": "OH: Public Safety Committee Advances SB 214 with GOA’s Amendments",
+      "link": "https://www.gunowners.org/oh11102026/",
+      "published": "2026-11-10T16:01:49+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "Urge Your Representative to VOTE YES on the Floor TODAY The House Public Safety Committee has passed Senate Bill 214 with our amendments! GOA sincerely thanks the committee for moving this bill…"
     },
     {
       "id": "7b0b3429b2d2a746",
@@ -903,6 +958,17 @@
       "source_type": "org",
       "category": "Legislation",
       "tldr": "Prefiling of legislative bills for the 2027 Regular Session of the Texas State Legislature began today. On the first day alone, legislators filed roughly 35 firearm-related bills, with the vast…"
+    },
+    {
+      "id": "3293479cce8cb9a6",
+      "title": "GOA Celebrates 50 Years of No-Compromise Fighting for Gun Rights",
+      "link": "https://www.gunowners.org/goa-celebrates-50-years-of-no-compromise-fighting-for-gun-rights/",
+      "published": "2026-11-09T18:21:39+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "FOR IMMEDIATE RELEASE November 9, 2026 GOA Celebrates 50 Years of No-Compromise Fighting for Gun Rights Springfield, VA – Gun Owners of America (GOA) is celebrating 50 years of standing for the…"
     },
     {
       "id": "6f88e9d9b53ff751",
@@ -1026,6 +1092,28 @@
       "tldr": "BREAKING! Supreme Court Issuing Immediate Decision In Major Constitutional Rights Challenge!"
     },
     {
+      "id": "695cb3609e52a4d8",
+      "title": "GEAR Tickets Now Available: Gun Owners of America Launches New Outdoor and Overlanding Experience",
+      "link": "https://www.gunowners.org/gear-tickets-now-available-gun-owners-of-america-launches-new-outdoor-and-overlanding-experience/",
+      "published": "2026-11-05T16:17:35+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "FOR IMMEDIATE RELEASE October 30, 2026 GEAR Tickets Now Available: Gun Owners of America Launches New Outdoor and Overlanding Experience New event brings together outdoor adventure, overlanding…"
+    },
+    {
+      "id": "851f17a0d894ec2d",
+      "title": "OH: Time is Running Out to Stop NFA Tyranny — TAKE ACTION",
+      "link": "https://www.gunowners.org/oh11052026/",
+      "published": "2026-11-05T15:33:28+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "CALL THE HOUSE PUBLIC SAFETY COMMITTEE MEMBERS Cindy Abrams – Chair (R) – (614) 466-9091 Kevin Miller – Vice Chair (R) – (614) 466-2500 Rodney Creech (R) – (614) 466-2960 Haraz Ghanbari (R) – (614)…"
+    },
+    {
       "id": "8b8e2d8baf45ccd1",
       "title": "BLACKOUT COFFEE REAFFIRMS LONGSTANDING SUPPORT FOR SAF",
       "link": "https://saf.org/blackout-coffee-reaffirms-longstanding-support-for-saf/",
@@ -1048,15 +1136,48 @@
       "tldr": "BELLEVUE, Wash. — Nov. 4, 2026 — The Second Amendment Foundation (SAF) and its partners have filed a reply brief with the Fifth Circuit Court of Appeals challenging the limited scope of relief…"
     },
     {
-      "id": "801592f4ebf2a940",
-      "title": "Texan arrested for selling Forced Reset Triggers in Florida",
-      "link": "https://saf.org/texan-arrested-for-selling-forced-resettriggers-in-florida/",
-      "published": "2026-11-04T14:57:00+00:00",
-      "source_id": "saf",
-      "source_name": "Second Amendment Foundation",
+      "id": "abdd1e022ad96b6b",
+      "title": "SC: VICTORY: Alan Wilson Elected Governor of South Carolina!",
+      "link": "https://www.gunowners.org/sc11042026/",
+      "published": "2026-11-04T20:37:01+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
       "source_type": "org",
-      "category": "Legislation",
-      "tldr": "by Lee Williams Skyeler “Bleau” Jackson, 24, says he is the first person ever charged with an eight-year-old Florida statute that may prohibit the possession of Forced Reset Triggers, or FRTs, which…"
+      "category": "News",
+      "tldr": "Huge Victory for South Carolina Gun Owners: Alan Wilson Wins Governor’s Race! The election results are in, and gun owners across the Palmetto State delivered a resounding message at the ballot box…"
+    },
+    {
+      "id": "17e34d9940b15848",
+      "title": "PA: RED ALERT: Anti-Gun Trifecta in Harrisburg",
+      "link": "https://www.gunowners.org/pa11042026/",
+      "published": "2026-11-04T20:19:26+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "Harrisburg Just Fell to an Anti-Gun Trifecta: The Bad News and What is in Store for PA Gun Owners I’m not going to sugarcoat it: Pennsylvania gun owners are facing an unprecedented crisis in…"
+    },
+    {
+      "id": "c1071c1859ad5a98",
+      "title": "GOA is Still Here and We Have Survived Worse",
+      "link": "https://www.gunowners.org/110426-3/",
+      "published": "2026-11-04T19:34:37+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Regulatory",
+      "tldr": "GOA is still here, in DC, ready to fight for your rights. And be encouraged, because we’ve survived worse. GOA fought tirelessly for your Second Amendment rights under 8 years of Obama and 4 years of…"
+    },
+    {
+      "id": "34d8fd62098af2de",
+      "title": "A Message to the Gun Owners in America",
+      "link": "https://www.gunowners.org/110426-2/",
+      "published": "2026-11-04T17:02:43+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "This election didn’t go the way we expected, but we’re still here… We all saw what happened yesterday. It was a horrible political bloodbath. But while we may have lost a lot of battles, we have not…"
     },
     {
       "id": "74ea9a61f1d34c3c",
