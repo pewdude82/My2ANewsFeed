@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-11-20T01:28:09.727795+00:00",
-  "item_count": 137,
+  "generated_at": "2026-11-20T12:16:00.363245+00:00",
+  "item_count": 136,
   "items": [
+    {
+      "id": "e0318cc3b3054299",
+      "title": "Analysis: Justice Thomas Just Wrote a Guide for Challenging ‘Gun-Free’ Zones [Member Exclusive]",
+      "link": "https://thereload.com/analysis-justice-thomas-just-wrote-a-guide-for-challenging-gun-free-zones-member-exclusive/",
+      "published": "2026-11-20T10:02:12+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Court Case",
+      "tldr": "The Supreme Court of the United States (SCOTUS) just rejected a Second Amendment challenge to Maryland's expansive \"gun-free\" zones, but one justice also provided gun-rights activists a pathway…"
+    },
+    {
+      "id": "d61f6a9d04cc67dc",
+      "title": "Newsletter: Supreme Court Balks at ‘Gun-Free’ Zone Fight… For Now",
+      "link": "https://thereload.com/newsletter-supreme-court-balks-at-gun-free-zone-fight-for-now/",
+      "published": "2026-11-20T10:00:01+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Court Case",
+      "tldr": "Plus, the lawyer who most recently won a SCOTUS Second Amendment case explains the historical flaw in Connecticut's defense of its AR-15 ban on the podcast."
+    },
     {
       "id": "0acd627b173dc244",
       "title": "Supreme Court 9-0 Unanimous Decision Creates Immediate Constitutional Commerce Clause Challenge",
@@ -12,6 +34,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court 9-0 Unanimous Decision Creates Immediate Constitutional Commerce Clause Challenge"
+    },
+    {
+      "id": "ce94de04e7c976e6",
+      "title": "To establish a Department of Justice whistleblower program for the reporting of Federal fraud offenses involving the use of prediction market platforms, and for other purposes.",
+      "link": "https://www.congress.gov/bill/119th-congress/hr/11092",
+      "published": "2026-11-20T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Referred to the Committee on the Judiciary, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for…"
     },
     {
       "id": "f42185da5f5d587d",
@@ -122,28 +155,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "DOJ Just Revealed How Felons Can Get Their Gun Rights BACK!"
-    },
-    {
-      "id": "bd541317844cb5ff",
-      "title": "Preventing Pretrial Gun Purchases Act",
-      "link": "https://www.congress.gov/bill/119th-congress/hr/4173",
-      "published": "2026-11-19T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Referred to the House Committee on the Judiciary."
-    },
-    {
-      "id": "32b46270df4f995a",
-      "title": "Repeal the NFA Act",
-      "link": "https://www.congress.gov/bill/119th-congress/hr/335",
-      "published": "2026-11-19T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Referred to the House Committee on Ways and Means."
     },
     {
       "id": "6b5ae7d67d1fc8f8",
@@ -762,17 +773,6 @@
       "tldr": "Supreme Court Issues 9-0 Unanimous Ruling Leading To Major Nationwide & Constitutional Implications!"
     },
     {
-      "id": "48ababd1e5466d7d",
-      "title": "DOJ Second Amendment Section Sues Over $2,000 Carry Permit Despite Top Official Stepping Down",
-      "link": "https://thereload.com/doj-second-amendment-section-sues-over-2000-carry-permit-despite-top-official-stepping-down/",
-      "published": "2026-11-13T00:56:01+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "Regulatory",
-      "tldr": "The Department of Justice (DOJ) is continuing to pursue gun-rights suits even after the official who pioneered them stepped down."
-    },
-    {
       "id": "6ced19d384248d41",
       "title": "Gun Bans Still Coming Despite Being Low Priority?",
       "link": "https://www.youtube.com/shorts/drHO-jZXjwE",
@@ -837,17 +837,6 @@
       "source_type": "org",
       "category": "News",
       "tldr": "by Lee Williams Demetrio Daga is not doing well in New York’s Albany County jail, especially last week when his son Dimitri had his 8th birthday. When Daga turned eight, his father was in the very…"
-    },
-    {
-      "id": "be9b9b4c1671a91d",
-      "title": "Federal Judge Dismisses DOJ Challenge to Maryland County’s Expansive ‘Gun-Free’ Zones",
-      "link": "https://thereload.com/federal-judge-dismisses-doj-challenge-to-maryland-countys-expansive-gun-free-zones/",
-      "published": "2026-11-12T04:29:44+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "Court Case",
-      "tldr": "A federal judge dismissed the Department of Justice’s (DOJ) lawsuit against Montgomery County, Maryland, over restrictions on carrying firearms near many public spaces or events."
     },
     {
       "id": "f8045a865d802c5e",
