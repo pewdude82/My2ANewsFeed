@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-22T03:40:48.365489+00:00",
+  "generated_at": "2026-11-22T12:03:18.265951+00:00",
   "item_count": 135,
   "items": [
+    {
+      "id": "892ee50ddbbc260c",
+      "title": "Analysis: Gun Demand Is a National Story, Not a Local One [Member Early Access]",
+      "link": "https://thereload.com/analysis-gun-demand-is-a-national-story-not-a-local-one-member-early-access/",
+      "published": "2026-11-22T10:04:30+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "News",
+      "tldr": "California and Alabama share few things in common, but gun sales spikes are one of them. New research covering decades of data shows those aren’t alone, and we can even see the phenomenon playing out…"
+    },
+    {
+      "id": "a7042d2fd863f76d",
+      "title": "Podcast: Did SCOTUS Misquote Second Amendment History or Is the New York Times Wrong? (Ft. Jonathan Adler) [Member Early Access]",
+      "link": "https://thereload.com/podcast-did-scotus-misquote-second-amendment-history-or-is-the-new-york-times-wrong-ft-jonathan-adler/",
+      "published": "2026-11-22T10:02:39+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "Court Case",
+      "tldr": "Plus, Reload Reporter Julie Miller and I examine the Supreme Court's decision to deny a Second Amendment challenge to Maryland's expansive \"gun-free\" zone law."
+    },
+    {
+      "id": "aded44a7d8cc89e7",
+      "title": "Members’ Newsletter: Are Gun Sales Trends More Local or National?",
+      "link": "https://thereload.com/members-newsletter-are-gun-sales-trends-more-local-or-national/",
+      "published": "2026-11-22T10:00:57+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "News",
+      "tldr": "Plus, William & Mary law professor Jonathan Adler joined the podcast to critique the New York Times claim that Heller is based on a misquote."
+    },
     {
       "id": "de907a00c1e62726",
       "title": "CCDL at SCOTUS, Gun Control & WWIII Fears | Gun Guru Live",
@@ -718,17 +751,6 @@
       "tldr": "This week, we’re looking at an exclusive critique of one of the primary briefs in the Supreme Court’s AR-15 ban case from one of the top Second Amendment lawyers in the country. Lawyer Alan Beck, who…"
     },
     {
-      "id": "a88fd9d7e5b52572",
-      "title": "Members’ Newsletter: Will the Midterms Change How SCOTUS Approaches AR-15 Bans?",
-      "link": "https://thereload.com/members-newsletter-will-the-midterms-change-how-scotus-approaches-ar-15-bans/",
-      "published": "2026-11-15T10:00:34+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "Court Case",
-      "tldr": "Plus, gun-rights lawyer Alan Beck discets a serious historical problem with Connecticut's Supreme Court defense of AR-15 bans on the podcast."
-    },
-    {
       "id": "964065ec0db8848a",
       "title": "BREAKING! Supreme Court Decision To Permanently End \"Assault Weapon\" Bans Pushed To Be Thrown Out!",
       "link": "https://www.youtube.com/watch?v=Y5qWwDvvwvo",
@@ -848,28 +870,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Grant v. Higgins Update | How Connecticut Is Defending Its AR-15 Ban"
-    },
-    {
-      "id": "ab580abde52bc627",
-      "title": "Analysis: Federal Judge Strikes at Heart of DOJ’s Second Amendment Legal Strategy [Member Exclusive]",
-      "link": "https://thereload.com/analysis-federal-judge-strikes-at-heart-of-dojs-second-amendment-legal-strategy-member-exclusive/",
-      "published": "2026-11-13T10:02:56+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "Court Case",
-      "tldr": "The latest ruling in one of the Department of Justice (DOJ) Second Amendment lawsuits threatens to unravel the whole effort."
-    },
-    {
-      "id": "404066471ff44d8c",
-      "title": "Newsletter: DOJ Gun Section Pushes Ahead as Federal Judge Hits at Weak Point",
-      "link": "https://thereload.com/newsletter-doj-gun-section-pushes-ahead-as-federal-judge-hits-at-weak-point/",
-      "published": "2026-11-13T10:00:36+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "Court Case",
-      "tldr": "Plus, Semafor political reporter Dave Weigel gives his take on what the blue wave means for gun policy on the podcast."
     },
     {
       "id": "043609b9a4732a60",
