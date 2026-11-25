@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-11-24T19:08:38.466939+00:00",
-  "item_count": 129,
+  "generated_at": "2026-11-25T03:12:15.872318+00:00",
+  "item_count": 140,
   "items": [
+    {
+      "id": "9517cc8f873fe898",
+      "title": "Supreme Court Issues 9-0 Unanimous Ruling Leading To Major Nationwide & Constitutional Implications!",
+      "link": "https://www.youtube.com/watch?v=tH5VtrPCahk",
+      "published": "2026-11-25T01:00:02+00:00",
+      "source_id": "armed-scholar",
+      "source_name": "Armed Scholar",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Supreme Court Issues 9-0 Unanimous Ruling Leading To Major Nationwide & Constitutional Implications!"
+    },
+    {
+      "id": "57b20aaa80bf41d9",
+      "title": "HUGE UPDATE: State SBR & Suppressor Rules Just Changed!",
+      "link": "https://www.youtube.com/watch?v=6w9EdqkwNi0",
+      "published": "2026-11-24T21:35:13+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "HUGE UPDATE: State SBR & Suppressor Rules Just Changed!"
+    },
+    {
+      "id": "4f7524cbff1ebf90",
+      "title": "Handing Your Buddy a Gun Could Be a CRIME",
+      "link": "https://www.youtube.com/shorts/Uv-_yCVsN7w",
+      "published": "2026-11-24T19:11:58+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Handing Your Buddy a Gun Could Be a CRIME"
+    },
+    {
+      "id": "a802ac1d095db206",
+      "title": "NCIC Was Hacked, Let’s Delete The Registry",
+      "link": "https://www.gunowners.org/112426/",
+      "published": "2026-11-24T18:59:19+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "Last Friday, news broke that The FBI’s National Crime Information Center, NCIC, a database the FBI uses to share information with state and local law enforcement agencies about criminal…"
+    },
+    {
+      "id": "a595156b5bded666",
+      "title": "Ohio: Governor DeWine signs Bill on Suppressors, Short-barreled Rifles and Shotguns!",
+      "link": "https://www.nraila.org/articles/20261124/ohio-governor-dewine-signs-bill-on-suppressors-short-barreled-rifles-and-shotguns",
+      "published": "2026-11-24T18:31:25+00:00",
+      "source_id": "nra-ila",
+      "source_name": "NRA-ILA",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "No summary available"
+    },
     {
       "id": "fa91ed91c4a503a8",
       "title": "THIS Destroys Assault Weapons Bans: The Data They Don't Want You To See",
@@ -34,6 +89,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING! Supreme Court Decision To Permanently End \"Assault Weapon\" Bans Pushed To Be Thrown Out!"
+    },
+    {
+      "id": "ff8da38139449bf9",
+      "title": "To authorize the establishment of memorials to the Wisconsin infantry officers and enlisted men who fought in the Battle of Antietam and the Second Battle of Bull Run, and for other purposes.",
+      "link": "https://www.congress.gov/bill/119th-congress/hr/7495",
+      "published": "2026-11-24T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Ordered to be Reported in the Nature of a Substitute by Unanimous Consent."
     },
     {
       "id": "bd541317844cb5ff",
@@ -509,6 +575,17 @@
       "tldr": "BELLEVUE, Wash. — Nov. 19, 2026 — Coming less than a month after the Second Amendment Foundation (SAF) and its partners filed a motion for preliminary injunction in NSSF v. Torrez, the state has…"
     },
     {
+      "id": "2932bb393c1b6d1e",
+      "title": "Gun Owners of America and Silencer Shop Launch “Operation NFA” to Expand Second Amendment Protections Nationwide",
+      "link": "https://www.gunowners.org/gun-owners-of-america-and-silencer-shop-launch-operation-nfa-to-expand-second-amendment-protections-nationwide/",
+      "published": "2026-11-19T19:34:03+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "FOR IMMEDIATE RELEASE November 19, 2026 Gun Owners of America and Silencer Shop Launch “Operation NFA” to Expand Second Amendment Protections Nationwide Springfield, VA – Gun Owners of America (GOA)…"
+    },
+    {
       "id": "44dec7a4e08304c8",
       "title": "What Does ATF Do When It Comes To Alcohol and Tobacco?",
       "link": "https://www.youtube.com/watch?v=BFMTXzyFbO0",
@@ -630,6 +707,17 @@
       "tldr": "The House Judiciary Committee has advanced Senate Bill 278, legislation to strengthen Ohio’s existing firearm preemption law."
     },
     {
+      "id": "608ccfe8e608b7b1",
+      "title": "Gun Owners of America’s Aidan Johnston to Testify Before Congress on ATF’s Illegal Gun Registry",
+      "link": "https://www.gunowners.org/gun-owners-of-americas-aidan-johnston-to-testify-before-congress-on-atfs-illegal-gun-registry/",
+      "published": "2026-11-18T16:36:29+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "FOR IMMEDIATE RELEASE November 18, 2026 Gun Owners of America’s Aidan Johnston to Testify Before Congress on ATF’s Illegal Gun Registry Springfield, VA – Gun Owners of America (GOA) is proud to…"
+    },
+    {
       "id": "6fe282103c7257d6",
       "title": "The 3 WORST Gun Bills Texas Just Filed (RECAP)",
       "link": "https://www.youtube.com/shorts/NJZe6vyqbJE",
@@ -639,17 +727,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "The 3 WORST Gun Bills Texas Just Filed (RECAP)"
-    },
-    {
-      "id": "4c7420fba0aec25c",
-      "title": "Democrats Want to Nuke the Filibuster! Here's What It Means for NFA...",
-      "link": "https://www.youtube.com/watch?v=6CE_qiE69V0",
-      "published": "2026-11-18T13:54:26+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Democrats Want to Nuke the Filibuster! Here's What It Means for NFA..."
     },
     {
       "id": "027887a826d1811b",
@@ -804,17 +881,6 @@
       "source_type": "org",
       "category": "Regulatory",
       "tldr": "Gun owners may soon have an easier time traveling by Amtrak, with President Donald Trump to thank. Reports indicate that the heavily federally subsidized train service will change its policy starting…"
-    },
-    {
-      "id": "bb99624c35c24b1c",
-      "title": "Ohio: Bill to Hold Anti-Gun Cities Accountable Up for Hearing Tomorrow!",
-      "link": "https://www.nraila.org/articles/20261116/ohio-bill-to-hold-anti-gun-cities-accountable-up-for-hearing-tomorrow",
-      "published": "2026-11-16T14:47:19+00:00",
-      "source_id": "nra-ila",
-      "source_name": "NRA-ILA",
-      "source_type": "org",
-      "category": "Legislation",
-      "tldr": "On Tuesday, November 17th, the Ohio House Judiciary Committee will hold a hearing on Senate Bill 278, to strengthen the existing firearm preemption law."
     },
     {
       "id": "ef1c238b480320d7",
@@ -1015,17 +1081,6 @@
       "tldr": "Gun Bans Still Coming Despite Being Low Priority?"
     },
     {
-      "id": "55ec587923c5c1b9",
-      "title": "24 Hours to Surrender Your Guns… and NO Notice",
-      "link": "https://www.youtube.com/shorts/Ol6ZfHJJw1U",
-      "published": "2026-11-12T19:07:08+00:00",
-      "source_id": "atty-tom-grieve",
-      "source_name": "Atty Tom Grieve",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "24 Hours to Surrender Your Guns… and NO Notice"
-    },
-    {
       "id": "9a30fd0f9994f1ec",
       "title": "Can Trump and Dems Make a Gun-Control Deal?",
       "link": "https://www.youtube.com/shorts/UYAthzCJMXM",
@@ -1103,6 +1158,28 @@
       "tldr": "2026 Blue Tsunami: What's Next for Connecticut Gun Owners? | 2A Roundtable"
     },
     {
+      "id": "161e61327690fa62",
+      "title": "OH: SB 214 Heads to Governor DeWine’s Desk!",
+      "link": "https://www.gunowners.org/oh11102016-2/",
+      "published": "2026-11-10T22:09:29+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "SB 214 Passes the Senate on a Concurrence Vote! It now heads to Governor Mike DeWine’s desk! The Ohio Senate just passed SB 214 on a concurrence vote 21-9! This means the bill is headed to the desk…"
+    },
+    {
+      "id": "cbffd7a33b5408d1",
+      "title": "OH: Public Safety Committee Advances SB 214 with GOA’s Amendments",
+      "link": "https://www.gunowners.org/oh11102026/",
+      "published": "2026-11-10T16:01:49+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "Urge Your Representative to VOTE YES on the Floor TODAY The House Public Safety Committee has passed Senate Bill 214 with our amendments! GOA sincerely thanks the committee for moving this bill…"
+    },
+    {
       "id": "15cf2f1c10eb4ac9",
       "title": "BREAKING! Supreme Court Decision To Permanently End \"Assault Weapon\" Bans Pushed To Be Thrown Out!",
       "link": "https://www.youtube.com/watch?v=EK-dM-h6Up8",
@@ -1112,6 +1189,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING! Supreme Court Decision To Permanently End \"Assault Weapon\" Bans Pushed To Be Thrown Out!"
+    },
+    {
+      "id": "3293479cce8cb9a6",
+      "title": "GOA Celebrates 50 Years of No-Compromise Fighting for Gun Rights",
+      "link": "https://www.gunowners.org/goa-celebrates-50-years-of-no-compromise-fighting-for-gun-rights/",
+      "published": "2026-11-09T18:21:39+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "FOR IMMEDIATE RELEASE November 9, 2026 GOA Celebrates 50 Years of No-Compromise Fighting for Gun Rights Springfield, VA – Gun Owners of America (GOA) is celebrating 50 years of standing for the…"
     },
     {
       "id": "4cd97fe1025ace54",
@@ -1169,15 +1257,48 @@
       "tldr": "BREAKING! Supreme Court Issuing Immediate Decision In Major Constitutional Rights Challenge!"
     },
     {
-      "id": "74ea9a61f1d34c3c",
-      "title": "Supreme Court 9-0 Unanimous Decision Creates Immediate Constitutional Commerce Clause Challenge!",
-      "link": "https://www.youtube.com/watch?v=hknVVIQ9vxU",
-      "published": "2026-11-04T01:00:01+00:00",
-      "source_id": "armed-scholar",
-      "source_name": "Armed Scholar",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Supreme Court 9-0 Unanimous Decision Creates Immediate Constitutional Commerce Clause Challenge!"
+      "id": "695cb3609e52a4d8",
+      "title": "GEAR Tickets Now Available: Gun Owners of America Launches New Outdoor and Overlanding Experience",
+      "link": "https://www.gunowners.org/gear-tickets-now-available-gun-owners-of-america-launches-new-outdoor-and-overlanding-experience/",
+      "published": "2026-11-05T16:17:35+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "FOR IMMEDIATE RELEASE October 30, 2026 GEAR Tickets Now Available: Gun Owners of America Launches New Outdoor and Overlanding Experience New event brings together outdoor adventure, overlanding…"
+    },
+    {
+      "id": "851f17a0d894ec2d",
+      "title": "OH: Time is Running Out to Stop NFA Tyranny — TAKE ACTION",
+      "link": "https://www.gunowners.org/oh11052026/",
+      "published": "2026-11-05T15:33:28+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "Legislation",
+      "tldr": "CALL THE HOUSE PUBLIC SAFETY COMMITTEE MEMBERS Cindy Abrams – Chair (R) – (614) 466-9091 Kevin Miller – Vice Chair (R) – (614) 466-2500 Rodney Creech (R) – (614) 466-2960 Haraz Ghanbari (R) – (614)…"
+    },
+    {
+      "id": "abdd1e022ad96b6b",
+      "title": "SC: VICTORY: Alan Wilson Elected Governor of South Carolina!",
+      "link": "https://www.gunowners.org/sc11042026/",
+      "published": "2026-11-04T20:37:01+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "Huge Victory for South Carolina Gun Owners: Alan Wilson Wins Governor’s Race! The election results are in, and gun owners across the Palmetto State delivered a resounding message at the ballot box…"
+    },
+    {
+      "id": "17e34d9940b15848",
+      "title": "PA: RED ALERT: Anti-Gun Trifecta in Harrisburg",
+      "link": "https://www.gunowners.org/pa11042026/",
+      "published": "2026-11-04T20:19:26+00:00",
+      "source_id": "goa",
+      "source_name": "Gun Owners of America",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "Harrisburg Just Fell to an Anti-Gun Trifecta: The Bad News and What is in Store for PA Gun Owners I’m not going to sugarcoat it: Pennsylvania gun owners are facing an unprecedented crisis in…"
     },
     {
       "id": "335b56351029d474",
