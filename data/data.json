@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-11-25T03:12:15.872318+00:00",
-  "item_count": 140,
+  "generated_at": "2026-11-25T13:39:55.818472+00:00",
+  "item_count": 137,
   "items": [
+    {
+      "id": "9410576bf22f2a3b",
+      "title": "OPERATION: TURKEY RUN | Members-Only Briefing",
+      "link": "https://www.youtube.com/watch?v=Dcu7QUpwYE0",
+      "published": "2026-11-25T13:00:07+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "OPERATION: TURKEY RUN | Members-Only Briefing"
+    },
+    {
+      "id": "37ef4e9a8e840a2a",
+      "title": "FBI arrests YouTube personality because a dead terrorist found him interesting",
+      "link": "https://saf.org/fbi-arrests-youtube-personality-because-a-dead-terrorist-found-him-interesting/",
+      "published": "2026-11-25T10:48:00+00:00",
+      "source_id": "saf",
+      "source_name": "Second Amendment Foundation",
+      "source_type": "org",
+      "category": "News",
+      "tldr": "by Lee Williams After 42-year-old Shamsuddin Jabbar conducted a vehicle ramming and shooting attack by himself in New Orleans on New Year’s Day 2025, which killed 14 innocent people and injured…"
+    },
     {
       "id": "9517cc8f873fe898",
       "title": "Supreme Court Issues 9-0 Unanimous Ruling Leading To Major Nationwide & Constitutional Implications!",
@@ -12,6 +34,28 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "Supreme Court Issues 9-0 Unanimous Ruling Leading To Major Nationwide & Constitutional Implications!"
+    },
+    {
+      "id": "140de98d8eef1c14",
+      "title": "Firearm Access During Shutdowns Act",
+      "link": "https://www.congress.gov/bill/119th-congress/hr/5874",
+      "published": "2026-11-25T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for…"
+    },
+    {
+      "id": "9156717e438f2417",
+      "title": "National Gun Violence Research Act of 2025",
+      "link": "https://www.congress.gov/bill/119th-congress/hr/5622",
+      "published": "2026-11-25T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Referred to the Committee on the Judiciary, and in addition to the Committees on Science, Space, and Technology, and Energy and Commerce, for a period to be subsequently determined by…"
     },
     {
       "id": "57b20aaa80bf41d9",
@@ -89,61 +133,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "BREAKING! Supreme Court Decision To Permanently End \"Assault Weapon\" Bans Pushed To Be Thrown Out!"
-    },
-    {
-      "id": "ff8da38139449bf9",
-      "title": "To authorize the establishment of memorials to the Wisconsin infantry officers and enlisted men who fought in the Battle of Antietam and the Second Battle of Bull Run, and for other purposes.",
-      "link": "https://www.congress.gov/bill/119th-congress/hr/7495",
-      "published": "2026-11-24T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Ordered to be Reported in the Nature of a Substitute by Unanimous Consent."
-    },
-    {
-      "id": "bd541317844cb5ff",
-      "title": "Preventing Pretrial Gun Purchases Act",
-      "link": "https://www.congress.gov/bill/119th-congress/hr/4173",
-      "published": "2026-11-24T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Referred to the House Committee on the Judiciary."
-    },
-    {
-      "id": "cf1cb6a53a58c6c4",
-      "title": "Preventing Pretrial Gun Purchases Act",
-      "link": "https://www.congress.gov/bill/118th-congress/hr/8842",
-      "published": "2026-11-24T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Referred to the House Committee on the Judiciary."
-    },
-    {
-      "id": "62da832ebcced9d6",
-      "title": "Preventing Pretrial Gun Purchases Act",
-      "link": "https://www.congress.gov/bill/118th-congress/s/4612",
-      "published": "2026-11-24T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Read twice and referred to the Committee on the Judiciary."
-    },
-    {
-      "id": "4d652c8a8026caac",
-      "title": "Preventing Pretrial Gun Purchases Act",
-      "link": "https://www.congress.gov/bill/117th-congress/s/4149",
-      "published": "2026-11-24T00:00:00+00:00",
-      "source_id": "congress-gov",
-      "source_name": "Congress.gov",
-      "source_type": "primary_legal",
-      "category": "Legislation",
-      "tldr": "Latest action: Read twice and referred to the Committee on the Judiciary."
     },
     {
       "id": "5d877d0f4de5b637",
@@ -1114,17 +1103,6 @@
       "tldr": "by Lee Williams Demetrio Daga is not doing well in New York’s Albany County jail, especially last week when his son Dimitri had his 8th birthday. When Daga turned eight, his father was in the very…"
     },
     {
-      "id": "f8045a865d802c5e",
-      "title": "SAF FILES BRIEF WITH SUPREME COURT IN RESPONSE TO COOK COUNTY’S EFFORT TO QUASH “ASSAULT WEAPONS” CASE",
-      "link": "https://saf.org/saf-files-brief-with-supreme-court-in-response-to-cook-countys-effort-to-quash-assault-weapons-case/",
-      "published": "2026-11-11T22:03:38+00:00",
-      "source_id": "saf",
-      "source_name": "Second Amendment Foundation",
-      "source_type": "org",
-      "category": "Court Case",
-      "tldr": "BELLEVUE, Wash. — Nov. 11, 2026 — The Second Amendment Foundation (SAF) and its partners have filed a response brief with the Supreme Court in Viramontes v. Cook County responding to Cook County’s…"
-    },
-    {
       "id": "cf63e5dc9aa85dce",
       "title": "DOJ JOINS THE FIGHT! Supreme Court Gives DOJ 10 Minutes in Grant v Higgins",
       "link": "https://www.youtube.com/watch?v=x5FKP70ok2w",
@@ -1365,17 +1343,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "🚨 ATF JUST CHANGED THE RULES! What It Means for CT Gun Owners | Gun Guru Live"
-    },
-    {
-      "id": "b1d41583195be1a0",
-      "title": "Connecticut Glock Ban: The Injunction & What Comes Next | 2A Roundtable",
-      "link": "https://www.youtube.com/watch?v=4H_vkey5s88",
-      "published": "2026-10-06T21:00:07+00:00",
-      "source_id": "gun-guru",
-      "source_name": "Gun Guru",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Connecticut Glock Ban: The Injunction & What Comes Next | 2A Roundtable"
     },
     {
       "id": "69ecefed6aca2971",
