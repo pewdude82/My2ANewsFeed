@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-25T23:49:59.962517+00:00",
+  "generated_at": "2026-11-26T05:38:42.552465+00:00",
   "item_count": 135,
   "items": [
+    {
+      "id": "10c48423d161c786",
+      "title": "Gun-Rights Groups, Trump Admin at Odds Over National Park Carry Ban",
+      "link": "https://thereload.com/gun-rights-groups-trump-admin-at-odds-over-national-park-carry-ban/",
+      "published": "2026-11-26T04:36:42+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "News",
+      "tldr": "A fight over guns in national parks is dividing President Donald Trump and a key constituency."
+    },
     {
       "id": "4ad8237d9cfd8647",
       "title": "The Gun Ban Lawsuit You NEED To See: Manufacturers Take On Maryland",
@@ -947,17 +958,6 @@
       "source_type": "journalism",
       "category": "Court Case",
       "tldr": "\"Assault weapons\" bans are about to be the most contested gun policies in America."
-    },
-    {
-      "id": "f9fc7d45ead02e61",
-      "title": "Podcast: Does Connecticut’s AR-15 Ban Defense at SCOTUS Misrepresent History? (Ft. 2A Lawyer Alan Beck)",
-      "link": "https://thereload.com/podcast-does-connecticuts-ar-15-ban-defense-at-scotus-misrepresent-history-ft-2a-lawyer-alan-beck/",
-      "published": "2026-11-15T10:02:38+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "Court Case",
-      "tldr": "This week, we’re looking at an exclusive critique of one of the primary briefs in the Supreme Court’s AR-15 ban case from one of the top Second Amendment lawyers in the country. Lawyer Alan Beck, who…"
     },
     {
       "id": "964065ec0db8848a",
