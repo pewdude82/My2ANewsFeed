@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-26T05:38:42.552465+00:00",
-  "item_count": 135,
+  "generated_at": "2026-11-26T17:55:36.224554+00:00",
+  "item_count": 136,
   "items": [
+    {
+      "id": "3f07dacacba97179",
+      "title": "Ohio Shatters Its NFA Mirror Law",
+      "link": "https://thereload.com/ohio-shatters-its-nfa-mirror-law/",
+      "published": "2026-11-26T17:26:34+00:00",
+      "source_id": "the-reload",
+      "source_name": "The Reload",
+      "source_type": "journalism",
+      "category": "News",
+      "tldr": "Ohio Governor Mike DeWine (R.) signed legislation this week removing firearm mufflers and other items from the state's definition of \"dangerous ordnance,\" paving the way for easier buying."
+    },
+    {
+      "id": "20369d714efff54f",
+      "title": "Gun Owners Should Prepare for 2027… Here's What's Coming | Thanksgiving Special",
+      "link": "https://www.youtube.com/watch?v=yP3GA4v98L4",
+      "published": "2026-11-26T13:55:14+00:00",
+      "source_id": "atty-tom-grieve",
+      "source_name": "Atty Tom Grieve",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Gun Owners Should Prepare for 2027… Here's What's Coming | Thanksgiving Special"
+    },
+    {
+      "id": "68e9dddff5e2b4c8",
+      "title": "He Built Guns at Home. Now the Government Wants DECADES of His Life",
+      "link": "https://www.youtube.com/watch?v=FPQqxqsjp0M",
+      "published": "2026-11-26T13:02:29+00:00",
+      "source_id": "guns-gadgets",
+      "source_name": "Guns & Gadgets",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "He Built Guns at Home. Now the Government Wants DECADES of His Life"
+    },
     {
       "id": "10c48423d161c786",
       "title": "Gun-Rights Groups, Trump Admin at Odds Over National Park Carry Ban",
@@ -12,6 +45,17 @@
       "source_type": "journalism",
       "category": "News",
       "tldr": "A fight over guns in national parks is dividing President Donald Trump and a key constituency."
+    },
+    {
+      "id": "8823bbe1615281d4",
+      "title": "Gun Theft Prevention Act",
+      "link": "https://www.congress.gov/bill/119th-congress/hr/11108",
+      "published": "2026-11-26T00:00:00+00:00",
+      "source_id": "congress-gov",
+      "source_name": "Congress.gov",
+      "source_type": "primary_legal",
+      "category": "Legislation",
+      "tldr": "Latest action: Referred to the Committee on the Judiciary, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such…"
     },
     {
       "id": "4ad8237d9cfd8647",
@@ -67,17 +111,6 @@
       "source_type": "org",
       "category": "Court Case",
       "tldr": "BELLEVUE, Wash. — Nov. 25, 2026 — In exactly one week from today on Wednesday, Dec. 2, the U.S. Supreme Court will hear oral argument in the Second Amendment Foundation’s two “assault weapons” ban…"
-    },
-    {
-      "id": "9410576bf22f2a3b",
-      "title": "OPERATION: TURKEY RUN | Members-Only Briefing",
-      "link": "https://www.youtube.com/watch?v=Dcu7QUpwYE0",
-      "published": "2026-11-25T13:00:07+00:00",
-      "source_id": "gun-guru",
-      "source_name": "Gun Guru",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "OPERATION: TURKEY RUN | Members-Only Briefing"
     },
     {
       "id": "37ef4e9a8e840a2a",
@@ -630,17 +663,6 @@
       "tldr": "FOR IMMEDIATE RELEASE November 19, 2026 Gun Owners of America and Silencer Shop Launch “Operation NFA” to Expand Second Amendment Protections Nationwide Springfield, VA – Gun Owners of America (GOA)…"
     },
     {
-      "id": "44dec7a4e08304c8",
-      "title": "What Does ATF Do When It Comes To Alcohol and Tobacco?",
-      "link": "https://www.youtube.com/watch?v=BFMTXzyFbO0",
-      "published": "2026-11-19T18:33:42+00:00",
-      "source_id": "guns-gadgets",
-      "source_name": "Guns & Gadgets",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "What Does ATF Do When It Comes To Alcohol and Tobacco?"
-    },
-    {
       "id": "8a265eba76215da3",
       "title": "New Bill Could Force You to Destroy Your Suppressor?",
       "link": "https://www.youtube.com/shorts/dQaJbqR0DU4",
@@ -927,17 +949,6 @@
       "tldr": "BREAKING! Supreme Court Issuing Immediate Decision In Major Constitutional Rights Challenge"
     },
     {
-      "id": "fa1724ea22723971",
-      "title": "Suppressor Tax Stamp Is Coming Back?!",
-      "link": "https://www.youtube.com/shorts/8jDUhv3Fcec",
-      "published": "2026-11-15T18:30:13+00:00",
-      "source_id": "atty-tom-grieve",
-      "source_name": "Atty Tom Grieve",
-      "source_type": "youtube",
-      "category": "Video",
-      "tldr": "Suppressor Tax Stamp Is Coming Back?!"
-    },
-    {
       "id": "e220224014401ed0",
       "title": "SCOTUS NOT SO FAST! SAF FIRES BACK at Cook County | NY's New Gun List & Democrats Push MORE Gun Cont",
       "link": "https://www.youtube.com/watch?v=xzLmTj80uyI",
@@ -947,17 +958,6 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "SCOTUS NOT SO FAST! SAF FIRES BACK at Cook County | NY's New Gun List & Democrats Push MORE Gun Cont"
-    },
-    {
-      "id": "7da5269656c1e04c",
-      "title": "Analysis: New Democratic Majorities Set to Race SCOTUS Over Future of AR-15 Bans [Member Exclusive]",
-      "link": "https://thereload.com/analysis-new-democratic-majorities-set-to-race-scotus-over-future-of-ar-15-bans-member-exclusive/",
-      "published": "2026-11-15T10:04:46+00:00",
-      "source_id": "the-reload",
-      "source_name": "The Reload",
-      "source_type": "journalism",
-      "category": "Court Case",
-      "tldr": "\"Assault weapons\" bans are about to be the most contested gun policies in America."
     },
     {
       "id": "964065ec0db8848a",
@@ -1321,6 +1321,17 @@
       "source_type": "youtube",
       "category": "Video",
       "tldr": "🚨 ATF JUST CHANGED THE RULES! What It Means for CT Gun Owners | Gun Guru Live"
+    },
+    {
+      "id": "b1d41583195be1a0",
+      "title": "Connecticut Glock Ban: The Injunction & What Comes Next | 2A Roundtable",
+      "link": "https://www.youtube.com/watch?v=4H_vkey5s88",
+      "published": "2026-10-06T21:00:07+00:00",
+      "source_id": "gun-guru",
+      "source_name": "Gun Guru",
+      "source_type": "youtube",
+      "category": "Video",
+      "tldr": "Connecticut Glock Ban: The Injunction & What Comes Next | 2A Roundtable"
     },
     {
       "id": "69ecefed6aca2971",
